@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-08-29T22:10:30.263Z</updated>
+    <updated>2021-08-30T03:11:41.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[〈​더 포레스텔라 2021〉​ - 부산 일정변경​  티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53022</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53022"/>
+        <updated>2021-08-30T03:11:39.595Z</updated>
+        <content type="html"><![CDATA[2021.09.02(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 ‘식구를 찾아서’ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53021</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53021"/>
+        <updated>2021-08-30T03:11:39.596Z</updated>
+        <content type="html"><![CDATA[2021.08.30(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [나의 어린왕자에게] - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53020</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53020"/>
         <updated>2021-08-29T20:45:59.344Z</updated>
-        <content type="html"><![CDATA[2021.08.30(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[판타지액션 어린이뮤지컬] 더퀸 선덕여왕의 귀환 - 구미 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53019</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53019"/>
-        <updated>2021-08-29T20:45:59.346Z</updated>
-        <content type="html"><![CDATA[2021.08.30(월) 01:00]]></content>
+        <content type="html"><![CDATA[2021.08.30(월) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[창작오페라 ‘그 이름 먼구름’ - 부산 티켓오픈 안내]]></title>
@@ -32,13 +39,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53017"/>
         <updated>2021-08-29T20:45:59.353Z</updated>
         <content type="html"><![CDATA[2021.08.30(월) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬〈알사탕〉- 대구​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53016</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53016"/>
-        <updated>2021-08-29T20:45:59.354Z</updated>
-        <content type="html"><![CDATA[2021.08.30(월) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 에일리 전국투어 콘서트 'SHOW TOK' - 대구​ 티켓오픈 안내]]></title>
