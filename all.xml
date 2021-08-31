@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Aug 2021 23:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 00:33:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/50/202107/29/oq50ihz0swfb.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[연극 〈리어왕 : KING LEAR〉 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53026</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53026</guid>
+            <pubDate>Tue, 31 Aug 2021 00:33:48 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.09(목) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 음악극 - 마법사의 제자 (안동)​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53025</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53025</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.08.30(월) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NEW신비아파트 뮤지컬 시즌4 : 비명동산의 초대장 - 고양 앵콜 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53008</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53008</guid>
-            <pubDate>Sun, 29 Aug 2021 20:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.08.30(월) 00:00]]></content:encoded>
+            <title><![CDATA[연극 〈리어왕 : KING LEAR〉 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53026</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53026</guid>
+            <pubDate>Tue, 31 Aug 2021 00:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.09(목) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 음악극 - 마법사의 제자 (안동)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -783,13 +790,6 @@
             <title><![CDATA[NEW신비아파트 뮤지컬 시즌4 : 비명동산의 초대장 - 광주 앵콜 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53009</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53009</guid>
-            <pubDate>Sun, 29 Aug 2021 20:45:59 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.30(월) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NEW신비아파트 뮤지컬 시즌4 : 비명동산의 초대장 - 고양 앵콜 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53008</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53008</guid>
             <pubDate>Sun, 29 Aug 2021 20:45:59 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.30(월) 00:00]]></content:encoded>
         </item>
