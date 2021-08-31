@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-08-31T04:13:00.242Z</updated>
+    <updated>2021-08-31T08:12:53.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<더 포레스텔라 2021> 앙코르 (9.18-19) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53033</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53033"/>
+        <updated>2021-08-31T08:12:40.141Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.01(수) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제12회 솔리스트 브라스 밴드 정기연주회 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53032</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53032"/>
+        <updated>2021-08-31T08:12:40.146Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.31(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2021 영주시민을 위한 한가위음악회 (영주)​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53031</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53031"/>
+        <updated>2021-08-31T08:12:40.146Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.01(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 현대인을 위한 메디아트 콘서트 - 슬기로운 우리 부부생활 (안동)​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53030</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53030"/>
+        <updated>2021-08-31T08:12:40.151Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.01(수) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 레젤 트리오의 여인의 향기 - 안동​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53029</id>
@@ -25,13 +53,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53027"/>
         <updated>2021-08-31T02:21:06.964Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.09.02(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈리어왕 : KING LEAR〉 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53026</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53026"/>
-        <updated>2021-08-31T00:33:48.592Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.09(목) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 음악극 - 마법사의 제자 (안동)​ 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53017"/>
         <updated>2021-08-29T20:45:50.637Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.08.30(월) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 에일리 전국투어 콘서트 'SHOW TOK' - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53015</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53015"/>
-        <updated>2021-08-29T20:45:50.643Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.02(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 컬러풀 재즈 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53013</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53013"/>
-        <updated>2021-08-29T20:45:50.644Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.13(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 조하，1ST BLUE CONCERT 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53012</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53012"/>
-        <updated>2021-08-29T20:45:50.645Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.08.27(금) 09:00]]></content>
     </entry>
 </feed>
