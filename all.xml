@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Aug 2021 02:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 04:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5412</guid>
             <pubDate>Sun, 29 Aug 2021 20:44:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.31(화) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[양손프로젝트 단편선 레파토리展 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40570&amp;groupno=40570&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40570&amp;groupno=40570&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 31 Aug 2021 04:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.03(금)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈리어왕 : KING LEAR〉 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[21.08.27(금)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021 에일리 전국투어 콘서트 ＇SHOW TOK＇- 대구 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40552&amp;groupno=40552&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40552&amp;groupno=40552&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Sun, 29 Aug 2021 20:45:03 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.02(목)&nbsp;11:00]]></content:encoded>
+            <title><![CDATA[양손프로젝트 단편선 레파토리展 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40570</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40570</guid>
+            <pubDate>Tue, 31 Aug 2021 04:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.03
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021082817560524.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 〈리어왕 : KING LEAR〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2021.09.08
                                     <span>13:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021082519163956.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 서울국제음악제 실내악시리즈2  ＇시냇물＇ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40560</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40560</guid>
-            <pubDate>Mon, 30 Aug 2021 03:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.08
-                                    <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021082519091766.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더 포레스텔라 2021] - 부산 일정변경 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -584,6 +584,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/50/202107/29/oq50ihz0swfb.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 레젤 트리오의 여인의 향기 - 안동​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53029</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53029</guid>
+            <pubDate>Tue, 31 Aug 2021 04:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.01(수) 04:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[벨 에포크 Belle Epoque - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53028</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53028</guid>
+            <pubDate>Tue, 31 Aug 2021 04:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.02(목) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[연극 [고해, 고해] - 대구 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53027</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53027</guid>
@@ -675,18 +689,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.08.27(금) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 이탈리아와 프랑스 오페라 이야기 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53011</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53011</guid>
-            <pubDate>Sun, 29 Aug 2021 20:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.10.04(월) 00:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 레젤 트리오의 여인의 향기 - 안동​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53029</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53029</guid>
+            <pubDate>Tue, 31 Aug 2021 04:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.01(수) 04:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] Power, Passion and Music - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53010</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53010</guid>
-            <pubDate>Sun, 29 Aug 2021 20:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.08.26(목) 01:00]]></content:encoded>
+            <title><![CDATA[벨 에포크 Belle Epoque - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53028</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53028</guid>
+            <pubDate>Tue, 31 Aug 2021 04:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.02(목) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 [고해, 고해] - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -778,20 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53012</guid>
             <pubDate>Sun, 29 Aug 2021 20:45:59 GMT</pubDate>
             <content:encoded><![CDATA[2021.08.27(금) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 이탈리아와 프랑스 오페라 이야기 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53011</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53011</guid>
-            <pubDate>Sun, 29 Aug 2021 20:45:59 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.04(월) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] Power, Passion and Music - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53010</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53010</guid>
-            <pubDate>Sun, 29 Aug 2021 20:45:59 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.26(목) 01:00]]></content:encoded>
         </item>
     </channel>
 </rss>
