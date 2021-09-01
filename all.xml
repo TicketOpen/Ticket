@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Sep 2021 08:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 09:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/05/202107/29/amau6zkvsvax.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대구] 러브,어게인 - 송죽씨어터​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53043</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53043</guid>
+            <pubDate>Wed, 01 Sep 2021 09:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.02(목) 08:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[말러 서거 100주년] 구스타프 말러를 위하여​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53042</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53042</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.09.01(수) 04:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[벨 에포크 Belle Epoque - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53028</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53028</guid>
-            <pubDate>Tue, 31 Aug 2021 04:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.02(목) 01:00]]></content:encoded>
+            <title><![CDATA[[대구] 러브,어게인 - 송죽씨어터​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53043</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53043</guid>
+            <pubDate>Wed, 01 Sep 2021 09:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.02(목) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[말러 서거 100주년] 구스타프 말러를 위하여​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53029</guid>
             <pubDate>Tue, 31 Aug 2021 04:12:57 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.01(수) 04:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[벨 에포크 Belle Epoque - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53028</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53028</guid>
-            <pubDate>Tue, 31 Aug 2021 04:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.02(목) 01:00]]></content:encoded>
         </item>
     </channel>
 </rss>
