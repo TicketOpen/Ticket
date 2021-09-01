@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-01T05:10:05.560Z</updated>
+    <updated>2021-09-01T07:10:57.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[말러 서거 100주년] 구스타프 말러를 위하여​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53042</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53042"/>
+        <updated>2021-09-01T07:10:56.784Z</updated>
+        <content type="html"><![CDATA[2021.09.03(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 오티움 콘서트Ⅵ 비발디와 피아졸라의 사계 '가을, 겨울' 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53041</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53041"/>
+        <updated>2021-09-01T07:10:56.784Z</updated>
+        <content type="html"><![CDATA[2021.09.01(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퀸의 보헤미안랩소디 WITH 오케스트라 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53040</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53028"/>
         <updated>2021-08-31T04:12:57.717Z</updated>
         <content type="html"><![CDATA[2021.09.02(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [고해, 고해] - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53027</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53027"/>
-        <updated>2021-08-31T02:21:14.165Z</updated>
-        <content type="html"><![CDATA[2021.09.02(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 음악극 - 마법사의 제자 (안동)​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53025</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53025"/>
-        <updated>2021-08-30T10:11:51.770Z</updated>
-        <content type="html"><![CDATA[2021.09.01(수) 04:00]]></content>
     </entry>
 </feed>
