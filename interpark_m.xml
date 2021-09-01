@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Sep 2021 03:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 05:10:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예측불허 실전로맨스♥〈극적인 하룻밤〉 10월 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40587</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40587</guid>
+            <pubDate>Wed, 01 Sep 2021 05:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.02
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007810_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[서울숲재즈페스티벌 2021 블라인드 티켓 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40586</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.09.09
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[［말러 서거 100주년］ 구스타프 말러를 위하여 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40577</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40577</guid>
-            <pubDate>Wed, 01 Sep 2021 01:57:04 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.03
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021083116245774.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
