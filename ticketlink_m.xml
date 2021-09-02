@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-02T05:10:39.237Z</updated>
+    <updated>2021-09-02T07:13:58.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 대구문화예술회관 기획공연 명인전 〈김영자의 판소리 완창: 강산제 심청가〉 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53047</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53047"/>
+        <updated>2021-09-02T07:13:57.857Z</updated>
+        <content type="html"><![CDATA[2021.09.03(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 영텐 콘서트 - 전주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53046</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53046"/>
+        <updated>2021-09-02T07:13:57.860Z</updated>
+        <content type="html"><![CDATA[2021.09.09(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 사랑, 그리고 희망을 노래하는 힐링콘서트 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53045</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53045"/>
+        <updated>2021-09-02T07:13:57.861Z</updated>
+        <content type="html"><![CDATA[2021.09.03(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 광산구문화예술회관 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53044</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53044"/>
+        <updated>2021-09-02T07:13:57.864Z</updated>
+        <content type="html"><![CDATA[2021.09.03(금) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 러브,어게인 - 송죽씨어터​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53043</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53033"/>
         <updated>2021-08-31T08:12:50.899Z</updated>
         <content type="html"><![CDATA[2021.09.01(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제12회 솔리스트 브라스 밴드 정기연주회 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53032</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53032"/>
-        <updated>2021-08-31T08:12:50.900Z</updated>
-        <content type="html"><![CDATA[2021.08.31(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2021 영주시민을 위한 한가위음악회 (영주)​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53031</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53031"/>
-        <updated>2021-08-31T08:12:50.901Z</updated>
-        <content type="html"><![CDATA[2021.09.01(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 현대인을 위한 메디아트 콘서트 - 슬기로운 우리 부부생활 (안동)​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53030</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53030"/>
-        <updated>2021-08-31T08:12:50.902Z</updated>
-        <content type="html"><![CDATA[2021.09.01(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 레젤 트리오의 여인의 향기 - 안동​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53029</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53029"/>
-        <updated>2021-08-31T04:12:57.717Z</updated>
-        <content type="html"><![CDATA[2021.09.01(수) 04:00]]></content>
     </entry>
 </feed>
