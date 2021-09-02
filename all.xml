@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Sep 2021 02:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 03:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌4［청춘의 밤］－데이먼스 이어 단독 콘서트 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5428</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5428</guid>
+            <pubDate>Thu, 02 Sep 2021 03:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.09(목) 20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[프리즘브레이크 vol．10：예서 x 우자 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5427</link>
@@ -67,13 +74,6 @@
             <title><![CDATA[브로콜리너마저와 함께라면，당신도 K－인디 작사가！티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5419</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5419</guid>
-            <pubDate>Mon, 30 Aug 2021 03:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.03(금) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정코 첫번째 단독공연［NEVERLAND］티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5418</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5418</guid>
             <pubDate>Mon, 30 Aug 2021 03:10:17 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.03(금) 20:00]]></content:encoded>
         </item>
@@ -294,6 +294,12 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[은행사 시스템 점검에 따른 결제 서비스 중단 안내 (9/5, 9/11, 9/12, 9/19, 9/20) (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11118</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11118</guid>
+            <pubDate>Thu, 02 Sep 2021 03:11:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[［말러 서거 100주년］ 구스타프 말러를 위하여 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11117</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11117</guid>
@@ -427,13 +433,6 @@
             <content:encoded><![CDATA[2021.08.27(금) 16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [박열] 마지막 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11098</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11098</guid>
-            <pubDate>Sun, 29 Aug 2021 20:45:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.24(화) 15:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[［말러 서거 100주년］ 구스타프 말러를 위하여 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11117&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11117&amp;order=1</guid>
@@ -512,7 +511,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/23/202109/02/85xolkelrdnr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[World DJ Festival 2021 [ILLUMINATION : MEMORIES OF HEAVEN] 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <title><![CDATA[World DJ Festival 2021 [ILLUMINATION : MEMORIES OF HEAVEN] 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/730</link>
             <guid>https://ticket.wemakeprice.com/opennotice/730</guid>
             <pubDate>Wed, 01 Sep 2021 07:10:43 GMT</pubDate>
