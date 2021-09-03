@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Sep 2021 00:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 01:53:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 뮤지컬 〈광화문 연가〉 - 대구 OP석 추가티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40598</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40598</guid>
+            <pubDate>Fri, 03 Sep 2021 01:52:09 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.07
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007221_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[5959 LIVE : 로쿠＆김우주 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40597</link>
@@ -86,15 +95,6 @@
             <pubDate>Thu, 02 Sep 2021 23:10:21 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.08
                                     <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명연주시리즈 : 루돌프 부흐빈더 피아노 리사이틀 - 대구 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40584</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40584</guid>
-            <pubDate>Thu, 02 Sep 2021 23:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.08
-                                    <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
