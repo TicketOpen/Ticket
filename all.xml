@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Sep 2021 02:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 03:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5435</guid>
             <pubDate>Fri, 03 Sep 2021 03:11:16 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.10(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[［2021，태사자，Promise Fanmeeting］ 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5434</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5434</guid>
+            <pubDate>Sat, 04 Sep 2021 03:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[싱어송라이터 오시안（OCYAN）단독 공연 〈OCEAN〉 티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5426</guid>
             <pubDate>Wed, 01 Sep 2021 03:10:16 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.03(금) 18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[［Desert Eagle］실리카겔 단독공연 2021 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5425</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5425</guid>
-            <pubDate>Tue, 31 Aug 2021 09:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.02(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[프렌쥬 클래식 사파리 티켓오픈 안내 (인터파크 티켓)]]></title>
