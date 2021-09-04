@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Sep 2021 06:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 07:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/40/202107/30/0qmva0as0xjj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[시크릿쥬쥬 별의 여신 뮤지컬 시즌2 -세종시 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53055</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53055</guid>
+            <pubDate>Sat, 04 Sep 2021 07:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.08(수) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[콘서트 〈2021년 구미 작은음악회〉 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53054</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53054</guid>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.09.09(목) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[2021, 요아리의 단독 콘서트] 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53039</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53039</guid>
-            <pubDate>Wed, 01 Sep 2021 03:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.01(수) 09:00]]></content:encoded>
+            <title><![CDATA[시크릿쥬쥬 별의 여신 뮤지컬 시즌2 -세종시 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53055</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53055</guid>
+            <pubDate>Sat, 04 Sep 2021 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.08(수) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[콘서트 〈2021년 구미 작은음악회〉 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -784,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53040</guid>
             <pubDate>Wed, 01 Sep 2021 05:10:04 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.09(목) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2021, 요아리의 단독 콘서트] 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53039</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53039</guid>
-            <pubDate>Wed, 01 Sep 2021 03:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.01(수) 09:00]]></content:encoded>
         </item>
     </channel>
 </rss>
