@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-09-06T02:27:08.024Z</updated>
+    <updated>2021-09-06T03:11:41.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[용인] 2021 뮤지컬 [광화문 연가] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11123&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11123&amp;order=1"/>
+        <updated>2021-09-06T03:11:08.391Z</updated>
+        <content type="html"><![CDATA[2021-09-08(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 혜공 선예매 취소 후 재예매 및 연장 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11122&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11113&amp;order=1"/>
         <updated>2021-09-03T23:10:38.820Z</updated>
         <content type="html"><![CDATA[2021-09-08(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[더 포레스텔라 2021] - 부산 일정변경 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11112&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11112&amp;order=1"/>
-        <updated>2021-09-03T23:10:38.822Z</updated>
-        <content type="html"><![CDATA[2021-09-08(수) 14:00]]></content>
     </entry>
 </feed>

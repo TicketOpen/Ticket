@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-09-06T02:27:06.773Z</updated>
+    <updated>2021-09-06T03:11:40.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[용인] 2021 뮤지컬 [광화문 연가] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11123</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11123"/>
+        <updated>2021-09-06T03:10:58.377Z</updated>
+        <content type="html"><![CDATA[2021.09.08(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 혜공 선예매 취소 후 재예매 및 연장 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11122</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11104"/>
         <updated>2021-08-29T20:45:24.310Z</updated>
         <content type="html"><![CDATA[2021.08.26(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 장윤정 라이브 콘서트 - 전주 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11103</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11103"/>
-        <updated>2021-08-29T20:45:24.311Z</updated>
-        <content type="html"><![CDATA[2021.08.26(목) 14:00]]></content>
     </entry>
 </feed>
