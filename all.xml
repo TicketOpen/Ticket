@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Sep 2021 07:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 08:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5439</guid>
             <pubDate>Tue, 07 Sep 2021 07:10:12 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.09(목) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈디어 마들렌〉 트라이아웃 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5437</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5437</guid>
+            <pubDate>Tue, 07 Sep 2021 08:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.10(금) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 한수애 블루 팬미팅 티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5430</guid>
             <pubDate>Fri, 03 Sep 2021 03:11:16 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.06(월) 18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021 Poclanos Festival vol．1 와다다다 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5429</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5429</guid>
-            <pubDate>Thu, 02 Sep 2021 09:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.03(금) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[패밀리뮤지컬 헤이지니＆럭키강이 시즌2 ＂비밀의 문＂- 수원 티켓오.. (인터파크 티켓)]]></title>
