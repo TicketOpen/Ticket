@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Sep 2021 09:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 11:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -614,13 +614,6 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.09.13(월) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 뮤지컬 광화문 연가-군산 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53061</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53061</guid>
-            <pubDate>Tue, 07 Sep 2021 01:50:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.09(목) 05:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[(2021 대구 대백프라자) 가족뮤지컬 아기돼지삼형제 - 대구 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53060</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53060</guid>
@@ -684,6 +677,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.09.08(수) 03:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 봉포유 〈렉처스테이지III 댄서스테이지〉 - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53051</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53051</guid>
+            <pubDate>Tue, 07 Sep 2021 11:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.06(월) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 국악콘서트 서풍 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53066</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53066</guid>
@@ -717,13 +717,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53062</guid>
             <pubDate>Tue, 07 Sep 2021 02:21:46 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.13(월) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 뮤지컬 광화문 연가-군산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53061</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53061</guid>
-            <pubDate>Tue, 07 Sep 2021 01:50:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.09(목) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(2021 대구 대백프라자) 가족뮤지컬 아기돼지삼형제 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -787,6 +780,13 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53052</guid>
             <pubDate>Mon, 06 Sep 2021 03:11:38 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.08(수) 03:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 봉포유 〈렉처스테이지III 댄서스테이지〉 - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53051</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53051</guid>
+            <pubDate>Tue, 07 Sep 2021 11:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.06(월) 01:00]]></content:encoded>
         </item>
     </channel>
 </rss>
