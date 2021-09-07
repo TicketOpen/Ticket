@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Sep 2021 02:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 04:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -396,13 +396,6 @@
             <content:encoded><![CDATA[2021.09.09(목) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021 웰컴대학로-웰컴씨어터 [피맛골연가 미니콘서트] 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11115</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11115</guid>
-            <pubDate>Tue, 31 Aug 2021 08:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.07(화) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[온라인] 노들섬 2주년 기획공연 〈The Wonder Weeks〉티켓오픈안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11114</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11114</guid>
@@ -429,6 +422,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11111</guid>
             <pubDate>Sun, 29 Aug 2021 20:45:24 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.02(목) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 [보도지침] 2차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11110</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11110</guid>
+            <pubDate>Tue, 07 Sep 2021 04:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.02(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대구] [일상으로의 초대] 실내뮤직페스티벌 연기 안내 (예스24 티켓 모바일)]]></title>
@@ -579,6 +579,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/40/202107/30/0qmva0as0xjj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 임동민 & 임동혁 meet 디토오케스트라 - 경주 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53063</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53063</guid>
+            <pubDate>Tue, 07 Sep 2021 04:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.08(수) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈메리셸리〉 3차 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53062</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53062</guid>
@@ -677,11 +684,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.09.03(금) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  대구문화예술회관 기획공연 올해의 아티스트 〈양성필 대금독주회: 양식의 전환〉 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53048</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53048</guid>
-            <pubDate>Thu, 02 Sep 2021 09:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.03(금) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 임동민 & 임동혁 meet 디토오케스트라 - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53063</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53063</guid>
+            <pubDate>Tue, 07 Sep 2021 04:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.08(수) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈메리셸리〉 3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -778,13 +785,6 @@
             <title><![CDATA[[단독판매] 대구시립무용단 기획공연 - 스핀오프(SPIN OFF)​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53049</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53049</guid>
-            <pubDate>Thu, 02 Sep 2021 09:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.03(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  대구문화예술회관 기획공연 올해의 아티스트 〈양성필 대금독주회: 양식의 전환〉 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53048</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53048</guid>
             <pubDate>Thu, 02 Sep 2021 09:11:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.03(금) 05:00]]></content:encoded>
         </item>
