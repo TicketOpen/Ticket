@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Sep 2021 03:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 04:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -579,6 +579,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/40/202107/30/0qmva0as0xjj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] [회신] 윤동주 귀하 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53069</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53069</guid>
+            <pubDate>Wed, 08 Sep 2021 04:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.09(목) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[연극 〈분장실〉 VER 2 2차​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53068</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53068</guid>
@@ -677,11 +684,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.09.08(수) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[Indigo Time]​ KIM HYUN JOONG Monthly Concert 'Prism Time'​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53052</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53052</guid>
-            <pubDate>Mon, 06 Sep 2021 03:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.08(수) 03:00]]></content:encoded>
+            <title><![CDATA[[단독판매] [회신] 윤동주 귀하 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53069</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53069</guid>
+            <pubDate>Wed, 08 Sep 2021 04:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.09(목) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈분장실〉 VER 2 2차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -780,13 +787,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53053</guid>
             <pubDate>Sat, 04 Sep 2021 00:32:21 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.08(수) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[Indigo Time]​ KIM HYUN JOONG Monthly Concert 'Prism Time'​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53052</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53052</guid>
-            <pubDate>Mon, 06 Sep 2021 03:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.08(수) 03:00]]></content:encoded>
         </item>
     </channel>
 </rss>
