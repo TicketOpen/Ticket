@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Sep 2021 06:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 08:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5432</guid>
             <pubDate>Fri, 03 Sep 2021 10:11:10 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.06(월) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 빨래 - 이천 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40641&amp;groupno=40641&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40641&amp;groupno=40641&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 08 Sep 2021 08:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.16(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[별빛 속 아름다운 선율 - 히사이시 조 with 첼로댁 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[21.09.09(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 두만이 태만이 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40622&amp;groupno=40622&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40622&amp;groupno=40622&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 07 Sep 2021 01:49:13 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.26(목)&nbsp;09:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 빨래 - 이천 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40641</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40641</guid>
+            <pubDate>Wed, 08 Sep 2021 08:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.16
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[별빛 속 아름다운 선율 - 히사이시 조 with 첼로댁 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2021.09.15
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.5 〈전태원〉 - 온라인 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40630</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40630</guid>
-            <pubDate>Tue, 07 Sep 2021 07:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.09
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021090317055438.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
@@ -579,6 +579,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/01/202107/30/sftbllsfyoig.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 국악가족뮤지컬 강치전 - 포항​​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53075</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53075</guid>
+            <pubDate>Wed, 08 Sep 2021 08:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.10(금) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(공포연극) 나라카 - 부산​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53074</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53074</guid>
+            <pubDate>Wed, 08 Sep 2021 08:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.09(목) 08:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 피아노 위크 2021 - 대구 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53073</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53073</guid>
@@ -663,25 +677,25 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.09.13(월) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 군산​​​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53059</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53059</guid>
-            <pubDate>Mon, 06 Sep 2021 09:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.07(화) 01:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 뮤지컬 광화문 연가-군산 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53061</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53061</guid>
+            <pubDate>Wed, 08 Sep 2021 08:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.09(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈스프링 어웨이크닝〉 5차(마지막)​​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53058</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53058</guid>
-            <pubDate>Mon, 06 Sep 2021 08:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.10(금) 06:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 국악가족뮤지컬 강치전 - 포항​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53075</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53075</guid>
+            <pubDate>Wed, 08 Sep 2021 08:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.10(금) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[롯데아울렛 어린이 미술 놀이터 COLOR GARDEN 가을시즌 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53057</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53057</guid>
-            <pubDate>Mon, 06 Sep 2021 08:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.07(화) 02:00]]></content:encoded>
+            <title><![CDATA[(공포연극) 나라카 - 부산​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53074</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53074</guid>
+            <pubDate>Wed, 08 Sep 2021 08:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.09(목) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 피아노 위크 2021 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -768,25 +782,11 @@
             <content:encoded><![CDATA[2021.09.13(월) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 군산​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53059</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53059</guid>
-            <pubDate>Mon, 06 Sep 2021 09:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.07(화) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈스프링 어웨이크닝〉 5차(마지막)​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53058</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53058</guid>
-            <pubDate>Mon, 06 Sep 2021 08:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.10(금) 06:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[롯데아울렛 어린이 미술 놀이터 COLOR GARDEN 가을시즌 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53057</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53057</guid>
-            <pubDate>Mon, 06 Sep 2021 08:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.07(화) 02:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 뮤지컬 광화문 연가-군산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53061</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53061</guid>
+            <pubDate>Wed, 08 Sep 2021 08:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.09(목) 05:00]]></content:encoded>
         </item>
     </channel>
 </rss>
