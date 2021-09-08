@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Sep 2021 00:32:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 01:52:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5430</guid>
             <pubDate>Fri, 03 Sep 2021 03:11:16 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.06(월) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 국립정동극장예술단 〈소춘대유희_백년광대〉 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40633&amp;groupno=40633&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40633&amp;groupno=40633&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 08 Sep 2021 01:51:35 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.10(금)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[패밀리뮤지컬 헤이지니＆럭키강이 시즌2 ＂비밀의 문＂- 수원 티켓오.. (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[&nbsp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021 고영열 콘서트 초월:超越(Limitless) 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40615&amp;groupno=40615&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40615&amp;groupno=40615&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 06 Sep 2021 07:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.10(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[2021 국립정동극장예술단 〈소춘대유희_백년광대〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40633</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40633</guid>
+            <pubDate>Wed, 08 Sep 2021 01:51:51 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.10
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008046_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[패밀리뮤지컬 헤이지니＆럭키강이 시즌2 ＂비밀의 문＂- 수원 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2021.09.13
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21005370_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[서울숲재즈페스티벌 2021 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40623</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40623</guid>
-            <pubDate>Tue, 07 Sep 2021 01:49:23 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.09
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021090318223580.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대구] [일상으로의 초대] 실내뮤직페스티벌 연기 안내 (예스24 티켓)]]></title>
@@ -579,6 +579,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/40/202107/30/0qmva0as0xjj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 〈분장실〉 VER 2 2차​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53068</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53068</guid>
+            <pubDate>Wed, 08 Sep 2021 01:52:32 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.10(금) 06:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[보헤미안 렙소디 with  오케스트라 티켓오픈일 변경 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53067</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53067</guid>
@@ -619,13 +626,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/53062</guid>
             <pubDate>Tue, 07 Sep 2021 02:21:35 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2021.09.13(월) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(2021 대구 대백프라자) 가족뮤지컬 아기돼지삼형제 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53060</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53060</guid>
-            <pubDate>Tue, 07 Sep 2021 01:50:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.08(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 군산​​​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -684,6 +684,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.09.08(수) 03:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[연극 〈분장실〉 VER 2 2차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53068</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53068</guid>
+            <pubDate>Wed, 08 Sep 2021 01:52:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.10(금) 06:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[보헤미안 렙소디 with  오케스트라 티켓오픈일 변경 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53067</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53067</guid>
@@ -724,13 +731,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53062</guid>
             <pubDate>Tue, 07 Sep 2021 02:21:46 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.13(월) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(2021 대구 대백프라자) 가족뮤지컬 아기돼지삼형제 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53060</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53060</guid>
-            <pubDate>Tue, 07 Sep 2021 01:50:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.08(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 군산​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
