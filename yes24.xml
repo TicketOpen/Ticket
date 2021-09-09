@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-09-09T08:13:16.634Z</updated>
+    <updated>2021-09-09T09:11:37.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11136</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11136"/>
+        <updated>2021-09-09T09:11:01.910Z</updated>
+        <content type="html"><![CDATA[2021.09.10(금) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [쓰릴 미] 마지막(5차) 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11135</id>
@@ -133,12 +140,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11117"/>
         <updated>2021-09-01T05:09:32.033Z</updated>
         <content type="html"><![CDATA[2021.09.03(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈리어왕 : KING LEAR〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11116</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11116"/>
-        <updated>2021-08-31T08:12:09.309Z</updated>
-        <content type="html"><![CDATA[2021.09.09(목) 11:00]]></content>
     </entry>
 </feed>

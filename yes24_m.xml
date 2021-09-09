@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-09-09T08:13:16.635Z</updated>
+    <updated>2021-09-09T09:11:37.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CHS 단독 공연 [00 : ZERO-ZERO] 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11136&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11136&amp;order=1"/>
+        <updated>2021-09-09T09:11:11.443Z</updated>
+        <content type="html"><![CDATA[2021-09-10(금) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [쓰릴 미] 마지막(5차) 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11135&amp;order=1</id>
@@ -65,12 +72,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11126&amp;order=1"/>
         <updated>2021-09-06T08:12:28.225Z</updated>
         <content type="html"><![CDATA[2021-09-10(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루돌프 부흐빈더 ＆ 베토벤 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11125&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11125&amp;order=1"/>
-        <updated>2021-09-06T08:12:28.225Z</updated>
-        <content type="html"><![CDATA[2021-09-09(목) 14:00]]></content>
     </entry>
 </feed>
