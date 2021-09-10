@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-09-10T04:13:50.998Z</updated>
+    <updated>2021-09-10T05:10:13.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [미인] 2차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11140</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11140"/>
+        <updated>2021-09-10T05:09:37.763Z</updated>
+        <content type="html"><![CDATA[2021.09.17(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 [카포네 트릴로지] 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11139</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11139"/>
+        <updated>2021-09-10T05:09:37.764Z</updated>
+        <content type="html"><![CDATA[2021.09.16(목) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [V 에버 애프터] 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11138</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11138"/>
+        <updated>2021-09-10T05:09:37.767Z</updated>
+        <content type="html"><![CDATA[2021.09.17(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강남심포니오케스트라 제138회 클래식품격콘서트 [가을의 노래] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11137</id>
@@ -120,25 +141,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11121"/>
         <updated>2021-09-03T05:09:41.061Z</updated>
         <content type="html"><![CDATA[2021.09.08(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[존 윌리엄스 영화음악 콘서트_부산 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11120</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11120"/>
-        <updated>2021-09-03T03:11:46.369Z</updated>
-        <content type="html"><![CDATA[2021.09.10(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [어린왕자] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11119</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11119"/>
-        <updated>2021-09-03T05:09:41.065Z</updated>
-        <content type="html"><![CDATA[2021.09.10(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은행사 시스템 점검에 따른 결제 서비스 중단 안내 (9/5, 9/11, 9/12, 9/19, 9/20)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11118</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11118"/>
-        <updated>2021-09-02T03:11:18.132Z</updated>
     </entry>
 </feed>
