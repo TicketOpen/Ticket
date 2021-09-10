@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-09-10T08:14:27.981Z</updated>
+    <updated>2021-09-10T09:16:50.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Best of Blue Note VOL2 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11142&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11142&amp;order=1"/>
+        <updated>2021-09-10T09:16:22.620Z</updated>
+        <content type="html"><![CDATA[2021-09-14(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그랜드 민트 페스티벌 2021 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11141&amp;order=1</id>
@@ -67,11 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11132&amp;order=1"/>
         <updated>2021-09-08T02:22:27.984Z</updated>
         <content type="html"><![CDATA[2021-09-15(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] [일상으로의 초대] 실내뮤직페스티벌 연기 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11131&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11131&amp;order=1"/>
-        <updated>2021-09-07T02:21:14.213Z</updated>
     </entry>
 </feed>
