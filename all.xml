@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Sep 2021 04:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 05:09:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -581,6 +581,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/08/202108/03/doumf95ekqzo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어린이 뮤지컬 `렛잇고2` - 이천​​​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53093</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53093</guid>
+            <pubDate>Sat, 11 Sep 2021 05:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.13(월) 06:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[어린이 뮤지컬 '알라딘과 자스민공주' - 청주 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53092</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53092</guid>
@@ -679,11 +686,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.09.14(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공지] NHN티켓링크 이용약관 개정에 대한 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53078</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53078</guid>
-            <pubDate>Fri, 10 Sep 2021 02:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[<td>기타</td><td class="tl p_reative"><a href="/help/notice/53078">[공지] NHN티켓링크 이용약관 개정에 대한 안내</a></td><td>2021.09.08</td><td class="ff_tahoma fs11">35</td>]]></content:encoded>
+            <title><![CDATA[어린이 뮤지컬 `렛잇고2` - 이천​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53093</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53093</guid>
+            <pubDate>Sat, 11 Sep 2021 05:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.13(월) 06:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어린이 뮤지컬 '알라딘과 자스민공주' - 청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -782,13 +789,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53079</guid>
             <pubDate>Thu, 09 Sep 2021 01:55:48 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.14(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공지] NHN티켓링크 이용약관 개정에 대한 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53078</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53078</guid>
-            <pubDate>Fri, 10 Sep 2021 02:25:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/help/notice/53078" class="info_wrap"><strong class="label">기타</strong><h3 class="tit">[공지] NHN티켓링크 이용약관 개정에 대한 안내</h3></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
