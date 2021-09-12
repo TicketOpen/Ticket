@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Sep 2021 08:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Sep 2021 14:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[［2021 최효인 BLUE CONCERT］티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5451</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5451</guid>
+            <pubDate>Sun, 12 Sep 2021 14:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.13(월) 18:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[연극 〈카포네 트릴로지〉 3차 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5450</link>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5441</guid>
             <pubDate>Wed, 08 Sep 2021 05:07:47 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.13(월) 19:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Flight：Wave to Earth 편 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5440</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5440</guid>
-            <pubDate>Tue, 07 Sep 2021 05:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.10(금) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈꽃을 피게 하는 것은〉 - 김해 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -581,6 +581,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/08/202108/03/doumf95ekqzo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Best Of Blue Note VOL2 티켓 오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53100</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53100</guid>
+            <pubDate>Sun, 12 Sep 2021 14:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.14(화) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[어린이 뮤지컬 `렛잇고2` - 이천​​​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53093</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53093</guid>
@@ -679,11 +686,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.09.09(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 2021 포항음악제 「기억의 시작」 티켓오픈 안내​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53079</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53079</guid>
-            <pubDate>Thu, 09 Sep 2021 01:55:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.14(화) 05:00]]></content:encoded>
+            <title><![CDATA[The Best Of Blue Note VOL2 티켓 오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53100</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53100</guid>
+            <pubDate>Sun, 12 Sep 2021 14:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.14(화) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어린이 뮤지컬 `렛잇고2` - 이천​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -782,13 +789,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53080</guid>
             <pubDate>Thu, 09 Sep 2021 05:10:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.09(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 2021 포항음악제 「기억의 시작」 티켓오픈 안내​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53079</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53079</guid>
-            <pubDate>Thu, 09 Sep 2021 01:55:48 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.14(화) 05:00]]></content:encoded>
         </item>
     </channel>
 </rss>
