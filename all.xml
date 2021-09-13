@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Sep 2021 02:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 04:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -651,13 +651,6 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.09.14(화) 07:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[어린이 뮤지컬 '렛잇고2' - 이천​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53086</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53086</guid>
-            <pubDate>Thu, 09 Sep 2021 08:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.13(월) 06:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[어린이 뮤지컬 '렛잇고2' - 안산 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53085</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53085</guid>
@@ -683,6 +676,13 @@
             <link>http://www.ticketlink.co.kr/help/notice/53082</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53082</guid>
             <pubDate>Thu, 09 Sep 2021 05:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.09(목) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 유망예술가 발굴프로젝트 〈전통 그리워할 연〉 - 대구 (심봉사, 심청이를 보다) 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53081</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53081</guid>
+            <pubDate>Mon, 13 Sep 2021 04:13:37 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2021.09.09(목) 05:00]]></content:encoded>
         </item>
         <item>
@@ -756,13 +756,6 @@
             <content:encoded><![CDATA[2021.09.14(화) 07:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[어린이 뮤지컬 '렛잇고2' - 이천​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53086</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53086</guid>
-            <pubDate>Thu, 09 Sep 2021 08:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.13(월) 06:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[어린이 뮤지컬 '렛잇고2' - 안산 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53085</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53085</guid>
@@ -788,6 +781,13 @@
             <link>http://m.ticketlink.co.kr/help/notice/53082</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53082</guid>
             <pubDate>Thu, 09 Sep 2021 05:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.09(목) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 유망예술가 발굴프로젝트 〈전통 그리워할 연〉 - 대구 (심봉사, 심청이를 보다) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53081</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53081</guid>
+            <pubDate>Mon, 13 Sep 2021 04:13:43 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.09(목) 05:00]]></content:encoded>
         </item>
     </channel>

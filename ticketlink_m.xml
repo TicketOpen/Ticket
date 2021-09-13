@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-13T02:24:08.458Z</updated>
+    <updated>2021-09-13T04:13:44.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -76,13 +76,6 @@
         <content type="html"><![CDATA[2021.09.14(화) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 '렛잇고2' - 이천​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53086</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53086"/>
-        <updated>2021-09-09T08:13:14.072Z</updated>
-        <content type="html"><![CDATA[2021.09.13(월) 06:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[어린이 뮤지컬 '렛잇고2' - 안산 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53085</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53085"/>
@@ -108,6 +101,13 @@
         <id>http://m.ticketlink.co.kr/help/notice/53082</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53082"/>
         <updated>2021-09-09T05:10:30.691Z</updated>
+        <content type="html"><![CDATA[2021.09.09(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 유망예술가 발굴프로젝트 〈전통 그리워할 연〉 - 대구 (심봉사, 심청이를 보다) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53081</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53081"/>
+        <updated>2021-09-13T04:13:43.511Z</updated>
         <content type="html"><![CDATA[2021.09.09(목) 05:00]]></content>
     </entry>
 </feed>
