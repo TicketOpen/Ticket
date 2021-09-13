@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-12T23:11:07.092Z</updated>
+    <updated>2021-09-13T00:35:59.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈​개와 고양이의 시간〉2차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53101</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53101"/>
+        <updated>2021-09-13T00:35:58.139Z</updated>
+        <content type="html"><![CDATA[2021.09.15(수) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Best Of Blue Note VOL2 티켓 오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53100</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[[단독판매] 유망예술가 발굴프로젝트 〈전통 그리워할 연〉 - 대구 (심봉사, 심청이를 보다) 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53081</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53081"/>
-        <updated>2021-09-09T05:10:30.692Z</updated>
-        <content type="html"><![CDATA[2021.09.09(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 유망예술가 발굴프로젝트 〈감성연극 마음속 사거리 좌회전〉 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53080</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53080"/>
         <updated>2021-09-09T05:10:30.692Z</updated>
         <content type="html"><![CDATA[2021.09.09(목) 05:00]]></content>
     </entry>
