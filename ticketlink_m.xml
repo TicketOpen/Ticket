@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-13T00:35:59.199Z</updated>
+    <updated>2021-09-13T01:54:57.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국소아암재단과 함께하는 406호 프로젝트의 나눔 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53102</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53102"/>
+        <updated>2021-09-13T01:54:54.852Z</updated>
+        <content type="html"><![CDATA[2021.09.13(월) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈​개와 고양이의 시간〉2차 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53101</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53082</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53082"/>
         <updated>2021-09-09T05:10:30.691Z</updated>
-        <content type="html"><![CDATA[2021.09.09(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 유망예술가 발굴프로젝트 〈전통 그리워할 연〉 - 대구 (심봉사, 심청이를 보다) 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53081</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53081"/>
-        <updated>2021-09-09T05:10:30.692Z</updated>
         <content type="html"><![CDATA[2021.09.09(목) 05:00]]></content>
     </entry>
 </feed>
