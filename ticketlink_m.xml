@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-14T06:13:43.995Z</updated>
+    <updated>2021-09-14T08:12:43.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈장수상회〉 - 군포​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53116</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53116"/>
+        <updated>2021-09-14T08:12:42.383Z</updated>
+        <content type="html"><![CDATA[2021.09.15(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈장수상회〉 - 울산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53114</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53114"/>
+        <updated>2021-09-14T08:12:42.386Z</updated>
+        <content type="html"><![CDATA[2021.09.15(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 국악, 이야기를 노래하다 / 모던판소리공작소 촘촘-광주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53113</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53101"/>
         <updated>2021-09-13T00:35:58.139Z</updated>
         <content type="html"><![CDATA[2021.09.15(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Of Blue Note VOL2 티켓 오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53100</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53100"/>
-        <updated>2021-09-12T14:09:34.251Z</updated>
-        <content type="html"><![CDATA[2021.09.14(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 거미 전국투어 콘서트〈다시, Winter Ballad〉- 광주​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53099</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53099"/>
-        <updated>2021-09-13T10:12:27.359Z</updated>
-        <content type="html"><![CDATA[2021.09.16(목) 06:00]]></content>
     </entry>
 </feed>
