@@ -4,9 +4,17 @@
         <title>위메프 공연티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Sep 2021 00:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 01:54:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아트 오브 뱅크시 월드투어 인 서울 〈The Art of Banksy - Without Limits〉 티켓오픈 공지 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/734</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/734</guid>
+            <pubDate>Tue, 14 Sep 2021 01:54:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.20(월) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/19/202109/14/qhoalsnmqkis.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그랜드 민트 페스티벌 2021 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/733</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 29 Aug 2021 20:45:43 GMT</pubDate>
             <content:encoded><![CDATA[추후공지예정]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/02/202108/17/lgbt5hwqonta.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 연극 〈렁스〉 - 위멮데이 재예매 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/724</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/724</guid>
-            <pubDate>Sun, 29 Aug 2021 20:45:43 GMT</pubDate>
-            <content:encoded><![CDATA[2021.08.05(목) 17:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/08/202108/03/doumf95ekqzo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
