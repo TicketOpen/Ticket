@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Sep 2021 23:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 01:54:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,20 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5447</guid>
             <pubDate>Thu, 09 Sep 2021 03:10:29 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.09(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[젊은 예술가 초청 시리즈 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40712&amp;groupno=40712&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40712&amp;groupno=40712&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 15 Sep 2021 01:53:13 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.15(수)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[marshmarigold : 반드시 찾아 올 행복 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40711&amp;groupno=40711&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40711&amp;groupno=40711&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 15 Sep 2021 01:53:13 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.14(화)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[조강태 콘서트 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -190,18 +204,13 @@
             <content:encoded><![CDATA[21.09.16(목)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈헤드윅〉 5차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40694&amp;groupno=40694&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40694&amp;groupno=40694&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 13 Sep 2021 10:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.15(수)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈프랑켄슈타인〉 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40693&amp;groupno=40693&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40693&amp;groupno=40693&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 13 Sep 2021 10:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.17(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[젊은 예술가 초청 시리즈 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40712</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40712</guid>
+            <pubDate>Wed, 15 Sep 2021 01:53:24 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.15
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008353_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[조강태 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -282,15 +291,6 @@
             <content:encoded><![CDATA[2021.09.15
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008436_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극［욕망이라는 이름의 전차］ 1차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40701</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40701</guid>
-            <pubDate>Tue, 14 Sep 2021 03:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.16
-                                    <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021083016024686.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 노을 연말 투어 콘서트 [노을이 내린 밤] - 광주 티켓오픈안내 (예스24 티켓)]]></title>
@@ -501,7 +501,7 @@
             <content:encoded><![CDATA[2021-09-17(금) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아트 오브 뱅크시 월드투어 인 서울 〈The Art of Banksy - Without Limits〉 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <title><![CDATA[아트 오브 뱅크시 월드투어 인 서울 〈The Art of Banksy - Without Limits〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/734</link>
             <guid>https://ticket.wemakeprice.com/opennotice/734</guid>
             <pubDate>Tue, 14 Sep 2021 01:54:34 GMT</pubDate>
@@ -579,6 +579,27 @@
             <pubDate>Sun, 29 Aug 2021 20:45:43 GMT</pubDate>
             <content:encoded><![CDATA[추후공지예정]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/02/202108/17/lgbt5hwqonta.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] [광주시립교향악단] 제358회 정기연주회, 고전의 품격 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53120</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53120</guid>
+            <pubDate>Wed, 15 Sep 2021 01:54:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.16(목) 08:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 뮤지컬 〈​광화문 연가〉 - 성남​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53119</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53119</guid>
+            <pubDate>Wed, 15 Sep 2021 01:54:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.17(금) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[THE GREATEST: 전율 정동하 X 소 향 - 안산 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53118</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53118</guid>
+            <pubDate>Wed, 15 Sep 2021 01:54:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.17(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 나윤아 바이올린 리사이틀 - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -665,25 +686,25 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.09.16(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021 노을 연말 투어 콘서트 [노을이 내린 밤] - 대구​​​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53104</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53104</guid>
-            <pubDate>Mon, 13 Sep 2021 05:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.16(목) 06:00]]></content:encoded>
+            <title><![CDATA[[단독판매] [광주시립교향악단] 제358회 정기연주회, 고전의 품격 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53120</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53120</guid>
+            <pubDate>Wed, 15 Sep 2021 01:54:13 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.16(목) 08:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021-22 백지영 전국투어 콘서트  - 광주​​​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53103</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53103</guid>
-            <pubDate>Mon, 13 Sep 2021 05:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.16(목) 05:00]]></content:encoded>
+            <title><![CDATA[2021 뮤지컬 〈​광화문 연가〉 - 성남​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53119</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53119</guid>
+            <pubDate>Wed, 15 Sep 2021 01:54:13 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.17(금) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국소아암재단과 함께하는 406호 프로젝트의 나눔 콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53102</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53102</guid>
-            <pubDate>Mon, 13 Sep 2021 01:54:45 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.13(월) 03:00]]></content:encoded>
+            <title><![CDATA[THE GREATEST: 전율 정동하 X 소 향 - 안산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53118</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53118</guid>
+            <pubDate>Wed, 15 Sep 2021 01:54:13 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.17(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 나윤아 바이올린 리사이틀 - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -768,27 +789,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53105</guid>
             <pubDate>Mon, 13 Sep 2021 05:10:18 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.16(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021 노을 연말 투어 콘서트 [노을이 내린 밤] - 대구​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53104</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53104</guid>
-            <pubDate>Mon, 13 Sep 2021 05:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.16(목) 06:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021-22 백지영 전국투어 콘서트  - 광주​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53103</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53103</guid>
-            <pubDate>Mon, 13 Sep 2021 05:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.16(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국소아암재단과 함께하는 406호 프로젝트의 나눔 콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53102</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53102</guid>
-            <pubDate>Mon, 13 Sep 2021 01:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.13(월) 03:00]]></content:encoded>
         </item>
     </channel>
 </rss>
