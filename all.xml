@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 08:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 09:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5463</guid>
             <pubDate>Wed, 15 Sep 2021 12:16:14 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.16(목) 13:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[빌리빈뮤직 앵콜공연 〈BILLYBEAN DAY〉 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5462</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5462</guid>
+            <pubDate>Thu, 16 Sep 2021 09:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.17(금) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌4［음악여행，쉼］－최정윤 단독 콘서트 티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5455</guid>
             <pubDate>Tue, 14 Sep 2021 03:10:51 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.17(금) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소소한 콘서트－가을밤 위로 한스푼 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5454</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5454</guid>
-            <pubDate>Tue, 14 Sep 2021 03:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.14(화) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[온라인 뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -219,7 +219,7 @@
             <pubDate>Thu, 16 Sep 2021 08:12:29 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.17
                                     <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021091615201884.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008521_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[THE GREATEST:전율 정동하 X 소 향 - 진주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -237,7 +237,7 @@
             <pubDate>Thu, 16 Sep 2021 08:12:29 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.17
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021091415425952.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008415_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[임선혜와 키어런 카럴이 함께하는 앙상블오푸스의 ＇그 남자, 그여자 이야기＇ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
