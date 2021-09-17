@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-09-17T07:11:16.464Z</updated>
+    <updated>2021-09-17T10:12:06.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[음악극 [로봇걸] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11161&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11161&amp;order=1"/>
+        <updated>2021-09-17T10:11:37.826Z</updated>
+        <content type="html"><![CDATA[2021-09-23(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 [이웃집 쌀통] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11160&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11160&amp;order=1"/>
+        <updated>2021-09-17T10:11:37.826Z</updated>
+        <content type="html"><![CDATA[2021-09-27(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 웰컴대학로-웰컴씨어터 연극 [올모스트 메인] 스페셜 토크콘서트 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11159&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11151&amp;order=1"/>
         <updated>2021-09-16T08:12:46.582Z</updated>
         <content type="html"><![CDATA[2021-09-17(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 1차 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11150&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11150&amp;order=1"/>
-        <updated>2021-09-15T07:11:27.569Z</updated>
-        <content type="html"><![CDATA[2021-09-17(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 노을 연말 투어 콘서트 [노을이 내린 밤] - 광주 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11149&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11149&amp;order=1"/>
-        <updated>2021-09-13T10:12:02.563Z</updated>
-        <content type="html"><![CDATA[2021-09-16(목) 16:00]]></content>
     </entry>
 </feed>
