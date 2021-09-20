@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Sep 2021 03:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 04:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/54/202108/27/rj92fpdrptd1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 2021 수성아트피아 공동기획 - 세계 명가곡과 우리가곡의 밤 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53147</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53147</guid>
+            <pubDate>Mon, 20 Sep 2021 04:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.24(금) 08:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 단테, 베아트리체를 만나다 - 대구 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53146</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53146</guid>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.09.17(금) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 그라제 : 가족뮤지컬 '트롤의 아이'-광주 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53132</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53132</guid>
-            <pubDate>Fri, 17 Sep 2021 02:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.17(금) 01:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 2021 수성아트피아 공동기획 - 세계 명가곡과 우리가곡의 밤 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53147</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53147</guid>
+            <pubDate>Mon, 20 Sep 2021 04:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.24(금) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 단테, 베아트리체를 만나다 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -782,13 +789,6 @@
             <title><![CDATA[[단독판매] 그라제 : 아스토르 피아졸라 퀸텟-광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53133</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53133</guid>
-            <pubDate>Fri, 17 Sep 2021 02:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.17(금) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 그라제 : 가족뮤지컬 '트롤의 아이'-광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53132</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53132</guid>
             <pubDate>Fri, 17 Sep 2021 02:32:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.17(금) 01:00]]></content:encoded>
         </item>
