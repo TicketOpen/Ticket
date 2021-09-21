@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Sep 2021 00:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Sep 2021 02:25:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/54/202108/27/rj92fpdrptd1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 어린이국악극 〈금다래꿍〉 - 영주​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53150</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53150</guid>
+            <pubDate>Tue, 21 Sep 2021 02:25:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.23(목) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[영혼극 [여름호텔을 위한 의상] - 대구 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53149</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53149</guid>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.09.24(금) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 제3회 GAC공연예술축제 그라제 <피노키오의 모험> 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53135</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53135</guid>
-            <pubDate>Fri, 17 Sep 2021 02:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.17(금) 01:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 어린이국악극 〈금다래꿍〉 - 영주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53150</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53150</guid>
+            <pubDate>Tue, 21 Sep 2021 02:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.23(목) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[영혼극 [여름호텔을 위한 의상] - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -784,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53136</guid>
             <pubDate>Fri, 17 Sep 2021 02:32:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.24(금) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 제3회 GAC공연예술축제 그라제 <피노키오의 모험> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53135</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53135</guid>
-            <pubDate>Fri, 17 Sep 2021 02:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.17(금) 01:00]]></content:encoded>
         </item>
     </channel>
 </rss>
