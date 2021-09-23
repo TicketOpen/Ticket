@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 07:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 08:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021091714245811.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 [풍월주] 3차 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11167</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11167</guid>
+            <pubDate>Thu, 23 Sep 2021 08:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.28(화) 15:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[연극 [일의 기쁨과 슬픔] 티켓오픈안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11166</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11166</guid>
@@ -426,11 +433,11 @@
             <content:encoded><![CDATA[2021.09.16(목) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021 거미 전국투어 콘서트 [다시, Winter Ballad] - 수원 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11147</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11147</guid>
-            <pubDate>Sun, 19 Sep 2021 00:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.16(목) 14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 [풍월주] 3차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11167&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11167&amp;order=1</guid>
+            <pubDate>Thu, 23 Sep 2021 08:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[2021-09-28(화) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 [일의 기쁨과 슬픔] 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -494,13 +501,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11158&amp;order=1</guid>
             <pubDate>Sun, 19 Sep 2021 00:34:33 GMT</pubDate>
             <content:encoded><![CDATA[2021-09-23(목) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 [보도지침] 마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11157&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11157&amp;order=1</guid>
-            <pubDate>Sun, 19 Sep 2021 00:34:33 GMT</pubDate>
-            <content:encoded><![CDATA[2021-09-28(화) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈뱀파이어 아더〉 프리뷰 & 1차 티켓오픈 안내  N (위메프 공연티켓)]]></title>
