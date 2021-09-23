@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-09-23T03:11:44.401Z</updated>
+    <updated>2021-09-23T07:12:10.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [일의 기쁨과 슬픔] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11166</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11166"/>
+        <updated>2021-09-23T07:11:18.154Z</updated>
+        <content type="html"><![CDATA[2021.09.29(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [뱀파이어 아더] 프리뷰 ＆ 1차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11165</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11165"/>
+        <updated>2021-09-23T07:11:18.155Z</updated>
+        <content type="html"><![CDATA[2021.09.29(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [허길동전] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11164</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11147"/>
         <updated>2021-09-19T00:34:25.316Z</updated>
         <content type="html"><![CDATA[2021.09.16(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021-22 백지영 전국투어 콘서트 [BAEK HUG] - 광주 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11146</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11146"/>
-        <updated>2021-09-19T00:34:25.317Z</updated>
-        <content type="html"><![CDATA[2021.09.16(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [박열] 추가 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11145</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11145"/>
-        <updated>2021-09-19T00:34:25.318Z</updated>
-        <content type="html"><![CDATA[2021.09.13(월) 14:00]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>위메프 공연티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 03:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 07:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈뱀파이어 아더〉 프리뷰 & 1차 티켓오픈 안내  N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/738</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/738</guid>
+            <pubDate>Thu, 23 Sep 2021 07:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.29(수) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/00/202109/23/gktsrmu9b0do.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈헤드윅〉 - 위메프 컬처데이 티켓오픈 안내]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/737</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 Aug 2021 03:11:20 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.01(수) 00:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/50/202108/30/2ephhlpecwdo.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈보도지침〉 2차 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/728</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/728</guid>
-            <pubDate>Sun, 29 Aug 2021 20:45:43 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.02(목) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/54/202108/27/rj92fpdrptd1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
