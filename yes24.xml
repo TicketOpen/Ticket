@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-09-23T23:12:20.236Z</updated>
+    <updated>2021-09-24T00:34:06.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [여행] - 대구 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11169</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11169"/>
+        <updated>2021-09-24T00:33:30.154Z</updated>
+        <content type="html"><![CDATA[2021.09.27(월) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [풍월주] 3차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11167</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11149"/>
         <updated>2021-09-19T00:34:25.309Z</updated>
         <content type="html"><![CDATA[2021.09.16(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 거미 전국투어 콘서트 [다시, Winter Ballad] - 광주 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11148</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11148"/>
-        <updated>2021-09-19T00:34:25.314Z</updated>
-        <content type="html"><![CDATA[2021.09.16(목) 15:00]]></content>
     </entry>
 </feed>
