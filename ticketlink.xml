@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-09-24T08:13:12.338Z</updated>
+    <updated>2021-09-24T10:46:16.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[［뮤지컬, 바람이 불어오는 곳］1차 티켓 오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53161</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53161"/>
+        <updated>2021-09-24T10:46:06.586Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.29(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 뮤지컬 〈​광화문연가〉 - 경주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53160</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53147"/>
         <updated>2021-09-20T04:13:31.586Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.09.23(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 단테, 베아트리체를 만나다 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53146</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53146"/>
-        <updated>2021-09-17T10:11:57.967Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.09.18(토) 06:00]]></content>
     </entry>
 </feed>

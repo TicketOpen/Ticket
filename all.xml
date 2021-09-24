@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 08:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 10:46:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,20 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5471</guid>
             <pubDate>Thu, 23 Sep 2021 03:10:42 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.24(금) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 콘서트 ＇수성의 하루＇ 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40786&amp;groupno=40786&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40786&amp;groupno=40786&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 24 Sep 2021 10:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.28(화)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[경남도립극단 정기공연 〈연극 토지Ⅱ〉 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40785&amp;groupno=40785&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40785&amp;groupno=40785&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 24 Sep 2021 10:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.27(월)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이은결 〈THE ILLUSION〉- 대구 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -190,18 +204,22 @@
             <content:encoded><![CDATA[21.09.28(화)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈풍월주〉 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40767&amp;groupno=40767&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40767&amp;groupno=40767&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 23 Sep 2021 09:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.28(화)&nbsp;15:00]]></content:encoded>
+            <title><![CDATA[쏜애플 콘서트 ＇수성의 하루＇ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40786</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40786</guid>
+            <pubDate>Fri, 24 Sep 2021 10:44:52 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.28
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20210924055852.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈헤드윅〉 6차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40766&amp;groupno=40766&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40766&amp;groupno=40766&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 23 Sep 2021 07:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.27(월)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[경남도립극단 정기공연 〈연극 토지Ⅱ〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40785</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40785</guid>
+            <pubDate>Fri, 24 Sep 2021 10:44:52 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.27
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008616_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[이은결 〈THE ILLUSION〉- 대구 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -273,25 +291,7 @@
             <pubDate>Fri, 24 Sep 2021 03:10:58 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.27
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021091716223405.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬〈고고다이노 공룡대탐험〉 - 구미 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40775</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40775</guid>
-            <pubDate>Fri, 24 Sep 2021 03:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.29
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021092313335516.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬〈고고다이노 공룡대탐험〉 - 여수 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40774</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40774</guid>
-            <pubDate>Fri, 24 Sep 2021 03:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.05
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021091611291032.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008687_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [천사에 관하여 : 타락천사 편] 1차 티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -503,6 +503,14 @@
             <content:encoded><![CDATA[2021-09-29(수) 14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[연극 〈일의 기쁨과 슬픔〉 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/739</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/739</guid>
+            <pubDate>Fri, 24 Sep 2021 10:45:59 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.29(수) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/26/202109/24/pi8zonqqbcsf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈뱀파이어 아더〉 프리뷰 & 1차 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/738</link>
             <guid>https://ticket.wemakeprice.com/opennotice/738</guid>
@@ -575,12 +583,11 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/52/202109/01/davaevltim1e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈아가사 AGATHA〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/729</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/729</guid>
-            <pubDate>Mon, 30 Aug 2021 03:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.01(수) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/50/202108/30/2ephhlpecwdo.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[［뮤지컬, 바람이 불어오는 곳］1차 티켓 오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53161</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53161</guid>
+            <pubDate>Fri, 24 Sep 2021 10:46:06 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.29(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 뮤지컬 〈​광화문연가〉 - 경주 티켓오픈 안내 (티켓링크)]]></title>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.09.23(목) 08:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 단테, 베아트리체를 만나다 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53146</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53146</guid>
-            <pubDate>Fri, 17 Sep 2021 10:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.18(토) 06:00]]></content:encoded>
+            <title><![CDATA[［뮤지컬, 바람이 불어오는 곳］1차 티켓 오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53161</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53161</guid>
+            <pubDate>Fri, 24 Sep 2021 10:46:16 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.29(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 뮤지컬 〈​광화문연가〉 - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -784,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53147</guid>
             <pubDate>Mon, 20 Sep 2021 04:13:39 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.23(목) 08:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 단테, 베아트리체를 만나다 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53146</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53146</guid>
-            <pubDate>Fri, 17 Sep 2021 10:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.18(토) 06:00]]></content:encoded>
         </item>
     </channel>
 </rss>
