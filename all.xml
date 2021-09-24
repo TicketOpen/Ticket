@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 00:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 01:55:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,11 +71,18 @@
             <content:encoded><![CDATA[2021.09.17(금) 12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AFA 잭킹콩 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5466</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5466</guid>
-            <pubDate>Fri, 17 Sep 2021 05:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.27(월) 20:00]]></content:encoded>
+            <title><![CDATA[상자루 소극장 두시간 공연 ‘You made it！’ 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5465</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5465</guid>
+            <pubDate>Fri, 24 Sep 2021 01:54:40 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.24(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이찬원 첫번째 팬콘서트 ‘Chan’s Time’ 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40772&amp;groupno=40772&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40772&amp;groupno=40772&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 24 Sep 2021 01:54:50 GMT</pubDate>
+            <content:encoded><![CDATA[21.09.27(월)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[피아니스트 서동미 리사이틀 〈삶, 그 찬란함〉 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[21.09.24(금)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 `일의 기쁨과 슬픔` 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40753&amp;groupno=40753&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40753&amp;groupno=40753&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 23 Sep 2021 02:00:03 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.29(수)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[이찬원 첫번째 팬콘서트 ‘Chan’s Time’ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40772</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40772</guid>
+            <pubDate>Fri, 24 Sep 2021 01:55:02 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.27
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021092313533827.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피아니스트 서동미 리사이틀 〈삶, 그 찬란함〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2021.09.27
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021091621225082.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈백만송이의 사랑〉- 의정부 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40762</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40762</guid>
-            <pubDate>Thu, 23 Sep 2021 07:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.29
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021091721481791.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 [여행] - 대구 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/50/202108/30/2ephhlpecwdo.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[일의 기쁨과 슬픔 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53155</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53155</guid>
+            <pubDate>Fri, 24 Sep 2021 01:55:48 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.29(수) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[〈연극〉 장수상회 - 경기 부천 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53154</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53154</guid>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.09.23(목) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 〈장수상회〉 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53140</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53140</guid>
-            <pubDate>Fri, 17 Sep 2021 05:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.24(금) 03:00]]></content:encoded>
+            <title><![CDATA[일의 기쁨과 슬픔 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53155</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53155</guid>
+            <pubDate>Fri, 24 Sep 2021 01:55:58 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.29(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[〈연극〉 장수상회 - 경기 부천 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -784,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53141</guid>
             <pubDate>Fri, 17 Sep 2021 05:10:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.23(목) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈장수상회〉 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53140</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53140</guid>
-            <pubDate>Fri, 17 Sep 2021 05:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.24(금) 03:00]]></content:encoded>
         </item>
     </channel>
 </rss>
