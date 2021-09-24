@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-09-24T01:55:59.234Z</updated>
+    <updated>2021-09-24T03:11:42.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 세종 체임버시리즈 Ⅲ - 신창용 김동현 듀오 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11170</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11170"/>
+        <updated>2021-09-24T03:11:07.347Z</updated>
+        <content type="html"><![CDATA[2021.09.29(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [여행] - 대구 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11169</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11150"/>
         <updated>2021-09-19T00:34:25.308Z</updated>
         <content type="html"><![CDATA[2021.09.17(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 노을 연말 투어 콘서트 [노을이 내린 밤] - 광주 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11149</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11149"/>
-        <updated>2021-09-19T00:34:25.309Z</updated>
-        <content type="html"><![CDATA[2021.09.16(목) 16:00]]></content>
     </entry>
 </feed>
