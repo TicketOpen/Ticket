@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Sep 2021 08:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Sep 2021 09:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/52/202109/01/davaevltim1e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 포항시립교향악단 제181회 정기연주회​​​​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53164</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53164</guid>
+            <pubDate>Sat, 25 Sep 2021 09:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.27(월) 08:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 비규어스 댄스컴퍼니［얼이섞다］- 포항​​​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53163</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53163</guid>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.09.23(목) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[영혼극 [여름호텔을 위한 의상] - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53149</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53149</guid>
-            <pubDate>Mon, 20 Sep 2021 09:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.27(월) 01:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 포항시립교향악단 제181회 정기연주회​​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53164</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53164</guid>
+            <pubDate>Sat, 25 Sep 2021 09:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.27(월) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 비규어스 댄스컴퍼니［얼이섞다］- 포항​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -784,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53150</guid>
             <pubDate>Tue, 21 Sep 2021 02:25:08 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.23(목) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[영혼극 [여름호텔을 위한 의상] - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53149</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53149</guid>
-            <pubDate>Mon, 20 Sep 2021 09:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.27(월) 01:00]]></content:encoded>
         </item>
     </channel>
 </rss>
