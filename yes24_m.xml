@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2021-09-27T02:06:17.124Z</updated>
+    <updated>2021-09-27T05:18:35.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제16회 부산국제매직페스티벌 매직위크 1차 티켓 오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11174&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11174&amp;order=1"/>
+        <updated>2021-09-27T05:17:51.908Z</updated>
+        <content type="html"><![CDATA[2021-09-29(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페스티벌 나다 2021 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11173&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11173&amp;order=1"/>
+        <updated>2021-09-27T05:17:51.911Z</updated>
+        <content type="html"><![CDATA[2021-10-05(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [천사에 관하여 : 타락천사 편] 1차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11172&amp;order=1</id>
@@ -59,20 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11165&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11165&amp;order=1"/>
         <updated>2021-09-23T07:11:33.046Z</updated>
-        <content type="html"><![CDATA[2021-09-29(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [허길동전] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11164&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11164&amp;order=1"/>
-        <updated>2021-09-19T00:34:33.075Z</updated>
-        <content type="html"><![CDATA[2021-09-29(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [우리들의 사랑] 1차 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11163&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11163&amp;order=1"/>
-        <updated>2021-09-19T00:34:33.076Z</updated>
         <content type="html"><![CDATA[2021-09-29(수) 14:00]]></content>
     </entry>
 </feed>
