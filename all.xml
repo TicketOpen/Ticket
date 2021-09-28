@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 10:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 11:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -444,6 +444,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/30/202109/08/smshcgbaelyb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 〈허길동전〉 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53189</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53189</guid>
+            <pubDate>Tue, 28 Sep 2021 11:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.29(수) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬〈생각나라과자집〉서울 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53188</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53188</guid>
+            <pubDate>Tue, 28 Sep 2021 11:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.29(수) 06:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 〈The Europeans : 사랑에 관한 색채의 연상〉 - 대구 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53187</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53187</guid>
@@ -535,18 +549,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.10.01(금) 06:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021 노을 연말 투어 콘서트 [노을이 내린 밤] - 고양 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53174</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53174</guid>
-            <pubDate>Mon, 27 Sep 2021 05:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.29(수) 05:00]]></content:encoded>
+            <title><![CDATA[연극 〈허길동전〉 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53189</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53189</guid>
+            <pubDate>Tue, 28 Sep 2021 11:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.29(수) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <아가사 AGATHA> 4차 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53173</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53173</guid>
-            <pubDate>Mon, 27 Sep 2021 05:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.09.28(화) 07:00]]></content:encoded>
+            <title><![CDATA[가족뮤지컬〈생각나라과자집〉서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53188</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53188</guid>
+            <pubDate>Tue, 28 Sep 2021 11:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.29(수) 06:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 〈The Europeans : 사랑에 관한 색채의 연상〉 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -638,20 +652,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53175</guid>
             <pubDate>Mon, 27 Sep 2021 06:23:38 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.01(금) 06:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021 노을 연말 투어 콘서트 [노을이 내린 밤] - 고양 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53174</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53174</guid>
-            <pubDate>Mon, 27 Sep 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.29(수) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <아가사 AGATHA> 4차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53173</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53173</guid>
-            <pubDate>Mon, 27 Sep 2021 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.28(화) 07:00]]></content:encoded>
         </item>
     </channel>
 </rss>
