@@ -4,9 +4,25 @@
         <title>위메프 공연티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 07:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 14:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 WORLD DJ FESTIVAL 비대면 진행 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/745</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/745</guid>
+            <pubDate>Fri, 01 Oct 2021 14:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[공연취소]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/25/202110/01/wbzua5zyukjy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 하동균 단독 콘서트 〈Here I am〉 티켓오픈 안내 N]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/744</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/744</guid>
+            <pubDate>Fri, 01 Oct 2021 14:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.03(일) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/42/202110/01/buverpajcgsx.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 〈처음 만난 사이〉 - 대학로 티켓오픈 안내 N]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/743</link>
@@ -20,7 +36,7 @@
             <link>https://ticket.wemakeprice.com/opennotice/742</link>
             <guid>https://ticket.wemakeprice.com/opennotice/742</guid>
             <pubDate>Wed, 29 Sep 2021 05:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.02(토) 00:00]]></content:encoded>
+            <content:encoded><![CDATA[2021.10.01(금) 20:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/14/202109/29/fmyfugshhdmz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 29 Sep 2021 01:58:45 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.28(화) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202109/17/vbuusv0x5imk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온라인 뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/735</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/735</guid>
-            <pubDate>Wed, 29 Sep 2021 01:58:45 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.28(화) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/12/202109/16/flgqvvmhqhal.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트 오브 뱅크시 월드투어 인 서울 〈The Art of Banksy - Without Limits〉 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/734</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/734</guid>
-            <pubDate>Wed, 29 Sep 2021 01:58:45 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.20(월) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/19/202109/14/qhoalsnmqkis.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
