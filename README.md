@@ -1,5 +1,5 @@
 # 티켓오픈 
-
+https://ticketopen.github.io/ticket/all.xml
 - https://ticketopen.github.io/ticket/melon.xml
 - https://ticketopen.github.io/ticket/interpark.xml
 - https://ticketopen.github.io/ticket/interpark_m.xml
