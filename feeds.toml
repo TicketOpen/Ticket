@@ -62,6 +62,7 @@ titleSelector = "td.tl.p_reative > a"
 linkSelector = "td a"
 contentSelector = "td[class='open_info']"
 waitForSelector = ".basic_tbl"
+onFail = "stale"
 
 [ticketlink_m]
 title = "티켓링크 모바일"
