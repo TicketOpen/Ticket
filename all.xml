@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 23:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 01:02:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5493</guid>
             <pubDate>Thu, 30 Sep 2021 04:23:20 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.01(금) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈빌리 엘리어트〉 4차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40849&amp;groupno=40849&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40849&amp;groupno=40849&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 05 Oct 2021 00:59:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.12(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈빌리 엘리어트〉 추가티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,31 @@
             <content:encoded><![CDATA[21.10.05(화)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[HYNN(박혜원) 콘서트 - 흰, 가을 산책 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40830&amp;groupno=40830&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40830&amp;groupno=40830&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 01 Oct 2021 02:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.08(금)&nbsp;17:00]]></content:encoded>
+            <title><![CDATA[뮤지컬〈노트르담 드 파리〉- 프렌치 오리지널 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40851</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40851</guid>
+            <pubDate>Tue, 05 Oct 2021 01:00:18 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[［Live Up!］ep.3 홍이삭 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40850</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40850</guid>
+            <pubDate>Tue, 05 Oct 2021 01:00:18 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈빌리 엘리어트〉 4차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40849</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40849</guid>
+            <pubDate>Tue, 05 Oct 2021 01:00:18 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21004532_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈빌리 엘리어트〉 추가티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -228,7 +255,7 @@
             <pubDate>Fri, 01 Oct 2021 07:18:14 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.06
                                     <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211005092932.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021-22 백지영 전국투어 콘서트 〈BAEK HUG〉 - 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -267,31 +294,10 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021093015533921.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021 그레이트 콘서트 시리즈 〈라포엠 ＆ 라비던스〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40839</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40839</guid>
-            <pubDate>Fri, 01 Oct 2021 07:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.06
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021100113351436.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 장민호 단독 콘서트 투어 “드라마” - 대구 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40838</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40838</guid>
-            <pubDate>Fri, 01 Oct 2021 07:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.06
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021093017133654.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 장민호 단독 콘서트 투어 “드라마” - 울산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40836</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40836</guid>
-            <pubDate>Fri, 01 Oct 2021 17:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.06
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021093015062234.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[선셋시네마 파크콘서트 일정 연기 및 티켓 관련 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11187</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11187</guid>
+            <pubDate>Tue, 05 Oct 2021 01:00:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[유니버설발레단 [호두까기인형] 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -427,11 +433,10 @@
             <content:encoded><![CDATA[2021.09.28(화) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [풍월주] 3차 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11167</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11167</guid>
-            <pubDate>Mon, 04 Oct 2021 16:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.28(화) 15:00]]></content:encoded>
+            <title><![CDATA[선셋시네마 파크콘서트 일정 연기 및 티켓 관련 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11187&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11187&amp;order=1</guid>
+            <pubDate>Tue, 05 Oct 2021 01:00:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[유니버설발레단 [호두까기인형] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -495,13 +500,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11178&amp;order=1</guid>
             <pubDate>Mon, 04 Oct 2021 06:44:39 GMT</pubDate>
             <content:encoded><![CDATA[2021-10-07(목) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021 권진아 단독 공연 ＇우리의 방식＇ 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11177&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11177&amp;order=1</guid>
-            <pubDate>Tue, 28 Sep 2021 05:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-01(금) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 WORLD DJ FESTIVAL 비대면 진행 안내 (위메프 공연티켓)]]></title>
