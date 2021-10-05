@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 09:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 10:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -548,6 +548,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.10.07(목) 11:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 금명 : 현에 새긴 글 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53232</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53232</guid>
+            <pubDate>Tue, 05 Oct 2021 10:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.07(목) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[스티브바라캇 내한공연 with 데이드림 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53231</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53231</guid>
@@ -644,13 +651,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53218</guid>
             <pubDate>Sat, 02 Oct 2021 03:20:11 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.02(토) 04:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[RE:SPES 안동 2021×롤링홀​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53217</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53217</guid>
-            <pubDate>Mon, 04 Oct 2021 06:46:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.07(목) 11:00]]></content:encoded>
         </item>
     </channel>
 </rss>
