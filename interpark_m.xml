@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 06:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 07:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈늘근도둑이야기〉 11월 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40880</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40880</guid>
+            <pubDate>Wed, 06 Oct 2021 07:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/19/19018520_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[문지영 피아노 리사이틀 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40879</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.10.08
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211006111235.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Have A Nice Day - the Weekend 10/24(일) 7PM 회차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40870</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40870</guid>
-            <pubDate>Tue, 05 Oct 2021 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.06
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009142_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
