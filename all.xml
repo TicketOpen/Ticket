@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 03:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 04:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5503</guid>
             <pubDate>Mon, 04 Oct 2021 06:43:50 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.07(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[겨울愛이천 스테이지 015BX김형중 콘서트 - 이천 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40873&amp;groupno=40873&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40873&amp;groupno=40873&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 06 Oct 2021 04:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.07(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 김희재 팬콘서트 ‘별, 그대’ 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[21.10.06(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이은결〈MAGIC ＆ ILLUSION〉- 청주 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40855&amp;groupno=40855&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40855&amp;groupno=40855&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 05 Oct 2021 03:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.07(목)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[겨울愛이천 스테이지 015BX김형중 콘서트 - 이천 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40873</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40873</guid>
+            <pubDate>Wed, 06 Oct 2021 04:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.07
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009113_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2021 김희재 팬콘서트 ‘별, 그대’ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2021.10.08
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021100117455787.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈인사이드〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40863</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40863</guid>
-            <pubDate>Tue, 05 Oct 2021 08:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008304_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[사우스클럽 X 이정권 콘서트 티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -500,6 +500,86 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11184&amp;order=1</guid>
             <pubDate>Fri, 01 Oct 2021 07:18:43 GMT</pubDate>
             <content:encoded><![CDATA[2021-10-08(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유니버설발레단 〈호두까기인형〉 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/746</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/746</guid>
+            <pubDate>Wed, 06 Oct 2021 04:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.07(목) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/03/202110/05/s4cuwa9g2khj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 WORLD DJ FESTIVAL 비대면 진행 안내 (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/745</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/745</guid>
+            <pubDate>Wed, 06 Oct 2021 04:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[공연취소]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/25/202110/01/wbzua5zyukjy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 하동균 단독 콘서트 〈Here I am〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/744</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/744</guid>
+            <pubDate>Wed, 06 Oct 2021 04:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.03(일) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/42/202110/01/buverpajcgsx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈처음 만난 사이〉 - 대학로 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/743</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/743</guid>
+            <pubDate>Wed, 06 Oct 2021 04:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.04(월) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/18/202110/01/jzkcbpu0kmek.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 RUN THE ZOMBIECITY 런 더 좀비시티 버추얼 레이스 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/742</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/742</guid>
+            <pubDate>Wed, 06 Oct 2021 04:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.01(금) 20:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/14/202109/29/fmyfugshhdmz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오픈일시변경] 뮤지컬 〈헤드윅〉 - 앵콜 컬처데이 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/741</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/741</guid>
+            <pubDate>Wed, 06 Oct 2021 04:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.01(금) 17:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/04/202109/28/u3vbpahtwap9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 세종 체임버시리즈 Ⅲ – 신창용 김동현 듀오 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/740</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/740</guid>
+            <pubDate>Wed, 06 Oct 2021 04:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.29(수) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/37/202109/27/knhmuremtu6l.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈일의 기쁨과 슬픔〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/739</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/739</guid>
+            <pubDate>Wed, 06 Oct 2021 04:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.29(수) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/26/202109/24/pi8zonqqbcsf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈뱀파이어 아더〉 프리뷰 & 1차 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/738</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/738</guid>
+            <pubDate>Wed, 06 Oct 2021 04:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.29(수) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/00/202109/23/gktsrmu9b0do.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈헤드윅〉 - 위메프 컬처데이 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/737</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/737</guid>
+            <pubDate>Wed, 06 Oct 2021 04:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.20(월) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/38/202109/17/sykrjizchujm.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[단독판매] 금명 : 현에 새긴 글 - 대구 티켓오픈 안내 (티켓링크)]]></title>
