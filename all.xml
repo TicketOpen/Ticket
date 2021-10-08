@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 02:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 03:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,7 +85,7 @@
             <content:encoded><![CDATA[21.10.14(목)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[베로나의 두 신사 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <title><![CDATA[연극 〈베로나의 두 신사〉 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40907&amp;groupno=40907&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40907&amp;groupno=40907&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 08 Oct 2021 02:31:55 GMT</pubDate>
@@ -213,7 +213,7 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21006407_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[베로나의 두 신사 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <title><![CDATA[연극 〈베로나의 두 신사〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40907</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40907</guid>
             <pubDate>Fri, 08 Oct 2021 02:32:12 GMT</pubDate>
@@ -292,6 +292,144 @@
             <content:encoded><![CDATA[2021.10.14
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008252_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 [소품 호텔] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11203</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11203</guid>
+            <pubDate>Fri, 08 Oct 2021 03:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.12(화) 13:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 [친정엄마와 2박3일] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11202</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11202</guid>
+            <pubDate>Fri, 08 Oct 2021 03:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.13(수) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [더 라스트맨] 리딩공연 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11201</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11201</guid>
+            <pubDate>Fri, 08 Oct 2021 03:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[성남 〈일상으로의초대〉- 샘김,윤딴딴,선우정아,죠지.... 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11200</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11200</guid>
+            <pubDate>Fri, 08 Oct 2021 03:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.12(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [풍월주] 마지막 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11199</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11199</guid>
+            <pubDate>Fri, 08 Oct 2021 03:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.12(화) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제13회 부산월드필하모닉오케스트라 The Classic 아시아의창(窓) 부산 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11198</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11198</guid>
+            <pubDate>Fri, 08 Oct 2021 03:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08(금) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“ENCORE” The French Musical Concert (부산) 프랑스 뮤지컬 오리지널팀 내한 콘서트 티켓오픈.. (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11197</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11197</guid>
+            <pubDate>Fri, 08 Oct 2021 03:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.07(목) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[은행사 시스템 점검에 따른 결제 서비스 중단 안내 (10/8, 10/9, 10/10, 10/17, 10/18) (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11196</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11196</guid>
+            <pubDate>Fri, 08 Oct 2021 03:19:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[연극 [카포네 트릴로지] 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11195</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11195</guid>
+            <pubDate>Fri, 08 Oct 2021 03:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.12(화) 13:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [시카고] - 부산 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11194</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11194</guid>
+            <pubDate>Fri, 08 Oct 2021 03:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.13(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사우스클럽 X 이정권 콘서트 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11193</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11193</guid>
+            <pubDate>Fri, 08 Oct 2021 03:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08(금) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제 80회 을숙도명품콘서트 [코로나 극복을 위한 미래의 희망] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11192</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11192</guid>
+            <pubDate>Fri, 08 Oct 2021 03:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.06(수) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 <인사이드> 2차 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11191</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11191</guid>
+            <pubDate>Fri, 08 Oct 2021 03:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제16회 부산국제매직페스티벌 매직위크 2차 티켓 오픈 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11190</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11190</guid>
+            <pubDate>Fri, 08 Oct 2021 03:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08(금) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[빈 필하모닉 ＆ 리카르도 무티 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11189</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11189</guid>
+            <pubDate>Fri, 08 Oct 2021 03:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.06(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] 1차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11188</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11188</guid>
+            <pubDate>Fri, 08 Oct 2021 03:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08(금) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[선셋시네마 파크콘서트 일정 연기 및 티켓 관련 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11187</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11187</guid>
+            <pubDate>Fri, 08 Oct 2021 03:19:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[유니버설발레단 [호두까기인형] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11186</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11186</guid>
+            <pubDate>Fri, 08 Oct 2021 03:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.07(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 [블랙메리포핀스] 1차 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11185</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11185</guid>
+            <pubDate>Fri, 08 Oct 2021 03:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.05(화) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11184</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11184</guid>
+            <pubDate>Fri, 08 Oct 2021 03:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2021.10.06(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 [소품 호텔] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -549,6 +687,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.10.06(수) 02:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 2021 대구 경북 합창페스티벌 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53255</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53255</guid>
+            <pubDate>Fri, 08 Oct 2021 03:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.12(화) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] JS뮤지션스〈재즈오케스트라 빅 밴드 콘서트 감성만족 재즈콘서트 ‘가을’〉- 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53254</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53254</guid>
@@ -645,13 +790,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53239</guid>
             <pubDate>Wed, 06 Oct 2021 09:20:19 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.07(목) 08:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021 김창옥 토크콘서트 시즌2 - 용인 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53238</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53238</guid>
-            <pubDate>Wed, 06 Oct 2021 08:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.13(수) 05:00]]></content:encoded>
         </item>
     </channel>
 </rss>
