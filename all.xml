@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 10:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 11:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.10.08(금) 05:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 대구국제미래자동차엑스포​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53267</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53267</guid>
+            <pubDate>Sun, 10 Oct 2021 11:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.13(수) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[제8회 이데일리 문화대상 시상식 –Awards & gala-​​​ 추가 티켓 오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53266</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53266</guid>
@@ -784,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53253</guid>
             <pubDate>Fri, 08 Oct 2021 02:34:37 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.14(목) 07:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 2021 소년소녀합창축제 - 대구 (19:30공연) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53252</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53252</guid>
-            <pubDate>Thu, 07 Oct 2021 16:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.08(금) 05:00]]></content:encoded>
         </item>
     </channel>
 </rss>
