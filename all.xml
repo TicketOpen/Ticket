@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 07:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 08:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -794,15 +794,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											Original 행복자의 가족 뮤지컬 <넌 특별하단다> (네이버 공연)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/theblessedplus</link>
-            <guid>https://patron.naver.com/ntv/c/intro/theblessedplus</guid>
-            <pubDate>Sun, 10 Oct 2021 12:32:15 GMT</pubDate>
-            <content:encoded><![CDATA[10월 11일(월) 14:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_122/vzpTd_1631772692114aEY3t_JPEG/1631772692095.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											뮤지컬 무인도 탈출기 2021 온라인 녹화 중계 (네이버 공연)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
             <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
@@ -874,6 +865,14 @@
             <pubDate>Sun, 10 Oct 2021 12:32:15 GMT</pubDate>
             <content:encoded><![CDATA[10월 18일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_88/YfIde_1632806788567h9Lrc_JPEG/1632806788517.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 오페라 <박하사탕> 2회차 공연 중계 (네이버 공연)]]></title>
+            <link>https://blog.naver.com/gmopera2019/222525241770</link>
+            <guid>https://blog.naver.com/gmopera2019/222525241770</guid>
+            <pubDate>Sun, 10 Oct 2021 12:32:15 GMT</pubDate>
+            <content:encoded><![CDATA[10월 19일(화) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211003_269/wwfO9_1633239397307eTLXi_JPEG/1633239397202.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
