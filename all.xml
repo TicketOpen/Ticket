@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 23:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 01:06:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021100617404280.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11210</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11210</guid>
+            <pubDate>Tue, 12 Oct 2021 01:04:38 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15(금) 17:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[“ENCORE” The French Musical Concert (대구) 프랑스 뮤지컬 오리지널팀 내한 콘서트 티켓오픈.. (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11207</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11207</guid>
@@ -426,11 +433,11 @@
             <content:encoded><![CDATA[2021.10.06(수) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] 1차 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11188</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11188</guid>
-            <pubDate>Mon, 11 Oct 2021 20:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.08(금) 11:00]]></content:encoded>
+            <title><![CDATA[유미 연말 콘서트 〈Let's just live today〉티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11210&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11210&amp;order=1</guid>
+            <pubDate>Tue, 12 Oct 2021 01:04:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-15(금) 17:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[“ENCORE” The French Musical Concert (대구) 프랑스 뮤지컬 오리지널팀 내한 콘서트 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -494,13 +501,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11199&amp;order=1</guid>
             <pubDate>Thu, 07 Oct 2021 05:17:20 GMT</pubDate>
             <content:encoded><![CDATA[2021-10-12(화) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제13회 부산월드필하모닉오케스트라 The Classic 아시아의창(窓) 부산 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11198&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11198&amp;order=1</guid>
-            <pubDate>Thu, 07 Oct 2021 01:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-08(금) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유니버설발레단 〈호두까기인형〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -688,6 +688,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.10.14(목) 07:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[어린이 매직쇼 이상한 나라의 모자장수 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53268</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53268</guid>
+            <pubDate>Tue, 12 Oct 2021 01:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.13(수) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 대구국제미래자동차엑스포​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53267</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53267</guid>
@@ -756,13 +763,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53258</guid>
             <pubDate>Fri, 08 Oct 2021 06:24:22 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.14(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53257</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53257</guid>
-            <pubDate>Fri, 08 Oct 2021 05:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.12(화) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021-22 백지영 전국투어 콘서트 〈BAEK HUG〉 - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
