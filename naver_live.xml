@@ -4,25 +4,9 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 11:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 12:30:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[국립합창단 제186회 정기연주회「훈민정음」]]></title>
-            <link>https://blog.naver.com/nachorus1973/222518378405</link>
-            <guid>https://blog.naver.com/nachorus1973/222518378405</guid>
-            <pubDate>Sun, 10 Oct 2021 12:32:15 GMT</pubDate>
-            <content:encoded><![CDATA[10월 12일(화) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_228/fPNvg_16330815503229GJc1_JPEG/1633081550284.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무용 <아뇌쿠메네> 녹화중계]]></title>
-            <link>https://blog.naver.com/jump_arko/222476181719</link>
-            <guid>https://blog.naver.com/jump_arko/222476181719</guid>
-            <pubDate>Sun, 10 Oct 2021 12:32:15 GMT</pubDate>
-            <content:encoded><![CDATA[10월 12일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210901_25/QzU5e_16304607897340Kplz_PNG/1630460789684.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[전통 <줄타는 아이와 아프리카도마뱀> 녹화중계]]></title>
             <link>https://blog.naver.com/jump_arko/222481971589</link>
@@ -87,6 +71,22 @@
             <pubDate>Tue, 12 Oct 2021 05:19:37 GMT</pubDate>
             <content:encoded><![CDATA[10월 19일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211011_295/ptiTW_1633915844829tjsQF_PNG/1633915844807.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[무용 <집속의 집_두번째 이야기> 녹화중계]]></title>
+            <link>https://blog.naver.com/jump_arko/222490464817</link>
+            <guid>https://blog.naver.com/jump_arko/222490464817</guid>
+            <pubDate>Tue, 12 Oct 2021 12:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[10월 19일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210903_40/8kRpQ_1630631237501VzILf_PNG/1630631237423.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 강북문화제 DAY 1]]></title>
+            <link>https://tv.naver.com/l/88943</link>
+            <guid>https://tv.naver.com/l/88943</guid>
+            <pubDate>Tue, 12 Oct 2021 12:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[10월 21일(목) 16:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211012_8/7I9jV_1634020447241kSIYN_PNG/1634020447223.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
