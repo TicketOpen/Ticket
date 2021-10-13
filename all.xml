@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 05:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 06:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5536</guid>
             <pubDate>Wed, 13 Oct 2021 05:17:04 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.20(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[［FOREST 2021 Halloween］WH3N 단독콘서트 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5535</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5535</guid>
+            <pubDate>Wed, 13 Oct 2021 06:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.18(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈엑스칼리버〉－전주 티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -71,11 +78,11 @@
             <content:encoded><![CDATA[2021.10.13(수) 12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Synopsis ∼climax∼ 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5525</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5525</guid>
-            <pubDate>Mon, 11 Oct 2021 03:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.14(목) 20:00]]></content:encoded>
+            <title><![CDATA[2021 오르간 오딧세이 III. 크리스마스 판타지 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40950&amp;groupno=40950&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40950&amp;groupno=40950&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 13 Oct 2021 06:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.19(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[최현우 〈더 브레인 THE BRAIN〉 블록버스터급 멘탈매직쇼 첫 티켓오.. (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[21.10.12(화)&nbsp;13:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 〈쉬어매드니스〉 - 서울 대학로 11월 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40931&amp;groupno=40931&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40931&amp;groupno=40931&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 12 Oct 2021 05:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.15(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[2021 오르간 오딧세이 III. 크리스마스 판타지 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40950</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40950</guid>
+            <pubDate>Wed, 13 Oct 2021 06:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021100721470483.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최현우 〈더 브레인 THE BRAIN〉 블록버스터급 멘탈매직쇼 첫 티켓오픈! 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2021.10.19
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101214492380.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈시카고〉 - 대구 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40939</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40939</guid>
-            <pubDate>Wed, 13 Oct 2021 01:02:44 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.19
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101216395698.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[세종문화회관] 네트워크 작업으로 인한 실시간 연동 판매 서비스 중단안내(10/21) (예스24 티켓)]]></title>
@@ -684,6 +684,20 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.10.13(수) 01:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2021 달서청년연극제 <버지니아 그레이의 초상> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53291</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53291</guid>
+            <pubDate>Wed, 13 Oct 2021 06:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.14(목) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 카라바지오 바로크의 빛을 만들다 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53290</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53290</guid>
+            <pubDate>Wed, 13 Oct 2021 06:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.14(목) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] [현악사중주 ⑤] 아레테 콰르텟-광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53289</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53289</guid>
@@ -773,20 +787,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53277</guid>
             <pubDate>Tue, 12 Oct 2021 08:23:37 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.13(수) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스티브바라캇 내한공연 with 데이드림 - 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53276</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53276</guid>
-            <pubDate>Tue, 12 Oct 2021 08:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.14(목) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스티브바라캇 내한공연 with 데이드림 - 춘천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53275</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53275</guid>
-            <pubDate>Tue, 12 Oct 2021 08:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.14(목) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[전통 <줄타는 아이와 아프리카도마뱀> 녹화중계 (네이버 공연)]]></title>
