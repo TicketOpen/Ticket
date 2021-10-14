@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 06:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 07:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5531</guid>
             <pubDate>Wed, 13 Oct 2021 03:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.20(수) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 ＇ 미니특공대 애니멀트론＇ 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40959&amp;groupno=40959&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40959&amp;groupno=40959&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 14 Oct 2021 07:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.20(수)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬〈엔딩 노트〉 1차 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[&nbsp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈트레이스 유〉 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40941&amp;groupno=40941&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40941&amp;groupno=40941&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 13 Oct 2021 01:02:16 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.15(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[가족뮤지컬 ＇ 미니특공대 애니멀트론＇ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40959</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40959</guid>
+            <pubDate>Thu, 14 Oct 2021 07:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.20
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101322285405.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬〈엔딩 노트〉 1차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -255,7 +264,7 @@
             <pubDate>Thu, 14 Oct 2021 03:20:16 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.15
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101218225430.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009696_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈미인〉 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2021.10.19
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021100721470483.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최현우 〈더 브레인 THE BRAIN〉 블록버스터급 멘탈매직쇼 첫 티켓오픈! 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40949</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40949</guid>
-            <pubDate>Wed, 13 Oct 2021 05:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.20
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101310320143.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [미인] 3차 티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -499,7 +499,7 @@
             <content:encoded><![CDATA[2021-10-14(목) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공지]세종문화회관 네트워크 작업으로 인한 서비스 일시 중단 안내(10/21 21:00~24:00) N (위메프 공연티켓)]]></title>
+            <title><![CDATA[[공지]세종문화회관 네트워크 작업으로 인한 서비스 일시 중단 안내(10/21 21:00~24:00) (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/751</link>
             <guid>https://ticket.wemakeprice.com/opennotice/751</guid>
             <pubDate>Wed, 13 Oct 2021 07:19:28 GMT</pubDate>
@@ -507,7 +507,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202110/13/31hew8ce5fyn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[#Refresh on Friday 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <title><![CDATA[[bright#10 발매공연] #Refresh on Friday 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/750</link>
             <guid>https://ticket.wemakeprice.com/opennotice/750</guid>
             <pubDate>Tue, 12 Oct 2021 09:19:00 GMT</pubDate>
@@ -515,7 +515,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/36/202110/14/zol5st9wuqiv.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[[Playlist] 덩크 (DUNK), 마치 (MRCH)  - 평범했던 당신의 일상에 사랑을 담아줄 노래 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <title><![CDATA[[bright#10 발매공연] [Playlist] 덩크 (DUNK), 마치 (MRCH)  - 평범했던 당신의 일상에 사랑을 담아줄 노래 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/749</link>
             <guid>https://ticket.wemakeprice.com/opennotice/749</guid>
             <pubDate>Tue, 12 Oct 2021 09:19:00 GMT</pubDate>
@@ -523,7 +523,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/45/202110/14/rtsqcutnzrpz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[집들이: 우리집에 왜 왔니? - 성해빈&이고도 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <title><![CDATA[[bright#10 발매공연] 집들이: 우리집에 왜 왔니? - 성해빈&이고도 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/748</link>
             <guid>https://ticket.wemakeprice.com/opennotice/748</guid>
             <pubDate>Tue, 12 Oct 2021 09:19:00 GMT</pubDate>
@@ -531,7 +531,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/36/202110/14/ejmghmk3o1cz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Dear U From Bright : 박채린, 유다빈, 이준형 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <title><![CDATA[[bright#10 발매공연] Dear U From Bright : 박채린, 유다빈, 이준형 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/747</link>
             <guid>https://ticket.wemakeprice.com/opennotice/747</guid>
             <pubDate>Tue, 12 Oct 2021 09:19:00 GMT</pubDate>
@@ -684,6 +684,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.10.15(금) 01:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[단독판매] [특별기획 : 개관 30주년] 12Cellists - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53303</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53303</guid>
+            <pubDate>Thu, 14 Oct 2021 07:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15(금) 08:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 뮤지컬 갈라 콘서트 <빛나는 별들의 목소리> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53302</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53302</guid>
@@ -778,13 +785,6 @@
             <title><![CDATA[[단독판매] [현악사중주 ⑤] 아레테 콰르텟-광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53289</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53289</guid>
-            <pubDate>Wed, 13 Oct 2021 04:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.15(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] [현악사중주 ④] 리수스 콰르텟-광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53288</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53288</guid>
             <pubDate>Wed, 13 Oct 2021 04:26:46 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.15(금) 05:00]]></content:encoded>
         </item>
