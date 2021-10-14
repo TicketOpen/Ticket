@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-14T02:11:56.101Z</updated>
+    <updated>2021-10-14T03:22:26.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈엑스칼리버〉－대전 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5541</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5541"/>
+        <updated>2021-10-14T03:19:44.578Z</updated>
+        <content type="html"><![CDATA[2021.10.14(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［2021 가을 나눔콘서트 ‘OK’］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5538</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5538"/>
+        <updated>2021-10-14T03:19:44.591Z</updated>
+        <content type="html"><![CDATA[2021.10.15(금) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌4［음악여행，쉼］그＿냥 단독 콘서트 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5537</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5537"/>
+        <updated>2021-10-14T03:19:44.599Z</updated>
+        <content type="html"><![CDATA[2021.10.21(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최현우 〈더 브레인 THE BRAIN〉 블록버스터급 멘탈매직쇼 첫 티켓오픈！]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5536</id>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5530"/>
         <updated>2021-10-12T03:19:34.633Z</updated>
         <content type="html"><![CDATA[2021.10.15(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다린 세번째 미니앨범 〈갈래〉 발매 기념 콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5529</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5529"/>
-        <updated>2021-10-12T03:19:34.635Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온스타인웨이 Vol．8 〈임세모〉－온라인 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5528</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5528"/>
-        <updated>2021-10-12T06:21:28.779Z</updated>
-        <content type="html"><![CDATA[2021.10.14(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［2021，Autumn Fanmeeting with 리누］ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5527</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5527"/>
-        <updated>2021-10-12T03:19:34.667Z</updated>
-        <content type="html"><![CDATA[2021.10.13(수) 18:00]]></content>
     </entry>
 </feed>
