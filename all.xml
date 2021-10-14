@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 08:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 09:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5541</guid>
             <pubDate>Thu, 14 Oct 2021 03:19:44 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.14(목) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[위수 단독 공연 〈위수의 사계〉 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5540</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5540</guid>
+            <pubDate>Thu, 14 Oct 2021 09:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15(금) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[슈가레코드 레이블데이 콘서트 Vol．4 앵콜 조인트 공연（달에닿아，엔분의일，당기시오）티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5532</guid>
             <pubDate>Tue, 12 Oct 2021 11:15:23 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.15(금) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［허드 단독 콘서트］티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5531</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5531</guid>
-            <pubDate>Wed, 13 Oct 2021 03:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.20(수) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NELL’S SEASON 2021 encore - ‘Bits and pieces’ 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -548,6 +548,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.10.15(금) 01:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 대구국제방송교향악단 〈레미제라블:장발장〉티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53305</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53305</guid>
+            <pubDate>Thu, 14 Oct 2021 09:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15(금) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2021 셀러브리티 로코연극]러브액츄얼리 오리지날 크리스마스 특별공연 포항​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53304</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53304</guid>
@@ -642,13 +649,6 @@
             <title><![CDATA[[단독판매] 2021 달서청년연극제 <버지니아 그레이의 초상> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53291</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53291</guid>
-            <pubDate>Wed, 13 Oct 2021 06:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.14(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 카라바지오 바로크의 빛을 만들다 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53290</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53290</guid>
             <pubDate>Wed, 13 Oct 2021 06:24:38 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.14(목) 05:00]]></content:encoded>
         </item>
