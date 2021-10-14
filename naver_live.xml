@@ -4,17 +4,9 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 11:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 12:32:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[전통 <줄타는 아이와 아프리카도마뱀> 녹화중계]]></title>
-            <link>https://blog.naver.com/jump_arko/222481971589</link>
-            <guid>https://blog.naver.com/jump_arko/222481971589</guid>
-            <pubDate>Sun, 10 Oct 2021 12:32:15 GMT</pubDate>
-            <content:encoded><![CDATA[10월 14일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210907_284/Is8DD_1630986590494SMUxQ_PNG/1630986590463.PNG" length="0" type="image/PNG"/>
-        </item>
         <item>
             <title><![CDATA[제15회 칠포재즈페스티벌 2021 10월16일(토) 공연]]></title>
             <link>https://blog.naver.com/74jazz/222521903848</link>
@@ -87,6 +79,14 @@
             <pubDate>Tue, 12 Oct 2021 12:30:52 GMT</pubDate>
             <content:encoded><![CDATA[10월 21일(목) 16:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211012_8/7I9jV_1634020447241kSIYN_PNG/1634020447223.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <햄릿의 비극> 녹화중계]]></title>
+            <link>https://blog.naver.com/jump_arko/222498954626</link>
+            <guid>https://blog.naver.com/jump_arko/222498954626</guid>
+            <pubDate>Thu, 14 Oct 2021 12:32:03 GMT</pubDate>
+            <content:encoded><![CDATA[10월 21일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210908_19/lisvB_1631080907087yIFvi_PNG/1631080907064.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
