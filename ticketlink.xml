@@ -2,15 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-10-15T06:24:45.661Z</updated>
+    <updated>2021-10-15T07:19:56.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 김창옥 토크콘서트 시즌 2 - 세종시​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53314</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53314"/>
+        <updated>2021-10-15T07:19:27.357Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.21(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(2021 고양) 팥죽할멈과 호랑이​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53313</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53313"/>
+        <updated>2021-10-15T07:19:27.359Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.20(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(2021 고양) 뮤지컬 루돌프와 산타클로스​​​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53312</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53312"/>
+        <updated>2021-10-15T07:19:27.364Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.20(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[KRUSH ON : K-POP RUSH ON YOU] 내 방으로 놀러와 EP2. 아스트로 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53311</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53311"/>
+        <updated>2021-10-15T07:19:27.370Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.15(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슈퍼밴드2 콘서트 - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53310</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53310"/>
+        <updated>2021-10-15T07:19:27.398Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.22(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(2021 부산을숙도) 뮤지컬 루돌프와 산타클로스​​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53309</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53309"/>
+        <updated>2021-10-15T07:19:27.457Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.20(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 제10회 대구 커피&카페 박람회 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53308</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53308"/>
         <updated>2021-10-14T21:17:54.514Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.16(토) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(2021 부산금정) 뮤지컬 루돌프와 산타클로스​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53307</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53307"/>
+        <updated>2021-10-15T07:19:27.477Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.20(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(2021 전주) 뮤지컬 루돌프와 산타클로스​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53306</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53306"/>
+        <updated>2021-10-15T07:19:27.492Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.20(수) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 대구국제방송교향악단 〈레미제라블:장발장〉티켓오픈 안내]]></title>
@@ -34,13 +90,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.15(금) 08:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 갈라 콘서트 <빛나는 별들의 목소리> - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53302</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53302"/>
-        <updated>2021-10-14T21:17:54.525Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.15(금) 01:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독판매] 박신혜 바이올린 독주회 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53301</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53301"/>
@@ -60,54 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53299"/>
         <updated>2021-10-14T21:17:54.536Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.16(토) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EBS 번개맨 뮤지컬 “부제:검은 번개맨의 정체는?”-목포 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53298</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53298"/>
-        <updated>2021-10-14T21:17:54.538Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.15(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] The One Chamber Orchestra 제4회 정기연주회 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53297</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53297"/>
-        <updated>2021-10-14T21:17:54.539Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.15(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2021_셀러브리티 로코연극] 러브액츄얼리 오리지날 크리스마스 특별공연 - 인천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53296</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53296"/>
-        <updated>2021-10-14T21:17:54.545Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.15(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 와이즈발레단 〈지젤 GISELLE〉 - 원주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53295</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53295"/>
-        <updated>2021-10-14T21:17:54.555Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.18(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립발레단 특별기획공연 [발레 살롱콘서트Ⅴ] 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53294</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53294"/>
-        <updated>2021-10-13T09:19:31.826Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.15(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2021 달서청년연극제 <커튼 콜> - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53293</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53293"/>
-        <updated>2021-10-13T09:19:31.828Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.14(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2021 달서청년연극제 <찬란한 여름> - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53292</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53292"/>
-        <updated>2021-10-13T09:19:31.828Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.14(목) 05:00]]></content>
     </entry>
 </feed>
