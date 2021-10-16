@@ -4,17 +4,9 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 12:29:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 13:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[제15회 칠포재즈페스티벌 2021 10월16일(토) 공연]]></title>
-            <link>https://blog.naver.com/74jazz/222521903848</link>
-            <guid>https://blog.naver.com/74jazz/222521903848</guid>
-            <pubDate>Sun, 10 Oct 2021 12:32:15 GMT</pubDate>
-            <content:encoded><![CDATA[10월 16일(토) 17:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210928_9/bOOSz_1632806534171iG6zr_JPEG/1632806534107.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[다이어리.0328.봄]]></title>
             <link>https://blog.naver.com/cjforest418/222528643460</link>
@@ -87,6 +79,14 @@
             <pubDate>Thu, 14 Oct 2021 12:32:03 GMT</pubDate>
             <content:encoded><![CDATA[10월 21일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210908_19/lisvB_1631080907087yIFvi_PNG/1631080907064.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 강북문화제 DAY 2]]></title>
+            <link>https://tv.naver.com/l/88944</link>
+            <guid>https://tv.naver.com/l/88944</guid>
+            <pubDate>Sat, 16 Oct 2021 13:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[10월 22일(금) 16:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211012_219/1BDAG_1634020631715xTJGd_PNG/1634020631699.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
