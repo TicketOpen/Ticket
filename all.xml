@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 01:07:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 02:38:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009699_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 [V 에버 애프터] 추가 티켓 오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11228</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11228</guid>
+            <pubDate>Sat, 16 Oct 2021 02:36:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.18(월) 15:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 [천사에 관하여 : 타락천사 편] 2차 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11227</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11227</guid>
@@ -423,11 +430,11 @@
             <content:encoded><![CDATA[2021.10.14(목) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“ENCORE” The French Musical Concert (대구) 프랑스 뮤지컬 오리지널팀 내한 콘서트 티켓오픈.. (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11207</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11207</guid>
-            <pubDate>Fri, 15 Oct 2021 11:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.15(금) 11:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 [V 에버 애프터] 추가 티켓 오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11228&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11228&amp;order=1</guid>
+            <pubDate>Sat, 16 Oct 2021 02:36:25 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-18(월) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [천사에 관하여 : 타락천사 편] 2차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -490,13 +497,6 @@
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11216&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11216&amp;order=1</guid>
             <pubDate>Tue, 12 Oct 2021 06:22:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[문태국 ＆ 임동혁 듀오 리사이틀 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11215&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11215&amp;order=1</guid>
-            <pubDate>Tue, 12 Oct 2021 03:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-12(화) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공지]세종문화회관 네트워크 작업으로 인한 서비스 일시 중단 안내(10/21 21:00~24:00) (위메프 공연티켓)]]></title>
