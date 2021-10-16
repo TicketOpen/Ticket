@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 21:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 22:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -579,6 +579,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/14/202109/29/fmyfugshhdmz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어린이가족뮤지컬 <신데렐라>  - 구미 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53319</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53319</guid>
+            <pubDate>Sat, 16 Oct 2021 22:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.10.19(화) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[어린이 가족 뮤지컬  <오즈의 마법사> 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53318</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53318</guid>
@@ -675,13 +682,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/53305</guid>
             <pubDate>Thu, 14 Oct 2021 21:17:54 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2021.10.15(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2021 셀러브리티 로코연극]러브액츄얼리 오리지날 크리스마스 특별공연 포항​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53304</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53304</guid>
-            <pubDate>Thu, 14 Oct 2021 21:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.10.15(금) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어린이가족뮤지컬 <신데렐라>  - 구미 티켓오픈 안내 (티켓링크 모바일)]]></title>
