@@ -4,9 +4,17 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 06:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 07:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다이어리 0328 봄]]></title>
+            <link>https://m.blog.naver.com/cjforest418/222528643460</link>
+            <guid>https://m.blog.naver.com/cjforest418/222528643460</guid>
+            <pubDate>Sun, 17 Oct 2021 07:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[10월 17일(일) 16:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211017_61/Q5zrJ_1634452908643ugbpV_JPEG/1634452908632.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제15회 칠포재즈페스티벌 10월17일(일) 공연]]></title>
             <link>https://blog.naver.com/74jazz/222521903848</link>
@@ -79,15 +87,6 @@
             <pubDate>Sat, 16 Oct 2021 13:24:05 GMT</pubDate>
             <content:encoded><![CDATA[10월 22일(금) 16:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211012_219/1BDAG_1634020631715xTJGd_PNG/1634020631699.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											크로스오버 그룹 안단테 첫 번째 콘서트 실황]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
-            <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
-            <pubDate>Sun, 17 Oct 2021 06:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[10월 23일(토) 17:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210930_237/5zZdt_16330122424225MNzR_JPEG/1633012242411.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
