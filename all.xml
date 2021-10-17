@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 23:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 01:03:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -684,6 +684,20 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.10.15(금) 05:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[어린이 액션뮤지컬 <레이디버그> 여수 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53321</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53321</guid>
+            <pubDate>Sun, 17 Oct 2021 01:03:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.19(화) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어린이 액션뮤지컬 <레이디버그> 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53320</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53320</guid>
+            <pubDate>Sun, 17 Oct 2021 01:03:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.19(화) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[어린이가족뮤지컬 <신데렐라>  - 구미 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53319</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53319</guid>
@@ -773,20 +787,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53307</guid>
             <pubDate>Fri, 15 Oct 2021 01:06:40 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.20(수) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(2021 전주) 뮤지컬 루돌프와 산타클로스​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53306</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53306</guid>
-            <pubDate>Fri, 15 Oct 2021 01:06:40 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.20(수) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 대구국제방송교향악단 〈레미제라블:장발장〉티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53305</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53305</guid>
-            <pubDate>Thu, 14 Oct 2021 09:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.15(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[다이어리.0328.봄 (네이버 공연)]]></title>
