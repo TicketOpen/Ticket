@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 01:03:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 02:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -684,6 +684,20 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.10.15(금) 05:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[어린이 액션뮤지컬 <레이디버그> 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53323</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53323</guid>
+            <pubDate>Sun, 17 Oct 2021 02:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.19(화) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 <슈퍼윙스> 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53322</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53322</guid>
+            <pubDate>Sun, 17 Oct 2021 02:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.19(화) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[어린이 액션뮤지컬 <레이디버그> 여수 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53321</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53321</guid>
@@ -771,20 +785,6 @@
             <title><![CDATA[(2021 부산을숙도) 뮤지컬 루돌프와 산타클로스​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53309</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53309</guid>
-            <pubDate>Fri, 15 Oct 2021 01:06:40 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.20(수) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 제10회 대구 커피&카페 박람회 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53308</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53308</guid>
-            <pubDate>Thu, 14 Oct 2021 10:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.16(토) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(2021 부산금정) 뮤지컬 루돌프와 산타클로스​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53307</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53307</guid>
             <pubDate>Fri, 15 Oct 2021 01:06:40 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.20(수) 00:00]]></content:encoded>
         </item>
