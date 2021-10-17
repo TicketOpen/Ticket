@@ -4,17 +4,9 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 12:30:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 13:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[제15회 칠포재즈페스티벌 10월17일(일) 공연]]></title>
-            <link>https://blog.naver.com/74jazz/222521903848</link>
-            <guid>https://blog.naver.com/74jazz/222521903848</guid>
-            <pubDate>Sun, 10 Oct 2021 12:32:15 GMT</pubDate>
-            <content:encoded><![CDATA[10월 17일(일) 17:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210928_283/EpJSv_1632807186324NinTu_JPEG/1632807186305.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2021 오페라 <박하사탕> 1회차 공연 중계]]></title>
             <link>https://blog.naver.com/gmopera2019/222525241770</link>
@@ -88,6 +80,15 @@
             <pubDate>Sun, 17 Oct 2021 09:19:58 GMT</pubDate>
             <content:encoded><![CDATA[10월 23일(토) 17:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210930_237/5zZdt_16330122424225MNzR_JPEG/1633012242411.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬1976할란카운티 공연실황 Live]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/eternaljourney</link>
+            <guid>https://patron.naver.com/ntv/c/intro/eternaljourney</guid>
+            <pubDate>Sun, 17 Oct 2021 13:24:13 GMT</pubDate>
+            <content:encoded><![CDATA[10월 23일(토) 18:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210917_47/iolwh_1631853877712lyf5k_JPEG/1631853877687.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
