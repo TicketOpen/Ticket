@@ -4,17 +4,9 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 10:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 11:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2021 오페라 <박하사탕> 1회차 공연 중계]]></title>
-            <link>https://blog.naver.com/gmopera2019/222525241770</link>
-            <guid>https://blog.naver.com/gmopera2019/222525241770</guid>
-            <pubDate>Sun, 10 Oct 2021 12:32:15 GMT</pubDate>
-            <content:encoded><![CDATA[10월 18일(월) 17:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211003_269/wwfO9_1633239397307eTLXi_JPEG/1633239397202.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 무인도 탈출기 2021 온라인 녹화 중계]]></title>
@@ -89,6 +81,15 @@
             <pubDate>Sun, 17 Oct 2021 13:24:13 GMT</pubDate>
             <content:encoded><![CDATA[10월 23일(토) 18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210917_47/iolwh_1631853877712lyf5k_JPEG/1631853877687.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											크로스오버 그룹 안단테 첫 번째 콘서트 실황]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
+            <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
+            <pubDate>Sun, 17 Oct 2021 09:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[10월 24일(일) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_108/GDSmT_1633050518665iPj2M_JPEG/1633050518652.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
