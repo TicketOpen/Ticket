@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 14:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 15:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -790,15 +790,6 @@
             <content:encoded><![CDATA[2021.10.19(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[후원
-											뮤지컬 무인도 탈출기 2021 온라인 녹화 중계 (네이버 공연)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
-            <pubDate>Sun, 10 Oct 2021 12:32:15 GMT</pubDate>
-            <content:encoded><![CDATA[10월 18일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210928_88/YfIde_1632806788567h9Lrc_JPEG/1632806788517.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2021 오페라 <박하사탕> 2회차 공연 중계 (네이버 공연)]]></title>
             <link>https://blog.naver.com/gmopera2019/222525241770</link>
             <guid>https://blog.naver.com/gmopera2019/222525241770</guid>
@@ -872,6 +863,15 @@
             <pubDate>Sun, 17 Oct 2021 09:19:58 GMT</pubDate>
             <content:encoded><![CDATA[10월 24일(일) 17:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211001_108/GDSmT_1633050518665iPj2M_JPEG/1633050518652.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											망태할아버지가 온다. <경기인형극제> (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ggipuppet</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ggipuppet</guid>
+            <pubDate>Mon, 18 Oct 2021 15:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[10월 25일(월) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210928_150/4B5hO_1632811953364MBSnl_JPEG/1632811953332.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
