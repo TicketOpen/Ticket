@@ -4,17 +4,9 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 12:31:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 13:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[프로테 디 콰트로 더 클래식 (Forte Di Quattro The Classic)]]></title>
-            <link>https://blog.naver.com/art_cbs/222533404600</link>
-            <guid>https://blog.naver.com/art_cbs/222533404600</guid>
-            <pubDate>Tue, 12 Oct 2021 05:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[10월 19일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211011_295/ptiTW_1633915844829tjsQF_PNG/1633915844807.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[2021 강북문화제 DAY 1]]></title>
             <link>https://tv.naver.com/l/88943</link>
@@ -91,6 +83,15 @@
             <pubDate>Tue, 19 Oct 2021 12:31:49 GMT</pubDate>
             <content:encoded><![CDATA[10월 25일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211006_33/inCmI_1633505394266YcdCA_PNG/1633505394232.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											찾아가는 이야기 수레 "배고파".<경기인형극제>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ggipuppet</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ggipuppet</guid>
+            <pubDate>Mon, 18 Oct 2021 15:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[10월 26일(화) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210930_205/iQ8ez_1632972977275Q6NcN_JPEG/1632972977253.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
