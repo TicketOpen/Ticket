@@ -4,7 +4,7 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 11:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 12:31:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 12 Oct 2021 05:19:37 GMT</pubDate>
             <content:encoded><![CDATA[10월 19일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211011_295/ptiTW_1633915844829tjsQF_PNG/1633915844807.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[무용 <집속의 집_두번째 이야기> 녹화중계]]></title>
-            <link>https://blog.naver.com/jump_arko/222490464817</link>
-            <guid>https://blog.naver.com/jump_arko/222490464817</guid>
-            <pubDate>Tue, 12 Oct 2021 12:30:52 GMT</pubDate>
-            <content:encoded><![CDATA[10월 19일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210903_40/8kRpQ_1630631237501VzILf_PNG/1630631237423.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
             <title><![CDATA[2021 강북문화제 DAY 1]]></title>
@@ -90,6 +82,15 @@
             <pubDate>Mon, 18 Oct 2021 15:22:43 GMT</pubDate>
             <content:encoded><![CDATA[10월 25일(월) 17:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_150/4B5hO_1632811953364MBSnl_JPEG/1632811953332.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <레드북> 10월 25일 19:30 녹화 중계]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
+            <pubDate>Tue, 19 Oct 2021 12:31:49 GMT</pubDate>
+            <content:encoded><![CDATA[10월 25일(월) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211006_33/inCmI_1633505394266YcdCA_PNG/1633505394232.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
