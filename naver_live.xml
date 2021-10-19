@@ -4,17 +4,9 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 10:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 11:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2021 오페라 <박하사탕> 2회차 공연 중계]]></title>
-            <link>https://blog.naver.com/gmopera2019/222525241770</link>
-            <guid>https://blog.naver.com/gmopera2019/222525241770</guid>
-            <pubDate>Sun, 10 Oct 2021 12:32:15 GMT</pubDate>
-            <content:encoded><![CDATA[10월 19일(화) 17:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211003_269/wwfO9_1633239397307eTLXi_JPEG/1633239397202.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[프로테 디 콰트로 더 클래식 (Forte Di Quattro The Classic)]]></title>
             <link>https://blog.naver.com/art_cbs/222533404600</link>
@@ -81,6 +73,14 @@
             <pubDate>Sun, 17 Oct 2021 09:19:58 GMT</pubDate>
             <content:encoded><![CDATA[10월 24일(일) 17:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211001_108/GDSmT_1633050518665iPj2M_JPEG/1633050518652.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 콘서트 : 코레아의 신부]]></title>
+            <link>https://tv.naver.com/l/89381</link>
+            <guid>https://tv.naver.com/l/89381</guid>
+            <pubDate>Tue, 19 Oct 2021 11:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[10월 24일(일) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211018_116/IRVTh_1634486447086hSEKy_JPEG/1634486447072.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
