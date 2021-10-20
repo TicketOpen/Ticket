@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 05:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 06:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,18 +78,18 @@
             <content:encoded><![CDATA[2021.10.19(화) 18:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈어쩌면 해피엔딩〉 Live 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41026&amp;groupno=41026&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41026&amp;groupno=41026&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 20 Oct 2021 06:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.25(월)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[히사이시 조 영화음악 콘서트_성남 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41025&amp;groupno=41025&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41025&amp;groupno=41025&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 20 Oct 2021 05:17:00 GMT</pubDate>
             <content:encoded><![CDATA[21.10.27(수)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트_고양 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41024&amp;groupno=41024&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41024&amp;groupno=41024&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 20 Oct 2021 05:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.28(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[예프게니 키신 피아노 리사이틀 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -204,6 +204,15 @@
             <content:encoded><![CDATA[21.10.22(금)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈어쩌면 해피엔딩〉 Live 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41026</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41026</guid>
+            <pubDate>Wed, 20 Oct 2021 06:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101914263610.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[히사이시 조 영화음악 콘서트_성남 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41025</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41025</guid>
@@ -211,15 +220,6 @@
             <content:encoded><![CDATA[2021.10.27
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101910024705.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트_고양 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41024</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41024</guid>
-            <pubDate>Wed, 20 Oct 2021 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.28
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101909594520.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예프게니 키신 피아노 리사이틀 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -292,6 +292,13 @@
             <content:encoded><![CDATA[2021.10.21
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101514440831.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ATEEZ(에이티즈) XR SHOW [FEVER : eXtended edition] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11240</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11240</guid>
+            <pubDate>Wed, 20 Oct 2021 06:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.22(금) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [이토록 보통의] 추가좌석 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -426,10 +433,11 @@
             <pubDate>Wed, 20 Oct 2021 02:32:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[삼성증권 시스템 작업에 따른 결제 서비스 중단 안내(10/17) (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11219</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11219</guid>
-            <pubDate>Wed, 20 Oct 2021 02:32:53 GMT</pubDate>
+            <title><![CDATA[ATEEZ(에이티즈) XR SHOW [FEVER : eXtended edition] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11240&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11240&amp;order=1</guid>
+            <pubDate>Wed, 20 Oct 2021 06:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[2021-10-22(금) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [이토록 보통의] 추가좌석 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -493,13 +501,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11230&amp;order=1</guid>
             <pubDate>Tue, 19 Oct 2021 05:18:10 GMT</pubDate>
             <content:encoded><![CDATA[2021-10-21(목) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최재림 콘서트 Monday Off! 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11229&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11229&amp;order=1</guid>
-            <pubDate>Mon, 18 Oct 2021 02:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-22(금) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공지]세종문화회관 네트워크 작업으로 인한 서비스 일시 중단 안내(10/21 21:00~24:00) (위메프 공연티켓)]]></title>
@@ -687,6 +688,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.10.20(수) 01:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 창작타악 프로젝트 「일로(一路);한가지 길」 - 대구  티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53372</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53372</guid>
+            <pubDate>Wed, 20 Oct 2021 06:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.21(목) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 2021 K-POP in Suncheon 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53371</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53371</guid>
@@ -783,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53358</guid>
             <pubDate>Tue, 19 Oct 2021 10:22:16 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.20(수) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 소프라노 이은경 독창회 (SOPRANO EUNKYUNG LEE RECITAL) - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53357</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53357</guid>
-            <pubDate>Tue, 19 Oct 2021 10:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.20(수) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 강북문화제 DAY 1 (네이버 공연)]]></title>
