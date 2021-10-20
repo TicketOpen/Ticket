@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 10:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 11:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.10.20(수) 01:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 퓨전국악 - 시즌 오브 소울 콘서트 (안동)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53375</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53375</guid>
+            <pubDate>Wed, 20 Oct 2021 11:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.21(목) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬〈천사에 관하여 : 타락천사 편〉2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53374</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53374</guid>
@@ -782,13 +789,6 @@
             <title><![CDATA[(부천) 2021 가족뮤지컬 어린이캣 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53361</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53361</guid>
-            <pubDate>Tue, 19 Oct 2021 11:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.22(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(당진) 2021 가족뮤지컬 백설공주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53360</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53360</guid>
             <pubDate>Tue, 19 Oct 2021 11:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.22(금) 00:00]]></content:encoded>
         </item>
