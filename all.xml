@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 11:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 12:32:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -444,6 +444,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/25/202110/01/wbzua5zyukjy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] [광주시립교향악단] 제359회 정기연주회, 마지막 유산 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53380</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53380</guid>
+            <pubDate>Thu, 21 Oct 2021 12:31:54 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.10.21(목) 08:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[대구] 뷰티풀라이프 - 문화예술전용극장CT 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53379</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53379</guid>
+            <pubDate>Thu, 21 Oct 2021 12:31:54 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.10.22(금) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 양희경의 달콤한 클래식 - 대구 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53378</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53378</guid>
@@ -533,20 +547,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/53365</guid>
             <pubDate>Tue, 19 Oct 2021 11:17:02 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2021.10.26(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[댄스씨어터 창 <굿_마른오구> 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53364</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53364</guid>
-            <pubDate>Tue, 19 Oct 2021 11:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.01(월) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Getz/Gilberto Encore! 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53363</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53363</guid>
-            <pubDate>Tue, 19 Oct 2021 11:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.10.25(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] [광주시립교향악단] 제359회 정기연주회, 마지막 유산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -654,22 +654,6 @@
             <content:encoded><![CDATA[2021.10.26(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[10/21 <더 첼리스트 - 김두민 Cello, 김태형 Piano> (네이버 공연)]]></title>
-            <link>https://blog.naver.com/kaculture/222537739523</link>
-            <guid>https://blog.naver.com/kaculture/222537739523</guid>
-            <pubDate>Thu, 21 Oct 2021 02:37:52 GMT</pubDate>
-            <content:encoded><![CDATA[10월 21일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_9/ywimp_1634263109564jebSE_JPEG/1634263109550.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <햄릿의 비극> 녹화중계 (네이버 공연)]]></title>
-            <link>https://blog.naver.com/jump_arko/222498954626</link>
-            <guid>https://blog.naver.com/jump_arko/222498954626</guid>
-            <pubDate>Thu, 14 Oct 2021 12:32:03 GMT</pubDate>
-            <content:encoded><![CDATA[10월 21일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210908_19/lisvB_1631080907087yIFvi_PNG/1631080907064.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
             <title><![CDATA[2021 강북문화제 DAY 2 (네이버 공연)]]></title>
             <link>https://tv.naver.com/l/88944</link>
             <guid>https://tv.naver.com/l/88944</guid>
@@ -738,6 +722,22 @@
             <pubDate>Mon, 18 Oct 2021 15:22:43 GMT</pubDate>
             <content:encoded><![CDATA[10월 26일(화) 17:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210930_205/iQ8ez_1632972977275Q6NcN_JPEG/1632972977253.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무용 <2nd Altimeets> 녹화중계 (네이버 공연)]]></title>
+            <link>https://blog.naver.com/jump_arko/222482057162</link>
+            <guid>https://blog.naver.com/jump_arko/222482057162</guid>
+            <pubDate>Thu, 21 Oct 2021 12:32:23 GMT</pubDate>
+            <content:encoded><![CDATA[10월 26일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210903_173/2IMTW_1630634003523PcUwE_PNG/1630634003512.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[11시콘서트＜바이올리니스트 김재영＞ (네이버 공연)]]></title>
+            <link>https://tv.naver.com/l/89223</link>
+            <guid>https://tv.naver.com/l/89223</guid>
+            <pubDate>Thu, 21 Oct 2021 12:32:23 GMT</pubDate>
+            <content:encoded><![CDATA[10월 27일(수) 11:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_83/xaX2e_1634262953171dU4uP_JPEG/1634262953140.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
