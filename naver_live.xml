@@ -4,17 +4,9 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 08:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 09:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2021 강북문화제 DAY 2]]></title>
-            <link>https://tv.naver.com/l/88944</link>
-            <guid>https://tv.naver.com/l/88944</guid>
-            <pubDate>Sat, 16 Oct 2021 13:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[10월 22일(금) 16:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211012_219/1BDAG_1634020631715xTJGd_PNG/1634020631699.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											크로스오버 그룹 안단테 첫 번째 콘서트 실황]]></title>
@@ -92,6 +84,15 @@
             <pubDate>Thu, 21 Oct 2021 12:32:23 GMT</pubDate>
             <content:encoded><![CDATA[10월 27일(수) 11:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_83/xaX2e_1634262953171dU4uP_JPEG/1634262953140.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											블랙라이트 인형극 미운오리새끼 <경기인형극제>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ggipuppet</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ggipuppet</guid>
+            <pubDate>Mon, 18 Oct 2021 15:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[10월 27일(수) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210930_269/H7DYB_16329729432340vPay_JPEG/1632972943222.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
