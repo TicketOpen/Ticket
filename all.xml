@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 05:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 06:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -591,6 +591,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/25/202110/01/wbzua5zyukjy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Night of Operatic Ensembl - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53385</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53385</guid>
+            <pubDate>Fri, 22 Oct 2021 06:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.10.25(월) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2021 디에이드의 첫 토크콘서트] 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53384</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53384</guid>
@@ -689,11 +696,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.10.21(목) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 블랙스트링 10주년 콘서트 - Road of Oasis - 광주 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53369</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53369</guid>
-            <pubDate>Wed, 20 Oct 2021 04:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.10.21(목) 05:00]]></content:encoded>
+            <title><![CDATA[The Night of Operatic Ensembl - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53385</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53385</guid>
+            <pubDate>Fri, 22 Oct 2021 06:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.25(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2021 디에이드의 첫 토크콘서트] 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -792,13 +799,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53370</guid>
             <pubDate>Wed, 20 Oct 2021 05:19:12 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.21(목) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 블랙스트링 10주년 콘서트 - Road of Oasis - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53369</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53369</guid>
-            <pubDate>Wed, 20 Oct 2021 02:34:43 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.21(목) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 강북문화제 DAY 2 (네이버 공연)]]></title>
