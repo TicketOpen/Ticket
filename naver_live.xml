@@ -4,27 +4,9 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 13:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 15:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											크로스오버 그룹 안단테 첫 번째 콘서트 실황]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/weclassic</link>
-            <guid>https://patron.naver.com/ntv/c/intro/weclassic</guid>
-            <pubDate>Sun, 17 Oct 2021 09:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[10월 23일(토) 17:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210930_237/5zZdt_16330122424225MNzR_JPEG/1633012242411.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬1976할란카운티 공연실황 Live]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/eternaljourney</link>
-            <guid>https://patron.naver.com/ntv/c/intro/eternaljourney</guid>
-            <pubDate>Sun, 17 Oct 2021 13:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[10월 23일(토) 18:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210917_47/iolwh_1631853877712lyf5k_JPEG/1631853877687.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											크로스오버 그룹 안단테 첫 번째 콘서트 실황]]></title>
@@ -92,6 +74,23 @@
             <pubDate>Thu, 21 Oct 2021 12:32:23 GMT</pubDate>
             <content:encoded><![CDATA[10월 27일(수) 11:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_83/xaX2e_1634262953171dU4uP_JPEG/1634262953140.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											블랙라이트 인형극 미운오리새끼 <경기인형극제>]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ggipuppet</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ggipuppet</guid>
+            <pubDate>Mon, 18 Oct 2021 15:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[10월 27일(수) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210930_269/H7DYB_16329729432340vPay_JPEG/1632972943222.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[볼라레 10월 발레리노 김용걸, 현대발레에 빠지다]]></title>
+            <link>https://blog.naver.com/cccf2016/222536899147</link>
+            <guid>https://blog.naver.com/cccf2016/222536899147</guid>
+            <pubDate>Sat, 23 Oct 2021 15:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[10월 27일(수) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_112/MJypJ_1634802532196HTmEj_PNG/1634802532178.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
