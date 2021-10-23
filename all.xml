@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 02:36:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 03:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/25/202110/01/wbzua5zyukjy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 코리안뮤직, 한계를 넘다 / 신노이 - 광주 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53387</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53387</guid>
+            <pubDate>Sat, 23 Oct 2021 03:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.10.25(월) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] GAC 11시 음악산책 8 - 서울 챔버뮤직 소사이어티의 위로 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53386</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53386</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.10.21(목) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 2021 K-POP in Suncheon 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53371</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53371</guid>
-            <pubDate>Wed, 20 Oct 2021 21:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.10.25(월) 11:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 코리안뮤직, 한계를 넘다 / 신노이 - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53387</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53387</guid>
+            <pubDate>Sat, 23 Oct 2021 03:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.25(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] GAC 11시 음악산책 8 - 서울 챔버뮤직 소사이어티의 위로 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53372</guid>
             <pubDate>Wed, 20 Oct 2021 06:24:17 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.21(목) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 2021 K-POP in Suncheon 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53371</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53371</guid>
-            <pubDate>Wed, 20 Oct 2021 05:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.25(월) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
