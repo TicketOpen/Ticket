@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 01:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 02:08:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/25/202110/01/wbzua5zyukjy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[크리스마스 지브리 탱고 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53393</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53393</guid>
+            <pubDate>Sun, 24 Oct 2021 02:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.10.25(월) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[넌버벌퍼포먼스 툴스 - 서울 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53392</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53392</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.10.22(금) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 양희경의 달콤한 클래식 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53378</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53378</guid>
-            <pubDate>Thu, 21 Oct 2021 05:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.10.25(월) 01:00]]></content:encoded>
+            <title><![CDATA[크리스마스 지브리 탱고 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53393</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53393</guid>
+            <pubDate>Sun, 24 Oct 2021 02:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.25(월) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[넌버벌퍼포먼스 툴스 - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53379</guid>
             <pubDate>Thu, 21 Oct 2021 06:25:01 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.22(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 양희경의 달콤한 클래식 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53378</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53378</guid>
-            <pubDate>Thu, 21 Oct 2021 02:37:46 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.25(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
