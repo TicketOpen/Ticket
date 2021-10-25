@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 13:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 15:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -795,23 +795,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <레드북> 10월 25일 19:30 녹화 중계 (네이버 공연)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
-            <pubDate>Tue, 19 Oct 2021 12:31:49 GMT</pubDate>
-            <content:encoded><![CDATA[10월 25일(월) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211006_33/inCmI_1633505394266YcdCA_PNG/1633505394232.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김장훈과 함께하는 독도 콘서트 (네이버 공연)]]></title>
-            <link>https://tv.naver.com/l/89662</link>
-            <guid>https://tv.naver.com/l/89662</guid>
-            <pubDate>Fri, 22 Oct 2021 12:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[10월 25일(월) 20:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_73/MIaCg_1634672879017BtOYY_PNG/1634672878999.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											찾아가는 이야기 수레 "배고파".<경기인형극제> (네이버 공연)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/ggipuppet</link>
             <guid>https://patron.naver.com/ntv/c/intro/ggipuppet</guid>
@@ -876,6 +859,23 @@
             <pubDate>Mon, 25 Oct 2021 11:17:42 GMT</pubDate>
             <content:encoded><![CDATA[10월 28일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210914_221/rRQLY_16316072238598nLs9_PNG/1631607223779.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											춤추는 꼬마마녀 <경기인형극제> (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ggipuppet</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ggipuppet</guid>
+            <pubDate>Mon, 18 Oct 2021 15:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[10월 29일(금) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210928_281/lg87F_1632811970003MPedl_JPEG/1632811969982.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영마스터즈 7. 첼리스트 박유신 (네이버 공연)]]></title>
+            <link>https://tv.naver.com/l/89816</link>
+            <guid>https://tv.naver.com/l/89816</guid>
+            <pubDate>Mon, 25 Oct 2021 15:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[10월 29일(금) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_212/M0U5e_16347927684789PQrY_PNG/1634792768456.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
