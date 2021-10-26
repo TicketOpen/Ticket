@@ -4,17 +4,9 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 12:31:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 15:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[무용 <2nd Altimeets> 녹화중계]]></title>
-            <link>https://blog.naver.com/jump_arko/222482057162</link>
-            <guid>https://blog.naver.com/jump_arko/222482057162</guid>
-            <pubDate>Thu, 21 Oct 2021 12:32:23 GMT</pubDate>
-            <content:encoded><![CDATA[10월 26일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210903_173/2IMTW_1630634003523PcUwE_PNG/1630634003512.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[11시콘서트＜바이올리니스트 김재영＞]]></title>
             <link>https://tv.naver.com/l/89223</link>
@@ -90,6 +82,14 @@
             <pubDate>Tue, 26 Oct 2021 10:22:01 GMT</pubDate>
             <content:encoded><![CDATA[10월 29일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211005_142/toHSY_1633401457745gtBhX_PNG/1633401457722.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 <봄날의 곰> 중계 - 랜선국악당 Vol.5]]></title>
+            <link>https://blog.naver.com/yjsjcf/222546613812</link>
+            <guid>https://blog.naver.com/yjsjcf/222546613812</guid>
+            <pubDate>Tue, 26 Oct 2021 15:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[10월 30일(토) 14:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_158/fYrkf_1634818533661Lc0PS_JPEG/1634818533648.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
