@@ -4,18 +4,9 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 09:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 10:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											찾아가는 이야기 수레 "배고파".<경기인형극제>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ggipuppet</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ggipuppet</guid>
-            <pubDate>Mon, 18 Oct 2021 15:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[10월 26일(화) 17:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210930_205/iQ8ez_1632972977275Q6NcN_JPEG/1632972977253.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[무용 <2nd Altimeets> 녹화중계]]></title>
             <link>https://blog.naver.com/jump_arko/222482057162</link>
@@ -90,6 +81,15 @@
             <pubDate>Mon, 25 Oct 2021 15:19:12 GMT</pubDate>
             <content:encoded><![CDATA[10월 29일(금) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_212/M0U5e_16347927684789PQrY_PNG/1634792768456.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											2021 할로윈 온택트 뮤지컬 신비아파트:비명동산의초대장]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/shinbimusical3</link>
+            <guid>https://patron.naver.com/ntv/c/intro/shinbimusical3</guid>
+            <pubDate>Tue, 26 Oct 2021 10:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[10월 29일(금) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211005_142/toHSY_1633401457745gtBhX_PNG/1633401457722.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
