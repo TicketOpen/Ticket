@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-10-26T21:18:23.306Z</updated>
+    <updated>2021-10-27T02:37:26.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[온스타인웨이 Vol．8 〈박소은〉－온라인 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5571</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5571"/>
+        <updated>2021-10-27T02:35:21.031Z</updated>
+        <content type="html"><![CDATA[2021.10.28(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jump in－to－the－universe 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5570</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5570"/>
         <updated>2021-10-26T15:19:38.654Z</updated>
         <content type="html"><![CDATA[2021.11.01(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 CJ X BERKLEE MUSIC CONCERT［2021 CJ X 버클리 뮤직콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5567</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5567"/>
+        <updated>2021-10-27T02:35:21.062Z</updated>
+        <content type="html"><![CDATA[2021.10.28(목) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[［성남］뮤지컬 〈시카고〉 티켓 오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5559"/>
         <updated>2021-10-22T09:18:16.594Z</updated>
         <content type="html"><![CDATA[2021.10.27(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［2021 Heartpresso DUET LIVE：Time To Fall Letter］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5558</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5558"/>
-        <updated>2021-10-21T07:18:32.225Z</updated>
-        <content type="html"><![CDATA[2021.10.22(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈레베카〉 2차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5557</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5557"/>
-        <updated>2021-10-20T07:18:29.407Z</updated>
-        <content type="html"><![CDATA[2021.10.27(수) 11:00]]></content>
     </entry>
 </feed>
