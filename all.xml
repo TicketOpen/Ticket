@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 05:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 06:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -504,7 +504,7 @@
             <content:encoded><![CDATA[2021-10-29(금) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈작은아씨들〉 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <title><![CDATA[뮤지컬 〈작은아씨들〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/756</link>
             <guid>https://ticket.wemakeprice.com/opennotice/756</guid>
             <pubDate>Tue, 26 Oct 2021 06:23:30 GMT</pubDate>
@@ -582,6 +582,13 @@
             <pubDate>Sat, 23 Oct 2021 12:28:41 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.15(금) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/45/202110/14/plwx1aazdapq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[광주시립교향악단] GSO 오티움 콘서트Ⅶ, 영국 음악여행 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53422</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53422</guid>
+            <pubDate>Wed, 27 Oct 2021 06:23:44 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.10.28(목) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 첼리스트 드미트리 쿠조프의 하우스 콘서트 - 대구 티켓오픈 안내 (티켓링크)]]></title>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.10.28(목) 04:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] [대구] 2021 이승철 전국투어 콘서트  “우리, 이제 만나요” ​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53406</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53406</guid>
-            <pubDate>Tue, 26 Oct 2021 05:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.10.28(목) 06:00]]></content:encoded>
+            <title><![CDATA[[광주시립교향악단] GSO 오티움 콘서트Ⅶ, 영국 음악여행 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53422</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53422</guid>
+            <pubDate>Wed, 27 Oct 2021 06:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.28(목) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 첼리스트 드미트리 쿠조프의 하우스 콘서트 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53407</guid>
             <pubDate>Tue, 26 Oct 2021 05:18:43 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.28(목) 04:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] [대구] 2021 이승철 전국투어 콘서트  “우리, 이제 만나요” ​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53406</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53406</guid>
-            <pubDate>Tue, 26 Oct 2021 05:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.28(목) 06:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
