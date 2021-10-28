@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 06:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 07:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/45/202110/14/plwx1aazdapq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 <솜> - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53428</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53428</guid>
+            <pubDate>Thu, 28 Oct 2021 07:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.10.29(금) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[별은 빛나건만 : 오페라 & 크로스오버 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53427</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53427</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.10.27(수) 06:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[2021, 윤형렬의 가을무대] 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53412</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53412</guid>
-            <pubDate>Tue, 26 Oct 2021 09:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.10.27(수) 03:00]]></content:encoded>
+            <title><![CDATA[연극 <솜> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53428</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53428</guid>
+            <pubDate>Thu, 28 Oct 2021 07:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.29(금) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[별은 빛나건만 : 오페라 & 크로스오버 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53413</guid>
             <pubDate>Tue, 26 Oct 2021 09:20:09 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.27(수) 06:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2021, 윤형렬의 가을무대] 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53412</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53412</guid>
-            <pubDate>Tue, 26 Oct 2021 09:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.27(수) 03:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[덕수궁 프로젝트 2021 - 상상의 정원 (네이버 공연)]]></title>
