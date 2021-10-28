@@ -4,18 +4,9 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 09:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 10:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											북극성을 찾아랏 <경기인형극제>]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ggipuppet</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ggipuppet</guid>
-            <pubDate>Mon, 18 Oct 2021 15:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[10월 28일(목) 17:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210928_219/4uuoX_1632811930793avaFW_JPEG/1632811930772.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[연극 <신데렐라> 녹화중계]]></title>
             <link>https://blog.naver.com/jump_arko/222482314151</link>
@@ -91,6 +82,14 @@
             <pubDate>Wed, 27 Oct 2021 12:31:34 GMT</pubDate>
             <content:encoded><![CDATA[10월 31일(일) 16:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211027_255/BiWoc_1635297346908Sr5as_JPEG/1635297346892.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제1회 강릉아트페스티벌 솔숲 콘서트 2부]]></title>
+            <link>https://blog.naver.com/k-artscreative/222541489618</link>
+            <guid>https://blog.naver.com/k-artscreative/222541489618</guid>
+            <pubDate>Wed, 27 Oct 2021 12:31:34 GMT</pubDate>
+            <content:encoded><![CDATA[10월 31일(일) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_192/j6H3i_163529744370476aet_JPEG/1635297443662.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
