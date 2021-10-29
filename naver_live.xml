@@ -4,18 +4,9 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 12:30:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 14:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											2021 할로윈 온택트 뮤지컬 신비아파트:비명동산의초대장]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/shinbimusical3</link>
-            <guid>https://patron.naver.com/ntv/c/intro/shinbimusical3</guid>
-            <pubDate>Tue, 26 Oct 2021 10:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[10월 29일(금) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211005_142/toHSY_1633401457745gtBhX_PNG/1633401457722.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[가족뮤지컬 <봄날의 곰> 중계 - 랜선국악당 Vol.5]]></title>
             <link>https://blog.naver.com/yjsjcf/222546613812</link>
@@ -91,6 +82,14 @@
             <pubDate>Fri, 29 Oct 2021 12:30:29 GMT</pubDate>
             <content:encoded><![CDATA[11월 02일(화) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_168/IOjY1_1634785483419w9QDC_JPEG/1634785483391.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <까뮈의 페스트 : 리버스> 녹화중계]]></title>
+            <link>https://blog.naver.com/jump_arko/222493844148</link>
+            <guid>https://blog.naver.com/jump_arko/222493844148</guid>
+            <pubDate>Fri, 29 Oct 2021 14:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[11월 02일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_138/C4MNv_163479273257363rzU_PNG/1634792732544.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
