@@ -6,6 +6,7 @@ titleSelector = "a[class='tit']"
 linkSelector = "a[class='tit']"
 contentSelector = "span[class='date']"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [interpark]
 title = "인터파크 티켓"
@@ -15,6 +16,7 @@ titleSelector = "td.subject a"
 linkSelector = "td.subject a"
 contentSelector = "td[class='date']"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [interpark_m]
 title = "인터파크 티켓 모바일"
@@ -25,15 +27,17 @@ linkSelector = "a"
 contentSelector = "dl[class='ticketOpen'] > dd"
 imageSelector = "span img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [yes24]
 title = "예스24 티켓"
 url = "http://ticket.yes24.com/New/Notice/NoticeMain.aspx"
 entrySelector = " tbody tr:not(:first-child)"
-titleSelector = "a > em"
+titleSelector = "td a em"
 linkSelector = "td:nth-child(2) > a"
 contentSelector = "td:nth-child(3)"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [yes24_m]
 title = "예스24 티켓 모바일"
@@ -43,6 +47,7 @@ titleSelector = "a > div.brd_name.limit_2ln"
 linkSelector = "a[class='lnk_brd']"
 contentSelector = "em[class='txt']"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [wemakeculture]
 title = "위메프 공연티켓"
@@ -53,6 +58,7 @@ linkSelector = "td a"
 contentSelector = "span[class='date strong']"
 imageSelector = "div[class='img'] img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [ticketlink]
 title = "티켓링크"
@@ -71,6 +77,7 @@ entrySelector = "#detail_content > li"
 titleSelector = "h3"
 linkSelector = "a"
 contentSelector = "a > dl > dd:nth-child(2)"
+onFail = "stale"
 
 [naver_live]
 title = "네이버 공연"
