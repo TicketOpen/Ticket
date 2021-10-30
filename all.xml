@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 03:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 04:26:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/36/202110/14/ejmghmk3o1cz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 제28회 달서구립합창단 정기연주회 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53445</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53445</guid>
+            <pubDate>Sat, 30 Oct 2021 04:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.02(화) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 대구시립합창단과 함께하는 시민행복나눔콘서트 - 대구 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53444</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53444</guid>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.02(화) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈알사탕〉 - 인천 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53430</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53430</guid>
-            <pubDate>Fri, 29 Oct 2021 00:58:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.05(금) 02:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 제28회 달서구립합창단 정기연주회 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53445</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53445</guid>
+            <pubDate>Sat, 30 Oct 2021 04:26:25 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.02(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 대구시립합창단과 함께하는 시민행복나눔콘서트 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -784,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53431</guid>
             <pubDate>Fri, 29 Oct 2021 00:58:12 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.02(화) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈알사탕〉 - 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53430</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53430</guid>
-            <pubDate>Fri, 29 Oct 2021 00:58:12 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.05(금) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 <봄날의 곰> 중계 - 랜선국악당 Vol.5 (네이버 공연)]]></title>
