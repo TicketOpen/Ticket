@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 08:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 09:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/36/202110/14/ejmghmk3o1cz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[영어놀이 뮤지컬〈헬로캐리〉- 평택/대전/청주 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53447</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53447</guid>
+            <pubDate>Sun, 31 Oct 2021 09:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.01(월) 06:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가족뮤지컬 크리스마스 캐롤 - 안성 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53446</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53446</guid>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.03(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NEW신비아파트 뮤지컬 시즌4：비명동산의 초대장－춘천 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53432</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53432</guid>
-            <pubDate>Fri, 29 Oct 2021 00:58:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.02(화) 02:00]]></content:encoded>
+            <title><![CDATA[영어놀이 뮤지컬〈헬로캐리〉- 평택/대전/청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53447</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53447</guid>
+            <pubDate>Sun, 31 Oct 2021 09:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.01(월) 06:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 크리스마스 캐롤 - 안성 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -786,30 +793,6 @@
             <content:encoded><![CDATA[2021.11.03(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NEW신비아파트 뮤지컬 시즌4：비명동산의 초대장－춘천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53432</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53432</guid>
-            <pubDate>Fri, 29 Oct 2021 00:58:12 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.02(화) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											자전거 탄 풍경 at home 콘서트 10/31(일) (네이버 공연)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/thehcultures</link>
-            <guid>https://patron.naver.com/ntv/c/intro/thehcultures</guid>
-            <pubDate>Wed, 27 Oct 2021 03:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[10월 31일(일) 15:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210907_176/ZVUYg_1630990544794CsGsn_JPEG/1630990544757.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제1회 강릉아트페스티벌 솔숲 콘서트 1부 (네이버 공연)]]></title>
-            <link>https://blog.naver.com/k-artscreative/222541489618</link>
-            <guid>https://blog.naver.com/k-artscreative/222541489618</guid>
-            <pubDate>Wed, 27 Oct 2021 12:31:34 GMT</pubDate>
-            <content:encoded><![CDATA[10월 31일(일) 16:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_255/BiWoc_1635297346908Sr5as_JPEG/1635297346892.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[제1회 강릉아트페스티벌 솔숲 콘서트 2부 (네이버 공연)]]></title>
             <link>https://blog.naver.com/k-artscreative/222541489618</link>
             <guid>https://blog.naver.com/k-artscreative/222541489618</guid>
@@ -876,6 +859,23 @@
             <pubDate>Sat, 30 Oct 2021 06:24:11 GMT</pubDate>
             <content:encoded><![CDATA[11월 03일(수) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_138/vbLNV_1634280440886TRxrx_PNG/1634280440779.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[창작국악뮤지컬 <안녕, 지구> 녹화중계 (네이버 공연)]]></title>
+            <link>https://blog.naver.com/jump_arko/222518016659</link>
+            <guid>https://blog.naver.com/jump_arko/222518016659</guid>
+            <pubDate>Sun, 31 Oct 2021 09:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[11월 04일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_104/1AvCk_1634793022510U41pV_PNG/1634793022484.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <명동로망스> 온라인 상영회 (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/playjangin</link>
+            <guid>https://patron.naver.com/ntv/c/intro/playjangin</guid>
+            <pubDate>Sat, 30 Oct 2021 06:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[11월 04일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_65/tnQbJ_1634280625002BnJgk_PNG/1634280624959.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
