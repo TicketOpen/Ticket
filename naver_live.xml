@@ -4,7 +4,7 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 12:32:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 13:26:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,14 +15,6 @@
             <pubDate>Thu, 28 Oct 2021 12:32:02 GMT</pubDate>
             <content:encoded><![CDATA[11월 01일(월) 19:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20211008_42/1633662669037Fgs2m_JPEG/2260x1270_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현식 추억 콘서트 with  권인하/ 김장훈]]></title>
-            <link>https://tv.naver.com/l/90271</link>
-            <guid>https://tv.naver.com/l/90271</guid>
-            <pubDate>Fri, 29 Oct 2021 12:30:29 GMT</pubDate>
-            <content:encoded><![CDATA[11월 01일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211026_35/cxsbK_1635228380594NgHGV_JPEG/1635228380581.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위로와 희망을 담은 제13회 세일 한국가곡의 밤]]></title>
@@ -91,6 +83,15 @@
             <pubDate>Sat, 30 Oct 2021 06:24:11 GMT</pubDate>
             <content:encoded><![CDATA[11월 05일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_195/2aTOm_1634280890208XlRtp_PNG/1634280890159.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <1976 할란카운티> 공연실황]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/eternaljourney</link>
+            <guid>https://patron.naver.com/ntv/c/intro/eternaljourney</guid>
+            <pubDate>Mon, 01 Nov 2021 13:26:15 GMT</pubDate>
+            <content:encoded><![CDATA[11월 06일(토) 18:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211005_99/zjPj9_1633405228416LrXzk_JPEG/1633405228390.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
