@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 06:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 07:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -582,6 +582,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/36/202110/14/ejmghmk3o1cz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2021 주현미 콘서트 - 수원​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53451</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53451</guid>
+            <pubDate>Mon, 01 Nov 2021 07:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.04(목) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[(강북) 2021 가족뮤지컬 겨울이야기​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53450</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53450</guid>
@@ -645,7 +652,7 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.02(화) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <더데빌> 1차 티켓오픈 안내 (티켓링크)]]></title>
+            <title><![CDATA[뮤지컬 〈더데빌〉 1차 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53441</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53441</guid>
             <pubDate>Fri, 29 Oct 2021 09:19:28 GMT</pubDate>
@@ -673,18 +680,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.02(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <엑스칼리버> - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <title><![CDATA[뮤지컬 〈엑스칼리버〉 - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53437</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53437</guid>
             <pubDate>Fri, 29 Oct 2021 05:18:21 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.02(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 2021 클래식 영 아티스트 콘서트 - 안동 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53436</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53436</guid>
-            <pubDate>Fri, 29 Oct 2021 04:25:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.01(월) 01:00]]></content:encoded>
+            <title><![CDATA[2021 주현미 콘서트 - 수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53451</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53451</guid>
+            <pubDate>Mon, 01 Nov 2021 07:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.04(목) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(강북) 2021 가족뮤지컬 겨울이야기​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -750,7 +757,7 @@
             <content:encoded><![CDATA[2021.11.02(화) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <더데빌> 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <title><![CDATA[뮤지컬 〈더데빌〉 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53441</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53441</guid>
             <pubDate>Fri, 29 Oct 2021 09:19:37 GMT</pubDate>
@@ -778,18 +785,11 @@
             <content:encoded><![CDATA[2021.11.02(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <엑스칼리버> - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <title><![CDATA[뮤지컬 〈엑스칼리버〉 - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53437</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53437</guid>
             <pubDate>Fri, 29 Oct 2021 05:18:31 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.02(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 2021 클래식 영 아티스트 콘서트 - 안동 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53436</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53436</guid>
-            <pubDate>Fri, 29 Oct 2021 04:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.01(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
