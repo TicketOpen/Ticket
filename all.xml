@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 08:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 09:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5590</guid>
             <pubDate>Mon, 01 Nov 2021 03:20:01 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.10(수) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[［ 2022 Theatre 이문세 ］ - 군포 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=41101&amp;groupno=41101&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=41101&amp;groupno=41101&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 02 Nov 2021 08:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.03(수)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈레베카〉 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -301,6 +294,20 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110114124491.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2021 연극 [엘리펀트 송] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11276</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11276</guid>
+            <pubDate>Tue, 02 Nov 2021 09:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.09(화) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [라흐마니노프] 1차 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11275</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11275</guid>
+            <pubDate>Tue, 02 Nov 2021 09:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.04(목) 15:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 [미인] 마지막 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11274</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11274</guid>
@@ -424,20 +431,6 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11256</guid>
             <pubDate>Sun, 31 Oct 2021 15:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.02(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[온앤오프(ONF) 2021 LIVE CONTACT :: CODE #1. [REVERSE] 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11255</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11255</guid>
-            <pubDate>Sun, 31 Oct 2021 15:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.12(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="팬클럽 인증" presaletime1="2021.11.09(화) 20:00" presaletime2="2021.11.04(목) 12:00"><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [잭더리퍼] 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11254</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11254</guid>
-            <pubDate>Sun, 31 Oct 2021 15:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.03(수) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 연극 [엘리펀트 송] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -589,6 +582,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/45/202110/14/rtsqcutnzrpz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 댄싱뮤지엄 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53457</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53457</guid>
+            <pubDate>Tue, 02 Nov 2021 09:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.04(목) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 춘천 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53456</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53456</guid>
@@ -687,11 +687,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.02(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 지금까지 빅타이거 그룹 이었습니다 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53442</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53442</guid>
-            <pubDate>Sat, 30 Oct 2021 02:02:02 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.02(화) 01:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 댄싱뮤지엄 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53457</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53457</guid>
+            <pubDate>Tue, 02 Nov 2021 09:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.04(목) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 춘천 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -790,13 +790,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53443</guid>
             <pubDate>Sat, 30 Oct 2021 03:21:03 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.02(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 지금까지 빅타이거 그룹 이었습니다 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53442</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53442</guid>
-            <pubDate>Sat, 30 Oct 2021 02:02:11 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.02(화) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[위로와 희망을 담은 제13회 세일 한국가곡의 밤 (네이버 공연)]]></title>
