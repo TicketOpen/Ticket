@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 11:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 12:31:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -792,14 +792,6 @@
             <content:encoded><![CDATA[2021.11.02(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[위로와 희망을 담은 제13회 세일 한국가곡의 밤 (네이버 공연)]]></title>
-            <link>https://blog.naver.com/seilarthall08/222541624343</link>
-            <guid>https://blog.naver.com/seilarthall08/222541624343</guid>
-            <pubDate>Fri, 29 Oct 2021 12:30:29 GMT</pubDate>
-            <content:encoded><![CDATA[11월 02일(화) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_168/IOjY1_1634785483419w9QDC_JPEG/1634785483391.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 <까뮈의 페스트 : 리버스> 녹화중계 (네이버 공연)]]></title>
             <link>https://blog.naver.com/jump_arko/222493844148</link>
             <guid>https://blog.naver.com/jump_arko/222493844148</guid>
@@ -875,6 +867,14 @@
             <pubDate>Mon, 01 Nov 2021 15:22:42 GMT</pubDate>
             <content:encoded><![CDATA[11월 06일(토) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211027_18/FpQah_1635320484324v3JDz_PNG/1635320484310.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[2021 포항음악제] 드라마 (네이버 공연)]]></title>
+            <link>https://tv.naver.com/l/90404</link>
+            <guid>https://tv.naver.com/l/90404</guid>
+            <pubDate>Tue, 02 Nov 2021 12:31:17 GMT</pubDate>
+            <content:encoded><![CDATA[11월 07일(일) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_113/dwrHv_1635320783652kjzJs_PNG/1635320783624.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
