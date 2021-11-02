@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 10:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 11:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -582,6 +582,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/45/202110/14/rtsqcutnzrpz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 그남자그여자 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53458</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53458</guid>
+            <pubDate>Tue, 02 Nov 2021 11:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.03(수) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 댄싱뮤지엄 - 대구 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53457</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53457</guid>
@@ -680,11 +687,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.02(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 판소리 완창 시리즈: 석지연의 판소리 완창 - 만정제 심청가 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53443</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53443</guid>
-            <pubDate>Sat, 30 Oct 2021 03:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.02(화) 05:00]]></content:encoded>
+            <title><![CDATA[연극 그남자그여자 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53458</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53458</guid>
+            <pubDate>Tue, 02 Nov 2021 11:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.03(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 댄싱뮤지엄 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -781,13 +788,6 @@
             <title><![CDATA[[단독판매] 대구시립합창단과 함께하는 시민행복나눔콘서트 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53444</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53444</guid>
-            <pubDate>Sat, 30 Oct 2021 03:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.02(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 판소리 완창 시리즈: 석지연의 판소리 완창 - 만정제 심청가 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53443</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53443</guid>
             <pubDate>Sat, 30 Oct 2021 03:21:03 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.02(화) 05:00]]></content:encoded>
         </item>
