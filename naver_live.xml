@@ -4,17 +4,9 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 12:31:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 13:27:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연극 <까뮈의 페스트 : 리버스> 녹화중계]]></title>
-            <link>https://blog.naver.com/jump_arko/222493844148</link>
-            <guid>https://blog.naver.com/jump_arko/222493844148</guid>
-            <pubDate>Fri, 29 Oct 2021 14:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[11월 02일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_138/C4MNv_163479273257363rzU_PNG/1634792732544.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <명동로망스> 온라인 상영회]]></title>
@@ -91,6 +83,15 @@
             <pubDate>Tue, 02 Nov 2021 12:31:17 GMT</pubDate>
             <content:encoded><![CDATA[11월 07일(일) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211027_113/dwrHv_1635320783652kjzJs_PNG/1635320783624.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 무인도 탈출기 2021 온라인 녹화 중계]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
+            <pubDate>Tue, 02 Nov 2021 13:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[11월 07일(일) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211030_12/Gra8A_1635588714631kwdbR_JPEG/1635588714593.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
