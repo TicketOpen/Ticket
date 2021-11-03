@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 16:31:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 17:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -793,15 +793,6 @@
             <content:encoded><![CDATA[2021.11.04(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[후원
-											뮤지컬 <명동로망스> 온라인 상영회 (네이버 공연)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/playjangin</link>
-            <guid>https://patron.naver.com/ntv/c/intro/playjangin</guid>
-            <pubDate>Sat, 30 Oct 2021 06:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[11월 03일(수) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_138/vbLNV_1634280440886TRxrx_PNG/1634280440779.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[창작국악뮤지컬 <안녕, 지구> 녹화중계 (네이버 공연)]]></title>
             <link>https://blog.naver.com/jump_arko/222518016659</link>
             <guid>https://blog.naver.com/jump_arko/222518016659</guid>
@@ -875,6 +866,15 @@
             <pubDate>Tue, 02 Nov 2021 12:31:17 GMT</pubDate>
             <content:encoded><![CDATA[11월 07일(일) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211027_113/dwrHv_1635320783652kjzJs_PNG/1635320783624.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 무인도 탈출기 2021 온라인 녹화 중계 (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
+            <pubDate>Wed, 03 Nov 2021 17:25:39 GMT</pubDate>
+            <content:encoded><![CDATA[11월 07일(일) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211030_12/Gra8A_1635588714631kwdbR_JPEG/1635588714593.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
