@@ -4,7 +4,7 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 02:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 03:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <pubDate>Sun, 31 Oct 2021 12:30:43 GMT</pubDate>
             <content:encoded><![CDATA[11월 05일(금) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211027_103/deSiF_1635320121261a2Mut_PNG/1635320121247.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 인디열전 :: 터치드 :  We are touched]]></title>
+            <link>https://blog.naver.com/arthallmac/222557087201</link>
+            <guid>https://blog.naver.com/arthallmac/222557087201</guid>
+            <pubDate>Wed, 03 Nov 2021 03:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[11월 05일(금) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211028_109/WmhkN_1635380662312LYxfC_JPEG/1635380662288.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -83,15 +91,6 @@
             <pubDate>Tue, 02 Nov 2021 13:26:59 GMT</pubDate>
             <content:encoded><![CDATA[11월 07일(일) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211030_12/Gra8A_1635588714631kwdbR_JPEG/1635588714593.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <레드북> 11월 8일 19:30 녹화 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
-            <pubDate>Tue, 02 Nov 2021 17:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[11월 08일(월) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211029_33/ROhUm_1635490283999ep7ka_PNG/1635490283972.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
