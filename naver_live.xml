@@ -4,7 +4,7 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 08:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 09:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -59,6 +59,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_195/2aTOm_1634280890208XlRtp_PNG/1634280890159.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[극단 벼랑끝날다X가수 바다의 <드라뮤지션 콘서트>]]></title>
+            <link>https://tv.naver.com/l/90720</link>
+            <guid>https://tv.naver.com/l/90720</guid>
+            <pubDate>Wed, 03 Nov 2021 09:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[11월 06일(토) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211031_119/i7qaX_1635663348382Fu3jt_JPEG/1635663348324.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[후원
 											뮤지컬 <1976 할란카운티> 공연실황]]></title>
             <link>https://patron.naver.com/ntv/c/intro/eternaljourney</link>
@@ -82,15 +90,6 @@
             <pubDate>Tue, 02 Nov 2021 12:31:17 GMT</pubDate>
             <content:encoded><![CDATA[11월 07일(일) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211027_113/dwrHv_1635320783652kjzJs_PNG/1635320783624.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 무인도 탈출기 2021 온라인 녹화 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
-            <pubDate>Tue, 02 Nov 2021 13:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[11월 07일(일) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211030_12/Gra8A_1635588714631kwdbR_JPEG/1635588714593.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
