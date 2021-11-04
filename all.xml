@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 03:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 04:27:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,20 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5594</guid>
             <pubDate>Mon, 01 Nov 2021 05:17:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05(금) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[온스타인웨이 Vol.13 〈시와〉 - 온라인 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41186&amp;groupno=41186&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41186&amp;groupno=41186&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 04 Nov 2021 04:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.04(목)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[온스타인웨이 Vol.13 〈시와〉 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41185&amp;groupno=41185&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41185&amp;groupno=41185&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 04 Nov 2021 04:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.04(목)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[장사익 X 이희문 콘서트 ＂꾼＂  - 수원 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -190,18 +204,22 @@
             <content:encoded><![CDATA[21.11.10(수)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬＇엄마까투리＇ 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41168&amp;groupno=41168&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41168&amp;groupno=41168&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 03 Nov 2021 03:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.05(금)&nbsp;09:00]]></content:encoded>
+            <title><![CDATA[온스타인웨이 Vol.13 〈시와〉 - 온라인 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41186</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41186</guid>
+            <pubDate>Thu, 04 Nov 2021 04:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.04
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102916085741.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈더모먼트〉 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41167&amp;groupno=41167&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41167&amp;groupno=41167&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 03 Nov 2021 03:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.09(화)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[온스타인웨이 Vol.13 〈시와〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41185</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41185</guid>
+            <pubDate>Thu, 04 Nov 2021 04:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.04
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102916045440.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장사익 X 이희문 콘서트 ＂꾼＂  - 수원 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -274,24 +292,6 @@
             <content:encoded><![CDATA[2021.11.05
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010141_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[장사익 X 오정해 콘서트 ＂꾼＂ - 안산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41176</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41176</guid>
-            <pubDate>Wed, 03 Nov 2021 07:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.05
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110110563717.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 ‘뮤지컬 〈블랙메리포핀스〉 앵콜’ 2차 티켓 오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41175</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41175</guid>
-            <pubDate>Wed, 03 Nov 2021 07:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.04
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009117_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[최재림 콘서트 Monday Off! 일부좌석 추가 오픈 안내 (예스24 티켓)]]></title>
