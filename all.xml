@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 08:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 09:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,20 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5594</guid>
             <pubDate>Mon, 01 Nov 2021 05:17:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05(금) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 박재정 콘서트 - 편지 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41199&amp;groupno=41199&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41199&amp;groupno=41199&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 04 Nov 2021 09:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.08(월)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 콘서트 ＇위에서 그러했듯이 아래에서도＇ - 춘천 티켓오픈 .. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41198&amp;groupno=41198&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41198&amp;groupno=41198&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 04 Nov 2021 09:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.11(목)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈빌리 엘리어트〉 5차 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -190,18 +204,22 @@
             <content:encoded><![CDATA[21.11.11(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김창완밴드 콘서트 in 부산 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41180&amp;groupno=41180&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41180&amp;groupno=41180&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 04 Nov 2021 02:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.11(목)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[2021 박재정 콘서트 - 편지 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41199</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41199</guid>
+            <pubDate>Thu, 04 Nov 2021 09:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.08
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110318075294.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[브레이브걸스(Brave Girls) 공식 팬클럽 ＇Fearless＇ 1기 모집 티켓.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41179&amp;groupno=41179&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41179&amp;groupno=41179&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 03 Nov 2021 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.08(월)&nbsp;17:00]]></content:encoded>
+            <title><![CDATA[쏜애플 콘서트 ＇위에서 그러했듯이 아래에서도＇ - 춘천 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41198</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41198</guid>
+            <pubDate>Thu, 04 Nov 2021 09:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.11
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110214133795.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈빌리 엘리어트〉 5차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -274,24 +292,6 @@
             <content:encoded><![CDATA[2021.11.10
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110411232839.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 크리스마스 콘서트 - 대전 ［VARIOUS］ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41188</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41188</guid>
-            <pubDate>Thu, 04 Nov 2021 05:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.11
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 `노트르담 드 파리` 프렌치 오리지널 - 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41187</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41187</guid>
-            <pubDate>Thu, 04 Nov 2021 05:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.11
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110413144754.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나의 관심공연 설정 및 맞춤 알람 서비스 종료 안내 (예스24 티켓)]]></title>
@@ -582,6 +582,27 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/36/202110/14/zol5st9wuqiv.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[루돌프와 산타할아버지 - 경기 파주 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53487</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53487</guid>
+            <pubDate>Thu, 04 Nov 2021 09:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.05(금) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 심수봉 전국투어콘서트 - 포항 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53486</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53486</guid>
+            <pubDate>Thu, 04 Nov 2021 09:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.05(금) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[테너 김동녘 독창회 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53485</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53485</guid>
+            <pubDate>Thu, 04 Nov 2021 09:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.05(금) 09:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[(2022 대구 대백프라자) 가족뮤지컬 <백설공주> - 대구 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53484</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53484</guid>
@@ -666,25 +687,25 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.05(금) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 수원 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53472</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53472</guid>
-            <pubDate>Thu, 04 Nov 2021 01:00:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.08(월) 01:00]]></content:encoded>
+            <title><![CDATA[루돌프와 산타할아버지 - 경기 파주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53487</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53487</guid>
+            <pubDate>Thu, 04 Nov 2021 09:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.05(금) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엄마까투리 먹구렁이와 생일파티 - 경기 고양 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53471</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53471</guid>
-            <pubDate>Thu, 04 Nov 2021 01:00:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.08(월) 01:00]]></content:encoded>
+            <title><![CDATA[2021 심수봉 전국투어콘서트 - 포항 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53486</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53486</guid>
+            <pubDate>Thu, 04 Nov 2021 09:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.05(금) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 강원도립극단 <안티고네> 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53470</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53470</guid>
-            <pubDate>Thu, 04 Nov 2021 01:00:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.08(월) 05:00]]></content:encoded>
+            <title><![CDATA[테너 김동녘 독창회 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53485</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53485</guid>
+            <pubDate>Thu, 04 Nov 2021 09:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.05(금) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(2022 대구 대백프라자) 가족뮤지컬 <백설공주> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -769,27 +790,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53473</guid>
             <pubDate>Thu, 04 Nov 2021 02:08:35 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53472</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53472</guid>
-            <pubDate>Thu, 04 Nov 2021 01:00:26 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.08(월) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엄마까투리 먹구렁이와 생일파티 - 경기 고양 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53471</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53471</guid>
-            <pubDate>Thu, 04 Nov 2021 01:00:26 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.08(월) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 강원도립극단 <안티고네> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53470</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53470</guid>
-            <pubDate>Thu, 04 Nov 2021 01:00:26 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.08(월) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[창작국악뮤지컬 <안녕, 지구> 녹화중계 (네이버 공연)]]></title>
