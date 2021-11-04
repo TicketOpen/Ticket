@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 09:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 10:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠비나이 단독공연 New songs Premiere 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5604</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5604</guid>
+            <pubDate>Thu, 04 Nov 2021 10:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.10(수) 19:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[헐리우드 영화음악 콘서트 in 부산 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5603</link>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5595</guid>
             <pubDate>Mon, 01 Nov 2021 06:22:47 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05(금) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[3 Should Be Better Than 1 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5594</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5594</guid>
-            <pubDate>Mon, 01 Nov 2021 05:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.05(금) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 박재정 콘서트 - 편지 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -582,6 +582,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/36/202110/14/zol5st9wuqiv.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 김수연 피아노 리사이틀-광주 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53488</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53488</guid>
+            <pubDate>Thu, 04 Nov 2021 10:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.05(금) 08:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[루돌프와 산타할아버지 - 경기 파주 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53487</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53487</guid>
@@ -680,11 +687,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.05(금) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유리상자 콘서트 - 안산 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53473</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53473</guid>
-            <pubDate>Thu, 04 Nov 2021 02:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.05(금) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 김수연 피아노 리사이틀-광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53488</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53488</guid>
+            <pubDate>Thu, 04 Nov 2021 10:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.05(금) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[루돌프와 산타할아버지 - 경기 파주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -781,13 +788,6 @@
             <title><![CDATA[유리상자 콘서트 - 구미 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53474</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53474</guid>
-            <pubDate>Thu, 04 Nov 2021 02:08:35 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.05(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유리상자 콘서트 - 안산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53473</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53473</guid>
             <pubDate>Thu, 04 Nov 2021 02:08:35 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05(금) 05:00]]></content:encoded>
         </item>
