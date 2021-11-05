@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 16:30:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 17:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -793,15 +793,6 @@
             <content:encoded><![CDATA[2021.11.09(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[후원
-											뮤지컬 <명동로망스> 온라인 상영회 (네이버 공연)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/playjangin</link>
-            <guid>https://patron.naver.com/ntv/c/intro/playjangin</guid>
-            <pubDate>Sat, 30 Oct 2021 06:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[11월 05일(금) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_195/2aTOm_1634280890208XlRtp_PNG/1634280890159.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[극단 벼랑끝날다X가수 바다의 <드라뮤지션 콘서트> (네이버 공연)]]></title>
             <link>https://tv.naver.com/l/90720</link>
             <guid>https://tv.naver.com/l/90720</guid>
@@ -876,6 +867,15 @@
             <pubDate>Fri, 05 Nov 2021 12:31:21 GMT</pubDate>
             <content:encoded><![CDATA[11월 09일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_205/l1gcy_1635147844517eelor_PNG/1635147844491.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <명동로망스> 온라인 상영회 (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/playjangin</link>
+            <guid>https://patron.naver.com/ntv/c/intro/playjangin</guid>
+            <pubDate>Sat, 30 Oct 2021 06:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[11월 09일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_160/aVHDz_1634281035816920zl_PNG/1634281035716.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
