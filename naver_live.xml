@@ -4,25 +4,9 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 11:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 12:31:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[2021 포항음악제] 개막공연 - 탄생]]></title>
-            <link>https://tv.naver.com/l/90402</link>
-            <guid>https://tv.naver.com/l/90402</guid>
-            <pubDate>Sun, 31 Oct 2021 12:30:43 GMT</pubDate>
-            <content:encoded><![CDATA[11월 05일(금) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_103/deSiF_1635320121261a2Mut_PNG/1635320121247.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 인디열전 :: 터치드 :  We are touched]]></title>
-            <link>https://blog.naver.com/arthallmac/222557087201</link>
-            <guid>https://blog.naver.com/arthallmac/222557087201</guid>
-            <pubDate>Wed, 03 Nov 2021 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[11월 05일(금) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211028_109/WmhkN_1635380662312LYxfC_JPEG/1635380662288.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <명동로망스> 온라인 상영회]]></title>
@@ -91,6 +75,22 @@
             <pubDate>Wed, 03 Nov 2021 17:25:39 GMT</pubDate>
             <content:encoded><![CDATA[11월 08일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211030_217/5HxkN_16355887427453wqHo_JPEG/1635588742706.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2021 포항음악제] 브람스의 말]]></title>
+            <link>https://tv.naver.com/l/90407</link>
+            <guid>https://tv.naver.com/l/90407</guid>
+            <pubDate>Fri, 05 Nov 2021 12:31:21 GMT</pubDate>
+            <content:encoded><![CDATA[11월 09일(화) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_52/gtq7R_1635321236862KHvxT_PNG/1635321236849.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[소리음악극 <이도> 녹화중계]]></title>
+            <link>https://blog.naver.com/jump_arko/222507878179</link>
+            <guid>https://blog.naver.com/jump_arko/222507878179</guid>
+            <pubDate>Fri, 05 Nov 2021 12:31:21 GMT</pubDate>
+            <content:encoded><![CDATA[11월 09일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211025_205/l1gcy_1635147844517eelor_PNG/1635147844491.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
