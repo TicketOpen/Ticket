@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 03:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 04:26:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/36/202110/14/zol5st9wuqiv.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 수원 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53495</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53495</guid>
+            <pubDate>Sat, 06 Nov 2021 04:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.08(월) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 봉포유 렉처스테이지V <싱어스테이지 with 비아트리오> 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53494</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53494</guid>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.05(금) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈어린왕자〉 - 원주 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53480</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53480</guid>
-            <pubDate>Thu, 04 Nov 2021 06:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.05(금) 01:00]]></content:encoded>
+            <title><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53495</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53495</guid>
+            <pubDate>Sat, 06 Nov 2021 04:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.08(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 봉포유 렉처스테이지V <싱어스테이지 with 비아트리오> 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -783,13 +790,6 @@
             <link>http://m.ticketlink.co.kr/help/notice/53481</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53481</guid>
             <pubDate>Thu, 04 Nov 2021 07:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.05(금) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈어린왕자〉 - 원주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53480</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53480</guid>
-            <pubDate>Thu, 04 Nov 2021 06:24:51 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05(금) 01:00]]></content:encoded>
         </item>
         <item>
