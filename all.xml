@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 23:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 01:00:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5609</guid>
             <pubDate>Fri, 05 Nov 2021 05:17:33 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.09(화) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[［우주라이브］김우주＆로쿠 콘서트 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5608</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5608</guid>
+            <pubDate>Sat, 06 Nov 2021 00:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.06(토) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[［전주］국민연극 〈라이어1탄〉 티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5601</guid>
             <pubDate>Thu, 04 Nov 2021 00:58:42 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05(금) 18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［김제형 단독 콘서트］티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5600</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5600</guid>
-            <pubDate>Wed, 03 Nov 2021 03:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.10(수) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 부활 크리스마스 콘서트 티켓오픈 안내 (인터파크 티켓)]]></title>

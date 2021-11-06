@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2021-11-05T23:21:05.600Z</updated>
+    <updated>2021-11-06T01:00:55.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5609"/>
         <updated>2021-11-05T05:17:33.513Z</updated>
         <content type="html"><![CDATA[2021.11.09(화) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［우주라이브］김우주＆로쿠 콘서트]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5608</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5608"/>
+        <updated>2021-11-06T00:57:19.464Z</updated>
+        <content type="html"><![CDATA[2021.11.06(토) 12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[［전주］국민연극 〈라이어1탄〉 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5601"/>
         <updated>2021-11-04T00:58:42.226Z</updated>
         <content type="html"><![CDATA[2021.11.05(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 IN 라이브클럽［김제형 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=5600</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=5600"/>
-        <updated>2021-11-03T03:20:05.984Z</updated>
-        <content type="html"><![CDATA[2021.11.10(수) 20:00]]></content>
     </entry>
 </feed>
