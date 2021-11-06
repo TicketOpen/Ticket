@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 04:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 05:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/36/202110/14/zol5st9wuqiv.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 김은지 바이올린 독주회 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53496</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53496</guid>
+            <pubDate>Sat, 06 Nov 2021 05:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.08(월) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 수원 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53495</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53495</guid>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.05(금) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 이머시브 씨어터 <그래비티 스페이스> - 경주 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53481</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53481</guid>
-            <pubDate>Thu, 04 Nov 2021 07:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.05(금) 01:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 김은지 바이올린 독주회 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53496</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53496</guid>
+            <pubDate>Sat, 06 Nov 2021 05:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.08(월) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -783,13 +790,6 @@
             <link>http://m.ticketlink.co.kr/help/notice/53482</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53482</guid>
             <pubDate>Thu, 04 Nov 2021 08:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.05(금) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 이머시브 씨어터 <그래비티 스페이스> - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53481</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53481</guid>
-            <pubDate>Thu, 04 Nov 2021 07:20:06 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05(금) 01:00]]></content:encoded>
         </item>
         <item>
