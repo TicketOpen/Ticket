@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 06:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 07:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/36/202110/14/zol5st9wuqiv.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 개그쇼 개그쟁이 - 안동 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53499</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53499</guid>
+            <pubDate>Sat, 06 Nov 2021 07:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.09(화) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[(인천) 2021 가족뮤지컬 겨울이야기 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53498</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53498</guid>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.05(금) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[(2022 대구 대백프라자) 가족뮤지컬 <백설공주> - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53484</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53484</guid>
-            <pubDate>Thu, 04 Nov 2021 08:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.05(금) 07:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 개그쇼 개그쟁이 - 안동 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53499</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53499</guid>
+            <pubDate>Sat, 06 Nov 2021 07:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.09(화) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(인천) 2021 가족뮤지컬 겨울이야기 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -784,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53485</guid>
             <pubDate>Thu, 04 Nov 2021 09:21:34 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05(금) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(2022 대구 대백프라자) 가족뮤지컬 <백설공주> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53484</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53484</guid>
-            <pubDate>Thu, 04 Nov 2021 08:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.05(금) 07:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[극단 벼랑끝날다X가수 바다의 <드라뮤지션 콘서트> (네이버 공연)]]></title>
