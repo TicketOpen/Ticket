@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 10:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 11:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -802,15 +802,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 무인도 탈출기 2021 온라인 녹화 중계 (네이버 공연)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
-            <pubDate>Wed, 03 Nov 2021 17:25:39 GMT</pubDate>
-            <content:encoded><![CDATA[11월 07일(일) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211030_12/Gra8A_1635588714631kwdbR_JPEG/1635588714593.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											뮤지컬 <레드북> 11월 8일 19:30 녹화 중계 (네이버 공연)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/ateod</link>
             <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
@@ -876,6 +867,14 @@
             <pubDate>Sat, 06 Nov 2021 13:25:06 GMT</pubDate>
             <content:encoded><![CDATA[11월 11일(목) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211027_13/a3dG5_163532161013862uXu_PNG/1635321610109.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <세븐 씬(Seven Scenes)> 녹화중계 (네이버 공연)]]></title>
+            <link>https://blog.naver.com/jump_arko/222505031856</link>
+            <guid>https://blog.naver.com/jump_arko/222505031856</guid>
+            <pubDate>Sun, 07 Nov 2021 11:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[11월 11일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211025_43/nL4ug_1635124964867DklUl_PNG/1635124964817.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
