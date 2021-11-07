@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 11:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 12:30:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -793,14 +793,6 @@
             <content:encoded><![CDATA[2021.11.05(금) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[2021 포항음악제] 드라마 (네이버 공연)]]></title>
-            <link>https://tv.naver.com/l/90404</link>
-            <guid>https://tv.naver.com/l/90404</guid>
-            <pubDate>Tue, 02 Nov 2021 12:31:17 GMT</pubDate>
-            <content:encoded><![CDATA[11월 07일(일) 19:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_113/dwrHv_1635320783652kjzJs_PNG/1635320783624.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											뮤지컬 <레드북> 11월 8일 19:30 녹화 중계 (네이버 공연)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/ateod</link>
@@ -875,6 +867,15 @@
             <pubDate>Sun, 07 Nov 2021 11:17:07 GMT</pubDate>
             <content:encoded><![CDATA[11월 11일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_43/nL4ug_1635124964867DklUl_PNG/1635124964817.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <명동로망스> 온라인 상영회 (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/playjangin</link>
+            <guid>https://patron.naver.com/ntv/c/intro/playjangin</guid>
+            <pubDate>Sat, 30 Oct 2021 06:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[11월 11일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_185/oeDB3_1634282019851mnXIF_PNG/1634282019804.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
