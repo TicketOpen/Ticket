@@ -4,7 +4,7 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 10:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 11:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,15 +15,6 @@
             <pubDate>Thu, 04 Nov 2021 12:31:03 GMT</pubDate>
             <content:encoded><![CDATA[11월 08일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211029_33/ROhUm_1635490283999ep7ka_PNG/1635490283972.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 무인도 탈출기 2020 온라인 녹화 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
-            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
-            <pubDate>Wed, 03 Nov 2021 17:25:39 GMT</pubDate>
-            <content:encoded><![CDATA[11월 08일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211030_217/5HxkN_16355887427453wqHo_JPEG/1635588742706.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2021 포항음악제] 브람스의 말]]></title>
@@ -91,6 +82,14 @@
             <pubDate>Sat, 30 Oct 2021 06:24:11 GMT</pubDate>
             <content:encoded><![CDATA[11월 11일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_185/oeDB3_1634282019851mnXIF_PNG/1634282019804.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[KSO국제지휘콩쿠르 - 2차 본선 ①]]></title>
+            <link>https://blog.naver.com/ksoblog/222543922582</link>
+            <guid>https://blog.naver.com/ksoblog/222543922582</guid>
+            <pubDate>Mon, 08 Nov 2021 11:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[11월 12일(금) 10:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_64/pij1L_1634805002585rqysm_PNG/1634805002557.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
