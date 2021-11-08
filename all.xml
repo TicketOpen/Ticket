@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 07:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 08:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -433,6 +433,27 @@
             <content:encoded><![CDATA[2021.11.15(월) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2021.11.11(목) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 [천사에 관하여 : 타락천사 편] 3차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11300&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11300&amp;order=1</guid>
+            <pubDate>Mon, 08 Nov 2021 08:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[2021-11-11(목) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[THE BOYZ FAN CON : THE B-ZONE 온라인 공연  티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11299&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11299&amp;order=1</guid>
+            <pubDate>Mon, 08 Nov 2021 08:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[2021-11-16(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[THE BOYZ FAN CON : THE B-ZONE 오프라인 공연 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11298&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11298&amp;order=1</guid>
+            <pubDate>Mon, 08 Nov 2021 08:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[2021-11-15(월) 20:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[다시 만나 콘서트 (강원도민 대상 공연) 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11297&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11297&amp;order=1</guid>
@@ -480,27 +501,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11291&amp;order=1</guid>
             <pubDate>Fri, 05 Nov 2021 07:19:29 GMT</pubDate>
             <content:encoded><![CDATA[2021-11-16(화) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [쿠로이 저택엔 누가 살고 있을까?] 2차 티켓 오픈 안내 : 쿠로이 저택엔 어떤 선물이 있을까? (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11290&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11290&amp;order=1</guid>
-            <pubDate>Fri, 05 Nov 2021 07:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021-11-09(화) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [시카고] - 고양 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11289&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11289&amp;order=1</guid>
-            <pubDate>Fri, 05 Nov 2021 05:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[2021-11-11(목) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국민연극 [라이어 1탄] - 전주 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11288&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11288&amp;order=1</guid>
-            <pubDate>Fri, 05 Nov 2021 05:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[2021-11-10(수) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[워터밤 서울 2022 티켓오픈 안내 (위메프 공연티켓)]]></title>
