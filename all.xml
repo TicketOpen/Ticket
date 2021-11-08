@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 11:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 12:31:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/36/202110/14/zol5st9wuqiv.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 제이국악오케스트라 제2회 정기연주회 〈레거시 오브 제이〉 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53507</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53507</guid>
+            <pubDate>Mon, 08 Nov 2021 12:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.09(화) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬〈천사에 관하여 : 타락천사 편〉3차 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53506</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53506</guid>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.08(월) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[무희 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53491</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53491</guid>
-            <pubDate>Sat, 06 Nov 2021 02:37:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.08(월) 01:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 제이국악오케스트라 제2회 정기연주회 〈레거시 오브 제이〉 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53507</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53507</guid>
+            <pubDate>Mon, 08 Nov 2021 12:31:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.09(화) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬〈천사에 관하여 : 타락천사 편〉3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -784,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53492</guid>
             <pubDate>Sat, 06 Nov 2021 02:37:25 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.08(월) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[무희 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53491</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53491</guid>
-            <pubDate>Sat, 06 Nov 2021 02:37:25 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.08(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
