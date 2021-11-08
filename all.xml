@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 23:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 01:00:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,20 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5601</guid>
             <pubDate>Thu, 04 Nov 2021 00:58:42 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05(금) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[허원숙 하이든 프로젝트 II ＇Haydn Style＇ 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41236&amp;groupno=41236&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41236&amp;groupno=41236&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 08 Nov 2021 00:59:29 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.10(수)&nbsp;15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김상진＆문지영 듀오 리사이틀 ＇로망스＇ 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41235&amp;groupno=41235&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41235&amp;groupno=41235&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 08 Nov 2021 00:59:29 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.12(금)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 부활 크리스마스 콘서트 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -190,18 +204,22 @@
             <content:encoded><![CDATA[21.11.10(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카즈미 타테이시 트리오 내한 10주년 기념공연-지브리, 재즈를 만나.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41217&amp;groupno=41217&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41217&amp;groupno=41217&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 05 Nov 2021 05:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.08(월)&nbsp;12:00]]></content:encoded>
+            <title><![CDATA[허원숙 하이든 프로젝트 II ＇Haydn Style＇ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41236</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41236</guid>
+            <pubDate>Mon, 08 Nov 2021 00:59:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.10
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110316380111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈앤ANNE〉1차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41216&amp;groupno=41216&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41216&amp;groupno=41216&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 05 Nov 2021 05:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.10(수)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[김상진＆문지영 듀오 리사이틀 ＇로망스＇ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41235</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41235</guid>
+            <pubDate>Mon, 08 Nov 2021 00:59:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.12
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110316524309.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 부활 크리스마스 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -274,24 +292,6 @@
             <content:encoded><![CDATA[2021.11.09
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110412460800.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 폴킴 전국투어 콘서트 〈투성이〉- 광주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41225</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41225</guid>
-            <pubDate>Fri, 05 Nov 2021 06:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.15
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110416021514.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 폴킴 전국투어 콘서트 〈투성이〉 - 청주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41224</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41224</guid>
-            <pubDate>Fri, 05 Nov 2021 06:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.15
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110417202803.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 [친정엄마와 2박3일] - 부산 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -625,13 +625,6 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.08(월) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 수원 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53495</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53495</guid>
-            <pubDate>Sat, 06 Nov 2021 04:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.08(월) 01:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[단독판매] 봉포유 렉처스테이지V <싱어스테이지 with 비아트리오> 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53494</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53494</guid>
@@ -688,6 +681,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.05(금) 00:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2021 심수봉 전국투어콘서트 - 포항 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53486</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53486</guid>
+            <pubDate>Mon, 08 Nov 2021 01:00:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.05(금) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 경산시립극단 8회 정기공연 〈​아비〉​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53501</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53501</guid>
@@ -728,13 +728,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53496</guid>
             <pubDate>Sat, 06 Nov 2021 05:18:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.08(월) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53495</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53495</guid>
-            <pubDate>Sat, 06 Nov 2021 04:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.08(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 봉포유 렉처스테이지V <싱어스테이지 with 비아트리오> 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -791,6 +784,13 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53487</guid>
             <pubDate>Thu, 04 Nov 2021 09:21:34 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05(금) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 심수봉 전국투어콘서트 - 포항 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53486</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53486</guid>
+            <pubDate>Mon, 08 Nov 2021 01:00:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.05(금) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
