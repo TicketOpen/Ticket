@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 05:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 06:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -582,6 +582,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/36/202110/14/zol5st9wuqiv.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 포항시립연극단 제184회 정기공연 『무명,無名 』티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53511</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53511</guid>
+            <pubDate>Tue, 09 Nov 2021 06:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.10(수) 08:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 오페라 속 '부부의 세계' - 안동 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53510</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53510</guid>
@@ -680,11 +687,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.08(월) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 김은지 바이올린 독주회 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53496</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53496</guid>
-            <pubDate>Sat, 06 Nov 2021 05:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.08(월) 00:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 포항시립연극단 제184회 정기공연 『무명,無名 』티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53511</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53511</guid>
+            <pubDate>Tue, 09 Nov 2021 06:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.10(수) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 오페라 속 '부부의 세계' - 안동 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -783,13 +790,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53497</guid>
             <pubDate>Sat, 06 Nov 2021 06:23:39 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.08(월) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 김은지 바이올린 독주회 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53496</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53496</guid>
-            <pubDate>Sat, 06 Nov 2021 05:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.08(월) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2021 포항음악제] 브람스의 말 (네이버 공연)]]></title>
