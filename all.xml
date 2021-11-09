@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 07:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 08:25:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,7 +210,7 @@
             <pubDate>Tue, 09 Nov 2021 07:19:09 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.11
                                     <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110910415357.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011297_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[＇2021 부활 김동명 단독 콘서트＇ in busan ;the ROCK; 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -219,7 +219,7 @@
             <pubDate>Tue, 09 Nov 2021 05:17:49 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.12
                                     <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211109050304.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 유리상자 콘서트 - 청주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -582,6 +582,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/36/202110/14/zol5st9wuqiv.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[쇼팽으로 만나는 겨울왕국 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53515</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53515</guid>
+            <pubDate>Tue, 09 Nov 2021 08:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.10(수) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한빛예술단의 Music in the Dark 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53514</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53514</guid>
+            <pubDate>Tue, 09 Nov 2021 08:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.10(수) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 부평​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53513</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53513</guid>
@@ -673,18 +687,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.08(월) 03:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 대구시립합창단 '시민행복나눔콘서트' 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53500</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53500</guid>
-            <pubDate>Sat, 06 Nov 2021 09:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.09(화) 05:00]]></content:encoded>
+            <title><![CDATA[쇼팽으로 만나는 겨울왕국 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53515</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53515</guid>
+            <pubDate>Tue, 09 Nov 2021 08:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.10(수) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 개그쇼 개그쟁이 - 안동 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53499</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53499</guid>
-            <pubDate>Sat, 06 Nov 2021 07:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.09(화) 01:00]]></content:encoded>
+            <title><![CDATA[한빛예술단의 Music in the Dark 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53514</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53514</guid>
+            <pubDate>Tue, 09 Nov 2021 08:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.10(수) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 부평​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -776,20 +790,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53501</guid>
             <pubDate>Sat, 06 Nov 2021 08:24:06 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.08(월) 03:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 대구시립합창단 '시민행복나눔콘서트' 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53500</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53500</guid>
-            <pubDate>Sat, 06 Nov 2021 08:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.09(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 개그쇼 개그쟁이 - 안동 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53499</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53499</guid>
-            <pubDate>Sat, 06 Nov 2021 07:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.09(화) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2021 포항음악제] 브람스의 말 (네이버 공연)]]></title>
