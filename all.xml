@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 16:31:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 17:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -792,15 +792,6 @@
             <content:encoded><![CDATA[2021.11.08(월) 03:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[후원
-											뮤지컬 <명동로망스> 온라인 상영회 (네이버 공연)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/playjangin</link>
-            <guid>https://patron.naver.com/ntv/c/intro/playjangin</guid>
-            <pubDate>Sat, 30 Oct 2021 06:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[11월 09일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_160/aVHDz_1634281035816920zl_PNG/1634281035716.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[2021 포항음악제] 클래식 피아졸라 - 노부스 콰르텟 (네이버 공연)]]></title>
             <link>https://tv.naver.com/l/90409</link>
             <guid>https://tv.naver.com/l/90409</guid>
@@ -875,6 +866,15 @@
             <pubDate>Tue, 09 Nov 2021 12:32:39 GMT</pubDate>
             <content:encoded><![CDATA[11월 12일(금) 20:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_110/Z5A94_1634799718270365EQ_JPEG/1634799718228.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <메이사의 노래> 생중계 (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/howfarms</link>
+            <guid>https://patron.naver.com/ntv/c/intro/howfarms</guid>
+            <pubDate>Tue, 09 Nov 2021 17:27:13 GMT</pubDate>
+            <content:encoded><![CDATA[11월 14일(일) 14:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211103_235/YM6aN_1635926510017mn3lx_JPEG/1635926509980.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
