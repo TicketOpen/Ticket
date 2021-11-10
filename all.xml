@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 03:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 04:26:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,7 +264,7 @@
             <pubDate>Wed, 10 Nov 2021 00:59:43 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.11
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21004181_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[빅재미 극단 Soulmate 이어달리기 - 〈검둥이〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -292,6 +292,20 @@
             <content:encoded><![CDATA[2021.11.12
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21006998_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[허원숙 하이든 프로젝트 II ＇Haydn Style＇ 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11307</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11307</guid>
+            <pubDate>Wed, 10 Nov 2021 04:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.10(수) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김상진＆문지영 듀오 리사이틀 ＇로망스＇ 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11306</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11306</guid>
+            <pubDate>Wed, 10 Nov 2021 04:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.12(금) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 어반자카파 전국투어 콘서트 ‘겨울’ - 부산 티켓오픈안내 (예스24 티켓)]]></title>
@@ -416,19 +430,6 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11287</guid>
             <pubDate>Wed, 10 Nov 2021 02:04:11 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.11(목) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [V 에버 애프터] 마지막 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11286</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11286</guid>
-            <pubDate>Wed, 10 Nov 2021 02:04:11 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.05(금) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나의 관심공연 설정 및 맞춤 알람 서비스 종료 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11285</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11285</guid>
-            <pubDate>Wed, 10 Nov 2021 02:04:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[허원숙 하이든 프로젝트 II ＇Haydn Style＇ 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -581,6 +582,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/36/202110/14/zol5st9wuqiv.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매]  세빌리야의 이발사 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53520</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53520</guid>
+            <pubDate>Wed, 10 Nov 2021 04:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.24(수) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2021 어반자카파 전국투어 콘서트 ‘겨울’ – 부산 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53517</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53517</guid>
@@ -679,11 +687,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.11(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021-22 YB 전국투어 콘서트 〈LIGHTS〉 - 서울 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53503</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53503</guid>
-            <pubDate>Mon, 08 Nov 2021 05:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.12(금) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  세빌리야의 이발사 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53520</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53520</guid>
+            <pubDate>Wed, 10 Nov 2021 04:26:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.24(수) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 어반자카파 전국투어 콘서트 ‘겨울’ – 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -782,13 +790,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53504</guid>
             <pubDate>Mon, 08 Nov 2021 05:19:43 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.11(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021-22 YB 전국투어 콘서트 〈LIGHTS〉 - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53503</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53503</guid>
-            <pubDate>Mon, 08 Nov 2021 05:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.12(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2021 포항음악제] 클래식 피아졸라 - 노부스 콰르텟 (네이버 공연)]]></title>
