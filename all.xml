@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 09:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 10:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -582,6 +582,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/36/202110/14/zol5st9wuqiv.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 월드 클래식 오페라 시리즈Ⅰ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53523</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53523</guid>
+            <pubDate>Wed, 10 Nov 2021 10:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.11(목) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[W필하모닉오케스트라 '크리스마스 인 러시아' 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53521</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53521</guid>
@@ -680,11 +687,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.09(화) 07:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 제이국악오케스트라 제2회 정기연주회 〈레거시 오브 제이〉 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53507</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53507</guid>
-            <pubDate>Mon, 08 Nov 2021 12:31:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.09(화) 01:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 월드 클래식 오페라 시리즈Ⅰ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53523</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53523</guid>
+            <pubDate>Wed, 10 Nov 2021 10:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.11(목) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[W필하모닉오케스트라 '크리스마스 인 러시아' 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -783,13 +790,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53508</guid>
             <pubDate>Tue, 09 Nov 2021 05:19:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.09(화) 07:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 제이국악오케스트라 제2회 정기연주회 〈레거시 오브 제이〉 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53507</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53507</guid>
-            <pubDate>Mon, 08 Nov 2021 12:31:22 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.09(화) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2021 포항음악제] 클래식 피아졸라 - 노부스 콰르텟 (네이버 공연)]]></title>
