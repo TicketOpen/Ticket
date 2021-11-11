@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-11T01:01:57.232Z</updated>
+    <updated>2021-11-11T02:05:55.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [최후의 남자] - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53525</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53525"/>
+        <updated>2021-11-11T02:05:10.894Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.11(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 유리상자 콘서트 - 청주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53524</id>
@@ -18,6 +25,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53523"/>
         <updated>2021-11-10T10:22:13.174Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.11(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A World Tour with CM - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53522</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53522"/>
+        <updated>2021-11-11T02:05:10.906Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.11(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[W필하모닉오케스트라 '크리스마스 인 러시아' 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53511"/>
         <updated>2021-11-09T06:23:37.621Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.10(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 오페라 속 '부부의 세계' - 안동 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53510</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53510"/>
-        <updated>2021-11-09T05:18:49.101Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.10(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 월곡 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53509</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53509"/>
-        <updated>2021-11-09T05:18:49.104Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.10(수) 05:00]]></content>
     </entry>
 </feed>
