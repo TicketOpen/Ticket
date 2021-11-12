@@ -4,7 +4,7 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 12:31:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 13:26:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,15 +15,6 @@
             <pubDate>Sat, 30 Oct 2021 06:24:11 GMT</pubDate>
             <content:encoded><![CDATA[11월 12일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_86/SK2od_1634282377727XMpIm_PNG/1634282377676.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											어느 날, 내게 찾아 ON 콘서트 -1회차 (임재현/안예은)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/audioguy</link>
-            <guid>https://patron.naver.com/ntv/c/intro/audioguy</guid>
-            <pubDate>Tue, 09 Nov 2021 12:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[11월 12일(금) 20:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_110/Z5A94_1634799718270365EQ_JPEG/1634799718228.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시흥시립전통예술단 <호조벌의 약속>]]></title>
@@ -94,6 +85,14 @@
             <pubDate>Sat, 30 Oct 2021 06:24:11 GMT</pubDate>
             <content:encoded><![CDATA[11월 16일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_68/5chIp_1634286649336bCTY8_PNG/1634286649282.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[현대음악콘서트 <햄릿, 소리의 심리학> 녹화중계]]></title>
+            <link>https://blog.naver.com/jump_arko/222536569248</link>
+            <guid>https://blog.naver.com/jump_arko/222536569248</guid>
+            <pubDate>Fri, 12 Nov 2021 13:26:42 GMT</pubDate>
+            <content:encoded><![CDATA[11월 16일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211025_199/NqstV_1635147595673MaWnT_PNG/1635147595651.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
