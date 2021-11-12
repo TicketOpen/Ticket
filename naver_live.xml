@@ -4,17 +4,9 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 03:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 04:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[KSO국제지휘콩쿠르 - 2차 본선 ①]]></title>
-            <link>https://blog.naver.com/ksoblog/222543922582</link>
-            <guid>https://blog.naver.com/ksoblog/222543922582</guid>
-            <pubDate>Mon, 08 Nov 2021 11:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[11월 12일(금) 10:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_64/pij1L_1634805002585rqysm_PNG/1634805002557.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[KSO국제지휘콩쿠르 - 2차 본선 ②]]></title>
             <link>https://blog.naver.com/ksoblog/222543922582</link>
@@ -92,6 +84,15 @@
             <pubDate>Sat, 30 Oct 2021 06:24:11 GMT</pubDate>
             <content:encoded><![CDATA[11월 15일(월) 16:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_33/0SOZK_1634286155438UPsHk_PNG/1634286155394.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <어쩌면 해피엔딩> Live｜정욱진, 홍지희, 이선근]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/cjenmmusical</link>
+            <guid>https://patron.naver.com/ntv/c/intro/cjenmmusical</guid>
+            <pubDate>Fri, 12 Nov 2021 04:27:09 GMT</pubDate>
+            <content:encoded><![CDATA[11월 15일(월) 19:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_66/5gfcl_16347120005804eOBr_JPEG/1634712000564.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
