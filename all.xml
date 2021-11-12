@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 16:31:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 17:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -793,15 +793,6 @@
             <content:encoded><![CDATA[2021.11.15(월) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[후원
-											뮤지컬 <명동로망스> 온라인 상영회 (네이버 공연)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/playjangin</link>
-            <guid>https://patron.naver.com/ntv/c/intro/playjangin</guid>
-            <pubDate>Sat, 30 Oct 2021 06:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[11월 12일(금) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_86/SK2od_1634282377727XMpIm_PNG/1634282377676.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[시흥시립전통예술단 <호조벌의 약속> (네이버 공연)]]></title>
             <link>https://tv.naver.com/l/91617</link>
             <guid>https://tv.naver.com/l/91617</guid>
@@ -878,6 +869,15 @@
             <pubDate>Fri, 12 Nov 2021 13:26:42 GMT</pubDate>
             <content:encoded><![CDATA[11월 16일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_199/NqstV_1635147595673MaWnT_PNG/1635147595651.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <명동로망스> (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/playjangin</link>
+            <guid>https://patron.naver.com/ntv/c/intro/playjangin</guid>
+            <pubDate>Sat, 30 Oct 2021 06:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[11월 17일(수) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_111/dymWy_1634286927647yYUvl_PNG/1634286927598.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
