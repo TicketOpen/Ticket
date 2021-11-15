@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-15T02:05:18.286Z</updated>
+    <updated>2021-11-15T03:21:41.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정동하 크리스마스 콘서트 “성탄동하” 서울공연 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53554</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53554"/>
+        <updated>2021-11-15T03:21:26.616Z</updated>
+        <content type="html"><![CDATA[2021.11.19(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] – 창원 추가 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53552</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53552"/>
         <updated>2021-11-15T02:04:59.748Z</updated>
-        <content type="html"><![CDATA[2021.11.17(수) 05:00]]></content>
+        <content type="html"><![CDATA[2021.11.17(수) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] – 대구 추가 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53539"/>
         <updated>2021-11-12T05:18:39.300Z</updated>
         <content type="html"><![CDATA[2021.11.17(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2021~22 이승철 전국투어 콘서트 “우리, 이제 만나요” - 전주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53538</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53538"/>
-        <updated>2021-11-12T05:18:39.301Z</updated>
-        <content type="html"><![CDATA[2021.11.17(수) 07:00]]></content>
     </entry>
 </feed>
