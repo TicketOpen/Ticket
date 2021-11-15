@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 23:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 01:01:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110817044500.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미로슬라브 꿀띠쉐프 피아노 리사이틀 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11326</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11326</guid>
+            <pubDate>Mon, 15 Nov 2021 01:00:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.12(금) 13:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <젠틀맨스 가이드 : 사랑과 살인편> 3차 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11324</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11324</guid>
@@ -426,11 +433,11 @@
             <content:encoded><![CDATA[2021.11.12(금) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021 어반자카파 전국투어 콘서트 ‘겨울’ - 부산 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11305</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11305</guid>
-            <pubDate>Sun, 14 Nov 2021 21:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.18(목) 14:00]]></content:encoded>
+            <title><![CDATA[미로슬라브 꿀띠쉐프 피아노 리사이틀 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11326&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11326&amp;order=1</guid>
+            <pubDate>Mon, 15 Nov 2021 01:00:51 GMT</pubDate>
+            <content:encoded><![CDATA[2021-11-12(금) 13:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <젠틀맨스 가이드 : 사랑과 살인편> 3차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -494,13 +501,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11316&amp;order=1</guid>
             <pubDate>Thu, 11 Nov 2021 07:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2021-11-12(금) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [뱀파이어 아더] 2차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11315&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11315&amp;order=1</guid>
-            <pubDate>Thu, 11 Nov 2021 06:24:51 GMT</pubDate>
-            <content:encoded><![CDATA[2021-11-15(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈장수상회〉 - 부천 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -581,6 +581,13 @@
             <pubDate>Fri, 05 Nov 2021 06:23:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.25(월) 10:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/41/202110/21/mnethgqjwy6x.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 바리톤 김기훈 리사이틀 - 광주 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53549</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53549</guid>
+            <pubDate>Mon, 15 Nov 2021 01:01:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.16(화) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 문화콘서트 난장 in 광산문화예술회관 티켓오픈 안내 (티켓링크)]]></title>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.12(금) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[(서귀포) 2021 송년가족뮤지컬 호두까기인형 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53534</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53534</guid>
-            <pubDate>Thu, 11 Nov 2021 10:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.15(월) 00:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 바리톤 김기훈 리사이틀 - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53549</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53549</guid>
+            <pubDate>Mon, 15 Nov 2021 01:01:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.16(화) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 문화콘서트 난장 in 광산문화예술회관 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -784,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53535</guid>
             <pubDate>Thu, 11 Nov 2021 23:20:49 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.12(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(서귀포) 2021 송년가족뮤지컬 호두까기인형 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53534</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53534</guid>
-            <pubDate>Thu, 11 Nov 2021 10:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.15(월) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
