@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 03:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 04:26:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -640,13 +640,6 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.19(금) 03:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021 정승환의 안녕 겨울 : 다시 여기, 우리 – 부산 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53560</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53560</guid>
-            <pubDate>Tue, 16 Nov 2021 02:04:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.22(월) 08:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬<스핏파이어 그릴> 2차 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53559</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53559</guid>
@@ -687,6 +680,13 @@
             <guid>http://www.ticketlink.co.kr/help/notice/53554</guid>
             <pubDate>Mon, 15 Nov 2021 03:21:15 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.19(금) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 쇼팽과 샌드위치 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53553</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53553</guid>
+            <pubDate>Wed, 17 Nov 2021 04:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.16(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 어반자카파 전국투어 콘서트 ‘겨울’ - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -745,13 +745,6 @@
             <content:encoded><![CDATA[2021.11.19(금) 03:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021 정승환의 안녕 겨울 : 다시 여기, 우리 – 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53560</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53560</guid>
-            <pubDate>Tue, 16 Nov 2021 02:05:01 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.22(월) 08:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬<스핏파이어 그릴> 2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53559</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53559</guid>
@@ -792,6 +785,13 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53554</guid>
             <pubDate>Mon, 15 Nov 2021 03:21:26 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.19(금) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 쇼팽과 샌드위치 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53553</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53553</guid>
+            <pubDate>Wed, 17 Nov 2021 04:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.16(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
