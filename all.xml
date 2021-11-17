@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 01:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 02:05:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -155,7 +155,7 @@
             <content:encoded><![CDATA[21.11.19(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쇼미더머니10 부산 콘서트 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <title><![CDATA[<쇼미더머니10 콘서트 : THE CLIMAX> - 부산 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41340&amp;groupno=41340&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41340&amp;groupno=41340&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 16 Nov 2021 05:17:13 GMT</pubDate>
@@ -434,6 +434,13 @@
             <content:encoded><![CDATA[2021.11.15(월) 14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[TWICE 4TH WORLD TOUR ‘Ⅲ’ 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11338&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11338&amp;order=1</guid>
+            <pubDate>Wed, 17 Nov 2021 02:04:52 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-03(금) 20:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 [시카고] - 진주 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11337&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11337&amp;order=1</guid>
@@ -446,6 +453,13 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11336&amp;order=1</guid>
             <pubDate>Tue, 16 Nov 2021 09:20:58 GMT</pubDate>
             <content:encoded><![CDATA[2021-11-19(금) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어(Musical The Lion King) 11월 24일(수) 15시 첫 티켓 오픈! (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11335&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11335&amp;order=1</guid>
+            <pubDate>Wed, 17 Nov 2021 02:04:52 GMT</pubDate>
+            <content:encoded><![CDATA[2021-11-24(수) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 ATEEZ(에이티즈) WORLD TOUR [THE FELLOWSHIP : BEGINNING OF THE END] IN SEOUL 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -488,20 +502,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11329&amp;order=1</guid>
             <pubDate>Tue, 16 Nov 2021 02:04:30 GMT</pubDate>
             <content:encoded><![CDATA[2021-11-23(화) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] - 인천 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11328&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11328&amp;order=1</guid>
-            <pubDate>Tue, 16 Nov 2021 02:04:30 GMT</pubDate>
-            <content:encoded><![CDATA[2021-11-17(수) 16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[데이브레이크 ‘× ÷ SHOW 시즌 3’ : 3배의 즐거움을 함께 나누자 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11325&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11325&amp;order=1</guid>
-            <pubDate>Tue, 16 Nov 2021 02:04:30 GMT</pubDate>
-            <content:encoded><![CDATA[2021-11-16(화) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈멸화군〉 - 위멮데이 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -591,13 +591,6 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.18(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021 장민호 단독 콘서트 투어 “드라마” - 수원 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53568</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53568</guid>
-            <pubDate>Tue, 16 Nov 2021 08:25:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.19(금) 05:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2021 부활 10대 보컬`김동명` 단독 콘서트 `the ROCK in busan`​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53567</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53567</guid>
@@ -631,6 +624,13 @@
             <guid>http://www.ticketlink.co.kr/help/notice/53563</guid>
             <pubDate>Tue, 16 Nov 2021 07:19:53 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.18(목) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어(Musical The Lion King) 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53562</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53562</guid>
+            <pubDate>Wed, 17 Nov 2021 02:05:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.24(수) 06:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 광주시립발레단 제129회 정기공연 [호두까기 인형] 티켓오픈 안내 (티켓링크)]]></title>
@@ -696,13 +696,6 @@
             <content:encoded><![CDATA[2021.11.18(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021 장민호 단독 콘서트 투어 “드라마” - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53568</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53568</guid>
-            <pubDate>Tue, 16 Nov 2021 08:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.19(금) 05:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2021 부활 10대 보컬`김동명` 단독 콘서트 `the ROCK in busan`​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53567</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53567</guid>
@@ -736,6 +729,13 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53563</guid>
             <pubDate>Tue, 16 Nov 2021 07:20:03 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.18(목) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어(Musical The Lion King) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53562</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53562</guid>
+            <pubDate>Wed, 17 Nov 2021 02:05:17 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.24(수) 06:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 광주시립발레단 제129회 정기공연 [호두까기 인형] 티켓오픈 안내 (티켓링크 모바일)]]></title>
