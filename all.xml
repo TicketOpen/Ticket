@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 03:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 04:27:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/50/202110/25/71qy6jmtdsfc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<쇼미더머니10 콘서트: THE CLIMAX> - 부산 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53582</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53582</guid>
+            <pubDate>Thu, 18 Nov 2021 04:27:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.23(화) 09:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 헤라, 아프로디테, 아르테미스 - 포항​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53581</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53581</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.22(월) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이은결 〈​MAGIC & ILLUSION〉​ - 창원​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53564</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53564</guid>
-            <pubDate>Tue, 16 Nov 2021 07:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.19(금) 05:00]]></content:encoded>
+            <title><![CDATA[<쇼미더머니10 콘서트: THE CLIMAX> - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53582</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53582</guid>
+            <pubDate>Thu, 18 Nov 2021 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.23(화) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 헤라, 아프로디테, 아르테미스 - 포항​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53564</guid>
             <pubDate>Tue, 16 Nov 2021 07:20:03 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.19(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어린이가족뮤지컬 〈​오즈의마법사〉​ - 대전​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53563</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53563</guid>
-            <pubDate>Tue, 16 Nov 2021 07:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.18(목) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
