@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 11:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 12:32:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -444,6 +444,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/14/202110/26/ihvwyurmn3rn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 스크루테이프의 편지 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53592</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53592</guid>
+            <pubDate>Thu, 18 Nov 2021 12:32:40 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.22(월) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 경산필하모닉오케스트라 제16회 정기연주회 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53591</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53591</guid>
@@ -542,11 +549,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.18(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021 제2회 영화음악 콘서트 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53577</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53577</guid>
-            <pubDate>Wed, 17 Nov 2021 08:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.18(목) 08:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 스크루테이프의 편지 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53592</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53592</guid>
+            <pubDate>Thu, 18 Nov 2021 12:32:47 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.22(월) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 경산필하모닉오케스트라 제16회 정기연주회 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -647,13 +654,6 @@
             <content:encoded><![CDATA[2021.11.18(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021 제2회 영화음악 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53577</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53577</guid>
-            <pubDate>Wed, 17 Nov 2021 08:24:41 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.18(목) 08:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[후원
 											뮤지컬 <명동로망스> (네이버 공연)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/playjangin</link>
@@ -661,14 +661,6 @@
             <pubDate>Sat, 30 Oct 2021 06:24:11 GMT</pubDate>
             <content:encoded><![CDATA[11월 18일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211015_83/e3J8D_1634287075926BYeC7_PNG/1634287075833.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <제 1강 : 거절하는 방법> 녹화중계 (네이버 공연)]]></title>
-            <link>https://blog.naver.com/jump_arko/222530628797</link>
-            <guid>https://blog.naver.com/jump_arko/222530628797</guid>
-            <pubDate>Sun, 14 Nov 2021 09:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[11월 18일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211025_259/fI1ji_1635147247799TAJl3_PNG/1635147247778.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[쇼핑
@@ -738,6 +730,15 @@
             <pubDate>Wed, 17 Nov 2021 17:23:47 GMT</pubDate>
             <content:encoded><![CDATA[11월 23일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_82/1OJ8G_1635147066647zNq2I_PNG/1635147066586.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											극단 봄 <도서관 생쥐> (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/ggipuppet</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ggipuppet</guid>
+            <pubDate>Thu, 18 Nov 2021 12:32:53 GMT</pubDate>
+            <content:encoded><![CDATA[11월 24일(수) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211028_84/xSujH_1635384738812ImSR2_JPEG/1635384738784.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
