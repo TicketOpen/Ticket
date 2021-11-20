@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 07:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 08:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -444,6 +444,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/14/202110/26/ihvwyurmn3rn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유러피안 재즈 페스티벌 2021 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53599</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53599</guid>
+            <pubDate>Sat, 20 Nov 2021 08:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.22(월) 07:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[꽃은 사절합니다 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53598</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53598</guid>
@@ -542,11 +549,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.19(금) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극<굿-day> - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53584</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53584</guid>
-            <pubDate>Thu, 18 Nov 2021 07:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.22(월) 01:00]]></content:encoded>
+            <title><![CDATA[유러피안 재즈 페스티벌 2021 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53599</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53599</guid>
+            <pubDate>Sat, 20 Nov 2021 08:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.22(월) 07:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[꽃은 사절합니다 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -645,13 +652,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53585</guid>
             <pubDate>Thu, 18 Nov 2021 07:19:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.19(금) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극<굿-day> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53584</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53584</guid>
-            <pubDate>Thu, 18 Nov 2021 07:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.22(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
