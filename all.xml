@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 03:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 04:27:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,6 +43,13 @@
             <content:encoded><![CDATA[2021.11.23(화) 15:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[사공 단독공연 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5658</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5658</guid>
+            <pubDate>Sat, 20 Nov 2021 04:25:09 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.23(화) 18:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2021 환희 소극장 콘서트［가족］티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5657</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5657</guid>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5654</guid>
             <pubDate>Fri, 19 Nov 2021 03:20:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.19(금) 12:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[리엘（Liel）단독공연［Goodbye I’m Going Home］티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5653</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5653</guid>
-            <pubDate>Thu, 18 Nov 2021 05:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.23(화) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈출동! 슈퍼윙스 : 빅콘서트〉 - 청주 티켓오픈 안내 (인터파크 티켓)]]></title>
