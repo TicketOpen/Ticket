@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 06:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 07:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,20 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5657</guid>
             <pubDate>Fri, 19 Nov 2021 05:17:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.25(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈프랑켄슈타인〉 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41401&amp;groupno=41401&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41401&amp;groupno=41401&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 22 Nov 2021 07:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.25(목)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 백지영 전국투어 콘서트 〈BAEK HUG〉 - 인천 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41400&amp;groupno=41400&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41400&amp;groupno=41400&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 22 Nov 2021 07:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.26(금)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[윤종신 콘서트 ＇BIRDMAN’ - 부산 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -190,18 +204,22 @@
             <content:encoded><![CDATA[21.11.25(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[먼데이키즈 콘서트 ‘나비의 꿈 ; 다시 꾸는 꿈’ - 서울 티켓오픈 .. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41383&amp;groupno=41383&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41383&amp;groupno=41383&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 19 Nov 2021 05:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.26(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈프랑켄슈타인〉 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41401</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41401</guid>
+            <pubDate>Mon, 22 Nov 2021 07:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008252_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈알마게스트〉 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41382&amp;groupno=41382&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41382&amp;groupno=41382&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 19 Nov 2021 04:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.19(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[2022 백지영 전국투어 콘서트 〈BAEK HUG〉 - 인천 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41400</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41400</guid>
+            <pubDate>Mon, 22 Nov 2021 07:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.26
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021111821065938.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤종신 콘서트 ＇BIRDMAN’ - 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -276,29 +294,18 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021111810523225.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 〈출동! 슈퍼윙스 : 빅콘서트〉 - 청주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41391</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41391</guid>
-            <pubDate>Fri, 19 Nov 2021 11:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.23
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011866_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 김형준 팬미팅 ［Diary］ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41390</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41390</guid>
-            <pubDate>Fri, 19 Nov 2021 08:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.26
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021111914151487.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 [우리들의 사랑] 2차 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11349</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11349</guid>
             <pubDate>Mon, 22 Nov 2021 06:24:41 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.26(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 백지영 전국투어 콘서트〈BAEK HUG〉-  인천 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11348</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11348</guid>
+            <pubDate>Mon, 22 Nov 2021 07:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.26(금) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 김사월 연말 단독 공연〈밖은 너무 추워 나는〉티켓오픈안내 (예스24 티켓)]]></title>
@@ -427,18 +434,18 @@
             <content:encoded><![CDATA[2021.11.18(목) 18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11329</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11329</guid>
-            <pubDate>Mon, 22 Nov 2021 01:01:12 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.23(화) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2021.11.19(금) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 [우리들의 사랑] 2차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11349&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11349&amp;order=1</guid>
             <pubDate>Mon, 22 Nov 2021 06:24:53 GMT</pubDate>
             <content:encoded><![CDATA[2021-11-26(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 백지영 전국투어 콘서트〈BAEK HUG〉-  인천 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11348&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11348&amp;order=1</guid>
+            <pubDate>Mon, 22 Nov 2021 07:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021-11-26(금) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 김사월 연말 단독 공연〈밖은 너무 추워 나는〉티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -495,13 +502,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11340&amp;order=1</guid>
             <pubDate>Thu, 18 Nov 2021 05:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2021-11-24(수) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유니버설발레단〈호두까기인형〉3층 좌석 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11339&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11339&amp;order=1</guid>
-            <pubDate>Thu, 18 Nov 2021 05:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2021-11-23(화) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유니버설발레단 〈호두까기인형〉 3층 좌석 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -584,7 +584,21 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/14/202110/26/ihvwyurmn3rn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 소프라노 조영주 독창회 - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <title><![CDATA[뮤지컬〈헤드윅〉 - 성남 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53607</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53607</guid>
+            <pubDate>Mon, 22 Nov 2021 07:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.25(목) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 `노트르담 드 파리` 프렌치 오리지널 - 대구 추가 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53606</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53606</guid>
+            <pubDate>Mon, 22 Nov 2021 07:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.25(목) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소프라노 조영주 독창회 - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53605</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53605</guid>
             <pubDate>Mon, 22 Nov 2021 06:25:26 GMT</pubDate>
@@ -675,21 +689,21 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.22(월) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 스크루테이프의 편지 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53592</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53592</guid>
-            <pubDate>Thu, 18 Nov 2021 12:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.22(월) 06:00]]></content:encoded>
+            <title><![CDATA[뮤지컬〈헤드윅〉 - 성남 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53607</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53607</guid>
+            <pubDate>Mon, 22 Nov 2021 07:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.25(목) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 경산필하모닉오케스트라 제16회 정기연주회 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53591</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53591</guid>
-            <pubDate>Thu, 18 Nov 2021 11:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.22(월) 01:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 `노트르담 드 파리` 프렌치 오리지널 - 대구 추가 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53606</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53606</guid>
+            <pubDate>Mon, 22 Nov 2021 07:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.25(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 소프라노 조영주 독창회 - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <title><![CDATA[소프라노 조영주 독창회 - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53605</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53605</guid>
             <pubDate>Mon, 22 Nov 2021 06:25:40 GMT</pubDate>
@@ -778,20 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53593</guid>
             <pubDate>Fri, 19 Nov 2021 01:00:52 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.22(월) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 스크루테이프의 편지 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53592</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53592</guid>
-            <pubDate>Thu, 18 Nov 2021 12:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.22(월) 06:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 경산필하모닉오케스트라 제16회 정기연주회 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53591</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53591</guid>
-            <pubDate>Thu, 18 Nov 2021 11:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.22(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
