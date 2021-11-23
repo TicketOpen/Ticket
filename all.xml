@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 16:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 17:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -794,15 +794,6 @@
             <content:encoded><![CDATA[2021.11.23(화) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[후원
-											뮤지컬 <명동로망스> (네이버 공연)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/playjangin</link>
-            <guid>https://patron.naver.com/ntv/c/intro/playjangin</guid>
-            <pubDate>Sat, 30 Oct 2021 06:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[11월 23일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_164/6OFOA_1634287582953gmKim_PNG/1634287582846.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[11시콘서트＜재즈 조윤성 밴드＞ (네이버 공연)]]></title>
             <link>https://blog.naver.com/caactalk/222554999689</link>
             <guid>https://blog.naver.com/caactalk/222554999689</guid>
@@ -880,6 +871,15 @@
             <pubDate>Tue, 23 Nov 2021 12:32:05 GMT</pubDate>
             <content:encoded><![CDATA[11월 26일(금) 20:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_116/PLtyr_1634807291861Pv7fk_JPEG/1634807291826.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <메이사의 노래> 생중계 (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/howfarms</link>
+            <guid>https://patron.naver.com/ntv/c/intro/howfarms</guid>
+            <pubDate>Tue, 23 Nov 2021 17:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[11월 27일(토) 14:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211102_234/zzhIU_1635854345860Lqpl9_JPEG/1635854345816.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
