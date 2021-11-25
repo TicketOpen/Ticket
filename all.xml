@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 02:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 03:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌4［음악여행，쉼］－모브닝 단독 콘서트 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5683</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5683</guid>
+            <pubDate>Thu, 25 Nov 2021 03:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.02(목) 20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[김창완밴드 콘서트 in 부산 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5681</link>
@@ -71,13 +78,6 @@
             <content:encoded><![CDATA[2021.11.30(화) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[윤딴딴 겨울 독백 콘서트 〈기타하고 나하고 2021〉 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5671</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5671</guid>
-            <pubDate>Wed, 24 Nov 2021 09:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.30(화) 20:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈더모먼트〉 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41440&amp;groupno=41440&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41440&amp;groupno=41440&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -125,13 +125,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41433&amp;groupno=41433&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 24 Nov 2021 08:22:35 GMT</pubDate>
             <content:encoded><![CDATA[21.11.29(월)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021 더원 콘서트 - 부산 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41432&amp;groupno=41432&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41432&amp;groupno=41432&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 24 Nov 2021 07:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.25(목)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021-22 YB 전국투어 콘서트 〈LIGHTS〉 - 창원 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -204,6 +197,13 @@
             <content:encoded><![CDATA[21.11.26(금)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Malina(말리나) 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41421&amp;groupno=41421&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41421&amp;groupno=41421&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 25 Nov 2021 03:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.15(월)&nbsp;09:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈더모먼트〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41440</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41440</guid>
@@ -267,15 +267,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211124063137.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021 더원 콘서트 - 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41432</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41432</guid>
-            <pubDate>Wed, 24 Nov 2021 08:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.25
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021112414104734.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2021-22 YB 전국투어 콘서트 〈LIGHTS〉 - 창원 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41431</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41431</guid>
@@ -292,6 +283,22 @@
             <content:encoded><![CDATA[2021.12.01
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010936_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[미스터쇼(Mr.SHOW) 5차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41429</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41429</guid>
+            <pubDate>Thu, 25 Nov 2021 03:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.26
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007583_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[9와 숫자들BLUE CONCERT 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11360</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11360</guid>
+            <pubDate>Thu, 25 Nov 2021 03:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.30(화) 12:00<a class="noti-btn-pop" presaletit1="Bluer" presaletit2="" presaletime1="2021.11.30(화) 16:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 창원 티켓오픈안내 (예스24 티켓)]]></title>
@@ -427,11 +434,11 @@
             <content:encoded><![CDATA[2021.11.22(월) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[선예매] 2021 장범준 연말공연〈잠이 오질 않네요〉- 부산 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11340</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11340</guid>
-            <pubDate>Thu, 25 Nov 2021 02:05:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.24(수) 14:00]]></content:encoded>
+            <title><![CDATA[9와 숫자들BLUE CONCERT 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11360&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11360&amp;order=1</guid>
+            <pubDate>Thu, 25 Nov 2021 03:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[2021-11-30(화) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 창원 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -495,13 +502,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11351&amp;order=1</guid>
             <pubDate>Tue, 23 Nov 2021 12:31:04 GMT</pubDate>
             <content:encoded><![CDATA[2021-11-30(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [온에어] 1차 티켓 오픈공지 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11350&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11350&amp;order=1</guid>
-            <pubDate>Tue, 23 Nov 2021 12:31:04 GMT</pubDate>
-            <content:encoded><![CDATA[2021-11-26(금) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 티켓오픈 안내 N (위메프 공연티켓)]]></title>
