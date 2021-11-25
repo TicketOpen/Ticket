@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 09:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 10:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -591,6 +591,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/51/202111/04/yw1wyyd9ksam.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Quattro Per Quattro 〈사계〉티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53630</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53630</guid>
+            <pubDate>Thu, 25 Nov 2021 10:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.26(금) 06:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[코믹오페라 하녀마님 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53629</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53629</guid>
@@ -689,11 +696,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.25(목) 08:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 노을 연말 투어 콘서트 [노을이 내린 밤] - 익산 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53615</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53615</guid>
-            <pubDate>Tue, 23 Nov 2021 05:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.26(금) 05:00]]></content:encoded>
+            <title><![CDATA[Quattro Per Quattro 〈사계〉티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53630</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53630</guid>
+            <pubDate>Thu, 25 Nov 2021 10:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.26(금) 06:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코믹오페라 하녀마님 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -794,22 +801,6 @@
             <content:encoded><![CDATA[2021.11.25(목) 08:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 노을 연말 투어 콘서트 [노을이 내린 밤] - 익산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53615</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53615</guid>
-            <pubDate>Tue, 23 Nov 2021 05:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.26(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											꿈동이인형극단 <버드나무를 타고 올라간 용궁> (네이버 공연)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ggipuppet</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ggipuppet</guid>
-            <pubDate>Fri, 19 Nov 2021 13:26:32 GMT</pubDate>
-            <content:encoded><![CDATA[11월 25일(목) 17:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211028_247/G3Vna_1635386218416WB0Ou_JPEG/1635386218400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											뮤지컬 <명동로망스> (네이버 공연)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/playjangin</link>
@@ -887,6 +878,15 @@
             <pubDate>Wed, 24 Nov 2021 11:17:54 GMT</pubDate>
             <content:encoded><![CDATA[11월 27일(토) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211118_134/iAMwE_1637231400137rr4U7_JPEG/1637231400110.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬<홀연했던 사나이> 녹화 중계 - 11/27(토) (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/insight</link>
+            <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
+            <pubDate>Thu, 25 Nov 2021 10:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[11월 27일(토) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211103_15/YqdGK_1635931637212NFJTt_JPEG/1635931637189.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
