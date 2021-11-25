@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 22:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 23:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/51/202111/04/yw1wyyd9ksam.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가족뮤지컬 〈출동! 슈퍼윙스 : 빅콘서트〉 - 원주 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53631</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53631</guid>
+            <pubDate>Thu, 25 Nov 2021 23:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.26(금) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Quattro Per Quattro 〈사계〉티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53630</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53630</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.30(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] [독주회 ⑤] 재즈 보컬 나윤선 리사이틀 - 광주 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53616</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53616</guid>
-            <pubDate>Tue, 23 Nov 2021 04:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.25(목) 08:00]]></content:encoded>
+            <title><![CDATA[가족뮤지컬 〈출동! 슈퍼윙스 : 빅콘서트〉 - 원주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53631</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53631</guid>
+            <pubDate>Thu, 25 Nov 2021 23:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.26(금) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Quattro Per Quattro 〈사계〉티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53617</guid>
             <pubDate>Tue, 23 Nov 2021 07:19:57 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.30(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] [독주회 ⑤] 재즈 보컬 나윤선 리사이틀 - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53616</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53616</guid>
-            <pubDate>Tue, 23 Nov 2021 04:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.25(목) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
