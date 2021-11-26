@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 14:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 15:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -595,7 +595,7 @@
             <link>http://www.ticketlink.co.kr/help/notice/53634</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53634</guid>
             <pubDate>Fri, 26 Nov 2021 07:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<td>변경/취소</td><td class="tl p_reative"><a href="/help/notice/53634">‘솔지 첫 단독 콘서트’ 취소안내</a></td><td>2021.11.26</td><td class="ff_tahoma fs11">151</td>]]></content:encoded>
+            <content:encoded><![CDATA[<td>변경/취소</td><td class="tl p_reative"><a href="/help/notice/53634">‘솔지 첫 단독 콘서트’ 취소안내</a></td><td>2021.11.26</td><td class="ff_tahoma fs11">154</td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 새해 1월 시즌 티켓 오픈! (Musical Hadestown) (티켓링크)]]></title>
@@ -795,15 +795,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <명동로망스> (네이버 공연)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/playjangin</link>
-            <guid>https://patron.naver.com/ntv/c/intro/playjangin</guid>
-            <pubDate>Sat, 30 Oct 2021 06:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[11월 26일(금) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_212/0BAsU_1634288166752XeSNU_PNG/1634288166669.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											뮤지컬 <메이사의 노래> 생중계 (네이버 공연)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/howfarms</link>
             <guid>https://patron.naver.com/ntv/c/intro/howfarms</guid>
@@ -880,6 +871,15 @@
             <pubDate>Fri, 26 Nov 2021 13:25:46 GMT</pubDate>
             <content:encoded><![CDATA[11월 29일(월) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211020_235/tY9MJ_1634712954894Tqfh9_JPEG/1634712954851.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬<홀연했던 사나이> 녹화 중계 - 11/29(월) (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/insight</link>
+            <guid>https://patron.naver.com/ntv/c/intro/insight</guid>
+            <pubDate>Thu, 25 Nov 2021 10:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[11월 29일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211103_222/wNjBR_1635931699137kCrx7_JPEG/1635931699124.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
