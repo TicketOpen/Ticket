@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 10:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 11:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5688</guid>
             <pubDate>Fri, 26 Nov 2021 09:19:23 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.29(월) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[곽푸른하늘 단독공연 〈10〉 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5687</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5687</guid>
+            <pubDate>Fri, 26 Nov 2021 11:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.29(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[터치드 1st EP앨범 “Purple” 발매기념 단독공연 티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5680</guid>
             <pubDate>Fri, 26 Nov 2021 09:19:23 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.27(토) 18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol．15 〈최낙타〉－온라인 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5679</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5679</guid>
-            <pubDate>Thu, 25 Nov 2021 02:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.26(금) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 M.I.SEA 힙합 콘서트 - 제주 티켓오픈 (인터파크 티켓)]]></title>
@@ -595,7 +595,7 @@
             <link>http://www.ticketlink.co.kr/help/notice/53634</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53634</guid>
             <pubDate>Fri, 26 Nov 2021 07:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<td>변경/취소</td><td class="tl p_reative"><a href="/help/notice/53634">‘솔지 첫 단독 콘서트’ 취소안내</a></td><td>2021.11.26</td><td class="ff_tahoma fs11">69</td>]]></content:encoded>
+            <content:encoded><![CDATA[<td>변경/취소</td><td class="tl p_reative"><a href="/help/notice/53634">‘솔지 첫 단독 콘서트’ 취소안내</a></td><td>2021.11.26</td><td class="ff_tahoma fs11">75</td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 새해 1월 시즌 티켓 오픈! (Musical Hadestown) (티켓링크)]]></title>
