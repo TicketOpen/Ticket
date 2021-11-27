@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 07:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 08:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -602,7 +602,7 @@
             <link>http://www.ticketlink.co.kr/help/notice/53634</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53634</guid>
             <pubDate>Fri, 26 Nov 2021 07:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<td>변경/취소</td><td class="tl p_reative"><a href="/help/notice/53634">‘솔지 첫 단독 콘서트’ 취소안내</a></td><td>2021.11.26</td><td class="ff_tahoma fs11">197</td>]]></content:encoded>
+            <content:encoded><![CDATA[<td>변경/취소</td><td class="tl p_reative"><a href="/help/notice/53634">‘솔지 첫 단독 콘서트’ 취소안내</a></td><td>2021.11.26</td><td class="ff_tahoma fs11">204</td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 새해 1월 시즌 티켓 오픈! (Musical Hadestown) (티켓링크)]]></title>
@@ -795,15 +795,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											뮤지컬 <메이사의 노래> 생중계 (네이버 공연)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/howfarms</link>
-            <guid>https://patron.naver.com/ntv/c/intro/howfarms</guid>
-            <pubDate>Tue, 23 Nov 2021 17:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[11월 27일(토) 14:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211102_234/zzhIU_1635854345860Lqpl9_JPEG/1635854345816.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											서울시립교향악단 <쇼팽 콩쿠르 스페셜> (네이버 공연)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/seoulphil</link>
             <guid>https://patron.naver.com/ntv/c/intro/seoulphil</guid>
@@ -880,6 +871,15 @@
             <pubDate>Thu, 25 Nov 2021 10:22:16 GMT</pubDate>
             <content:encoded><![CDATA[11월 29일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211103_222/wNjBR_1635931699137kCrx7_JPEG/1635931699124.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											유러피안 재즈 페스티벌 2021 - Norwegian Night (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
+            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
+            <pubDate>Sat, 27 Nov 2021 08:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[11월 29일(월) 21:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211123_44/16376767814550eDOr_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
