@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-27T12:30:47.946Z</updated>
+    <updated>2021-11-27T13:24:08.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립국악관현악단 제 128회 정기연주회 '청소년 협연의 밤' 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53641</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53641"/>
+        <updated>2021-11-27T13:23:45.006Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.29(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 장수상회-목포 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53640</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53640"/>
+        <updated>2021-11-27T13:23:45.022Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.29(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 광산문화예술회관 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53639</id>
@@ -38,7 +52,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/53634</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53634"/>
         <updated>2021-11-26T07:20:31.170Z</updated>
-        <content type="html"><![CDATA[<td>변경/취소</td><td class="tl p_reative"><a href="/help/notice/53634">‘솔지 첫 단독 콘서트’ 취소안내</a></td><td>2021.11.26</td><td class="ff_tahoma fs11">217</td>]]></content>
+        <content type="html"><![CDATA[<td>변경/취소</td><td class="tl p_reative"><a href="/help/notice/53634">‘솔지 첫 단독 콘서트’ 취소안내</a></td><td>2021.11.26</td><td class="ff_tahoma fs11">218</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 새해 1월 시즌 티켓 오픈! (Musical Hadestown)]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53626"/>
         <updated>2021-11-24T07:21:09.915Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.25(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트  - 창원 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53625</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53625"/>
-        <updated>2021-11-24T07:21:09.918Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.29(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈리차드3세〉 1차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53624</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53624"/>
-        <updated>2021-11-24T05:18:30.590Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.02(목) 02:00]]></content>
     </entry>
 </feed>
