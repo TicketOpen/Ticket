@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.wemakeprice.com/opennotice</id>
-    <title>위메프 공연티켓</title>
-    <updated>2021-11-28T19:17:04.951Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.wemakeprice.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>위메프 공연티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 28 Nov 2021 20:21:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/773</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/773</guid>
+            <pubDate>Sun, 28 Nov 2021 20:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.30(화) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/11/202111/26/8wgcadrw7bhk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[〈COUNTDOWN FANTASY 2021-2022 - 2회차〉 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/772</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/772</guid>
+            <pubDate>Sun, 28 Nov 2021 20:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.30(화) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/03/202111/26/lfgm1w9haosm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[〈COUNTDOWN FANTASY 2021-2022 - 1회차〉 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/771</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/771</guid>
+            <pubDate>Sun, 28 Nov 2021 20:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.30(화) 16:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/23/202111/26/ayxpltuhsrje.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Quattro Per Quattro 〈사계〉 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/769</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/769</guid>
+            <pubDate>Sun, 28 Nov 2021 20:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.25(목) 15:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202111/25/1ffyoavkwmxc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈헤드윅〉 - 인천 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/768</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/768</guid>
+            <pubDate>Sun, 28 Nov 2021 20:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.27(토) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/29/202111/25/1slb66cpwjaz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/767</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/767</guid>
+            <pubDate>Sun, 28 Nov 2021 20:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.29(월) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/52/202111/24/avcugpdmsjik.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유니버설발레단 〈호두까기인형〉 3층 좌석 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/766</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/766</guid>
+            <pubDate>Sun, 28 Nov 2021 20:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.23(화) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/28/202111/18/awbce2ixekzt.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈엘리펀트 송〉 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/765</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/765</guid>
+            <pubDate>Sun, 28 Nov 2021 20:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.24(수) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/22/202111/18/npjjpyvf3s6c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈멸화군〉 - 위멮데이 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/764</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/764</guid>
+            <pubDate>Sun, 28 Nov 2021 20:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.16(화) 15:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/53/202111/15/btfuy4ccqxm7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈장수상회〉 - 부천 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/763</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/763</guid>
+            <pubDate>Sun, 28 Nov 2021 20:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.12(금) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/04/202111/11/c6jyrxnw6b9n.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
