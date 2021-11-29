@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 10:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 11:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -581,6 +581,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/53/202111/15/btfuy4ccqxm7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈알사탕〉 - 수원 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53653</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53653</guid>
+            <pubDate>Mon, 29 Nov 2021 11:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.30(화) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 건강도시 원주 〈건강힐링콘서트〉`Quattro per Quattro(사계)` - 원주​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53652</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53652</guid>
@@ -679,11 +686,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.29(월) 06:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NEW신비아파트 뮤지컬 시즌4：비명동산의 초대장－대전​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53638</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53638</guid>
-            <pubDate>Mon, 29 Nov 2021 01:02:58 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.02(목) 00:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈알사탕〉 - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53653</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53653</guid>
+            <pubDate>Mon, 29 Nov 2021 11:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.30(화) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 건강도시 원주 〈건강힐링콘서트〉`Quattro per Quattro(사계)` - 원주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -782,13 +789,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53639</guid>
             <pubDate>Sat, 27 Nov 2021 11:17:16 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.29(월) 06:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NEW신비아파트 뮤지컬 시즌4：비명동산의 초대장－대전​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53638</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53638</guid>
-            <pubDate>Mon, 29 Nov 2021 01:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.02(목) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
