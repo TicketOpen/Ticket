@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 08:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 09:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -293,6 +293,20 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009264_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[소프라노 홍혜란의 〈HOPE〉 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11376</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11376</guid>
+            <pubDate>Mon, 29 Nov 2021 09:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.30(화) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈언더스터디〉 1차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11375</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11375</guid>
+            <pubDate>Mon, 29 Nov 2021 09:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.03(금) 14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2021 VICTON FANMEETING [Sweet Travel] 취소안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11374</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11374</guid>
@@ -418,18 +432,18 @@
             <content:encoded><![CDATA[2021.11.29(월) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 지킬앤하이드 6차 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11355</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11355</guid>
-            <pubDate>Sun, 28 Nov 2021 20:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.02(목) 14:00]]></content:encoded>
+            <title><![CDATA[소프라노 홍혜란의 〈HOPE〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11376&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11376&amp;order=1</guid>
+            <pubDate>Mon, 29 Nov 2021 09:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021-11-30(화) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[라이브스트리밍] 뮤지컬 [잭더리퍼] 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11354</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11354</guid>
-            <pubDate>Sun, 28 Nov 2021 20:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.30(화) 13:00]]></content:encoded>
+            <title><![CDATA[연극 〈언더스터디〉 1차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11375&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11375&amp;order=1</guid>
+            <pubDate>Mon, 29 Nov 2021 09:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-03(금) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 VICTON FANMEETING [Sweet Travel] 취소안내 (예스24 티켓 모바일)]]></title>
@@ -485,20 +499,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11367&amp;order=1</guid>
             <pubDate>Fri, 26 Nov 2021 05:18:37 GMT</pubDate>
             <content:encoded><![CDATA[2021-12-03(금) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GREEDY CHRISTMAS 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11366&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11366&amp;order=1</guid>
-            <pubDate>Fri, 26 Nov 2021 01:00:41 GMT</pubDate>
-            <content:encoded><![CDATA[2021-12-01(수) 12:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [은하철도의 밤] 2차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11365&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11365&amp;order=1</guid>
-            <pubDate>Fri, 26 Nov 2021 02:02:46 GMT</pubDate>
-            <content:encoded><![CDATA[2021-12-02(목) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[초현실주의 거장들 - 예술의전당 티켓오픈 안내 N (위메프 공연티켓)]]></title>
@@ -579,6 +579,13 @@
             <pubDate>Sun, 28 Nov 2021 20:20:27 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.16(화) 15:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/53/202111/15/btfuy4ccqxm7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제 11회 한울림 골목연극제​​​​​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53650</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53650</guid>
+            <pubDate>Mon, 29 Nov 2021 09:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.11.30(화) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소프라노 홍혜란의 HOPE​​​​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -679,11 +686,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.11.29(월) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 2021 휘성 [크리스마스 콘서트] - 부산 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53635</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53635</guid>
-            <pubDate>Fri, 26 Nov 2021 10:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.01(수) 10:00]]></content:encoded>
+            <title><![CDATA[제 11회 한울림 골목연극제​​​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53650</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53650</guid>
+            <pubDate>Mon, 29 Nov 2021 09:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.30(화) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소프라노 홍혜란의 HOPE​​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -782,13 +789,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53636</guid>
             <pubDate>Sat, 27 Nov 2021 01:01:34 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.29(월) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 2021 휘성 [크리스마스 콘서트] - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53635</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53635</guid>
-            <pubDate>Fri, 26 Nov 2021 10:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.01(수) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
