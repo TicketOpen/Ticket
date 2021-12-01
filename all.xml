@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 10:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 11:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -432,6 +432,13 @@
             <content:encoded><![CDATA[2021.12.02(목) 11:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[위로와 힐링 2021 송년음악회 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11382&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11382&amp;order=1</guid>
+            <pubDate>Wed, 01 Dec 2021 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-06(월) 10:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[인천] 뮤지컬 [시카고] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11381&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11381&amp;order=1</guid>
@@ -492,13 +499,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11372&amp;order=1</guid>
             <pubDate>Fri, 26 Nov 2021 09:20:08 GMT</pubDate>
             <content:encoded><![CDATA[2021-12-03(금) 19:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 M.I.SEA 힙합 콘서트 - 제주/비오,쿤타,홀리뱅...티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11371&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11371&amp;order=1</guid>
-            <pubDate>Fri, 26 Nov 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021-12-01(수) 19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공지] 세종문화회관 네트워크 작업으로 인한 서비스 일시 중단 안내(12/6 20:00~24:00) N (위메프 공연티켓)]]></title>
@@ -791,14 +791,6 @@
             <content:encoded><![CDATA[2021.11.30(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[무령왕릉 발굴 50주년 기념 특별전 소개 (네이버 공연)]]></title>
-            <link>https://blog.naver.com/gmuseum/222577172481</link>
-            <guid>https://blog.naver.com/gmuseum/222577172481</guid>
-            <pubDate>Sun, 28 Nov 2021 15:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[12월 01일(수) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211123_297/HcaTh_1637652722348jLC8Q_JPEG/1637652722334.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[쇼핑
 											뮤지컬 팬레터 시츠프로브 쇼핑라이브 (네이버 공연)]]></title>
             <link>https://shoppinglive.naver.com/livebridge/329348</link>
@@ -874,6 +866,15 @@
             <pubDate>Tue, 30 Nov 2021 17:26:19 GMT</pubDate>
             <content:encoded><![CDATA[12월 03일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211104_288/9M88k_1636007082948AC9TE_PNG/1636007082921.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											유러피안 재즈 페스티벌 2021 - 최정수 Tiny Orkester (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
+            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
+            <pubDate>Sat, 27 Nov 2021 08:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[12월 04일(토) 14:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211123_31/1637677318180niOYW_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
