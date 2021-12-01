@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 05:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 06:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,7 +246,7 @@
             <pubDate>Wed, 01 Dec 2021 05:18:38 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.06
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211201021955.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 장민호 단독 콘서트 투어 ＂드라마 : 최종회＂ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -517,7 +517,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/32/202111/30/p6wpjctmqjpi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈더데빌〉  - 위멮데이 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <title><![CDATA[뮤지컬 〈더데빌〉  - 위멮데이 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/775</link>
             <guid>https://ticket.wemakeprice.com/opennotice/775</guid>
             <pubDate>Tue, 30 Nov 2021 06:20:48 GMT</pubDate>
@@ -599,7 +599,7 @@
             <link>http://www.ticketlink.co.kr/help/notice/53659</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53659</guid>
             <pubDate>Wed, 01 Dec 2021 03:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[<td>시스템</td><td class="tl p_reative"><a href="/help/notice/53659">세종문화회관 네트워크 작업(12/06)으로 인한 일부 서비스 제한 안내</a></td><td>2021.12.01</td><td class="ff_tahoma fs11">45</td>]]></content:encoded>
+            <content:encoded><![CDATA[<td>시스템</td><td class="tl p_reative"><a href="/help/notice/53659">세종문화회관 네트워크 작업(12/06)으로 인한 일부 서비스 제한 안내</a></td><td>2021.12.01</td><td class="ff_tahoma fs11">53</td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어린이뮤지컬 ‘렛잇고2’ - 강릉 티켓오픈 안내 (티켓링크)]]></title>
