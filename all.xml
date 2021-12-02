@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 11:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 12:31:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -581,6 +581,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/52/202111/24/avcugpdmsjik.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 청소년힐링콘서트 with 난장​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53674</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53674</guid>
+            <pubDate>Thu, 02 Dec 2021 12:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.03(금) 11:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 아버지를 위하여 - 대구 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53673</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53673</guid>
@@ -676,14 +683,14 @@
             <link>http://www.ticketlink.co.kr/help/notice/53659</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53659</guid>
             <pubDate>Wed, 01 Dec 2021 03:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[<td>시스템</td><td class="tl p_reative"><a href="/help/notice/53659">세종문화회관 네트워크 작업(12/06)으로 인한 일부 서비스 제한 안내</a></td><td>2021.12.01</td><td class="ff_tahoma fs11">66</td>]]></content:encoded>
+            <content:encoded><![CDATA[<td>시스템</td><td class="tl p_reative"><a href="/help/notice/53659">세종문화회관 네트워크 작업(12/06)으로 인한 일부 서비스 제한 안내</a></td><td>2021.12.01</td><td class="ff_tahoma fs11">67</td>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[어린이뮤지컬 ‘렛잇고2’ - 강릉 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53658</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53658</guid>
-            <pubDate>Wed, 01 Dec 2021 03:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.01(수) 06:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 청소년힐링콘서트 with 난장​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53674</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53674</guid>
+            <pubDate>Thu, 02 Dec 2021 12:31:37 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.03(금) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 아버지를 위하여 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -784,21 +791,6 @@
             <content:encoded><![CDATA[<a href="/help/notice/53659" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit">세종문화회관 네트워크 작업(12/06)으로 인한 일부 서비스 제한 안내</h3></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[어린이뮤지컬 ‘렛잇고2’ - 강릉 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53658</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53658</guid>
-            <pubDate>Wed, 01 Dec 2021 02:37:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.01(수) 06:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[종로고음악제 2021 DAY1. <클라라의 사랑과 생애> (네이버 공연)]]></title>
-            <link>https://tv.naver.com/l/92794</link>
-            <guid>https://tv.naver.com/l/92794</guid>
-            <pubDate>Mon, 29 Nov 2021 15:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[12월 02일(목) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211125_201/bMAlu_16378054091501f3Th_JPEG/1637805409113.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2021 SPAF <오버더떼창 : 문전본풀이> 녹화중계 (네이버 공연)]]></title>
             <link>https://tv.naver.com/l/89820</link>
             <guid>https://tv.naver.com/l/89820</guid>
@@ -875,6 +867,14 @@
             <pubDate>Wed, 01 Dec 2021 15:23:23 GMT</pubDate>
             <content:encoded><![CDATA[12월 04일(토) 17:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211123_69/ihU2G_16376503491664pWyt_JPEG/1637650349148.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[종로고음악제 2021 DAY 3. <세 여인의 운명> (네이버 공연)]]></title>
+            <link>https://tv.naver.com/l/92806</link>
+            <guid>https://tv.naver.com/l/92806</guid>
+            <pubDate>Thu, 02 Dec 2021 12:31:49 GMT</pubDate>
+            <content:encoded><![CDATA[12월 04일(토) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211125_224/9K8xO_1637818795097Xf7KP_JPEG/1637818795044.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
