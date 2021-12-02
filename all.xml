@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 12:31:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 13:26:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -686,6 +686,13 @@
             <content:encoded><![CDATA[<td>시스템</td><td class="tl p_reative"><a href="/help/notice/53659">세종문화회관 네트워크 작업(12/06)으로 인한 일부 서비스 제한 안내</a></td><td>2021.12.01</td><td class="ff_tahoma fs11">67</td>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 순천​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53675</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53675</guid>
+            <pubDate>Thu, 02 Dec 2021 13:26:20 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.03(금) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 청소년힐링콘서트 with 난장​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53674</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53674</guid>
@@ -784,21 +791,6 @@
             <content:encoded><![CDATA[2021.12.01(수) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세종문화회관 네트워크 작업(12/06)으로 인한 일부 서비스 제한 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53659</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53659</guid>
-            <pubDate>Wed, 01 Dec 2021 02:37:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/help/notice/53659" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit">세종문화회관 네트워크 작업(12/06)으로 인한 일부 서비스 제한 안내</h3></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021 SPAF <오버더떼창 : 문전본풀이> 녹화중계 (네이버 공연)]]></title>
-            <link>https://tv.naver.com/l/89820</link>
-            <guid>https://tv.naver.com/l/89820</guid>
-            <pubDate>Tue, 30 Nov 2021 12:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[12월 02일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_159/LRSHs_1634793891707cFEgR_PNG/1634793891686.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											유러피안 재즈 페스티벌 - French Night (네이버 공연)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
@@ -875,6 +867,15 @@
             <pubDate>Thu, 02 Dec 2021 12:31:49 GMT</pubDate>
             <content:encoded><![CDATA[12월 04일(토) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211125_224/9K8xO_1637818795097Xf7KP_JPEG/1637818795044.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											유러피안 재즈 페스티벌 2021 - 신연아 재즈밴드 (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
+            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
+            <pubDate>Sat, 27 Nov 2021 08:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[12월 04일(토) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211123_65/1637677467459lOQ3T_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
