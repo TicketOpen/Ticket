@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 09:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 10:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -581,6 +581,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/52/202111/24/avcugpdmsjik.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 아버지를 위하여 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53673</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53673</guid>
+            <pubDate>Thu, 02 Dec 2021 10:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.03(금) 07:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[어린이뮤지컬 '렛잇고2' - 광명 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53672</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53672</guid>
@@ -679,11 +686,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.12.01(수) 06:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 포항시립교향악단 제183회 정기연주회 <시와 노래> 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53657</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53657</guid>
-            <pubDate>Tue, 30 Nov 2021 07:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.01(수) 01:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 아버지를 위하여 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53673</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53673</guid>
+            <pubDate>Thu, 02 Dec 2021 10:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.03(금) 07:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어린이뮤지컬 '렛잇고2' - 광명 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -782,13 +789,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53658</guid>
             <pubDate>Wed, 01 Dec 2021 02:37:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.01(수) 06:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 포항시립교향악단 제183회 정기연주회 <시와 노래> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53657</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53657</guid>
-            <pubDate>Tue, 30 Nov 2021 07:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.01(수) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[종로고음악제 2021 DAY1. <클라라의 사랑과 생애> (네이버 공연)]]></title>
