@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2021-12-02T02:06:53.574Z</updated>
+    <updated>2021-12-02T03:22:03.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빅재미 극단 Soulmate 이어달리기 -〈운소도〉티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11384</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11384"/>
+        <updated>2021-12-02T03:20:53.223Z</updated>
+        <content type="html"><![CDATA[2021.12.03(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond LIVE - NCT 127 2ND TOUR ‘NEO CITY : SEOUL - THE LINK’ 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11383</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11365"/>
         <updated>2021-12-01T04:26:21.411Z</updated>
         <content type="html"><![CDATA[2021.12.02(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김필 10주년 콘서트〈FEELmography〉- 부산 공연 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11364</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11364"/>
-        <updated>2021-12-01T04:26:21.420Z</updated>
-        <content type="html"><![CDATA[2021.12.01(수) 14:00]]></content>
     </entry>
 </feed>

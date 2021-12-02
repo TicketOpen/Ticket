@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 02:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 03:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,7 +14,7 @@
             <pubDate>Thu, 02 Dec 2021 02:05:42 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.03
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012511_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[히사이시 조 영화음악 콘서트_울산 티켓오픈 안내]]></title>
@@ -32,7 +32,7 @@
             <pubDate>Thu, 02 Dec 2021 02:05:42 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.03
                                     <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120114494432.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012373_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[YB콘서트 〈LIGHTS〉 티켓오픈 안내]]></title>
