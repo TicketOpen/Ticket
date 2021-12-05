@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 12:30:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 13:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -791,15 +791,6 @@
             <content:encoded><![CDATA[2021.12.07(화) 06:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[후원
-											유러피안 재즈 페스티벌 2021 - 원격 솔로 피아노 (네이버 공연)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/plushitch</link>
-            <guid>https://patron.naver.com/ntv/c/intro/plushitch</guid>
-            <pubDate>Sat, 27 Nov 2021 08:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[12월 05일(일) 20:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20211123_164/1637677557281Qs6Ja_JPEG/1636391349487.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[제주국제관악제(겨울시즌) 제주관악작곡콩쿠르 결선 (네이버 공연)]]></title>
             <link>https://tv.naver.com/l/93530</link>
             <guid>https://tv.naver.com/l/93530</guid>
@@ -873,6 +864,14 @@
             <pubDate>Sun, 05 Dec 2021 12:30:43 GMT</pubDate>
             <content:encoded><![CDATA[12월 09일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211104_148/tr9C9_1636006012581nDxgz_PNG/1636006012560.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<동행, 다시 함께> 2021 DIMF 뮤지컬스타 콘서트 (네이버 공연)]]></title>
+            <link>https://tv.naver.com/l/93332</link>
+            <guid>https://tv.naver.com/l/93332</guid>
+            <pubDate>Sun, 05 Dec 2021 13:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[12월 12일(일) 17:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_149/AEBIA_1638425684236qdxvW_JPEG/1638425684214.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
