@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 05:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 06:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -581,6 +581,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/52/202111/24/avcugpdmsjik.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[롯데아울렛 어린이 미술 놀이터 COLOR GARDEN-겨울시즌 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53681</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53681</guid>
+            <pubDate>Sun, 05 Dec 2021 06:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.07(화) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈알사탕〉 - 부천 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53680</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53680</guid>
@@ -679,11 +686,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.12.09(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021-22 백지영 전국투어 콘서트 〈BAEK HUG〉 - 전주 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53666</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53666</guid>
-            <pubDate>Thu, 02 Dec 2021 05:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.07(화) 06:00]]></content:encoded>
+            <title><![CDATA[롯데아울렛 어린이 미술 놀이터 COLOR GARDEN-겨울시즌 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53681</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53681</guid>
+            <pubDate>Sun, 05 Dec 2021 06:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.07(화) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈알사탕〉 - 부천 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -782,13 +789,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53667</guid>
             <pubDate>Thu, 02 Dec 2021 05:19:05 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.09(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021-22 백지영 전국투어 콘서트 〈BAEK HUG〉 - 전주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53666</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53666</guid>
-            <pubDate>Thu, 02 Dec 2021 05:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.07(화) 06:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
