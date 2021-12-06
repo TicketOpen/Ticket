@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 08:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 09:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -444,6 +444,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/52/202111/24/avcugpdmsjik.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬〈​스핏파이어 그릴〉​ 3차​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53688</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53688</guid>
+            <pubDate>Mon, 06 Dec 2021 09:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.10(금) 07:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 정승환의 〈​안녕 겨울〉​ : 다시 여기, 우리 - 부산​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53687</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53687</guid>
+            <pubDate>Mon, 06 Dec 2021 09:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.08(수) 09:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2021 정승환의 〈​안녕 겨울〉​ : 다시 여기, 우리 - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53686</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53686</guid>
@@ -535,18 +549,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.12.03(금) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 아버지를 위하여 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53673</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53673</guid>
-            <pubDate>Thu, 02 Dec 2021 10:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.03(금) 07:00]]></content:encoded>
+            <title><![CDATA[뮤지컬〈​스핏파이어 그릴〉​ 3차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53688</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53688</guid>
+            <pubDate>Mon, 06 Dec 2021 09:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.10(금) 07:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[어린이뮤지컬 '렛잇고2' - 광명 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53672</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53672</guid>
-            <pubDate>Thu, 02 Dec 2021 09:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.03(금) 00:00]]></content:encoded>
+            <title><![CDATA[2021 정승환의 〈​안녕 겨울〉​ : 다시 여기, 우리 - 부산​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53687</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53687</guid>
+            <pubDate>Mon, 06 Dec 2021 09:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.08(수) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 정승환의 〈​안녕 겨울〉​ : 다시 여기, 우리 - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -638,20 +652,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53674</guid>
             <pubDate>Thu, 02 Dec 2021 12:31:37 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.03(금) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 아버지를 위하여 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53673</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53673</guid>
-            <pubDate>Thu, 02 Dec 2021 10:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03(금) 07:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어린이뮤지컬 '렛잇고2' - 광명 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53672</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53672</guid>
-            <pubDate>Thu, 02 Dec 2021 09:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03(금) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제주국제관악제(겨울시즌) 제주관악작곡콩쿠르 결선 (네이버 공연)]]></title>
