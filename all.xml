@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 07:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 08:25:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 정승환의 안녕 겨울：다시 여기，우리－서울 추가 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5716</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5716</guid>
+            <pubDate>Mon, 06 Dec 2021 08:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.08(수) 20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈엑스칼리버〉 1차 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5715</link>
@@ -71,11 +78,11 @@
             <content:encoded><![CDATA[2021.12.06(월) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021 XINDIE PRESENTS vol．7 안예은x오추프로젝트 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5705</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5705</guid>
-            <pubDate>Fri, 03 Dec 2021 03:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.06(월) 14:00]]></content:encoded>
+            <title><![CDATA[2021 정승환의 안녕 겨울：다시 여기，우리－서울 추가티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41549&amp;groupno=41549&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41549&amp;groupno=41549&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 06 Dec 2021 08:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.08(수)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈엑스칼리버〉 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[21.12.10(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[［1차 얼리버드］ 공룡대탐험 DINO PARK 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=883&amp;groupno=883&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=883&amp;groupno=883&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 03 Dec 2021 00:59:58 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.06(월)&nbsp;11:00]]></content:encoded>
+            <title><![CDATA[2021 정승환의 안녕 겨울：다시 여기，우리－서울 추가티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41549</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41549</guid>
+            <pubDate>Mon, 06 Dec 2021 08:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.08
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012062_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈엑스칼리버〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -273,7 +282,7 @@
             <pubDate>Fri, 03 Dec 2021 08:23:42 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.07
                                     <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120314315599.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012557_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[쏜애플 콘서트 ＇불구경＇ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -285,151 +294,11 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120315210703.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포레스텔라 조민규 첫 단독콘서트 ‘신세계 : PARANA’ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41538</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41538</guid>
-            <pubDate>Fri, 03 Dec 2021 07:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.08
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120120441344.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 Winter Story Series 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11394</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11394</guid>
-            <pubDate>Mon, 06 Dec 2021 05:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.07(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Serenade of LA POEM 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11393</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11393</guid>
-            <pubDate>Mon, 06 Dec 2021 04:25:59 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.08(수) 16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021 SUPER SPEED MUSIC FESTIVAL 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11392</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11392</guid>
-            <pubDate>Mon, 06 Dec 2021 04:25:59 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.09(목) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [천사에 관하여 : 타락천사 편] 4차(마지막) 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11391</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11391</guid>
-            <pubDate>Mon, 06 Dec 2021 02:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.09(목) 16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 [패션의 신] 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11390</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11390</guid>
-            <pubDate>Mon, 06 Dec 2021 02:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.07(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - TWICE 4TH WORLD TOUR ‘Ⅲ’ Live Streaming 관람권 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11389</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11389</guid>
-            <pubDate>Mon, 06 Dec 2021 02:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.06(월) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[은행사 시스템 점검에 따른 결제 서비스 중단 안내 (12/4, 12/5, 12/11, 12/12, 12/19, 12/20) (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11388</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11388</guid>
-            <pubDate>Mon, 06 Dec 2021 02:35:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[연극 <리차드3세> 2차 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11387</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11387</guid>
-            <pubDate>Mon, 06 Dec 2021 02:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.08(수) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 거미 전국투어 콘서트〈다시, Winter Ballad〉- 전주티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11386</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11386</guid>
-            <pubDate>Mon, 06 Dec 2021 02:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.07(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021-22 백지영 전국투어 콘서트〈BAEK HUG〉- 전주 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11385</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11385</guid>
-            <pubDate>Mon, 06 Dec 2021 02:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.07(화) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빅재미 극단 Soulmate 이어달리기 -〈운소도〉티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11384</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11384</guid>
-            <pubDate>Mon, 06 Dec 2021 02:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03(금) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - NCT 127 2ND TOUR ‘NEO CITY : SEOUL - THE LINK’ 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11383</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11383</guid>
-            <pubDate>Mon, 06 Dec 2021 02:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.07(화) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11382</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11382</guid>
-            <pubDate>Mon, 06 Dec 2021 02:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.06(월) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[인천] 뮤지컬 [시카고] 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11381</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11381</guid>
-            <pubDate>Mon, 06 Dec 2021 02:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.06(월) 16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김영욱 손정범 듀오 리사이틀 1~3 / 베토벤 바이올린소나타 전곡연주 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11380</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11380</guid>
-            <pubDate>Mon, 06 Dec 2021 02:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03(금) 16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[세종문화회관] 네트워크 작업으로 인한 실시간 연동 판매 서비스 중단안내(12/06) (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11379</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11379</guid>
-            <pubDate>Mon, 06 Dec 2021 02:35:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[고양] 뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉회차추가 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11378</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11378</guid>
-            <pubDate>Mon, 06 Dec 2021 02:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.01(수) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [뱀파이어 아더] - 아더 코필드 저택의 크리스마스 파티 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11377</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11377</guid>
-            <pubDate>Mon, 06 Dec 2021 02:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.07(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소프라노 홍혜란의 〈HOPE〉 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11376</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11376</guid>
-            <pubDate>Mon, 06 Dec 2021 02:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.30(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈언더스터디〉 1차 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11375</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11375</guid>
-            <pubDate>Mon, 06 Dec 2021 02:35:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03(금) 14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 [스핏파이어 그릴] 3차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11395&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11395&amp;order=1</guid>
+            <pubDate>Mon, 06 Dec 2021 08:24:02 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-10(금) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021 Winter Story Series 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -493,13 +362,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11385&amp;order=1</guid>
             <pubDate>Thu, 02 Dec 2021 05:18:24 GMT</pubDate>
             <content:encoded><![CDATA[2021-12-07(화) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빅재미 극단 Soulmate 이어달리기 -〈운소도〉티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11384&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11384&amp;order=1</guid>
-            <pubDate>Thu, 02 Dec 2021 03:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[2021-12-03(금) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공지] 세종문화회관 네트워크 작업으로 인한 서비스 일시 중단 안내(12/6 20:00~24:00) (위메프 공연티켓)]]></title>
@@ -580,6 +442,13 @@
             <pubDate>Thu, 02 Dec 2021 05:18:45 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.29(월) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/52/202111/24/avcugpdmsjik.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 정승환의 〈​안녕 겨울〉​ : 다시 여기, 우리 - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53686</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53686</guid>
+            <pubDate>Mon, 06 Dec 2021 08:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.08(수) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈​장수탕 선녀님〉​ - 군포​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -680,11 +549,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.12.03(금) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 호두까기 인형과 환상의 나라 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53671</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53671</guid>
-            <pubDate>Thu, 02 Dec 2021 07:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.03(금) 02:00]]></content:encoded>
+            <title><![CDATA[2021 정승환의 〈​안녕 겨울〉​ : 다시 여기, 우리 - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53686</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53686</guid>
+            <pubDate>Mon, 06 Dec 2021 08:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.08(수) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈​장수탕 선녀님〉​ - 군포​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -783,13 +652,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53672</guid>
             <pubDate>Thu, 02 Dec 2021 09:21:46 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.03(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 호두까기 인형과 환상의 나라 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53671</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53671</guid>
-            <pubDate>Thu, 02 Dec 2021 07:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03(금) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제주국제관악제(겨울시즌) 제주관악작곡콩쿠르 결선 (네이버 공연)]]></title>
