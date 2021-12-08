@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 05:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 06:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,20 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5711</guid>
             <pubDate>Mon, 06 Dec 2021 03:19:33 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.07(화) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 장윤정 라이브 콘서트 - 청주 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41564&amp;groupno=41564&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41564&amp;groupno=41564&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 08 Dec 2021 06:23:59 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.13(월)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈엔딩 노트〉 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41563&amp;groupno=41563&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41563&amp;groupno=41563&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 08 Dec 2021 06:23:59 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.10(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[12월 시스템 정기점검 공지 (인터파크 티켓)]]></title>
@@ -190,18 +204,22 @@
             <content:encoded><![CDATA[21.12.09(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[서울재즈위크 스페셜 : 2021 Happy End] 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41546&amp;groupno=41546&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41546&amp;groupno=41546&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 06 Dec 2021 04:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;]]></content:encoded>
+            <title><![CDATA[2022 장윤정 라이브 콘서트 - 청주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41564</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41564</guid>
+            <pubDate>Wed, 08 Dec 2021 06:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.13
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120716183679.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울 아시테지 겨울축제 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41545&amp;groupno=41545&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41545&amp;groupno=41545&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 06 Dec 2021 04:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.07(화)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈엔딩 노트〉 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41563</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41563</guid>
+            <pubDate>Wed, 08 Dec 2021 06:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.10
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009213_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[음악극 앤 - 고양 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -274,24 +292,6 @@
             <content:encoded><![CDATA[2021.12.14
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120314565359.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상큼발랄 뮤지컬 〈슈샤인보이〉 마지막 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41553</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41553</guid>
-            <pubDate>Tue, 07 Dec 2021 07:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.10
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010852_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈스핏파이어 그릴〉 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41552</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41552</guid>
-            <pubDate>Tue, 07 Dec 2021 07:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.10
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010371_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[LEE JIN HYUK 2021 FAN CON : XYZ 취소 안내 (예스24 티켓 모바일)]]></title>
@@ -443,6 +443,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/52/202111/24/avcugpdmsjik.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어린이베스트셀러 뮤지컬 〈우리아빠가 최고야〉 - 원주 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53695</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53695</guid>
+            <pubDate>Wed, 08 Dec 2021 06:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.09(목) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈알사탕〉 - 부산 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53694</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53694</guid>
@@ -538,13 +545,6 @@
             <link>http://www.ticketlink.co.kr/help/notice/53681</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53681</guid>
             <pubDate>Sun, 05 Dec 2021 06:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.07(화) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈알사탕〉 - 부천 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53680</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53680</guid>
-            <pubDate>Sun, 05 Dec 2021 05:21:07 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2021.12.07(화) 02:00]]></content:encoded>
         </item>
         <item>
@@ -662,6 +662,15 @@
         </item>
         <item>
             <title><![CDATA[쇼핑
+											김장훈의 Christmas Concert 부스터샷 (네이버 공연)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/339476</link>
+            <guid>https://shoppinglive.naver.com/livebridge/339476</guid>
+            <pubDate>Wed, 08 Dec 2021 06:26:27 GMT</pubDate>
+            <content:encoded><![CDATA[12월 08일(수) 21:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20211202_50/1638417104681zUkjA_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑
 											프랑스 국립자연사박물관 특별전 (네이버 공연)]]></title>
             <link>https://shoppinglive.naver.com/livebridge/337128</link>
             <guid>https://shoppinglive.naver.com/livebridge/337128</guid>
@@ -719,20 +728,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211129_36/XAagm_1638180044719lT430_PNG/1638180044658.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[손태진, 케빈오, 김바울 콘서트 <스윗 랑데부> (네이버 공연)]]></title>
-            <link>https://blog.naver.com/art_cbs/222589172507</link>
-            <guid>https://blog.naver.com/art_cbs/222589172507</guid>
-            <pubDate>Tue, 07 Dec 2021 12:34:42 GMT</pubDate>
+            <title><![CDATA[베토벤의 시간 - 김다솔 Piano (네이버 공연)]]></title>
+            <link>https://tv.naver.com/l/93436</link>
+            <guid>https://tv.naver.com/l/93436</guid>
+            <pubDate>Wed, 08 Dec 2021 06:26:27 GMT</pubDate>
             <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211207_226/SxYtG_1638864098449c64tT_PNG/1638864098429.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[무용 <안간힘> 녹화중계 (네이버 공연)]]></title>
-            <link>https://blog.naver.com/jump_arko/222542714494</link>
-            <guid>https://blog.naver.com/jump_arko/222542714494</guid>
-            <pubDate>Wed, 08 Dec 2021 04:27:55 GMT</pubDate>
-            <content:encoded><![CDATA[12월 16일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211102_93/bhGfq_1635858695696H9bF2_PNG/1635858695673.png" length="0" type="image/png"/>
+            <enclosure url="https://g-grafolio.pstatic.net/20211208_60/1638940952147h3pSI_JPEG/142.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
