@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 10:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 11:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,11 +294,25 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009146_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[커넥팅 CONNECTING 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11405</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11405</guid>
+            <pubDate>Fri, 10 Dec 2021 11:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.15(수) 09:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[연극 [엘리펀트 송] 3차 티켓오픈안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11404</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11404</guid>
             <pubDate>Fri, 10 Dec 2021 06:23:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.16(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] 5차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11403</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11403</guid>
+            <pubDate>Fri, 10 Dec 2021 11:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.15(수) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어른이 뮤지컬 [난쟁이들] 1차 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -416,20 +430,6 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11386</guid>
             <pubDate>Fri, 10 Dec 2021 02:34:10 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.07(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021-22 백지영 전국투어 콘서트〈BAEK HUG〉- 전주 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11385</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11385</guid>
-            <pubDate>Fri, 10 Dec 2021 02:34:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.07(화) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빅재미 극단 Soulmate 이어달리기 -〈운소도〉티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11384</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11384</guid>
-            <pubDate>Fri, 10 Dec 2021 02:34:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03(금) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[커넥팅 CONNECTING 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
