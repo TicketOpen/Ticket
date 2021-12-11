@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 06:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 07:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -581,6 +581,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202111/25/1ffyoavkwmxc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김창옥 토크콘서트 시즌2 - 목포 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53710</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53710</guid>
+            <pubDate>Sat, 11 Dec 2021 07:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.14(화) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] DANGEROUS ACT FATMAN (덴져러스 액트 펫맨) 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53709</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53709</guid>
+            <pubDate>Sat, 11 Dec 2021 07:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.14(화) 03:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[어린이뮤지컬 '렛잇고2' - 전주 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53708</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53708</guid>
@@ -672,18 +686,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.12.09(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[어린이베스트셀러 뮤지컬 〈우리아빠가 최고야〉 - 원주 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53695</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53695</guid>
-            <pubDate>Wed, 08 Dec 2021 06:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.09(목) 01:00]]></content:encoded>
+            <title><![CDATA[김창옥 토크콘서트 시즌2 - 목포 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53710</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53710</guid>
+            <pubDate>Sat, 11 Dec 2021 07:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.14(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈알사탕〉 - 부산 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53694</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53694</guid>
-            <pubDate>Wed, 08 Dec 2021 04:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.09(목) 02:00]]></content:encoded>
+            <title><![CDATA[[단독판매] DANGEROUS ACT FATMAN (덴져러스 액트 펫맨) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53709</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53709</guid>
+            <pubDate>Sat, 11 Dec 2021 07:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.14(화) 03:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어린이뮤지컬 '렛잇고2' - 전주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -775,20 +789,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53696</guid>
             <pubDate>Wed, 08 Dec 2021 08:25:22 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.09(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어린이베스트셀러 뮤지컬 〈우리아빠가 최고야〉 - 원주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53695</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53695</guid>
-            <pubDate>Wed, 08 Dec 2021 05:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.09(목) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈알사탕〉 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53694</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53694</guid>
-            <pubDate>Wed, 08 Dec 2021 04:27:48 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.09(목) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쇼핑
