@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 04:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 05:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -581,6 +581,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202111/25/1ffyoavkwmxc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어린이뮤지컬 '렛잇고2' - 전주 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53708</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53708</guid>
+            <pubDate>Sat, 11 Dec 2021 05:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.14(화) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[어린이뮤지컬 '렛잇고2' - 부산 동래 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53707</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53707</guid>
@@ -679,11 +686,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.12.09(목) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[시네마 필름 콘서트] 러브레터 & 냉정과 열정사이 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53693</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53693</guid>
-            <pubDate>Wed, 08 Dec 2021 01:04:43 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.08(수) 05:00]]></content:encoded>
+            <title><![CDATA[어린이뮤지컬 '렛잇고2' - 전주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53708</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53708</guid>
+            <pubDate>Sat, 11 Dec 2021 05:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.14(화) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어린이뮤지컬 '렛잇고2' - 부산 동래 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -782,13 +789,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53694</guid>
             <pubDate>Wed, 08 Dec 2021 04:27:48 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.09(목) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[시네마 필름 콘서트] 러브레터 & 냉정과 열정사이 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53693</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53693</guid>
-            <pubDate>Wed, 08 Dec 2021 01:05:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.08(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쇼핑
