@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 23:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 01:03:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -581,6 +581,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202111/25/1ffyoavkwmxc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 이강원 바이올린 독주회 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53704</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53704</guid>
+            <pubDate>Sat, 11 Dec 2021 01:02:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.13(월) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 환타 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53703</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53703</guid>
@@ -679,11 +686,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.12.08(수) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[어린이뮤지컬 ‘알라딘과 자스민공주’ - 수원 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53689</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53689</guid>
-            <pubDate>Tue, 07 Dec 2021 07:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.08(수) 02:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 이강원 바이올린 독주회 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53704</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53704</guid>
+            <pubDate>Sat, 11 Dec 2021 01:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.13(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 환타 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -782,13 +789,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53690</guid>
             <pubDate>Tue, 07 Dec 2021 07:21:20 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.08(수) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어린이뮤지컬 ‘알라딘과 자스민공주’ - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53689</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53689</guid>
-            <pubDate>Tue, 07 Dec 2021 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.08(수) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쇼핑
