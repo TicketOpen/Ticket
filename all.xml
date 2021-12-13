@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 09:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 10:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202111/25/1ffyoavkwmxc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[방역패스] 한경필하모닉 오케스트라 송년음악회 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53718</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53718</guid>
+            <pubDate>Mon, 13 Dec 2021 10:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.14(화) 07:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[<쇼미더머니10 콘서트: THE CLIMAX> - 부산 추가 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53717</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53717</guid>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.12.13(월) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 환타 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53703</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53703</guid>
-            <pubDate>Fri, 10 Dec 2021 09:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.13(월) 01:00]]></content:encoded>
+            <title><![CDATA[[방역패스] 한경필하모닉 오케스트라 송년음악회 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53718</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53718</guid>
+            <pubDate>Mon, 13 Dec 2021 10:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.14(화) 07:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<쇼미더머니10 콘서트: THE CLIMAX> - 부산 추가 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -783,13 +790,6 @@
             <link>http://m.ticketlink.co.kr/help/notice/53704</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53704</guid>
             <pubDate>Sat, 11 Dec 2021 01:03:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.13(월) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 환타 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53703</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53703</guid>
-            <pubDate>Fri, 10 Dec 2021 09:22:08 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.13(월) 01:00]]></content:encoded>
         </item>
         <item>
