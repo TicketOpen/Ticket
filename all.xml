@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 05:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 06:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,7 +264,7 @@
             <pubDate>Fri, 10 Dec 2021 09:20:09 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.14
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120819593979.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012847_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[자이언티＆원슈타인 콘서트 - 진주 추가티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -292,6 +292,20 @@
             <content:encoded><![CDATA[2021.12.16
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120816081592.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부산] 뮤지컬 [잭더리퍼] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11409</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11409</guid>
+            <pubDate>Mon, 13 Dec 2021 06:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.20(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11408</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11408</guid>
+            <pubDate>Mon, 13 Dec 2021 06:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.17(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="리허설 관람 티켓 예매" presaletime1="2021.12.15(수) 20:00" presaletime2="2021.12.16(목) 20:00"><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [은하철도의 밤] 3차 티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -417,19 +431,6 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11390</guid>
             <pubDate>Sun, 12 Dec 2021 21:16:51 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.07(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - TWICE 4TH WORLD TOUR ‘Ⅲ’ Live Streaming 관람권 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11389</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11389</guid>
-            <pubDate>Sun, 12 Dec 2021 21:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.06(월) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[은행사 시스템 점검에 따른 결제 서비스 중단 안내 (12/4, 12/5, 12/11, 12/12, 12/19, 12/20) (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11388</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11388</guid>
-            <pubDate>Sun, 12 Dec 2021 21:16:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[부산] 뮤지컬 [잭더리퍼] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -582,11 +583,11 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202111/25/1ffyoavkwmxc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NEW신비아파트 뮤지컬 시즌4：비명동산의 초대장－대구 앵콜 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53716</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53716</guid>
-            <pubDate>Mon, 13 Dec 2021 05:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.15(수) 00:00]]></content:encoded>
+            <title><![CDATA[<쇼미더머니10 콘서트: THE CLIMAX> - 부산 추가 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53717</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53717</guid>
+            <pubDate>Mon, 13 Dec 2021 06:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.14(화) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <잭더리퍼> - 부산 티켓오픈 안내 (티켓링크)]]></title>
@@ -687,6 +688,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.12.14(화) 01:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[<쇼미더머니10 콘서트: THE CLIMAX> - 부산 추가 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53717</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53717</guid>
+            <pubDate>Mon, 13 Dec 2021 06:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.14(화) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <잭더리퍼> - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53715</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53715</guid>
@@ -783,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53702</guid>
             <pubDate>Fri, 10 Dec 2021 03:22:18 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.14(화) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어린이뮤지컬 ‘렛잇고2’ - 부산 해운대 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53701</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53701</guid>
-            <pubDate>Thu, 09 Dec 2021 23:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.10(금) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쇼핑
