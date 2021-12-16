@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 08:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 09:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -503,7 +503,7 @@
             <content:encoded><![CDATA[2021-12-16(목) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 〈슈퍼클로젯〉 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <title><![CDATA[가족뮤지컬 〈슈퍼클로젯〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/783</link>
             <guid>https://ticket.wemakeprice.com/opennotice/783</guid>
             <pubDate>Wed, 15 Dec 2021 09:20:19 GMT</pubDate>
@@ -581,6 +581,13 @@
             <pubDate>Sun, 12 Dec 2021 21:17:31 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.30(화) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/03/202111/26/lfgm1w9haosm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] [Online] 2021 XIA Ballad & Musical Concert with Orchestra Vol. 7 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53736</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53736</guid>
+            <pubDate>Thu, 16 Dec 2021 09:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.17(금) 03:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 거미 전국투어 콘서트 <다시, Winter Ballad> - 진주​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.12.15(수) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 노을 연말 투어 콘서트 [노을이 내린 밤] – 수원 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53721</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53721</guid>
-            <pubDate>Tue, 14 Dec 2021 06:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.16(목) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매] [Online] 2021 XIA Ballad & Musical Concert with Orchestra Vol. 7 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53736</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53736</guid>
+            <pubDate>Thu, 16 Dec 2021 09:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.17(금) 03:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 거미 전국투어 콘서트 <다시, Winter Ballad> - 진주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -784,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53722</guid>
             <pubDate>Wed, 15 Dec 2021 01:03:04 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.15(수) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 노을 연말 투어 콘서트 [노을이 내린 밤] – 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53721</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53721</guid>
-            <pubDate>Tue, 14 Dec 2021 06:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.16(목) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[Live] 박종훈의 Romantic Seasons 4. 차이콥스키의 겨울 (네이버 공연)]]></title>
