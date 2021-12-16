@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 02:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 03:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5740</guid>
             <pubDate>Thu, 16 Dec 2021 01:01:20 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.23(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 Summer Soul 단독 콘서트 ‘January’：롤링 27주년 기념 공연 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5739</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5739</guid>
+            <pubDate>Thu, 16 Dec 2021 03:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.23(목) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우주소녀 공식 팬클럽 우정 5기 모집 오픈 안내 (멜론 티켓)]]></title>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5731</guid>
             <pubDate>Mon, 13 Dec 2021 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.16(목) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1415 3rd EP naps！발매기념 단독 공연：롤링 27주년 기념 공연 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5729</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5729</guid>
-            <pubDate>Mon, 13 Dec 2021 03:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.17(금) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 캐치! 티니핑〈프린세스 다이어리〉- 부산 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -292,6 +292,145 @@
             <content:encoded><![CDATA[2021.12.17
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011476_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [잭더리퍼] 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11413</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11413</guid>
+            <pubDate>Thu, 16 Dec 2021 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.22(수) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [장화 신은 고양이 비긴즈] 겨울방학 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11412</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11412</guid>
+            <pubDate>Thu, 16 Dec 2021 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.20(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [온에어] 2차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11411</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11411</guid>
+            <pubDate>Thu, 16 Dec 2021 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.15(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <썸씽로튼> 2차 티켓, 새해 1월 시즌 오픈 안내! (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11410</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11410</guid>
+            <pubDate>Thu, 16 Dec 2021 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.17(금) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[부산] 뮤지컬 [잭더리퍼] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11409</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11409</guid>
+            <pubDate>Thu, 16 Dec 2021 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.20(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11408</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11408</guid>
+            <pubDate>Thu, 16 Dec 2021 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.17(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="리허설 관람 티켓 예매" presaletime1="2021.12.15(수) 20:00" presaletime2="2021.12.16(목) 20:00"><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [은하철도의 밤] 3차 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11407</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11407</guid>
+            <pubDate>Thu, 16 Dec 2021 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.16(목) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE- CHOI MINHO FAN PARTY “BEST CHOI’s MINHO 2021” 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11406</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11406</guid>
+            <pubDate>Thu, 16 Dec 2021 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.13(월) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아름지기 20주년 기념 특별전  CONNECTING  -아름답게, 전통을 이어 일상으로- 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11405</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11405</guid>
+            <pubDate>Thu, 16 Dec 2021 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.15(수) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 [엘리펀트 송] 3차 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11404</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11404</guid>
+            <pubDate>Thu, 16 Dec 2021 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.16(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [젠틀맨스 가이드 : 사랑과 살인편] 5차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11403</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11403</guid>
+            <pubDate>Thu, 16 Dec 2021 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.15(수) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어른이 뮤지컬 [난쟁이들] 1차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11402</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11402</guid>
+            <pubDate>Thu, 16 Dec 2021 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.16(목) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 [물고기 남자] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11401</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11401</guid>
+            <pubDate>Thu, 16 Dec 2021 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.14(화) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [뱀파이어 아더] 마지막 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11400</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11400</guid>
+            <pubDate>Thu, 16 Dec 2021 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.13(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 장윤정 라이브 콘서트 - 춘천 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11399</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11399</guid>
+            <pubDate>Thu, 16 Dec 2021 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.14(화) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LEE JIN HYUK 2021 FAN CON : XYZ 취소 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11398</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11398</guid>
+            <pubDate>Thu, 16 Dec 2021 03:20:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[〈쇼미더머니10 콘서트: THE CLIMAX〉- 추가좌석 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11397</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11397</guid>
+            <pubDate>Thu, 16 Dec 2021 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.08(수) 13:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[［시네마 필름 콘서트］ 러브레터 ＆ 냉정과 열정사이 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11396</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11396</guid>
+            <pubDate>Thu, 16 Dec 2021 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.08(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [스핏파이어 그릴] 3차 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11395</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11395</guid>
+            <pubDate>Thu, 16 Dec 2021 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.10(금) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 Winter Story Series 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11394</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11394</guid>
+            <pubDate>Thu, 16 Dec 2021 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.07(화) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [잭더리퍼] 마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
