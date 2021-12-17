@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 05:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 06:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5732</guid>
             <pubDate>Mon, 13 Dec 2021 07:19:01 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.13(월) 17:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[바닥소리 연말콘서트 〈더할 나위 없이: 유니크-리스마스〉 티켓오픈.. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41640&amp;groupno=41640&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41640&amp;groupno=41640&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 17 Dec 2021 06:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.10(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈팬레터〉 추가좌석 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -195,13 +202,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41622&amp;groupno=41622&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 16 Dec 2021 05:17:52 GMT</pubDate>
             <content:encoded><![CDATA[21.12.23(목)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈엉덩이 탐정〉 - 대구 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41621&amp;groupno=41621&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41621&amp;groupno=41621&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 16 Dec 2021 05:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.23(목)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈팬레터〉 추가좌석 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
