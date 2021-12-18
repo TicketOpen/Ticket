@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 07:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 08:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/03/202111/26/lfgm1w9haosm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022 오르간 오딧세이 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53741</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53741</guid>
+            <pubDate>Sat, 18 Dec 2021 08:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.21(화) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[라포엠 단독 콘서트 〈ECLIPSE〉 - 부산 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53740</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53740</guid>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.12.17(금) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 대구문화예술회관 신년음악회_ 대구시립국악단 204회 정기연주회 <전화위복> 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53725</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53725</guid>
-            <pubDate>Wed, 15 Dec 2021 08:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.17(금) 05:00]]></content:encoded>
+            <title><![CDATA[2022 오르간 오딧세이 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53741</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53741</guid>
+            <pubDate>Sat, 18 Dec 2021 08:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.21(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[라포엠 단독 콘서트 〈ECLIPSE〉 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -784,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53726</guid>
             <pubDate>Wed, 15 Dec 2021 09:20:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.17(금) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 대구문화예술회관 신년음악회_ 대구시립국악단 204회 정기연주회 <전화위복> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53725</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53725</guid>
-            <pubDate>Wed, 15 Dec 2021 08:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.17(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
