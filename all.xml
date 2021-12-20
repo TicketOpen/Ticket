@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 02:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 03:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맥거핀 단독 콘서트 ‘21st Century L’：롤링 27주년 기념 공연 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5743</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5743</guid>
+            <pubDate>Mon, 20 Dec 2021 03:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.27(월) 20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[라포엠 단독 콘서트 〈ECLIPSE〉－부산 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5742</link>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5734</guid>
             <pubDate>Mon, 13 Dec 2021 09:21:03 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.14(화) 18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈잭더리퍼〉－부산 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5733</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5733</guid>
-            <pubDate>Mon, 13 Dec 2021 04:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.20(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈잭더리퍼〉 (1.15) 티켓오픈 안내 (인터파크 티켓)]]></title>
