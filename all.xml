@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 07:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 08:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,27 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5736</guid>
             <pubDate>Wed, 15 Dec 2021 10:21:11 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.17(금) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021-22 YB 전국투어 콘서트 〈LIGHTS〉 - 진주 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41669&amp;groupno=41669&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41669&amp;groupno=41669&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 21 Dec 2021 08:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.28(화)&nbsp;16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021-22 YB 전국투어 콘서트 〈LIGHTS〉 - 고양 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41668&amp;groupno=41668&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41668&amp;groupno=41668&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 21 Dec 2021 08:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.03(월)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈프랑켄슈타인〉 추가좌석 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41667&amp;groupno=41667&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41667&amp;groupno=41667&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 21 Dec 2021 08:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.24(금)&nbsp;13:30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈가족이란 이름의 부족〉 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -183,25 +204,31 @@
             <content:encoded><![CDATA[21.12.23(목)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미스터쇼(Mr.SHOW) 마지막 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41652&amp;groupno=41652&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41652&amp;groupno=41652&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 20 Dec 2021 05:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.22(수)&nbsp;11:00]]></content:encoded>
+            <title><![CDATA[2021-22 YB 전국투어 콘서트 〈LIGHTS〉 - 진주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41669</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41669</guid>
+            <pubDate>Tue, 21 Dec 2021 08:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.28
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021122115240014.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Trafalgar 〈엉클 바냐〉 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41651&amp;groupno=41651&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41651&amp;groupno=41651&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 20 Dec 2021 05:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.28(화)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[2021-22 YB 전국투어 콘서트 〈LIGHTS〉 - 고양 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41668</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41668</guid>
+            <pubDate>Tue, 21 Dec 2021 08:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.03
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021122115153585.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NT Live 〈로미오와 줄리엣〉 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41650&amp;groupno=41650&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41650&amp;groupno=41650&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 20 Dec 2021 05:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.28(화)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈프랑켄슈타인〉 추가좌석 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41667</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41667</guid>
+            <pubDate>Tue, 21 Dec 2021 08:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.24
+                                    <span>13:30</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008252_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈가족이란 이름의 부족〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -267,31 +294,18 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211220053525.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 오르간 오딧세이 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41659</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41659</guid>
-            <pubDate>Mon, 20 Dec 2021 07:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021121315430365.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 고양 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11424</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11424</guid>
+            <pubDate>Tue, 21 Dec 2021 08:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.03(월) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[포르테 디 콰트로 x 크랙실버 슈퍼 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41658</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41658</guid>
-            <pubDate>Mon, 20 Dec 2021 07:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.22
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021122014234239.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈더데빌〉 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41657</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41657</guid>
-            <pubDate>Mon, 20 Dec 2021 06:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.24
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010870_p.gif" length="0" type="image/gif"/>
+            <title><![CDATA[2021-22 YB 전국투어 콘서트 〈LIGHTS> - 진주 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11423</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11423</guid>
+            <pubDate>Tue, 21 Dec 2021 08:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.28(화) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] 전국 투어 인천 티켓 재오픈 안내 (예스24 티켓)]]></title>
@@ -419,18 +433,18 @@
             <content:encoded><![CDATA[2021.12.15(수) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[어른이 뮤지컬 [난쟁이들] 1차 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11402</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11402</guid>
-            <pubDate>Sun, 19 Dec 2021 02:39:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.16(목) 15:00]]></content:encoded>
+            <title><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 고양 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11424&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11424&amp;order=1</guid>
+            <pubDate>Tue, 21 Dec 2021 08:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022-01-03(월) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 [물고기 남자] 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11401</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11401</guid>
-            <pubDate>Sun, 19 Dec 2021 02:39:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.14(화) 16:00]]></content:encoded>
+            <title><![CDATA[2021-22 YB 전국투어 콘서트 〈LIGHTS> - 진주 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11423&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11423&amp;order=1</guid>
+            <pubDate>Tue, 21 Dec 2021 08:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-28(화) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] 전국 투어 인천 티켓 재오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -486,20 +500,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11413&amp;order=1</guid>
             <pubDate>Wed, 15 Dec 2021 05:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2021-12-22(수) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [장화 신은 고양이 비긴즈] 겨울방학 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11412&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11412&amp;order=1</guid>
-            <pubDate>Wed, 15 Dec 2021 03:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[2021-12-20(월) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [온에어] 2차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11411&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11411&amp;order=1</guid>
-            <pubDate>Tue, 14 Dec 2021 09:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[2021-12-15(수) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈슈퍼클로젯〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -580,6 +580,13 @@
             <pubDate>Sun, 19 Dec 2021 17:25:53 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.30(화) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/03/202111/26/lfgm1w9haosm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버블버블쇼 -여주 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53744</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53744</guid>
+            <pubDate>Tue, 21 Dec 2021 08:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.22(수) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[창작 어린이 뮤지컬 `우리엄마 최고 !`​​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -680,11 +687,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.12.21(화) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53728</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53728</guid>
-            <pubDate>Thu, 16 Dec 2021 01:03:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.21(화) 00:00]]></content:encoded>
+            <title><![CDATA[버블버블쇼 -여주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53744</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53744</guid>
+            <pubDate>Tue, 21 Dec 2021 08:25:29 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.22(수) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[창작 어린이 뮤지컬 `우리엄마 최고 !`​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -781,13 +788,6 @@
             <title><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/53729</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53729</guid>
-            <pubDate>Thu, 16 Dec 2021 01:03:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.21(화) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53728</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53728</guid>
             <pubDate>Thu, 16 Dec 2021 01:03:37 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.21(화) 00:00]]></content:encoded>
         </item>
