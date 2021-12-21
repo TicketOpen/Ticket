@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 01:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 02:41:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -433,6 +433,12 @@
             <content:encoded><![CDATA[2021.12.13(월) 14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] 전국 투어 인천 티켓 재오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11421&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11421&amp;order=1</guid>
+            <pubDate>Tue, 21 Dec 2021 02:40:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 [더데빌] 3차 티켓오픈안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11420&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11420&amp;order=1</guid>
@@ -494,13 +500,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11411&amp;order=1</guid>
             <pubDate>Tue, 14 Dec 2021 09:20:26 GMT</pubDate>
             <content:encoded><![CDATA[2021-12-15(수) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <썸씽로튼> 2차 티켓, 새해 1월 시즌 오픈 안내! (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11410&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11410&amp;order=1</guid>
-            <pubDate>Tue, 14 Dec 2021 05:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[2021-12-17(금) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈슈퍼클로젯〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
