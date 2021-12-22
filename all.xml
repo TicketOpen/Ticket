@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 07:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 08:25:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -293,6 +293,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012780_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11427</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11427</guid>
+            <pubDate>Wed, 22 Dec 2021 08:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.24(금) 20:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 지킬앤하이드 7차 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11426</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11426</guid>
@@ -425,11 +432,11 @@
             <content:encoded><![CDATA[2021.12.13(월) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아름지기 20주년 기념 특별전  CONNECTING  -아름답게, 전통을 이어 일상으로- 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11405</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11405</guid>
-            <pubDate>Wed, 22 Dec 2021 05:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.15(수) 09:00]]></content:encoded>
+            <title><![CDATA[2022 DRX FAN MEETING : ON BOARD 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11427&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11427&amp;order=1</guid>
+            <pubDate>Wed, 22 Dec 2021 08:24:47 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-24(금) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 지킬앤하이드 7차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -492,13 +499,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11417&amp;order=1</guid>
             <pubDate>Fri, 17 Dec 2021 07:19:30 GMT</pubDate>
             <content:encoded><![CDATA[2021-12-22(수) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈언더스터디〉 2차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11416&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11416&amp;order=1</guid>
-            <pubDate>Thu, 16 Dec 2021 08:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[2021-12-23(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈슈퍼클로젯〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
