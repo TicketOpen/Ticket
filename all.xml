@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 05:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 06:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -589,6 +589,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/11/202111/26/8wgcadrw7bhk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어린이뮤지컬 '렛잇고2' - 울산북구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53754</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53754</guid>
+            <pubDate>Thu, 23 Dec 2021 06:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.24(금) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가족뮤지컬〈엄마까투리 - 먹구렁이와 생일파티〉- 광주 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53753</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53753</guid>
@@ -687,11 +694,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.12.22(수) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 〈바다탐험대 옥토넛 시즌2〉 - 의정부 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53739</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53739</guid>
-            <pubDate>Fri, 17 Dec 2021 03:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.22(수) 05:00]]></content:encoded>
+            <title><![CDATA[어린이뮤지컬 '렛잇고2' - 울산북구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53754</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53754</guid>
+            <pubDate>Thu, 23 Dec 2021 06:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.24(금) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬〈엄마까투리 - 먹구렁이와 생일파티〉- 광주 (티켓링크 모바일)]]></title>
@@ -789,13 +796,6 @@
             <link>http://m.ticketlink.co.kr/help/notice/53740</link>
             <guid>http://m.ticketlink.co.kr/help/notice/53740</guid>
             <pubDate>Fri, 17 Dec 2021 07:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.22(수) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈바다탐험대 옥토넛 시즌2〉 - 의정부 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53739</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53739</guid>
-            <pubDate>Fri, 17 Dec 2021 03:21:25 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.22(수) 05:00]]></content:encoded>
         </item>
         <item>
