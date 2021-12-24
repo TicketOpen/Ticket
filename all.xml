@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 23:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 01:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -582,6 +582,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/22/202111/29/4pl6sistoenb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈이퀄〉 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53756</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53756</guid>
+            <pubDate>Fri, 24 Dec 2021 01:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.28(화) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 문화콘서트 난장 in 나주정미소 난장곡간 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/53755</link>
             <guid>http://www.ticketlink.co.kr/help/notice/53755</guid>
@@ -680,11 +687,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.12.24(금) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 오르간 오딧세이 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53741</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53741</guid>
-            <pubDate>Sat, 18 Dec 2021 08:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.21(화) 05:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈이퀄〉 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53756</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53756</guid>
+            <pubDate>Fri, 24 Dec 2021 01:03:45 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.28(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 문화콘서트 난장 in 나주정미소 난장곡간 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -783,13 +790,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53742</guid>
             <pubDate>Mon, 20 Dec 2021 05:21:52 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.24(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 오르간 오딧세이 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53741</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53741</guid>
-            <pubDate>Sat, 18 Dec 2021 08:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.21(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
