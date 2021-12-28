@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 02:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 03:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제 단독 콘서트 ‘Open’：롤링 27주년 기념 공연 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5752</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5752</guid>
+            <pubDate>Tue, 28 Dec 2021 03:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.03(월) 20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[＋1dB（plz）티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5751</link>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5742</guid>
             <pubDate>Wed, 22 Dec 2021 10:22:38 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.22(수) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[두리의 수상한 콘서트 ‘The JAZZ’ 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5741</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5741</guid>
-            <pubDate>Wed, 22 Dec 2021 10:22:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.17(금) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애니메이션 심포니 오케스트라 콘서트 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -343,11 +343,11 @@
             <content:encoded><![CDATA[2021.12.29(수) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 광주 티켓오픈안내 (예스24 티켓)]]></title>
+            <title><![CDATA[[오픈일시 변경] 2021-22 YB 전국투어 콘서트〈LIGHTS〉- 광주 티켓오픈안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11429</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11429</guid>
             <pubDate>Tue, 28 Dec 2021 02:37:35 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.29(수) 14:00]]></content:encoded>
+            <content:encoded><![CDATA[2021.12.30(목) 13:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 대구 티켓오픈안내 (예스24 티켓)]]></title>
@@ -482,11 +482,11 @@
             <content:encoded><![CDATA[2021-12-29(수) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 광주 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <title><![CDATA[[오픈일시 변경] 2021-22 YB 전국투어 콘서트〈LIGHTS〉- 광주 티켓오픈안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11429&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11429&amp;order=1</guid>
             <pubDate>Thu, 23 Dec 2021 02:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[2021-12-29(수) 14:00]]></content:encoded>
+            <content:encoded><![CDATA[2021-12-30(목) 13:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 대구 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -581,6 +581,13 @@
             <pubDate>Fri, 24 Dec 2021 12:33:29 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.01(수) 16:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/34/202111/30/s2foqr0u0mdu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔니오 모리꼬네를 위하여 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/53771</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/53771</guid>
+            <pubDate>Tue, 28 Dec 2021 03:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.30(목) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬〈​엄마까투리 - 먹구렁이와 생일파티〉​- 청주 티켓오픈 안내 (티켓링크)]]></title>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2021.12.27(월) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈이퀄〉 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/53756</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/53756</guid>
-            <pubDate>Fri, 24 Dec 2021 01:03:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2021.12.28(화) 05:00]]></content:encoded>
+            <title><![CDATA[엔니오 모리꼬네를 위하여 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/53771</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/53771</guid>
+            <pubDate>Tue, 28 Dec 2021 03:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.30(목) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬〈​엄마까투리 - 먹구렁이와 생일파티〉​- 청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -784,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/53757</guid>
             <pubDate>Fri, 24 Dec 2021 02:38:18 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.27(월) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈이퀄〉 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/53756</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/53756</guid>
-            <pubDate>Fri, 24 Dec 2021 01:03:45 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.28(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <죄와벌_파란 관성의 시대> 녹화중계 (네이버 공연)]]></title>
