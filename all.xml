@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 May 2022 07:06:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 08:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202205/09/uf0kchufu2g7.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 백나현 바이올린 독주회 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54559</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54559</guid>
+            <pubDate>Sun, 22 May 2022 08:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.05.24(화) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[12 번째 밤 〈Twelfth Night〉티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/54557</link>
             <guid>http://www.ticketlink.co.kr/help/notice/54557</guid>
@@ -680,13 +687,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/54544</guid>
             <pubDate>Sun, 22 May 2022 06:09:46 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2022.05.27(금) 06:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈킹키부츠〉 오픈위크 티켓오픈 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54543</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54543</guid>
-            <pubDate>Sun, 22 May 2022 06:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.05.30(월) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애니메이션 심포니 오케스트라 콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
