@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-05-23T04:24:59.568Z</updated>
+    <updated>2022-05-23T05:18:41.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이민규 소극장 콘서트 ALIVE 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6139</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6139"/>
+        <updated>2022-05-23T05:14:52.659Z</updated>
+        <content type="html"><![CDATA[2022.05.25(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Voice 시즌1 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6138</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6130"/>
         <updated>2022-05-22T03:08:36.648Z</updated>
         <content type="html"><![CDATA[2022.05.20(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이적 Curated 03 서도밴드 〈Ego：〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6129</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6129"/>
-        <updated>2022-05-22T03:08:36.653Z</updated>
-        <content type="html"><![CDATA[2022.05.23(월) 18:00]]></content>
     </entry>
 </feed>
