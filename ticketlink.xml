@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-05-23T07:12:49.358Z</updated>
+    <updated>2022-05-23T08:10:53.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 서울강북 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54564</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54564"/>
+        <updated>2022-05-23T08:09:39.485Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.25(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엘사의 생일파티 - 서울(강북) 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54563</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54550"/>
         <updated>2022-05-22T06:09:46.492Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.05.24(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임형주 IN 울산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54549</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54549"/>
-        <updated>2022-05-22T06:09:46.505Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.23(월) 01:00]]></content>
     </entry>
 </feed>
