@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 07:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 08:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,7 +294,14 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004500_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[바다의 첫번째 글로벌 팬미팅 [시크릿 오션뷰] 티켓 오픈안내 (예스24 티켓)]]></title>
+            <title><![CDATA[애니메이션 첼로 페스티벌 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11830</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11830</guid>
+            <pubDate>Wed, 25 May 2022 08:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.26(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[바다의 첫번째 글로벌 팬미팅 [프라이빗 오션뷰] 티켓 오픈안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11829</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11829</guid>
             <pubDate>Wed, 25 May 2022 06:09:25 GMT</pubDate>
@@ -427,14 +434,14 @@
             <content:encoded><![CDATA[2022.05.20(금) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 [비평가] 프리뷰 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11810</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11810</guid>
-            <pubDate>Wed, 25 May 2022 06:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.19(목) 15:00]]></content:encoded>
+            <title><![CDATA[애니메이션 첼로 페스티벌 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11830&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11830&amp;order=1</guid>
+            <pubDate>Wed, 25 May 2022 08:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022-05-26(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[바다의 첫번째 글로벌 팬미팅 [시크릿 오션뷰] 티켓 오픈안내 (예스24 티켓 모바일)]]></title>
+            <title><![CDATA[바다의 첫번째 글로벌 팬미팅 [프라이빗 오션뷰] 티켓 오픈안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11829&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11829&amp;order=1</guid>
             <pubDate>Wed, 25 May 2022 05:13:59 GMT</pubDate>
@@ -495,13 +502,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11821&amp;order=1</guid>
             <pubDate>Sun, 22 May 2022 03:09:34 GMT</pubDate>
             <content:encoded><![CDATA[2022-05-26(목) 16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[프랭크 와일드혼의 뮤지컬콘서트 〈ONLY LOVE〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11820&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11820&amp;order=1</guid>
-            <pubDate>Sun, 22 May 2022 03:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022-05-26(목) 13:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[W필하모닉오케스트라 〈말러 교향곡 1번: 거인〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
