@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.wemakeprice.com/opennotice</id>
-    <title>위메프 공연티켓</title>
-    <updated>2022-05-25T13:35:19.820Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.wemakeprice.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>위메프 공연티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 25 May 2022 14:16:50 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[W필하모닉오케스트라 〈말러 교향곡 1번: 거인〉 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/867</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/867</guid>
+            <pubDate>Wed, 25 May 2022 14:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.27(금) 10:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/05/202205/24/4nmqv1tj3tbo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원더러스트 코리아 2022 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/866</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/866</guid>
+            <pubDate>Wed, 25 May 2022 14:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.23(월) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/14/202205/23/i6biwidac3zi.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[공지] 2022년도 티켓 배송료 인상 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/865</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/865</guid>
+            <pubDate>Wed, 25 May 2022 14:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[추후공지예정]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/33/202205/18/ejhlvgebrnu8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디뮤지엄 〈어쨌든, 사랑: Romantic Days〉 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/864</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/864</guid>
+            <pubDate>Wed, 25 May 2022 14:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.24(화) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/27/202205/18/mhrgqcdzy6sv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청춘페스티벌 2022 : 오히려 좋아 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/863</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/863</guid>
+            <pubDate>Wed, 25 May 2022 14:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.18(수) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/41/202205/18/6vjghj3dxch0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레인보우 페스티벌 2022 - 얼리버드 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/862</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/862</guid>
+            <pubDate>Wed, 25 May 2022 14:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.19(목) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/48/202205/16/m2jrltm5ue8r.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 〈모여라 트니프렌즈! : 트니트니 탐험대〉 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/861</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/861</guid>
+            <pubDate>Wed, 25 May 2022 14:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.18(수) 11:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/21/202205/16/gjhpsrlkojx1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈빨래〉 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/860</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/860</guid>
+            <pubDate>Wed, 25 May 2022 14:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.16(월) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/21/202205/13/ywnqlpvplohr.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Sync Next 22 - 박다울 〈ㄱㅓㅁㅜㄴㄱㅗ〉 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/859</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/859</guid>
+            <pubDate>Wed, 25 May 2022 14:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.18(수) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/00/202205/13/xgz3q8cr1uf8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시규어 로스 내한 공연 (Sigur Ros Live in Seoul) 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/858</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/858</guid>
+            <pubDate>Wed, 25 May 2022 14:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.19(목) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/56/202205/10/ftwx142yam8s.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
