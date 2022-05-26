@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 06:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 07:08:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052311475343.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[제17회 부산국제매직페스티벌 일년내내 마술로 -북구편- 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11834</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11834</guid>
+            <pubDate>Thu, 26 May 2022 07:04:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.27(금) 17:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2022 뮤지컬 [미드나잇:액터뮤지션] 6차 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11833</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11833</guid>
@@ -427,11 +434,11 @@
             <content:encoded><![CDATA[2022.05.30(월) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [볼륨업] 3차 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11814</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11814</guid>
-            <pubDate>Thu, 26 May 2022 05:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.24(화) 14:00]]></content:encoded>
+            <title><![CDATA[제17회 부산국제매직페스티벌 일년내내 마술로 -북구편- 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11834&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11834&amp;order=1</guid>
+            <pubDate>Thu, 26 May 2022 07:05:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022-05-27(금) 17:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 뮤지컬 [미드나잇:액터뮤지션] 6차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -495,13 +502,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11825&amp;order=1</guid>
             <pubDate>Sun, 22 May 2022 03:09:34 GMT</pubDate>
             <content:encoded><![CDATA[2022-05-26(목) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [더 와일드의 변론 - 거짓의 쇠락, 도리안 그레이의 초상] 1차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11824&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11824&amp;order=1</guid>
-            <pubDate>Sun, 22 May 2022 03:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022-05-27(금) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[W필하모닉오케스트라 〈말러 교향곡 1번: 거인〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
