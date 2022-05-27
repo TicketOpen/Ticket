@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-05-27T08:11:58.147Z</updated>
+    <updated>2022-05-27T09:06:50.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[연극 〈인형（들）의 집〉 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[세종 어린이 시리즈 Ⅱ 가족음악극 〈백조마을의 차이콥스키〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6159</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6159"/>
+        <updated>2022-05-27T09:03:26.363Z</updated>
+        <content type="html"><![CDATA[2022.06.03(금) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한지상 “MUSIC BLENDED” 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6157</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6157"/>
+        <updated>2022-05-27T09:03:26.365Z</updated>
+        <content type="html"><![CDATA[2022.05.30(월) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈인형들의 집〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6156</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6156"/>
         <updated>2022-05-27T05:13:09.778Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6149"/>
         <updated>2022-05-25T10:08:11.006Z</updated>
         <content type="html"><![CDATA[2022.05.31(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY 공식 팬클럽 ‘LUVITY’ 2．5기 모집 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6148</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6148"/>
-        <updated>2022-05-25T06:08:41.948Z</updated>
-        <content type="html"><![CDATA[2022.05.30(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데자부그룹 아티스트 ‘dsel（디젤）’ 콘서트 “2kzm．zip concert” 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6147</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6147"/>
-        <updated>2022-05-25T05:13:00.638Z</updated>
-        <content type="html"><![CDATA[2022.05.27(금) 14:00]]></content>
     </entry>
 </feed>
