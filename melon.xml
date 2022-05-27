@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-05-27T03:48:25.366Z</updated>
+    <updated>2022-05-27T05:16:51.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈인형（들）의 집〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6156</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6156"/>
+        <updated>2022-05-27T05:13:09.778Z</updated>
+        <content type="html"><![CDATA[2022.06.03(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임용훈＆장태웅 듀오 단독공연 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6155</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6147"/>
         <updated>2022-05-25T05:13:00.638Z</updated>
         <content type="html"><![CDATA[2022.05.27(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스튜디오C［피싱걸스 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6146</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6146"/>
-        <updated>2022-05-25T05:13:00.660Z</updated>
-        <content type="html"><![CDATA[2022.05.27(금) 19:00]]></content>
     </entry>
 </feed>
