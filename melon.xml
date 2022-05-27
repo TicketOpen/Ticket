@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-05-27T00:34:24.988Z</updated>
+    <updated>2022-05-27T03:21:32.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임용훈＆장태웅 듀오 단독공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6155</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6155"/>
+        <updated>2022-05-27T03:18:35.449Z</updated>
+        <content type="html"><![CDATA[2022.05.27(금) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네미시스 단독 콘서트 ‘우리，다시’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6154</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6154"/>
+        <updated>2022-05-27T03:18:35.451Z</updated>
+        <content type="html"><![CDATA[2022.06.02(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌5 순간의 노래［안예은 단독 콘서트］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6153</id>
@@ -59,20 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6146</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6146"/>
         <updated>2022-05-25T05:13:00.660Z</updated>
-        <content type="html"><![CDATA[2022.05.27(금) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 IN 라이브클럽［조희원 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6145</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6145"/>
-        <updated>2022-05-25T04:22:26.712Z</updated>
-        <content type="html"><![CDATA[2022.06.03(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티키타카 콘서트：엔분의일 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6144</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6144"/>
-        <updated>2022-05-25T04:22:26.713Z</updated>
         <content type="html"><![CDATA[2022.05.27(금) 19:00]]></content>
     </entry>
 </feed>
