@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-05-30T08:11:30.387Z</updated>
+    <updated>2022-05-30T09:11:56.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세투－핫！SUMMER 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6162</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6162"/>
+        <updated>2022-05-30T09:08:32.202Z</updated>
+        <content type="html"><![CDATA[2022.05.30(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLING PROJECT：CMYK ＃1［Igloobay＆evenif＆GongHaim］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6161</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[먼데이프로젝트 시즌5 순간의 노래［안예은 단독 콘서트］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6153</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6153"/>
-        <updated>2022-05-26T03:44:02.161Z</updated>
-        <content type="html"><![CDATA[2022.06.02(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［히미츠 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6152</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6152"/>
         <updated>2022-05-26T03:44:02.161Z</updated>
         <content type="html"><![CDATA[2022.06.02(목) 20:00]]></content>
     </entry>
