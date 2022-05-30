@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 05:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 06:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -511,6 +511,14 @@
             <content:encoded><![CDATA[2022-06-02(목) 14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[HAUS OF WONDER(하우스 오브 원더) 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/870</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/870</guid>
+            <pubDate>Mon, 30 May 2022 06:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.03(금) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/02/202205/30/ayaryeqjaogm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[세종 어린이 시리즈 Ⅱ 가족음악극 〈백조마을의 차이콥스키〉 티켓오픈 안내 N (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/869</link>
             <guid>https://ticket.wemakeprice.com/opennotice/869</guid>
@@ -581,14 +589,6 @@
             <pubDate>Sun, 29 May 2022 03:50:03 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.18(수) 11:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/21/202205/16/gjhpsrlkojx1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈빨래〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/860</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/860</guid>
-            <pubDate>Sun, 29 May 2022 03:50:03 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.16(월) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/21/202205/13/ywnqlpvplohr.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[단독판매] 광주시립국악관현악단 제 129회 정기연주회 `청소년 협연의 밤'​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -696,6 +696,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2022.05.27(금) 02:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2022 포세이돈(4SEIDON) 워터 뮤직 페스티벌​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/54605</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/54605</guid>
+            <pubDate>Mon, 30 May 2022 06:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.31(화) 08:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 하동균&알리 콘서트 ‘LISTEN’ - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/54604</link>
             <guid>http://m.ticketlink.co.kr/help/notice/54604</guid>
@@ -792,13 +799,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/54591</guid>
             <pubDate>Fri, 27 May 2022 03:48:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.31(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엘사의 생일파티 - 대구 동구 ​​​​​​​​티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/54590</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/54590</guid>
-            <pubDate>Fri, 27 May 2022 03:48:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.02(목) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <차미> 전막 실황 중계 (네이버 공연)]]></title>
