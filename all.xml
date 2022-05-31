@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 16:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 17:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/27/202205/18/mhrgqcdzy6sv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <사의찬미> 3차 티켓 오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54610</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54610</guid>
+            <pubDate>Tue, 31 May 2022 17:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.07(화) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[KB Pay X 인천펜타포트 락페스티벌 2022] 매니아 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54609</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54609</guid>
+            <pubDate>Tue, 31 May 2022 17:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.03(금) 04:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 의열 - 영주 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/54608</link>
             <guid>http://www.ticketlink.co.kr/help/notice/54608</guid>
@@ -673,20 +687,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/54596</guid>
             <pubDate>Fri, 27 May 2022 12:14:07 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2022.05.31(화) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈반짝반짝 달님이의 버블버블 솜사탕〉 ​​​​​​​​티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54595</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54595</guid>
-            <pubDate>Fri, 27 May 2022 12:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.05.31(화) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엘사의 생일파티 - 이천 ​​​​​​​​티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54594</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54594</guid>
-            <pubDate>Fri, 27 May 2022 12:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.05.31(화) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 포세이돈(4SEIDON) 워터 뮤직 페스티벌​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
