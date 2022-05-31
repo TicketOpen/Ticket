@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 02:56:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 03:47:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,7 +508,7 @@
             <link>https://ticket.wemakeprice.com/opennotice/872</link>
             <guid>https://ticket.wemakeprice.com/opennotice/872</guid>
             <pubDate>Tue, 31 May 2022 02:53:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.31(화)]]></content:encoded>
+            <content:encoded><![CDATA[2022.05.31(화) 12:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/10/202205/31/yjer8yflxng4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -584,11 +584,32 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/41/202205/18/6vjghj3dxch0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 의열 - 영주 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54608</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54608</guid>
+            <pubDate>Tue, 31 May 2022 03:46:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.02(목) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[광주시립교향악단] GSO 오티움 콘서트Ⅳ ‘동화’ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54607</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54607</guid>
+            <pubDate>Tue, 31 May 2022 03:46:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.02(목) 08:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 전주 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54606</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54606</guid>
+            <pubDate>Tue, 31 May 2022 03:46:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.02(목) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2022 포세이돈(4SEIDON) 워터 뮤직 페스티벌​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/54605</link>
             <guid>http://www.ticketlink.co.kr/help/notice/54605</guid>
             <pubDate>Mon, 30 May 2022 08:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.05.31(화) 08:00]]></content:encoded>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.02(목) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 하동균&알리 콘서트 ‘LISTEN’ - 경주 티켓오픈 안내 (티켓링크)]]></title>
@@ -666,27 +687,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/54594</guid>
             <pubDate>Fri, 27 May 2022 12:14:07 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2022.05.31(화) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[헬로카봇 뮤지컬 시즌6 <흔들흔들 댄스파티> - 인천 ​​​​​​​​티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54593</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54593</guid>
-            <pubDate>Fri, 27 May 2022 12:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.02(목) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엘사의 생일파티 - 서산 ​​​​​​​​티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54592</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54592</guid>
-            <pubDate>Fri, 27 May 2022 12:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.02(목) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈타루와 리나〉 ​​​​​​​​티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54591</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54591</guid>
-            <pubDate>Fri, 27 May 2022 12:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.05.31(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 포세이돈(4SEIDON) 워터 뮤직 페스티벌​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
