@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-06-02T00:40:04.112Z</updated>
+    <updated>2022-06-02T03:07:38.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,34 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6170"/>
         <updated>2022-06-02T00:36:20.538Z</updated>
         <content type="html"><![CDATA[2022.06.03(금) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정밀아 정기단독공연 〈초여름〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6169</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6169"/>
+        <updated>2022-06-02T03:03:51.816Z</updated>
+        <content type="html"><![CDATA[2022.06.03(금) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사거리 그오빠（지현우）단독 콘서트 ‘오빠가 왔다’：롤링 27주년 기념 공연]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6168</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6168"/>
+        <updated>2022-06-02T03:03:51.823Z</updated>
+        <content type="html"><![CDATA[2022.06.08(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌5 ORIGINAL［잭킹콩 단독 콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6167</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6167"/>
+        <updated>2022-06-02T03:03:51.832Z</updated>
+        <content type="html"><![CDATA[2022.06.09(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유재하 음악경연대회 32회 수상자 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6166</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6166"/>
+        <updated>2022-06-02T03:03:51.836Z</updated>
+        <content type="html"><![CDATA[2022.06.03(금) 12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DJ soulscape Curated 19 실리카겔 〈I’MMORTAL〉 티켓 오픈 안내]]></title>
@@ -46,33 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6161"/>
         <updated>2022-05-30T03:55:20.157Z</updated>
         <content type="html"><![CDATA[2022.06.07(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 커피소년 여름 콘서트 ‘Mellow Diving’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6160</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6160"/>
-        <updated>2022-05-30T03:55:20.158Z</updated>
-        <content type="html"><![CDATA[2022.06.02(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종 어린이 시리즈 Ⅱ 가족음악극 〈백조마을의 차이콥스키〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6159</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6159"/>
-        <updated>2022-05-27T09:03:26.363Z</updated>
-        <content type="html"><![CDATA[2022.06.03(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[펫케어 페스티벌 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6158</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6158"/>
-        <updated>2022-05-29T23:03:26.789Z</updated>
-        <content type="html"><![CDATA[2022.05.30(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한지상 “MUSIC BLENDED” 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6157</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6157"/>
-        <updated>2022-05-27T09:03:26.365Z</updated>
-        <content type="html"><![CDATA[2022.05.30(월) 18:00]]></content>
     </entry>
 </feed>
