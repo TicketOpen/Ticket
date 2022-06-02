@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-06-01T23:08:33.023Z</updated>
+    <updated>2022-06-02T00:40:04.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NFT ART 101 Conference 2022 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6170</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6170"/>
+        <updated>2022-06-02T00:36:20.538Z</updated>
+        <content type="html"><![CDATA[2022.06.03(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DJ soulscape Curated 19 실리카겔 〈I’MMORTAL〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6165</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6157"/>
         <updated>2022-05-27T09:03:26.365Z</updated>
         <content type="html"><![CDATA[2022.05.30(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈인형들의 집〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6156</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6156"/>
-        <updated>2022-05-27T05:13:09.778Z</updated>
-        <content type="html"><![CDATA[2022.06.03(금) 14:00]]></content>
     </entry>
 </feed>
