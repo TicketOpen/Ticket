@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-06-02T08:11:20.526Z</updated>
+    <updated>2022-06-02T09:07:17.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[곽진언 소극장 콘서트－Op．2 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6171</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6171"/>
+        <updated>2022-06-02T09:03:44.071Z</updated>
+        <content type="html"><![CDATA[2022.06.07(화) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT ART 101 Conference 2022 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6170</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6162"/>
         <updated>2022-05-30T09:08:32.202Z</updated>
         <content type="html"><![CDATA[2022.05.30(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLING PROJECT：CMYK ＃1［Igloobay＆evenif＆GongHaim］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6161</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6161"/>
-        <updated>2022-05-30T03:55:20.157Z</updated>
-        <content type="html"><![CDATA[2022.06.07(화) 20:00]]></content>
     </entry>
 </feed>
