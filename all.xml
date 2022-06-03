@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 23:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 00:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=42969&amp;groupno=42969&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 02 Jun 2022 22:03:02 GMT</pubDate>
             <content:encoded><![CDATA[22.06.07(화)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[바이올리니스트김응수와 함께하는 비발디&피아졸라의 사계 티켓오픈 .. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43116&amp;groupno=43116&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43116&amp;groupno=43116&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 03 Jun 2022 00:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.07(화)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <살아있는 자를 수선하기> 프리뷰 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -204,11 +211,13 @@
             <content:encoded><![CDATA[22.06.02(목)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 장민호&이찬원 콘서트 “민원만족” - 안양 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43098&amp;groupno=43098&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43098&amp;groupno=43098&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 02 Jun 2022 22:03:02 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.07(화)&nbsp;15:00]]></content:encoded>
+            <title><![CDATA[바이올리니스트김응수와 함께하는 비발디&피아졸라의 사계 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43116</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43116</guid>
+            <pubDate>Fri, 03 Jun 2022 00:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.07
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022060217330708.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <살아있는 자를 수선하기> 프리뷰 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -290,15 +299,6 @@
             <content:encoded><![CDATA[2022.06.08
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004071_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈번지점프를 하다〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43106</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43106</guid>
-            <pubDate>Thu, 02 Jun 2022 22:03:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.08
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006051_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[LA POEM 1st FAN MEETING [2022 라포엠 비전 선포식] 티켓오픈안내 (예스24 티켓)]]></title>
