@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 05:06:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 06:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -591,6 +591,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/14/202205/23/i6biwidac3zi.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[(대전) 2022 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54625</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54625</guid>
+            <pubDate>Sat, 04 Jun 2022 06:07:17 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.07(화) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 아킬레스 2022 LIVE CONCERT in Seoul 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/54624</link>
             <guid>http://www.ticketlink.co.kr/help/notice/54624</guid>
@@ -687,13 +694,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/54610</guid>
             <pubDate>Tue, 31 May 2022 17:20:45 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2022.06.07(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[KB Pay X 인천펜타포트 락페스티벌 2022] 매니아 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54609</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54609</guid>
-            <pubDate>Tue, 31 May 2022 17:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.03(금) 04:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 아킬레스 2022 LIVE CONCERT in Seoul 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -802,15 +802,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											오페라 <시칠리아 섬의 저녁기도> (네이버 공연)]]></title>
-            <link>https://tv.naver.com/l/104739</link>
-            <guid>https://tv.naver.com/l/104739</guid>
-            <pubDate>Mon, 30 May 2022 17:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[06월 04일(토) 15:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220503_41/1651571865524Epg9f_JPEG/1648436250039.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											<라흐마니노프> 공연 실황 녹화 중계 - CAST 정욱진 정민 (네이버 공연)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
             <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
@@ -887,6 +878,15 @@
             <pubDate>Mon, 30 May 2022 17:18:05 GMT</pubDate>
             <content:encoded><![CDATA[06월 20일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220517_58/k8YRr_16527554785460Hxhd_JPEG/1652755478517.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											<라흐마니노프> 공연 실황 녹화 중계 - CAST 김현진 김경수 (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Mon, 30 May 2022 17:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[06월 21일(화) 20:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220602_248/16541490909828QDL1_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
