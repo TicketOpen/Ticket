@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 13:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 14:05:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -591,6 +591,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/14/202205/23/i6biwidac3zi.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[(제주) 2022 겨울이야기 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54626</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54626</guid>
+            <pubDate>Sat, 04 Jun 2022 14:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.07(화) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[(대전) 2022 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/54625</link>
             <guid>http://www.ticketlink.co.kr/help/notice/54625</guid>
@@ -612,7 +619,7 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2022.06.10(금) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미디어아트 아이스 쇼 〈G – SHOW〉 : DRAGON FLOWER 프리뷰 티켓오픈 안내 (티켓링크)]]></title>
+            <title><![CDATA[[단독판매] 미디어아트 아이스 쇼 〈G – SHOW〉 : DRAGON FLOWER 프리뷰 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/54622</link>
             <guid>http://www.ticketlink.co.kr/help/notice/54622</guid>
             <pubDate>Fri, 03 Jun 2022 11:03:42 GMT</pubDate>
@@ -687,13 +694,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/54611</guid>
             <pubDate>Wed, 01 Jun 2022 03:21:31 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2022.06.02(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <사의찬미> 3차 티켓 오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54610</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54610</guid>
-            <pubDate>Tue, 31 May 2022 17:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.07(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(제주) 2022 겨울이야기 티켓오픈 안내 (티켓링크 모바일)]]></title>
