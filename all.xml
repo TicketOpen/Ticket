@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 22:06:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 23:05:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -696,6 +696,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2022.06.02(목) 05:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[서희태와 함께하는 내 생애 잊지 못할 클래식​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/54628</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/54628</guid>
+            <pubDate>Sun, 05 Jun 2022 23:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.08(수) 07:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[(제주) 2022 겨울이야기 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/54626</link>
             <guid>http://m.ticketlink.co.kr/help/notice/54626</guid>
@@ -792,13 +799,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/54612</guid>
             <pubDate>Wed, 01 Jun 2022 12:14:17 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.02(목) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 김연자 광주 콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/54611</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/54611</guid>
-            <pubDate>Wed, 01 Jun 2022 12:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.02(목) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
