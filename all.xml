@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 03:47:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 04:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -90,6 +90,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=42969&amp;groupno=42969&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 02 Jun 2022 22:03:02 GMT</pubDate>
             <content:encoded><![CDATA[22.06.07(화)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극〈늘근도둑이야기〉 7월 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43136&amp;groupno=43136&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43136&amp;groupno=43136&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 07 Jun 2022 04:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.10(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[제5회 페미니즘 연극제] 화가난다 이거에요 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -211,11 +218,13 @@
             <content:encoded><![CDATA[22.06.08(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 <미니특공대:애니멀트론> - 청주 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43117&amp;groupno=43117&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43117&amp;groupno=43117&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 07 Jun 2022 03:44:22 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.09(목)&nbsp;10:00]]></content:encoded>
+            <title><![CDATA[연극〈늘근도둑이야기〉 7월 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43136</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43136</guid>
+            <pubDate>Tue, 07 Jun 2022 04:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.10
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001159_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[제5회 페미니즘 연극제] 화가난다 이거에요 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -299,13 +308,144 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006699_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2022 듀오콘서트 with 정민성, 박기훈 (크로스오버뮤직 콘서트) 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43126</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43126</guid>
-            <pubDate>Fri, 03 Jun 2022 06:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.08
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007063_p.gif" length="0" type="image/gif"/>
+            <title><![CDATA[뮤지컬 [미아 파밀리아] 3차 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11854</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11854</guid>
+            <pubDate>Tue, 07 Jun 2022 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.15(수) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방용국 글로벌 팬밋업 [Bangstergram] 온라인중계 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11853</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11853</guid>
+            <pubDate>Tue, 07 Jun 2022 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.09(목) 17:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11852</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11852</guid>
+            <pubDate>Tue, 07 Jun 2022 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.13(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11851</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11851</guid>
+            <pubDate>Tue, 07 Jun 2022 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.09(목) 17:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Christian Kuria Live in Seoul 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11849</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11849</guid>
+            <pubDate>Tue, 07 Jun 2022 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.08(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[바이올리니스트김응수와 함께하는 비발디&피아졸라의 사계 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11848</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11848</guid>
+            <pubDate>Tue, 07 Jun 2022 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.07(화) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11847</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11847</guid>
+            <pubDate>Tue, 07 Jun 2022 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.13(월) 20:00<a class="noti-btn-pop" presaletit1="팬클럽선예매 " presaletit2="" presaletime1="2022.06.10(금) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어린이 뮤지컬 [점박이 공룡대모험 : 뒤섞인 세계] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11846</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11846</guid>
+            <pubDate>Tue, 07 Jun 2022 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.08(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11845</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11845</guid>
+            <pubDate>Tue, 07 Jun 2022 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.08(수) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11844</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11844</guid>
+            <pubDate>Tue, 07 Jun 2022 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.10(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[강남심포니오케스트라 제146회 클래식품격콘서트〈Great CONCERTO Series-L.v.Beethoven & W.A.M.. (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11843</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11843</guid>
+            <pubDate>Tue, 07 Jun 2022 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.02(목) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코믹반전스릴러연극 [그녀가산다] - 대구 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11842</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11842</guid>
+            <pubDate>Tue, 07 Jun 2022 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.02(목) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11841</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11841</guid>
+            <pubDate>Tue, 07 Jun 2022 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.31(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[행위퍼포먼스공연 (SAVE ME) 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11840</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11840</guid>
+            <pubDate>Tue, 07 Jun 2022 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.31(화) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세종 어린이 시리즈 Ⅱ 가족음악극 [백조마을의 차이콥스키] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11839</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11839</guid>
+            <pubDate>Tue, 07 Jun 2022 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.03(금) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[오픈일정 변경] 2022 Cutie Pie 1st Global Fanmeeting in Korea [Be My Cutie Pie] 티켓오픈안.. (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11838</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11838</guid>
+            <pubDate>Tue, 07 Jun 2022 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.03(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 ＜은밀하게 위대하게：THE LAST＞ 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11836</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11836</guid>
+            <pubDate>Tue, 07 Jun 2022 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.31(화) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 [클림트] 4차 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11835</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11835</guid>
+            <pubDate>Tue, 07 Jun 2022 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.31(화) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제17회 부산국제매직페스티벌 일년내내 마술로 -북구편- 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11834</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11834</guid>
+            <pubDate>Tue, 07 Jun 2022 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.27(금) 17:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 뮤지컬 [미드나잇:액터뮤지션] 6차 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11833</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11833</guid>
+            <pubDate>Tue, 07 Jun 2022 04:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.31(화) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [미아 파밀리아] 3차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
