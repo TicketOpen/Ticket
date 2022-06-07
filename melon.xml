@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-06-07T02:49:40.670Z</updated>
+    <updated>2022-06-07T03:47:58.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[폴로다레드 단독 콘서트：POLODARED 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6182</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6182"/>
+        <updated>2022-06-07T03:44:10.454Z</updated>
+        <content type="html"><![CDATA[2022.06.08(수) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 온라인체험극－다크필드라디오 〈ETERNAL〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6181</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6172"/>
         <updated>2022-06-03T03:36:46.927Z</updated>
         <content type="html"><![CDATA[2022.06.08(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곽진언 소극장 콘서트－Op．2 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6171</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6171"/>
-        <updated>2022-06-02T09:03:44.071Z</updated>
-        <content type="html"><![CDATA[2022.06.07(화) 17:00]]></content>
     </entry>
 </feed>
