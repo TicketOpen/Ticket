@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-06-07T00:27:15.226Z</updated>
+    <updated>2022-06-07T02:49:40.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[양방언 summer gig tour 2022 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[2022 온라인체험극－다크필드라디오 〈ETERNAL〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6181</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6181"/>
+        <updated>2022-06-07T02:45:57.680Z</updated>
+        <content type="html"><![CDATA[2022.06.09(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우주락 in 우주라이브 4회 콘서트 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6180</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6180"/>
+        <updated>2022-06-07T02:45:57.691Z</updated>
+        <content type="html"><![CDATA[2022.06.07(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［오픈일 변경］양방언 summer gig tour 2022 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6178</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6178"/>
         <updated>2022-06-06T09:03:11.179Z</updated>
-        <content type="html"><![CDATA[2022.06.07(화) 18:00]]></content>
+        <content type="html"><![CDATA[2022.06.08(수) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[예빛 졸업공연［함께 가는 길，여정］티켓 오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6171"/>
         <updated>2022-06-02T09:03:44.071Z</updated>
         <content type="html"><![CDATA[2022.06.07(화) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT ART 101 Conference 2022 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6170</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6170"/>
-        <updated>2022-06-02T00:36:20.538Z</updated>
-        <content type="html"><![CDATA[2022.06.03(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정밀아 정기단독공연 〈초여름〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6169</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6169"/>
-        <updated>2022-06-02T03:03:51.816Z</updated>
-        <content type="html"><![CDATA[2022.06.03(금) 12:00]]></content>
     </entry>
 </feed>
