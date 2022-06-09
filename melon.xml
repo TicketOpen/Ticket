@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-06-09T00:34:20.217Z</updated>
+    <updated>2022-06-09T02:56:18.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,27 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6191"/>
         <updated>2022-06-08T10:03:35.295Z</updated>
         <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TUNE UP STAGE［튠업 23기 선정기념 공연＃03．김제형 X 최유리］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6189</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6189"/>
+        <updated>2022-06-09T02:52:31.174Z</updated>
+        <content type="html"><![CDATA[2022.06.10(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TUNE UP STAGE［튠업 23기 선정기념 공연＃02．곽태풍 X 윤지영］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6188</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6188"/>
+        <updated>2022-06-09T02:52:31.174Z</updated>
+        <content type="html"><![CDATA[2022.06.10(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TUNE UP STAGE［튠업 23기 선정기념 공연＃01．ID：Earth X off the menu］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6187</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6187"/>
+        <updated>2022-06-09T02:52:31.180Z</updated>
+        <content type="html"><![CDATA[2022.06.10(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[STAND UP UNDERGROUND VOL．13 〈2022 섬머 힙합 콘서트〉 티켓 오픈 안내]]></title>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6181"/>
         <updated>2022-06-07T02:45:57.680Z</updated>
         <content type="html"><![CDATA[2022.06.09(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주락 in 우주라이브 4회 콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6180</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6180"/>
-        <updated>2022-06-07T02:45:57.691Z</updated>
-        <content type="html"><![CDATA[2022.06.07(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［오픈일 변경］양방언 summer gig tour 2022 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6178</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6178"/>
-        <updated>2022-06-06T09:03:11.179Z</updated>
-        <content type="html"><![CDATA[2022.06.08(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예빛 졸업공연［함께 가는 길，여정］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6177</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6177"/>
-        <updated>2022-06-06T09:03:11.199Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
     </entry>
 </feed>
