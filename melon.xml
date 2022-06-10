@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-06-10T02:53:41.888Z</updated>
+    <updated>2022-06-10T03:43:06.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[온비 X 송세아 발매／출간 기념 콘서트 〈산책〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6194</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6194"/>
+        <updated>2022-06-10T03:40:14.607Z</updated>
+        <content type="html"><![CDATA[2022.06.13(월) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［부산］2022 케니 지（Kenny G）월드투어 내한공연 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6193</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6185"/>
         <updated>2022-06-08T03:47:15.084Z</updated>
         <content type="html"><![CDATA[2022.06.14(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 IN 라이브클럽［크리스피 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6184</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6184"/>
-        <updated>2022-06-08T03:47:15.089Z</updated>
-        <content type="html"><![CDATA[2022.06.15(수) 20:00]]></content>
     </entry>
 </feed>
