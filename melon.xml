@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-06-13T00:36:22.328Z</updated>
+    <updated>2022-06-13T03:00:36.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빌스택스＆랍온어비트－Toke！In Seoul 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6195</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6195"/>
+        <updated>2022-06-13T02:56:42.350Z</updated>
+        <content type="html"><![CDATA[2022.06.13(월) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[온비 X 송세아 발매／출간 기념 콘서트 〈산책〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6194</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6186"/>
         <updated>2022-06-08T03:47:15.084Z</updated>
         <content type="html"><![CDATA[2022.06.09(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SONGMATE 3 콘서트 주예인X달리 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6185</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6185"/>
-        <updated>2022-06-08T03:47:15.084Z</updated>
-        <content type="html"><![CDATA[2022.06.14(화) 12:00]]></content>
     </entry>
 </feed>
