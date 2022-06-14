@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-06-14T03:07:04.531Z</updated>
+    <updated>2022-06-14T04:43:10.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[HOME：장현승 1st Talk Concert 2022 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6202</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6202"/>
+        <updated>2022-06-14T04:39:33.552Z</updated>
+        <content type="html"><![CDATA[2022.06.15(수) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wave to Earth 단독공연：Deep dive in Busan 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6201</id>
@@ -66,13 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6193</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6193"/>
         <updated>2022-06-10T02:50:04.504Z</updated>
-        <content type="html"><![CDATA[2022.06.17(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［서울］2022 케니 지（Kenny G）월드투어 내한공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6192</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6192"/>
-        <updated>2022-06-10T02:50:04.505Z</updated>
         <content type="html"><![CDATA[2022.06.17(금) 11:00]]></content>
     </entry>
 </feed>
