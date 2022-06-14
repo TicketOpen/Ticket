@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-06-14T07:06:01.176Z</updated>
+    <updated>2022-06-14T08:12:36.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 신한 스퀘어브릿지 페스티벌 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6205</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6205"/>
+        <updated>2022-06-14T08:08:34.087Z</updated>
+        <content type="html"><![CDATA[2022.06.14(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박기훈＆이의광 듀오 공연 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6203</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6195"/>
         <updated>2022-06-13T02:56:42.350Z</updated>
         <content type="html"><![CDATA[2022.06.13(월) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온비 X 송세아 발매／출간 기념 콘서트 〈산책〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6194</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6194"/>
-        <updated>2022-06-10T03:40:14.607Z</updated>
-        <content type="html"><![CDATA[2022.06.13(월) 12:00]]></content>
     </entry>
 </feed>
