@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 05:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 06:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -90,6 +90,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=43118&amp;groupno=43118&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 07 Jun 2022 03:44:22 GMT</pubDate>
             <content:encoded><![CDATA[22.06.16(목)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[로드씨어터 〈클럽 라틴〉 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43215&amp;groupno=43215&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43215&amp;groupno=43215&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 14 Jun 2022 06:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.20(월)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈쉬어매드니스〉 7월 (여름 스페셜팀 합류) 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -211,11 +218,13 @@
             <content:encoded><![CDATA[22.06.17(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 <빈센트 리버> 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43197&amp;groupno=43197&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43197&amp;groupno=43197&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 13 Jun 2022 02:56:55 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.16(목)&nbsp;16:00]]></content:encoded>
+            <title><![CDATA[로드씨어터 〈클럽 라틴〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43215</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43215</guid>
+            <pubDate>Tue, 14 Jun 2022 06:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.20
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006708_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈쉬어매드니스〉 7월 (여름 스페셜팀 합류) 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -297,15 +306,6 @@
             <content:encoded><![CDATA[2022.06.14
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005816_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[피아니스트 오은철 콘서트: Green Road 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43205</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43205</guid>
-            <pubDate>Tue, 14 Jun 2022 03:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.14
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005843_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[심포니 오브 메이플스토리 전국투어 - 서울 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -514,6 +514,86 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11867&amp;order=1</guid>
             <pubDate>Fri, 10 Jun 2022 02:50:56 GMT</pubDate>
             <content:encoded><![CDATA[2022-06-17(금) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[워터밤 부산 2022 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/879</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/879</guid>
+            <pubDate>Tue, 14 Jun 2022 06:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.14(화) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/11/202206/13/vajln22c4rbp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈모래시계〉 - 위메프 컬처데이 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/878</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/878</guid>
+            <pubDate>Tue, 14 Jun 2022 06:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.10(금) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/27/202206/08/sb41ftjyubqq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈카파이즘〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/877</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/877</guid>
+            <pubDate>Tue, 14 Jun 2022 06:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.13(월) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/58/202206/08/sz5yfloq1qfn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 World DJ Festival 1차 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/876</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/876</guid>
+            <pubDate>Tue, 14 Jun 2022 06:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.13(월) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202206/10/zkuzth1avtrg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레인보우 뮤직＆캠핑 페스티벌 2022 - 캠핑권 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/875</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/875</guid>
+            <pubDate>Tue, 14 Jun 2022 06:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.07(화) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/19/202206/03/fy9sbac24gof.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈포미니츠〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/874</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/874</guid>
+            <pubDate>Tue, 14 Jun 2022 06:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.03(금) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/29/202206/02/w4b0hosshr4h.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 Vector : The Return 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/873</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/873</guid>
+            <pubDate>Tue, 14 Jun 2022 06:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.03(금) 12:30]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/34/202205/31/nwin1xhyilxg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[루이스 웨인展 : 고양이를 그린 사랑의 화가 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/872</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/872</guid>
+            <pubDate>Tue, 14 Jun 2022 06:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.31(화) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/10/202205/31/yjer8yflxng4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 알렌 워커(Alan Walker) 내한공연 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/871</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/871</guid>
+            <pubDate>Tue, 14 Jun 2022 06:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.07(화) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/59/202205/31/yvucnw2soog2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[HAUS OF WONDER(하우스 오브 원더) 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/870</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/870</guid>
+            <pubDate>Tue, 14 Jun 2022 06:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.03(금) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/02/202205/30/ayaryeqjaogm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈​사의찬미〉​ 마지막 티켓오픈 안내 (티켓링크)]]></title>
