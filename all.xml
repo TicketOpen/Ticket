@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 17:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 18:09:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -589,6 +589,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/59/202205/31/yvucnw2soog2.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[제이림 슈퍼노바 페스티벌 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54688</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54688</guid>
+            <pubDate>Tue, 14 Jun 2022 18:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.16(목) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Soundberry Festa' 22​​ 얼리버드 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54687</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54687</guid>
+            <pubDate>Tue, 14 Jun 2022 18:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.15(수) 09:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[신데렐라 - 청주 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/54686</link>
             <guid>http://www.ticketlink.co.kr/help/notice/54686</guid>
@@ -678,20 +692,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/54674</guid>
             <pubDate>Mon, 13 Jun 2022 14:04:33 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2022.06.15(수) 03:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 THE신승훈SHOW 〈미소속에 비친 그대〉 부산​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54673</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54673</guid>
-            <pubDate>Mon, 13 Jun 2022 14:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.17(금) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈모래시계〉 마지막 티켓 오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54672</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54672</guid>
-            <pubDate>Mon, 13 Jun 2022 14:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.17(금) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[엘사의 생일파티 - 서울(강서) 티켓오픈 안내 (티켓링크 모바일)]]></title>
