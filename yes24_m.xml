@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-06-14T00:39:33.951Z</updated>
+    <updated>2022-06-14T03:07:04.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[심포니 오브 메이플스토리 전국투어 - 서울 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11876&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11876&amp;order=1"/>
+        <updated>2022-06-14T03:04:08.960Z</updated>
+        <content type="html"><![CDATA[2022-06-17(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 서인국 팬미팅 ‘하(夏)루 : HEART & LOVE’ 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11875&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11867&amp;order=1"/>
         <updated>2022-06-10T02:50:56.692Z</updated>
         <content type="html"><![CDATA[2022-06-17(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [쓰릴 미] 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11866&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11866&amp;order=1"/>
-        <updated>2022-06-09T08:10:20.514Z</updated>
-        <content type="html"><![CDATA[2022-06-14(화) 16:00]]></content>
     </entry>
 </feed>
