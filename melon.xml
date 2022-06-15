@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-06-15T04:27:56.054Z</updated>
+    <updated>2022-06-15T05:14:43.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈전설의 리틀 농구단〉 하프타임 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6210</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6210"/>
+        <updated>2022-06-15T05:11:52.198Z</updated>
+        <content type="html"><![CDATA[2022.06.22(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［다린 단독 콘서트］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6209</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6200"/>
         <updated>2022-06-14T03:03:12.056Z</updated>
         <content type="html"><![CDATA[2022.06.17(금) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 THE신승훈SHOW 〈미소속에 비친 그대〉－부산 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6199</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6199"/>
-        <updated>2022-06-13T05:15:24.643Z</updated>
-        <content type="html"><![CDATA[2022.06.17(금) 18:00]]></content>
     </entry>
 </feed>
