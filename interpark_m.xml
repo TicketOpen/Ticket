@@ -4,11 +4,20 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 00:34:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 03:03:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[2022 최현우 <THE BRAIN> - 인천 티켓오픈 안내]]></title>
+            <title><![CDATA[뮤지컬 〈V 에버 애프터〉 프리뷰 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43225</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43225</guid>
+            <pubDate>Wed, 15 Jun 2022 03:01:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.16
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007433_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 최현우 〈THE BRAIN〉 - 인천 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43224</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43224</guid>
             <pubDate>Wed, 15 Jun 2022 00:32:56 GMT</pubDate>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.06.20
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006708_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈쉬어매드니스〉 7월 (여름 스페셜팀 합류) 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43214</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43214</guid>
-            <pubDate>Tue, 14 Jun 2022 05:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.17
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/19/19018229_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
