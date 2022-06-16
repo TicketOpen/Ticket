@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 07:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 08:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[심규선X유승우 <로맨스 in 부산> - SUDDENLY FESTIVAL 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43261</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43261</guid>
+            <pubDate>Thu, 16 Jun 2022 08:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.21
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 〈살아있는 자를 수선하기〉 1차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43260</link>
@@ -85,15 +94,6 @@
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43252</guid>
             <pubDate>Thu, 16 Jun 2022 02:53:37 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.21
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유기동물보호단체 후원 김범룡 콘서트 - 원주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43251</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43251</guid>
-            <pubDate>Thu, 16 Jun 2022 02:53:37 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.20
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
