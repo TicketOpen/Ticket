@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-06-17T00:28:20.345Z</updated>
+    <updated>2022-06-17T02:57:55.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우주락 in 우주라이브 5회 콘서트 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6216</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6216"/>
+        <updated>2022-06-17T02:55:28.942Z</updated>
+        <content type="html"><![CDATA[2022.06.20(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경서 첫 번째 단독 공연 〈오늘，여기〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6215</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6206"/>
         <updated>2022-06-14T09:06:36.158Z</updated>
         <content type="html"><![CDATA[2022.06.15(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 신한 스퀘어브릿지 페스티벌 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6205</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6205"/>
-        <updated>2022-06-14T08:08:34.087Z</updated>
-        <content type="html"><![CDATA[2022.06.14(화) 18:00]]></content>
     </entry>
 </feed>
