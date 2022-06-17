@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 12:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 13:27:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,6 +688,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2022.06.17(금) 05:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Soundberry Festa' 22​ ​정식 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/54723</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/54723</guid>
+            <pubDate>Fri, 17 Jun 2022 13:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.20(월) 09:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] “Killing Dance” Festival - 서울공연  (킬링 댄스 페스티벌 - 서울) 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/54721</link>
             <guid>http://m.ticketlink.co.kr/help/notice/54721</guid>
@@ -782,13 +789,6 @@
             <title><![CDATA[어린이 뮤지컬 “백설공주” - 익산 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/54708</link>
             <guid>http://m.ticketlink.co.kr/help/notice/54708</guid>
-            <pubDate>Thu, 16 Jun 2022 08:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.17(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어린이 뮤지컬 ‘캣’ - 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/54707</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/54707</guid>
             <pubDate>Thu, 16 Jun 2022 08:12:33 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.17(금) 00:00]]></content:encoded>
         </item>
