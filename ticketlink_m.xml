@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-06-16T23:07:38.588Z</updated>
+    <updated>2022-06-17T00:28:20.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신비아파트 뮤지컬 시즌5 : 감염된 도시의 비밀 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54716</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54716"/>
+        <updated>2022-06-17T00:28:11.698Z</updated>
+        <content type="html"><![CDATA[2022.06.22(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 전주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54715</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54715"/>
+        <updated>2022-06-17T00:28:11.700Z</updated>
+        <content type="html"><![CDATA[2022.06.22(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 민쩌미 〈​사랑해요 엄마!〉​ - 창원​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54714</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54714"/>
+        <updated>2022-06-17T00:28:11.708Z</updated>
+        <content type="html"><![CDATA[2022.06.22(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 뮤지컬 〈마지막 사건〉 링크OFF(상영회)​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54713</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54701"/>
         <updated>2022-06-16T08:12:33.982Z</updated>
         <content type="html"><![CDATA[2022.06.20(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54700</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54700"/>
-        <updated>2022-06-16T08:12:33.983Z</updated>
-        <content type="html"><![CDATA[2022.06.21(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 민쩌미 〈​사랑해요 엄마!〉​ - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54699</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54699"/>
-        <updated>2022-06-16T08:12:33.985Z</updated>
-        <content type="html"><![CDATA[2022.06.21(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신비아파트 뮤지컬 시즌5 : 감염된 도시의 비밀 - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54698</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54698"/>
-        <updated>2022-06-16T08:12:33.986Z</updated>
-        <content type="html"><![CDATA[2022.06.21(화) 00:00]]></content>
     </entry>
 </feed>
