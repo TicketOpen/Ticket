@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 10:06:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 11:05:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6219</guid>
             <pubDate>Fri, 17 Jun 2022 04:19:58 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.20(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김예지 TURNED 콘서트 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6218</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6218</guid>
+            <pubDate>Fri, 17 Jun 2022 11:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.20(월) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[JUST B 1st Mini concert：JUST Be with you 티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -67,13 +74,6 @@
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［다린 단독 콘서트］티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6209</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6209</guid>
-            <pubDate>Wed, 15 Jun 2022 03:56:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.22(수) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팔칠댄스（87DANCE）단독 콘서트 ‘I will say I love You’ 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6208</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6208</guid>
             <pubDate>Wed, 15 Jun 2022 03:56:48 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.22(수) 20:00]]></content:encoded>
         </item>
@@ -688,6 +688,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2022.06.17(금) 05:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[단독판매] “Killing Dance” Festival - 서울공연  (킬링 댄스 페스티벌 - 서울) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/54721</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/54721</guid>
+            <pubDate>Fri, 17 Jun 2022 11:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24(금) 10:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[캐리TV 러브콘서트 KPOP - 전주 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/54720</link>
             <guid>http://m.ticketlink.co.kr/help/notice/54720</guid>
@@ -784,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/54707</guid>
             <pubDate>Thu, 16 Jun 2022 08:12:33 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.17(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 미디어아트 아이스 쇼 〈G – SHOW〉 : DRAGON FLOWER 일반 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/54706</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/54706</guid>
-            <pubDate>Thu, 16 Jun 2022 08:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.17(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 제24회 서울드럼페스티벌 1일차 (네이버 공연)]]></title>
