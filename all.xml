@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 08:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 09:04:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/11/202206/13/vajln22c4rbp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매]연극〈여보 나도 할 말 있어〉- 경주 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54724</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54724</guid>
+            <pubDate>Sat, 18 Jun 2022 09:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.07.01(금) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Soundberry Festa' 22​ ​정식 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/54723</link>
             <guid>http://www.ticketlink.co.kr/help/notice/54723</guid>
@@ -679,13 +686,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/54709</guid>
             <pubDate>Thu, 16 Jun 2022 12:12:41 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2022.06.21(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어린이 뮤지컬 “백설공주” - 익산 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54708</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54708</guid>
-            <pubDate>Thu, 16 Jun 2022 02:54:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.17(금) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Soundberry Festa' 22​ ​정식 티켓오픈 안내 (티켓링크 모바일)]]></title>
