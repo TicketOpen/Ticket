@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 02:51:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 03:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 강혜연 팬미팅：해바라기〈마음〉속에팅 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6220</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6220</guid>
+            <pubDate>Mon, 20 Jun 2022 03:37:44 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.21(화) 18:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2022 WONHO FAMMEETING［OHHOHO TRIP］티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6219</link>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6210</guid>
             <pubDate>Sat, 18 Jun 2022 21:02:32 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.22(수) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［다린 단독 콘서트］티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6209</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6209</guid>
-            <pubDate>Sat, 18 Jun 2022 21:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.22(수) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Soundberry Festa' 22 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -294,6 +294,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220617061125.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11888</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11888</guid>
+            <pubDate>Mon, 20 Jun 2022 03:38:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.23(목) 12:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[김예지 TURNED 콘서트 티켓오픈안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11887</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11887</guid>
@@ -426,11 +433,11 @@
             <content:encoded><![CDATA[2022.06.17(금) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 케니 지(Kenny G) 월드투어 내한공연 - 서울 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11868</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11868</guid>
-            <pubDate>Mon, 20 Jun 2022 00:29:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.17(금) 11:00]]></content:encoded>
+            <title><![CDATA[2022 이성열 팬미팅 [The loeYeol] 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11888&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11888&amp;order=1</guid>
+            <pubDate>Mon, 20 Jun 2022 03:38:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022-06-23(목) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김예지 TURNED 콘서트 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -494,13 +501,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11879&amp;order=1</guid>
             <pubDate>Wed, 15 Jun 2022 10:04:56 GMT</pubDate>
             <content:encoded><![CDATA[2022-06-20(월) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [서편제] 프리뷰 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11877&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11877&amp;order=1</guid>
-            <pubDate>Wed, 15 Jun 2022 03:01:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022-06-17(금) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈난세〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -583,6 +583,48 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/11/202206/13/vajln22c4rbp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 2022 대구치맥페스티벌 프리미엄 사전예약존 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54731</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54731</guid>
+            <pubDate>Mon, 20 Jun 2022 03:39:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.21(화) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 민쩌미 〈​사랑해요 엄마!〉​ - 천안​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54730</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54730</guid>
+            <pubDate>Mon, 20 Jun 2022 03:39:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.23(목) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54729</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54729</guid>
+            <pubDate>Mon, 20 Jun 2022 03:39:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.23(목) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 창원앵콜​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54728</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54728</guid>
+            <pubDate>Mon, 20 Jun 2022 03:39:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.23(목) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉- 포항 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54727</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54727</guid>
+            <pubDate>Mon, 20 Jun 2022 03:39:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.23(목) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 어린이 베스트셀러 뮤지컬 〈누가 내머리에 똥 쌌어？〉 - 서울(은평)​티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54726</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54726</guid>
+            <pubDate>Mon, 20 Jun 2022 03:39:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.20(월) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[유기동물보호단체 후원 김범룡 콘서트 - 원주​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/54725</link>
             <guid>http://www.ticketlink.co.kr/help/notice/54725</guid>
@@ -644,48 +686,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/54716</guid>
             <pubDate>Fri, 17 Jun 2022 04:21:38 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2022.06.22(수) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 전주​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54715</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54715</guid>
-            <pubDate>Fri, 17 Jun 2022 04:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.22(수) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 민쩌미 〈​사랑해요 엄마!〉​ - 창원​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54714</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54714</guid>
-            <pubDate>Fri, 17 Jun 2022 04:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.22(수) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 뮤지컬 〈마지막 사건〉 링크OFF(상영회)​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54713</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54713</guid>
-            <pubDate>Thu, 16 Jun 2022 12:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.17(금) 04:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[〈가족어린이 뮤지컬〉 신데렐라 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54712</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54712</guid>
-            <pubDate>Thu, 16 Jun 2022 12:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.17(금) 06:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[로미오와 줄리엣 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54711</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54711</guid>
-            <pubDate>Thu, 16 Jun 2022 12:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.17(금) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 최현우 〈THE BRAIN〉 - 인천 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54710</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54710</guid>
-            <pubDate>Thu, 16 Jun 2022 12:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.06.17(금) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유기동물보호단체 후원 김범룡 콘서트 - 원주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
