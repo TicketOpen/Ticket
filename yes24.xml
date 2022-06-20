@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-20T04:15:42.150Z</updated>
+    <updated>2022-06-20T05:11:05.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 아이비 콘서트 : Next Page 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11889</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11889"/>
+        <updated>2022-06-20T05:07:56.778Z</updated>
+        <content type="html"><![CDATA[2022.06.23(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11888</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11870"/>
         <updated>2022-06-20T00:29:26.626Z</updated>
         <content type="html"><![CDATA[2022.06.16(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11869</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11869"/>
-        <updated>2022-06-20T00:29:26.627Z</updated>
-        <content type="html"><![CDATA[2022.06.17(금) 14:00]]></content>
     </entry>
 </feed>
