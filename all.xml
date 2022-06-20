@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 09:06:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 10:08:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,13 @@
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11891</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11891</guid>
+            <pubDate>Mon, 20 Jun 2022 10:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.28(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11890</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11890</guid>
             <pubDate>Mon, 20 Jun 2022 09:03:59 GMT</pubDate>
@@ -425,11 +432,11 @@
             <content:encoded><![CDATA[2022.06.17(금) 18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [모래시계] 마지막 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11871</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11871</guid>
-            <pubDate>Mon, 20 Jun 2022 00:29:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.17(금) 11:00]]></content:encoded>
+            <title><![CDATA[드라마 미스터하트 원상하 첫 팬미팅 ~너가 멈추지 않으면 ing야~ 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11891&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11891&amp;order=1</guid>
+            <pubDate>Mon, 20 Jun 2022 10:06:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022-06-28(화) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[박소은 정규 앨범 발매 기념 단독 공연 [RECYCLE] 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -493,13 +500,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11882&amp;order=1</guid>
             <pubDate>Thu, 16 Jun 2022 07:03:31 GMT</pubDate>
             <content:encoded><![CDATA[2022-06-21(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 임영웅 콘서트 [IM HERO] - 서울 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11881&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11881&amp;order=1</guid>
-            <pubDate>Thu, 16 Jun 2022 05:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022-07-07(목) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈난세〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
