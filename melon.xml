@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-06-21T10:12:40.377Z</updated>
+    <updated>2022-06-21T11:10:31.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이설아 단독 공연 “그대 오시네요” 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6226</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6226"/>
+        <updated>2022-06-21T11:06:39.565Z</updated>
+        <content type="html"><![CDATA[2022.06.24(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PL（피엘）여름콘서트 Summer Diary 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6225</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6217"/>
         <updated>2022-06-18T21:02:32.752Z</updated>
         <content type="html"><![CDATA[2022.06.24(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주락 in 우주라이브 5회 콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6216</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6216"/>
-        <updated>2022-06-18T21:02:32.752Z</updated>
-        <content type="html"><![CDATA[2022.06.20(월) 14:00]]></content>
     </entry>
 </feed>
