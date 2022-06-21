@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 07:06:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 08:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,20 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6214</guid>
             <pubDate>Sat, 18 Jun 2022 21:02:32 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 장윤정 라이브 콘서트 - 포항 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43313&amp;groupno=43313&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43313&amp;groupno=43313&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 21 Jun 2022 08:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.24(금)&nbsp;15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 장윤정 라이브 콘서트 - 진주 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43312&amp;groupno=43312&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43312&amp;groupno=43312&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 21 Jun 2022 08:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.24(금)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 영탁 단독 콘서트 “TAK SHOW” 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -190,18 +204,22 @@
             <content:encoded><![CDATA[22.06.24(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[환상의 미술공연 <페인터즈> - 여주 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43293&amp;groupno=43293&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43293&amp;groupno=43293&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 20 Jun 2022 05:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.21(화)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[2022 장윤정 라이브 콘서트 - 포항 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43313</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43313</guid>
+            <pubDate>Tue, 21 Jun 2022 08:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062115092328.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Soundberry Festa' 22 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43292&amp;groupno=43292&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43292&amp;groupno=43292&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 20 Jun 2022 02:47:49 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.20(월)&nbsp;18:00]]></content:encoded>
+            <title><![CDATA[2022 장윤정 라이브 콘서트 - 진주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43312</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43312</guid>
+            <pubDate>Tue, 21 Jun 2022 08:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062115163343.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 영탁 단독 콘서트 “TAK SHOW” 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -274,24 +292,6 @@
             <content:encoded><![CDATA[2022.06.23
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061615454859.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 썸머 브리즈 : 권태은 런치송 프로젝트 with friends 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43303</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43303</guid>
-            <pubDate>Tue, 21 Jun 2022 02:56:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.23
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007330_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[블록버스터 영화음악 콘서트_부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43302</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43302</guid>
-            <pubDate>Tue, 21 Jun 2022 02:56:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.22
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007810_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
