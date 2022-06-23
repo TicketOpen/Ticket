@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 04:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 05:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6224</guid>
             <pubDate>Tue, 21 Jun 2022 09:07:43 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.23(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방방곡곡 민간우수 블랙스트링 콘서트 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43353&amp;groupno=43353&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43353&amp;groupno=43353&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 23 Jun 2022 05:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.23(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Haus of Wonder 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -194,14 +201,16 @@
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43336&amp;groupno=43336&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43336&amp;groupno=43336&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 22 Jun 2022 06:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.01(금)&nbsp;20:00]]></content:encoded>
+            <content:encoded><![CDATA[22.07.01(금)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유채훈 첫 단독 콘서트 〈Podium〉 - 부산 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43335&amp;groupno=43335&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43335&amp;groupno=43335&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 22 Jun 2022 06:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.28(화)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[방방곡곡 민간우수 블랙스트링 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43353</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43353</guid>
+            <pubDate>Thu, 23 Jun 2022 05:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.23
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007601_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[Haus of Wonder 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2022.07.01
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220622040129.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ 2022 Theatre 이문세 ] - 군산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43343</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43343</guid>
-            <pubDate>Wed, 22 Jun 2022 07:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.30
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220622040038.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현대카드 슈퍼콘서트 26 빌리 아일리시(Billie Eilish) 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -502,6 +502,14 @@
             <content:encoded><![CDATA[2022-06-23(목) 15:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2022 UNI-KON 추가 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/890</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/890</guid>
+            <pubDate>Thu, 23 Jun 2022 05:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24(금) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/53/202206/23/jpmnszisbrvo.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[HAUS OF WONDER(하우스 오브 원더) 일반예매 2차 티켓오픈 안내 N (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/889</link>
             <guid>https://ticket.wemakeprice.com/opennotice/889</guid>
@@ -572,14 +580,6 @@
             <pubDate>Tue, 21 Jun 2022 16:10:31 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.21(화) 20:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/01/202206/17/v0bcnosrgggy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 신촌물총축제 2차 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/880</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/880</guid>
-            <pubDate>Tue, 21 Jun 2022 16:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.16(목) 17:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/27/202206/14/grshnkwbx4nd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[KB Pay X 인천펜타포트 락페스티벌 2022］ 일반 티켓오픈 안내 (티켓링크)]]></title>
