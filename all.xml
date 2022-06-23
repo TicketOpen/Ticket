@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 08:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 09:06:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6235</guid>
             <pubDate>Thu, 23 Jun 2022 07:02:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24(금) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[라이브 클럽 데이－블라인드 티켓 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6234</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6234</guid>
+            <pubDate>Thu, 23 Jun 2022 09:02:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24(금) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빌리어코스티 정규 3집 PART．01：MONO 발매 기념 공연 티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6226</guid>
             <pubDate>Tue, 21 Jun 2022 11:06:39 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24(금) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PL（피엘）여름콘서트 Summer Diary 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6225</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6225</guid>
-            <pubDate>Tue, 21 Jun 2022 09:07:43 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 내일은 국민가수 콘서트 [마지막 이야기] - 서울앵콜 티켓오픈 .. (인터파크 티켓)]]></title>
