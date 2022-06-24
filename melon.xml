@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-06-24T09:05:15.494Z</updated>
+    <updated>2022-06-24T10:08:00.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반얀트리 클럽 앤 스파 서울 풀파티 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6246</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6246"/>
+        <updated>2022-06-24T10:04:10.985Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현대카드 Curated 76 김목인 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6242</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6242"/>
+        <updated>2022-06-24T10:04:10.992Z</updated>
+        <content type="html"><![CDATA[2022.06.29(수) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9001 단독 콘서트 〈I WAS A HERO〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6241</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6234"/>
         <updated>2022-06-23T09:02:46.937Z</updated>
         <content type="html"><![CDATA[2022.06.24(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌리어코스티 정규 3집 PART．01：MONO 발매 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6233</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6233"/>
-        <updated>2022-06-23T04:22:22.603Z</updated>
-        <content type="html"><![CDATA[2022.06.30(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Letters from haebin 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6232</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6232"/>
-        <updated>2022-06-22T10:03:15.181Z</updated>
-        <content type="html"><![CDATA[2022.06.23(목) 20:00]]></content>
     </entry>
 </feed>
