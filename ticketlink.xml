@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-23T23:08:12.906Z</updated>
+    <updated>2022-06-24T00:33:25.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 가족뮤지컬 ‘아기돼지 삼형제’ - 부천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54774</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54774"/>
+        <updated>2022-06-24T00:32:07.242Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.27(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 광주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54773</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54773"/>
+        <updated>2022-06-24T00:32:07.276Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.27(월) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 정동하 팬미팅 “우리 잠시 쉬었다 갈까요?”​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54771</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54771"/>
+        <updated>2022-06-24T00:32:07.276Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.28(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 김동현, 이솔로몬 조인콘서트 – 제주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54770</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54770"/>
+        <updated>2022-06-24T00:32:07.320Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.29(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부천] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54768</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54757"/>
         <updated>2022-06-23T11:03:40.984Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.24(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(양주) 2022 가족뮤지컬 누가 내머리에 똥쌌어 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54756</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54756"/>
-        <updated>2022-06-23T11:03:40.986Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.24(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 어린이 베스트셀러 뮤지컬 〈누가 내머리에 똥 쌌어?〉 - 서울(중랑) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54755</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54755"/>
-        <updated>2022-06-23T11:03:40.996Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.24(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KB Pay X 인천펜타포트 락페스티벌 2022］ 일반 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54754</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54754"/>
-        <updated>2022-06-22T08:11:23.380Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.24(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 정동하 X 소향 - 부천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54753</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54753"/>
-        <updated>2022-06-22T08:11:23.388Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.24(금) 05:00]]></content>
     </entry>
 </feed>
