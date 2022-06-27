@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-06-27T00:37:06.707Z</updated>
+    <updated>2022-06-27T03:08:49.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6246"/>
         <updated>2022-06-24T10:04:10.985Z</updated>
         <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오추프로젝트 단독공연 〈여．추프로젝트〉＿문화정원아트홀 기획공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6244</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6244"/>
+        <updated>2022-06-27T03:05:21.541Z</updated>
+        <content type="html"><![CDATA[2022.07.01(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[늘；RED 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6243</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6243"/>
+        <updated>2022-06-27T03:05:21.541Z</updated>
+        <content type="html"><![CDATA[2022.07.01(금) 12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[현대카드 Curated 76 김목인 티켓 오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6236"/>
         <updated>2022-06-24T05:13:53.887Z</updated>
         <content type="html"><![CDATA[2022.06.27(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두레 인디 페스타 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6235</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6235"/>
-        <updated>2022-06-23T07:02:34.480Z</updated>
-        <content type="html"><![CDATA[2022.06.24(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이브 클럽 데이－블라인드 티켓 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6234</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6234"/>
-        <updated>2022-06-23T09:02:46.937Z</updated>
-        <content type="html"><![CDATA[2022.06.24(금) 14:00]]></content>
     </entry>
 </feed>
