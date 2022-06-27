@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-06-27T04:43:09.343Z</updated>
+    <updated>2022-06-27T05:25:09.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Whales 단독 공연 〈Nothing But you〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6247</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6247"/>
+        <updated>2022-06-27T05:21:37.730Z</updated>
+        <content type="html"><![CDATA[2022.06.28(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반얀트리 클럽 앤 스파 서울 풀파티 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6246</id>
@@ -66,13 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6238</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6238"/>
         <updated>2022-06-24T05:13:53.882Z</updated>
-        <content type="html"><![CDATA[2022.06.27(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몽니 정규 5집 ‘Firmament’ 발매 기념 콘서트 with 손에손에 뮤직 페스타 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6237</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6237"/>
-        <updated>2022-06-24T05:13:53.884Z</updated>
         <content type="html"><![CDATA[2022.06.27(월) 14:00]]></content>
     </entry>
 </feed>
