@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-27T21:05:56.117Z</updated>
+    <updated>2022-06-27T22:05:12.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 해설과 함께하는 오페라 콘서트「마술피리」“The Magic Flute” / 광주시립오페라단 티켓오픈안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54785</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54785"/>
+        <updated>2022-06-27T22:03:52.922Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.28(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김창완 밴드 콘서트 - 원주]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54784</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54769"/>
         <updated>2022-06-24T07:04:27.839Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.28(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부천] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54768</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54768"/>
-        <updated>2022-06-23T11:03:40.912Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.23(목) 02:00]]></content>
     </entry>
 </feed>
