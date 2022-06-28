@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-06-28T00:35:31.585Z</updated>
+    <updated>2022-06-28T03:05:17.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[It’s begun EP．2：김훨x예람x정우－‘WE ARE STILL IN GREEN’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6252</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6252"/>
+        <updated>2022-06-28T03:01:31.060Z</updated>
+        <content type="html"><![CDATA[2022.07.01(금) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s begun EP．1：cotoba－‘과거가 되어버린 풍경’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6251</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6251"/>
+        <updated>2022-06-28T03:01:31.063Z</updated>
+        <content type="html"><![CDATA[2022.07.01(금) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meteoric rise 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6250</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6250"/>
+        <updated>2022-06-28T03:01:31.068Z</updated>
+        <content type="html"><![CDATA[2022.06.30(목) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제4회 슬로우라이프 슬로우라이브 2022 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6249</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6249"/>
+        <updated>2022-06-28T03:01:31.070Z</updated>
+        <content type="html"><![CDATA[2022.07.04(월) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[캔도 단독 콘서트：이별을 이야기하는 남자 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6248</id>
@@ -46,33 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6243"/>
         <updated>2022-06-27T03:05:21.541Z</updated>
         <content type="html"><![CDATA[2022.07.01(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대카드 Curated 76 김목인 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6242</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6242"/>
-        <updated>2022-06-24T10:04:10.992Z</updated>
-        <content type="html"><![CDATA[2022.06.29(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9001 단독 콘서트 〈I WAS A HERO〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6241</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6241"/>
-        <updated>2022-06-24T05:13:53.874Z</updated>
-        <content type="html"><![CDATA[2022.07.01(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김준수 X 두번째달 콘서트 with 손에손에 뮤직 페스타 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6240</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6240"/>
-        <updated>2022-06-24T05:13:53.878Z</updated>
-        <content type="html"><![CDATA[2022.06.27(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휘성 X 커먼그라운드 콘서트 with 손에손에 뮤직 페스타 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6239</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6239"/>
-        <updated>2022-06-24T05:13:53.880Z</updated>
-        <content type="html"><![CDATA[2022.06.27(월) 14:00]]></content>
     </entry>
 </feed>
