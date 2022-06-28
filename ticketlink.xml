@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-28T17:19:24.395Z</updated>
+    <updated>2022-06-28T18:08:49.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 글림의 첫 번째 콘서트 〈gleaming〉티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54788</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54788"/>
+        <updated>2022-06-28T18:07:33.171Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.04(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계 평화를 기원하는 World Peace Concert​ ​​​​​​​티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54787</id>
@@ -76,7 +83,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.29(수) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] Back To The Old School (빽투더 올드스쿨)​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] MC스나이퍼 - Back To The Old School (빽투더 올드스쿨)​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54776</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54776"/>
         <updated>2022-06-24T09:03:59.116Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54773"/>
         <updated>2022-06-24T00:32:07.276Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.27(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 - 거제​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54772</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54772"/>
-        <updated>2022-06-24T07:04:27.824Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.28(화) 05:00]]></content>
     </entry>
 </feed>
