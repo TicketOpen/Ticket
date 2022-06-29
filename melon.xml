@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-06-29T03:10:03.446Z</updated>
+    <updated>2022-06-29T04:36:57.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[［황대헌 블루 팬미팅 with 한국 소아암재단］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6256</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6256"/>
+        <updated>2022-06-29T04:33:15.708Z</updated>
+        <content type="html"><![CDATA[2022.06.30(목) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［로우행잉프루츠 단독 콘서트］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6255</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6247"/>
         <updated>2022-06-27T05:21:37.730Z</updated>
         <content type="html"><![CDATA[2022.06.28(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반얀트리 클럽 앤 스파 서울 풀파티 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6246</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6246"/>
-        <updated>2022-06-24T10:04:10.985Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
     </entry>
 </feed>
