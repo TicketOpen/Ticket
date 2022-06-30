@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-06-30T00:30:55.911Z</updated>
+    <updated>2022-06-30T03:08:17.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 IN 라이브클럽［겸 단독 콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6261</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6261"/>
+        <updated>2022-06-30T03:04:37.031Z</updated>
+        <content type="html"><![CDATA[2022.07.07(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모세 2022 소극장 콘서트 ‘기적처럼… 다시 안녕’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6260</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6260"/>
+        <updated>2022-06-30T03:04:37.031Z</updated>
+        <content type="html"><![CDATA[2022.06.30(목) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌5 ORIGINAL［베리코이버니 단독 콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6259</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6259"/>
+        <updated>2022-06-30T03:04:37.044Z</updated>
+        <content type="html"><![CDATA[2022.07.07(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PL（피엘）여름콘서트 Summer Diary－서울 추가 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6258</id>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6252"/>
         <updated>2022-06-28T03:01:31.060Z</updated>
         <content type="html"><![CDATA[2022.07.01(금) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s begun EP．1：cotoba－‘과거가 되어버린 풍경’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6251</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6251"/>
-        <updated>2022-06-28T03:01:31.063Z</updated>
-        <content type="html"><![CDATA[2022.07.01(금) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meteoric rise 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6250</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6250"/>
-        <updated>2022-06-28T03:01:31.068Z</updated>
-        <content type="html"><![CDATA[2022.06.30(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제4회 슬로우라이프 슬로우라이브 2022 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6249</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6249"/>
-        <updated>2022-06-28T03:01:31.070Z</updated>
-        <content type="html"><![CDATA[2022.07.04(월) 12:00]]></content>
     </entry>
 </feed>

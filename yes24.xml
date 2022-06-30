@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-06-30T00:30:55.900Z</updated>
+    <updated>2022-06-30T03:08:17.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE X] 뮤지컬 [은하철도의 밤] 온라인 공연 7/18, 7/25, 8/1 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11908</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11908"/>
+        <updated>2022-06-30T03:05:20.822Z</updated>
+        <content type="html"><![CDATA[2022.07.01(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11907</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11887"/>
         <updated>2022-06-29T14:05:05.322Z</updated>
         <content type="html"><![CDATA[2022.06.20(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond LIVE - SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD  온라인 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11886</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11886"/>
-        <updated>2022-06-29T14:05:05.324Z</updated>
-        <content type="html"><![CDATA[2022.06.23(목) 15:00]]></content>
     </entry>
 </feed>
