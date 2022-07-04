@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-07-04T07:07:03.892Z</updated>
+    <updated>2022-07-04T08:11:51.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스탠딩에그 콘서트 추가 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6270</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6270"/>
+        <updated>2022-07-04T08:08:15.127Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈원더보이〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6269</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6261"/>
         <updated>2022-06-30T03:04:37.031Z</updated>
         <content type="html"><![CDATA[2022.07.07(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모세 2022 소극장 콘서트 ‘기적처럼… 다시 안녕’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6260</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6260"/>
-        <updated>2022-06-30T03:04:37.031Z</updated>
-        <content type="html"><![CDATA[2022.06.30(목) 16:00]]></content>
     </entry>
 </feed>
