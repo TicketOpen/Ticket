@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-07-04T00:40:24.058Z</updated>
+    <updated>2022-07-04T03:13:12.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈원더보이〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6269</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6269"/>
+        <updated>2022-07-04T03:09:29.307Z</updated>
+        <content type="html"><![CDATA[2022.07.06(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[컬러 픽쳐스，마일즈 알드리지 사진전 2000－2022 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6268</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6260"/>
         <updated>2022-06-30T03:04:37.031Z</updated>
         <content type="html"><![CDATA[2022.06.30(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌5 ORIGINAL［베리코이버니 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6259</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6259"/>
-        <updated>2022-06-30T03:04:37.044Z</updated>
-        <content type="html"><![CDATA[2022.07.07(목) 20:00]]></content>
     </entry>
 </feed>
