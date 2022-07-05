@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-07-05T15:06:04.725Z</updated>
+    <updated>2022-07-05T16:10:58.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2022 뮤지컬 <미드나잇 : 액터뮤지션> 하반기 1차 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[가족뮤지컬 〈반짝반짝 달님이 - 버블버블 마법의 솜사탕〉 - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54833</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54833"/>
+        <updated>2022-07-05T16:09:40.606Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.07(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 하반기 1차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54832</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54832"/>
         <updated>2022-07-05T05:13:24.115Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.11(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈뉴페스타〉 2022 블라인드 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54831</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54831"/>
-        <updated>2022-07-05T05:13:24.118Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.06(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 서울시뮤지컬단 뮤지컬 〈원더보이〉​ 티켓오픈 안내]]></title>
@@ -34,14 +34,14 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.06(수) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 N.FLYING LIVE ‘&CON2’ - 대구 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 2022 N.FLYING(엔플라잉) LIVE ‘&CON2’ - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54828</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54828"/>
         <updated>2022-07-04T10:04:52.374Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.08(금) 12:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 N.FLYING LIVE ‘&CON2’ - 부산 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 2022 N.FLYING(엔플라잉) LIVE ‘&CON2’ - 부산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54827</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54827"/>
         <updated>2022-07-04T10:04:52.376Z</updated>
