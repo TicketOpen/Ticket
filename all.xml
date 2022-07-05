@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 06:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 07:06:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -57,7 +57,7 @@
             <content:encoded><![CDATA[2022.07.05(화) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[프레젠트프로젝트 〈Sing Sang Song：재주소년 With Strings Agian〉 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <title><![CDATA[프레젠트프로젝트 〈SING SANG SONG：재주소년 with Strings Again〉 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6267</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6267</guid>
             <pubDate>Fri, 01 Jul 2022 11:02:50 GMT</pubDate>
@@ -508,6 +508,14 @@
             <content:encoded><![CDATA[2022-07-14(목) 20:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈킹키부츠〉 - 위메프 컬처데이 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/900</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/900</guid>
+            <pubDate>Tue, 05 Jul 2022 07:03:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.07(목) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/37/202207/05/q85xzctfu4tk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 HANA BANK SEOUL E-PRIX - 1차 티켓오픈안내 N (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/899</link>
             <guid>https://ticket.wemakeprice.com/opennotice/899</guid>
@@ -578,14 +586,6 @@
             <pubDate>Tue, 28 Jun 2022 03:02:50 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24(금) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/53/202206/23/jpmnszisbrvo.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[HAUS OF WONDER(하우스 오브 원더) 일반예매 2차 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/889</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/889</guid>
-            <pubDate>Tue, 28 Jun 2022 03:02:50 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.24(금) 12:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202206/22/7woe3nslimdy.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2022 뮤지컬 <미드나잇 : 액터뮤지션> 하반기 1차 티켓오픈 안내 (티켓링크)]]></title>
