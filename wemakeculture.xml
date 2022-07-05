@@ -4,7 +4,7 @@
         <title>위메프 공연티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 03:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 04:30:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 01 Jul 2022 09:04:13 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.06(수) 20:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/02/202207/01/xpuv1p6qoiqh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈더 헬멧〉 - 위멮데이 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/896</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/896</guid>
+            <pubDate>Tue, 05 Jul 2022 04:29:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.05(화) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/23/202206/30/wnnsaejarioo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 아시아프 ＆ 히든아티스트 페스티벌 (2022 ASYAAF ＆ Hidden Artists Festival) 티켓오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 28 Jun 2022 03:02:50 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.20(월) 00:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/48/202206/17/unnhdpfu9o6t.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 코드 뮤직 페스티벌 1차 오피셜 티켓오픈 안내]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/887</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/887</guid>
-            <pubDate>Tue, 05 Jul 2022 03:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.20(월) 12:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/48/202206/17/mu2capp4wpx1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

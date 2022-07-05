@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 03:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 04:30:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -226,7 +226,7 @@
             <pubDate>Tue, 05 Jul 2022 03:07:17 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.15
                                     <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220705122700.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[딴딴한 여름 2022 : 딴딴월드-서울 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -235,7 +235,7 @@
             <pubDate>Tue, 05 Jul 2022 03:07:17 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.14
                                     <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220705122638.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[히사이시 조 영화음악 콘서트 2022_성남 앙코르 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -289,7 +289,7 @@
             <pubDate>Mon, 04 Jul 2022 06:10:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.08
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062316161243.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008061_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 <더데빌 콘서트(THE DEVIL CONCERT)> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -524,6 +524,14 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/02/202207/01/xpuv1p6qoiqh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 〈더 헬멧〉 - 위멮데이 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/896</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/896</guid>
+            <pubDate>Tue, 05 Jul 2022 04:29:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.05(화) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/23/202206/30/wnnsaejarioo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 아시아프 ＆ 히든아티스트 페스티벌 (2022 ASYAAF ＆ Hidden Artists Festival) 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/895</link>
             <guid>https://ticket.wemakeprice.com/opennotice/895</guid>
@@ -580,12 +588,18 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/48/202206/17/unnhdpfu9o6t.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 코드 뮤직 페스티벌 1차 오피셜 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/887</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/887</guid>
-            <pubDate>Tue, 05 Jul 2022 03:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.20(월) 12:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/48/202206/17/mu2capp4wpx1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2022 서울시뮤지컬단 뮤지컬 〈원더보이〉​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54830</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54830</guid>
+            <pubDate>Tue, 05 Jul 2022 04:29:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.07.06(수) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[광주시립국악관현악단 제 130회 정기연주회 ‘신나는 국악여행’ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54829</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54829</guid>
+            <pubDate>Tue, 05 Jul 2022 04:29:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.07.06(수) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 2022 N.FLYING LIVE ‘&CON2’ - 대구 티켓오픈 안내 (티켓링크)]]></title>
@@ -677,20 +691,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/54816</guid>
             <pubDate>Fri, 01 Jul 2022 14:04:13 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2022.07.04(월) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Someday Festival 2022​ 얼리버드 티켓 오픈안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54815</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54815</guid>
-            <pubDate>Fri, 01 Jul 2022 09:04:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.07.04(월) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 여수 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54814</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54814</guid>
-            <pubDate>Fri, 01 Jul 2022 09:04:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.07.04(월) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈​미세스 다웃파이어〉​ 1차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
