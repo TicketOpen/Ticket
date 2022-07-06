@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-06T05:22:18.466Z</updated>
+    <updated>2022-07-06T06:13:51.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [미아 파밀리아] 4차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11929&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11929&amp;order=1"/>
+        <updated>2022-07-06T06:11:42.403Z</updated>
+        <content type="html"><![CDATA[2022-07-13(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈부산시립교향악단 & 양인모〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11928&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11928&amp;order=1"/>
         <updated>2022-07-06T05:19:30.741Z</updated>
         <content type="html"><![CDATA[2022-07-14(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [비더슈탄트] 본공연 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11927&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11927&amp;order=1"/>
+        <updated>2022-07-06T06:11:42.416Z</updated>
+        <content type="html"><![CDATA[2022-07-11(월) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 하반기 1차 티켓오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11917&amp;order=1"/>
         <updated>2022-07-04T03:10:26.998Z</updated>
         <content type="html"><![CDATA[2022-07-06(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 나이트레이스 부산 티켓 재오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11916&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11916&amp;order=1"/>
-        <updated>2022-07-04T00:37:36.577Z</updated>
-        <content type="html"><![CDATA[2022-07-06(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 이럴때 이런음악 ‘해설이 있는 청소년음악회’ 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11915&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11915&amp;order=1"/>
-        <updated>2022-07-01T12:12:08.161Z</updated>
-        <content type="html"><![CDATA[2022-07-05(화) 14:00]]></content>
     </entry>
 </feed>
