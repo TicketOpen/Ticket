@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 22:08:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 23:05:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/53/202206/23/jpmnszisbrvo.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[2022 한탄강 지오페스티벌 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54846</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54846</guid>
+            <pubDate>Wed, 06 Jul 2022 23:03:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.07.08(금) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 원주 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/54845</link>
             <guid>http://www.ticketlink.co.kr/help/notice/54845</guid>
@@ -679,13 +686,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/54832</guid>
             <pubDate>Tue, 05 Jul 2022 05:13:24 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2022.07.11(월) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 서울시뮤지컬단 뮤지컬 〈원더보이〉​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54830</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54830</guid>
-            <pubDate>Tue, 05 Jul 2022 04:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.07.06(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 원주 티켓오픈 안내 (티켓링크 모바일)]]></title>
