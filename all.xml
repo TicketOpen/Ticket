@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 03:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 04:38:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6275</guid>
             <pubDate>Tue, 05 Jul 2022 09:02:53 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.11(월) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[8월 문화가 있는 날 조윤범의 파워클래식 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43502&amp;groupno=43502&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43502&amp;groupno=43502&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 07 Jul 2022 04:35:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.07(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <알사탕> - 과천 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[22.07.08(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오페라 샬로트로니크 (Opera Charlotteronique) - 용인 티켓오픈 안.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43484&amp;groupno=43484&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43484&amp;groupno=43484&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 06 Jul 2022 03:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.06(수)&nbsp;12:00]]></content:encoded>
+            <title><![CDATA[8월 문화가 있는 날 조윤범의 파워클래식 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43502</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43502</guid>
+            <pubDate>Thu, 07 Jul 2022 04:36:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.07
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008344_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <알사탕> - 과천 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2022.07.13
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070613081716.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈미아 파밀리아〉 4차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43492</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43492</guid>
-            <pubDate>Wed, 06 Jul 2022 08:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.13
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004990_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[프렙 내한공연（PREP LIVE IN SEOUL）티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/53/202206/23/jpmnszisbrvo.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[김창옥 토크콘서트 시즌2 – 충주​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54848</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54848</guid>
+            <pubDate>Thu, 07 Jul 2022 04:37:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.07.13(수) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2022 김창옥토크콘서트 시즌 2 〈광주〉 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/54847</link>
             <guid>http://www.ticketlink.co.kr/help/notice/54847</guid>
@@ -679,13 +686,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/54834</guid>
             <pubDate>Wed, 06 Jul 2022 07:04:30 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2022.07.14(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈반짝반짝 달님이 - 버블버블 마법의 솜사탕〉 - 부산 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54833</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54833</guid>
-            <pubDate>Tue, 05 Jul 2022 16:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.07.07(목) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 원주 티켓오픈 안내 (티켓링크 모바일)]]></title>
