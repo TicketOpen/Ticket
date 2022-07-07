@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 13:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 14:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -581,6 +581,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/27/202206/24/hcs0nkyj6mgt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[〈Someday Festival 2022〉 일반 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54854</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54854</guid>
+            <pubDate>Thu, 07 Jul 2022 14:09:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.07.08(금) 09:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가족뮤지컬 〈반짝반짝 달님이 - 버블버블 마법의 솜사탕〉 -고양 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/54852</link>
             <guid>http://www.ticketlink.co.kr/help/notice/54852</guid>
@@ -677,13 +684,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/54839</guid>
             <pubDate>Wed, 06 Jul 2022 07:04:30 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2022.07.07(목) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이은결 〈MAGIC & ILLUSION> - 춘천 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54838</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54838</guid>
-            <pubDate>Wed, 06 Jul 2022 07:04:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.07.13(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[〈Someday Festival 2022〉 일반 티켓오픈 안내 (티켓링크 모바일)]]></title>
