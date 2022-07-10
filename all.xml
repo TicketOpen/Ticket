@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 09:06:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 11:05:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -789,22 +789,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/54842</guid>
             <pubDate>Wed, 06 Jul 2022 10:06:09 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.07(목) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[NOW] 뮤지컬 <메리 애닝> 전막 라이브 (네이버 공연)]]></title>
-            <link>https://now.naver.com/l/1733560</link>
-            <guid>https://now.naver.com/l/1733560</guid>
-            <pubDate>Sun, 10 Jul 2022 09:06:31 GMT</pubDate>
-            <content:encoded><![CDATA[07월 10일(일) 17:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220710_269/1657441291605MUOYw_JPEG/2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <메리 애닝> 제16회 DIMF 창작지원작 (네이버 공연)]]></title>
-            <link>https://tv.naver.com/l/109737</link>
-            <guid>https://tv.naver.com/l/109737</guid>
-            <pubDate>Tue, 28 Jun 2022 12:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[07월 10일(일) 17:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_114/yDPBn_1655977435760QAxAt_JPEG/1655977435717.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요안 부르주아 '위대한 유령' 앵콜 중계 (네이버 공연)]]></title>
