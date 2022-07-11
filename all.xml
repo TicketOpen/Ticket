@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 06:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 07:06:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,20 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6284</guid>
             <pubDate>Thu, 07 Jul 2022 03:10:32 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.14(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 뮤직 앤 센트 콘서트 - 경포 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43537&amp;groupno=43537&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43537&amp;groupno=43537&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 11 Jul 2022 07:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.13(수)&nbsp;18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈웃는 남자〉 마지막 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43536&amp;groupno=43536&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43536&amp;groupno=43536&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 11 Jul 2022 07:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.19(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[국립정동극장_세실] 2022 청춘만발 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -190,18 +204,22 @@
             <content:encoded><![CDATA[22.07.19(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블루맨그룹 월드투어 부산공연 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43519&amp;groupno=43519&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43519&amp;groupno=43519&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 08 Jul 2022 04:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.13(수)&nbsp;11:00]]></content:encoded>
+            <title><![CDATA[2022 뮤직 앤 센트 콘서트 - 경포 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43537</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43537</guid>
+            <pubDate>Mon, 11 Jul 2022 07:02:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.13
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070717214610.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기돈 크레머 ＆ 크레메라타 발티카 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43518&amp;groupno=43518&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43518&amp;groupno=43518&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 08 Jul 2022 03:03:51 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.08(금)&nbsp;11:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈웃는 남자〉 마지막 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43536</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43536</guid>
+            <pubDate>Mon, 11 Jul 2022 07:02:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004761_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[국립정동극장_세실] 2022 청춘만발 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -274,24 +292,6 @@
             <content:encoded><![CDATA[2022.07.14
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070615474341.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 브레드이발소 <대결! 최고의 이발사> - 성남 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43527</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43527</guid>
-            <pubDate>Fri, 08 Jul 2022 08:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.14
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070520250083.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈사의찬미 - 10th Anniversary〉 1차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43526</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43526</guid>
-            <pubDate>Fri, 08 Jul 2022 07:03:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.11
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008657_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
@@ -501,6 +501,22 @@
             <content:encoded><![CDATA[2022-07-14(목) 14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[제18회 제천국제음악영화제 A TEMPO JIMFF FESTIVAL 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/904</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/904</guid>
+            <pubDate>Mon, 11 Jul 2022 07:03:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.14(목) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/32/202207/11/6rggcxv7491c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제18회 제천국제음악영화제 A TEMPO JIMFF FESTIVAL - ONE SUMMER NIGHT : 그루비 나잇 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/903</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/903</guid>
+            <pubDate>Mon, 11 Jul 2022 07:03:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.14(목) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/32/202207/11/fwsr4nq1ekys.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[HIPHOPPLAYA FESTIVAL 2022 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/902</link>
             <guid>https://ticket.wemakeprice.com/opennotice/902</guid>
@@ -563,22 +579,6 @@
             <pubDate>Fri, 08 Jul 2022 18:05:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.01(금) 10:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/00/202206/28/kzndmp7qrnbk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제4회 슬로우 라이프 슬로우 라이브 2022  2차 라인업 및 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/894</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/894</guid>
-            <pubDate>Fri, 08 Jul 2022 18:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.04(월) 12:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/23/202206/28/r6cv3jfw4fqi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈니진스키〉 - 위멮데이 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/893</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/893</guid>
-            <pubDate>Fri, 08 Jul 2022 18:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.30(목) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/56/202206/27/unutmhapvluh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈사의찬미 - 10th Anniversary〉 1차​ 티켓오픈 안내 (티켓링크)]]></title>
