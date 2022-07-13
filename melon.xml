@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-07-13T00:34:55.343Z</updated>
+    <updated>2022-07-13T03:08:11.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신인류 단독 콘서트 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6296</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6296"/>
+        <updated>2022-07-13T03:04:31.644Z</updated>
+        <content type="html"><![CDATA[2022.07.15(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈웃는 남자〉 마지막 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6294</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6286"/>
         <updated>2022-07-08T05:15:51.264Z</updated>
         <content type="html"><![CDATA[2022.07.12(화) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 대구힙합페스티벌 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6285</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6285"/>
-        <updated>2022-07-08T03:03:38.653Z</updated>
-        <content type="html"><![CDATA[2022.07.13(수) 14:00]]></content>
     </entry>
 </feed>

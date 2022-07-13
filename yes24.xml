@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-07-13T00:34:55.344Z</updated>
+    <updated>2022-07-13T03:08:11.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[THE BOYZ WORLD TOUR : THE B-ZONE IN SEOUL ENCORE 온라인 공연 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11947</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11947"/>
+        <updated>2022-07-13T03:05:14.544Z</updated>
+        <content type="html"><![CDATA[2022.07.18(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [말리의 어제보다 특별한 오늘] 2차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11946</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11946"/>
+        <updated>2022-07-13T03:05:14.547Z</updated>
+        <content type="html"><![CDATA[2022.07.15(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11945</id>
@@ -128,18 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11927"/>
         <updated>2022-07-12T21:03:20.492Z</updated>
         <content type="html"><![CDATA[2022.07.11(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 하반기 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11924</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11924"/>
-        <updated>2022-07-12T21:03:20.494Z</updated>
-        <content type="html"><![CDATA[2022.07.11(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은행사 시스템 작업에 따른 결제 서비스 중단 안내(7/10, 7/17, 7/18, 7/24)]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11923</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11923"/>
-        <updated>2022-07-12T21:03:20.497Z</updated>
     </entry>
 </feed>
