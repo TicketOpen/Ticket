@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-07-14T00:37:50.058Z</updated>
+    <updated>2022-07-14T03:16:06.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ordinary Holiday ＃1 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6299</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6299"/>
+        <updated>2022-07-14T03:12:23.773Z</updated>
+        <content type="html"><![CDATA[2022.07.18(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태균（TAKEWON）단독 콘서트－상업예술 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6298</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6290"/>
         <updated>2022-07-09T09:02:25.883Z</updated>
         <content type="html"><![CDATA[2022.07.14(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박시환 팬미팅 겸 미니 콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6289</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6289"/>
-        <updated>2022-07-11T03:00:29.503Z</updated>
-        <content type="html"><![CDATA[2022.07.13(수) 12:00]]></content>
     </entry>
 </feed>
