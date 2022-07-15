@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-07-15T10:07:01.964Z</updated>
+    <updated>2022-07-15T11:06:24.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임용훈 DRUM RECITAL［BREAK THE FRAME］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6307</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6307"/>
+        <updated>2022-07-15T11:02:36.783Z</updated>
+        <content type="html"><![CDATA[2022.07.18(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 WONHO FAMMEETING［OHHOHO TRIP］티켓 재오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6306</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6298"/>
         <updated>2022-07-13T09:03:22.879Z</updated>
         <content type="html"><![CDATA[2022.07.20(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트랙제로 Alive－vol．1 숨은목소리 1편 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6297</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6297"/>
-        <updated>2022-07-13T08:08:45.488Z</updated>
-        <content type="html"><![CDATA[2022.07.14(목) 18:00]]></content>
     </entry>
 </feed>
