@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 03:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 04:56:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6295</guid>
             <pubDate>Wed, 13 Jul 2022 09:03:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.14(목) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박경소 가야금  티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43593&amp;groupno=43593&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43593&amp;groupno=43593&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 15 Jul 2022 04:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.19(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[“이서희x아티스트” 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[22.07.18(월)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[LG아트센터 서울 개관 페스티벌 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43574&amp;groupno=43574&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43574&amp;groupno=43574&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 14 Jul 2022 03:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.14(목)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[박경소 가야금 <SCAPE> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43593</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43593</guid>
+            <pubDate>Fri, 15 Jul 2022 04:53:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤직드라마 당신만이 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2022.07.22
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071315413565.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베이스바리톤 권서경 리사이틀 <Way Home> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43582</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43582</guid>
-            <pubDate>Thu, 14 Jul 2022 07:04:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.22
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220714060014.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 [더 테이블 The Table] 1차 티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -503,6 +503,14 @@
             <content:encoded><![CDATA[2022-07-14(목) 16:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2022 최현우 〈THE BRAIN〉 - 성남 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/908</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/908</guid>
+            <pubDate>Fri, 15 Jul 2022 04:54:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.18(월) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/35/202207/15/w1dmkze5lzbx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[마이크로 서울 2022 : NFT 사운드 페스타 얼리버드 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/907</link>
             <guid>https://ticket.wemakeprice.com/opennotice/907</guid>
@@ -573,14 +581,6 @@
             <pubDate>Mon, 11 Jul 2022 12:11:46 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.06(수) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/04/202207/05/p6rgktgoxaqh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 서울시뮤지컬단 뮤지컬 〈원더보이〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/898</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/898</guid>
-            <pubDate>Mon, 11 Jul 2022 12:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.06(수) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/35/202207/04/djbxs6kxkhfz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독판매] 2022 신한은행 Hey Young 카트라이더 리그 시즌2 티켓오픈 안내 (티켓링크)]]></title>
