@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 06:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 07:07:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6297</guid>
             <pubDate>Wed, 13 Jul 2022 08:08:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.14(목) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈포미니츠〉 마지막 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43600&amp;groupno=43600&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43600&amp;groupno=43600&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 15 Jul 2022 07:03:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.20(수)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <더 테이블 The Table> 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[22.07.22(금)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[베이스바리톤 권서경 리사이틀  티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43582&amp;groupno=43582&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43582&amp;groupno=43582&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 14 Jul 2022 07:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.22(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈포미니츠〉 마지막 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43600</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43600</guid>
+            <pubDate>Fri, 15 Jul 2022 07:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.20
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011956_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 <더 테이블 The Table> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -285,13 +294,11 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006501_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈더 와일드의 변론－거짓의 쇠락, 도리안 그레이의 초상〉 4차 티켓 오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43589</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43589</guid>
-            <pubDate>Fri, 15 Jul 2022 03:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.22
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006558_p.gif" length="0" type="image/gif"/>
+            <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 대구 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11960</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11960</guid>
+            <pubDate>Fri, 15 Jul 2022 07:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.18(월) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 [더 테이블 The Table] 1차 티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -426,11 +433,11 @@
             <content:encoded><![CDATA[2022.07.14(목) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11939</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11939</guid>
-            <pubDate>Fri, 15 Jul 2022 00:37:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.20(수) 12:00<a class="noti-btn-pop" presaletit1="아티스트 선예매" presaletit2="라이브네이션 선예매" presaletime1="2022.07.18(월) 12:00" presaletime2="2022.07.19(화) 12:00"><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
+            <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 대구 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11960&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11960&amp;order=1</guid>
+            <pubDate>Fri, 15 Jul 2022 07:04:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022-07-18(월) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 [더 테이블 The Table] 1차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -494,13 +501,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11950&amp;order=1</guid>
             <pubDate>Thu, 14 Jul 2022 03:13:19 GMT</pubDate>
             <content:encoded><![CDATA[2022-07-21(목) 12:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[체험 전시 〈다이노스 어라이브 제주〉 - Dinos Alive Jeju 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11949&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11949&amp;order=1</guid>
-            <pubDate>Thu, 14 Jul 2022 03:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022-07-14(목) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 최현우 〈THE BRAIN〉 - 성남 티켓오픈 안내 N (위메프 공연티켓)]]></title>
