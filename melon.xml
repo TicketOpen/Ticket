@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-07-15T00:40:37.703Z</updated>
+    <updated>2022-07-15T03:15:59.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하우스 오브 원더 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6305</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6305"/>
+        <updated>2022-07-15T03:13:12.270Z</updated>
+        <content type="html"><![CDATA[2022.07.18(월) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 울산서머페스티벌－쇼！음악중심 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6303</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6303"/>
+        <updated>2022-07-15T03:13:12.271Z</updated>
+        <content type="html"><![CDATA[2022.07.19(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Dawn 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6302</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6302"/>
+        <updated>2022-07-15T03:13:12.277Z</updated>
+        <content type="html"><![CDATA[2022.07.17(일) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지소쿠리 x 프랭클리：Nerd Party 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6301</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6301"/>
+        <updated>2022-07-15T03:13:12.277Z</updated>
+        <content type="html"><![CDATA[2022.07.18(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최고기 단독 콘서트：Time Machine 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6300</id>
@@ -46,33 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6295"/>
         <updated>2022-07-13T09:03:22.889Z</updated>
         <content type="html"><![CDATA[2022.07.14(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈웃는 남자〉 마지막 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6294</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6294"/>
-        <updated>2022-07-11T05:16:23.611Z</updated>
-        <content type="html"><![CDATA[2022.07.19(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 뮤직 앤 센트 콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6293</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6293"/>
-        <updated>2022-07-11T08:09:30.957Z</updated>
-        <content type="html"><![CDATA[2022.07.13(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[from．Kei 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6292</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6292"/>
-        <updated>2022-07-11T05:16:23.616Z</updated>
-        <content type="html"><![CDATA[2022.07.15(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flight0813：나상현씨밴드편 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6291</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6291"/>
-        <updated>2022-07-11T05:16:23.619Z</updated>
-        <content type="html"><![CDATA[2022.07.12(화) 20:00]]></content>
     </entry>
 </feed>
