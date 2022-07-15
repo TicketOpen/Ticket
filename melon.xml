@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-07-15T04:56:54.174Z</updated>
+    <updated>2022-07-15T05:39:04.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 WONHO FAMMEETING［OHHOHO TRIP］티켓 재오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6306</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6306"/>
+        <updated>2022-07-15T05:35:30.874Z</updated>
+        <content type="html"><![CDATA[2022.07.18(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하우스 오브 원더 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6305</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6305"/>
         <updated>2022-07-15T03:13:12.270Z</updated>
         <content type="html"><![CDATA[2022.07.18(월) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day one Sound Vol．1 〈류진〉 편 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6304</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6304"/>
+        <updated>2022-07-15T05:35:30.885Z</updated>
+        <content type="html"><![CDATA[2022.07.18(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 울산서머페스티벌－쇼！음악중심 티켓 오픈 안내]]></title>
@@ -59,20 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6297</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6297"/>
         <updated>2022-07-13T08:08:45.488Z</updated>
-        <content type="html"><![CDATA[2022.07.14(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신인류 단독 콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6296</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6296"/>
-        <updated>2022-07-13T03:04:31.644Z</updated>
-        <content type="html"><![CDATA[2022.07.15(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8월의 크리스마스 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6295</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6295"/>
-        <updated>2022-07-13T09:03:22.889Z</updated>
         <content type="html"><![CDATA[2022.07.14(목) 18:00]]></content>
     </entry>
 </feed>
