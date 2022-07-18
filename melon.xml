@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-07-18T10:07:47.449Z</updated>
+    <updated>2022-07-18T11:06:21.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프레젠트프로젝트 〈SING SANG SONG：87DANCE 단독 콘서트 ‘BPM87’〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6311</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6311"/>
+        <updated>2022-07-18T11:02:42.411Z</updated>
+        <content type="html"><![CDATA[2022.07.19(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[듀에토 Green Forest Concert 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6310</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6302"/>
         <updated>2022-07-15T03:13:12.277Z</updated>
         <content type="html"><![CDATA[2022.07.17(일) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지소쿠리 x 프랭클리：Nerd Party 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6301</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6301"/>
-        <updated>2022-07-15T03:13:12.277Z</updated>
-        <content type="html"><![CDATA[2022.07.18(월) 18:00]]></content>
     </entry>
 </feed>
