@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-07-18T08:12:35.774Z</updated>
+    <updated>2022-07-18T09:07:03.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11965"/>
         <updated>2022-07-18T07:03:11.621Z</updated>
         <content type="html"><![CDATA[2022.07.25(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 국민가수 박창근 전국투어 콘서트 - 서울 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11964</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11964"/>
+        <updated>2022-07-18T09:03:44.366Z</updated>
+        <content type="html"><![CDATA[2022.07.22(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 대전국제와인페스티벌 티켓오픈 안내]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11947"/>
         <updated>2022-07-18T07:03:11.674Z</updated>
         <content type="html"><![CDATA[2022.07.18(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [말리의 어제보다 특별한 오늘] 2차 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11946</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11946"/>
-        <updated>2022-07-18T07:03:11.675Z</updated>
-        <content type="html"><![CDATA[2022.07.15(금) 11:00]]></content>
     </entry>
 </feed>
