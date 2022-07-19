@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 03:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 05:00:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 리스트 국제 피아노 콩쿠르 위너 인 서울 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43628</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43628</guid>
+            <pubDate>Tue, 19 Jul 2022 04:57:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071313280427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LIVECONNECT STAGE with 집섬 X 승혜 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43627</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43627</guid>
+            <pubDate>Tue, 19 Jul 2022 04:57:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.20
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071415481523.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 이승환 당신이 원하는 바로 그 콘서트 무한앵콜 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43626</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.07.28
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071508474815.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <알사탕> - 천안 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43618</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43618</guid>
-            <pubDate>Tue, 19 Jul 2022 00:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.26
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071412011291.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동구문화체육센터 베이식X넉살X딥플로우 <Beyond the Hip hop Festa> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43616</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43616</guid>
-            <pubDate>Mon, 18 Jul 2022 09:03:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.22
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071417254008.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
