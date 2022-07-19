@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 20:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 21:09:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -598,13 +598,6 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2022.07.22(금) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 콘서트 오페라 〈카르멘〉- 광주 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54907</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54907</guid>
-            <pubDate>Tue, 19 Jul 2022 09:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.07.21(목) 04:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[클라우스 메켈레 & 파리 오케스트라​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/54906</link>
             <guid>http://www.ticketlink.co.kr/help/notice/54906</guid>
@@ -687,6 +680,13 @@
             <guid>http://www.ticketlink.co.kr/help/notice/54895</guid>
             <pubDate>Fri, 15 Jul 2022 03:14:42 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2022.07.15(금) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어린이마술콘서트 - 부산 (기장) 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54894</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54894</guid>
+            <pubDate>Tue, 19 Jul 2022 21:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.07.18(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 2022 구례 자연드림 락페스티벌​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
