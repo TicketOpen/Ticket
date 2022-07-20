@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-07-19T23:06:59.003Z</updated>
+    <updated>2022-07-20T00:30:36.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 고양 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54910</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54910"/>
+        <updated>2022-07-20T00:29:18.960Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.25(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 GSL 시즌2 결승전 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54909</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54895"/>
         <updated>2022-07-15T03:14:42.153Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.15(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이마술콘서트 - 부산 (기장) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54894</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54894"/>
-        <updated>2022-07-19T21:08:28.011Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.18(월) 01:00]]></content>
     </entry>
 </feed>
