@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-20T00:30:36.777Z</updated>
+    <updated>2022-07-20T03:07:17.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [패밀리 M의 병] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11974&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11974&amp;order=1"/>
+        <updated>2022-07-20T03:04:25.023Z</updated>
+        <content type="html"><![CDATA[2022-07-22(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강남문화재단 제147회 클래식품격콘서트 〈Great CONCERTO Series-H.Wieniawski & I.Stravinsky〉티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11973&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11965&amp;order=1"/>
         <updated>2022-07-18T05:22:37.879Z</updated>
         <content type="html"><![CDATA[2022-07-25(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 국민가수 박창근 전국투어 콘서트 - 서울 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11964&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11964&amp;order=1"/>
-        <updated>2022-07-18T09:03:58.301Z</updated>
-        <content type="html"><![CDATA[2022-07-22(금) 14:00]]></content>
     </entry>
 </feed>
