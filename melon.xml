@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-07-20T08:11:37.052Z</updated>
+    <updated>2022-07-20T09:07:26.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[IAMMONEY + BUSYNESS MANE + KING SOUTH G Showcase 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6316</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6316"/>
+        <updated>2022-07-20T09:03:43.336Z</updated>
+        <content type="html"><![CDATA[2022.07.21(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［김사월 단독 콘서트］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6315</id>
@@ -66,13 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6307</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6307"/>
         <updated>2022-07-15T11:02:36.783Z</updated>
-        <content type="html"><![CDATA[2022.07.18(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 WONHO FANMEETING［OHHOHO TRIP］티켓 재오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6306</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6306"/>
-        <updated>2022-07-15T05:35:30.874Z</updated>
         <content type="html"><![CDATA[2022.07.18(월) 20:00]]></content>
     </entry>
 </feed>
