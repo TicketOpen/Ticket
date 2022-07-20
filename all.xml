@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 07:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 08:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -282,7 +282,7 @@
             <pubDate>Wed, 20 Jul 2022 05:19:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.21
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062901450118.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011955_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 <패밀리 M의 병> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/37/202207/05/q85xzctfu4tk.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022 오르간 시리즈 II. 미셸 부바르 오르간 리사이틀​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/54917</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/54917</guid>
+            <pubDate>Wed, 20 Jul 2022 08:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.07.22(금) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[신비아파트 뮤지컬 시즌5 : 감염된도시의 비밀 - 여수 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/54916</link>
             <guid>http://www.ticketlink.co.kr/help/notice/54916</guid>
@@ -680,13 +687,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/54901</guid>
             <pubDate>Mon, 18 Jul 2022 13:37:40 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2022.07.20(수) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[도서관에 간 사자 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54900</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54900</guid>
-            <pubDate>Mon, 18 Jul 2022 13:37:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.07.20(수) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 2022 구례 자연드림 락페스티벌​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
