@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.wemakeprice.com/opennotice</id>
-    <title>위메프 공연티켓</title>
-    <updated>2022-07-24T15:06:35.769Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.wemakeprice.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>위메프 공연티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 24 Jul 2022 16:11:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[78AVENUE] 78LIVE - OurR(아월) 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/914</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/914</guid>
+            <pubDate>Sun, 24 Jul 2022 16:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.25(월) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/59/202207/22/zn5puqj7lb8v.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 부천 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/913</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/913</guid>
+            <pubDate>Sun, 24 Jul 2022 16:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.26(화) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/13/202207/22/bfflk8up8r1b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈살아있는 자를 수선하기〉 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/912</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/912</guid>
+            <pubDate>Sun, 24 Jul 2022 16:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.22(금) 11:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/55/202207/21/ahovtplxqepi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울페스타 2022 - 개막식 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/911</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/911</guid>
+            <pubDate>Sun, 24 Jul 2022 16:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.29(금) 12:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/42/202207/20/pmiy1dibigac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[78AVENUE] 78LIVE - 행로난 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/910</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/910</guid>
+            <pubDate>Sun, 24 Jul 2022 16:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.20(수) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/12/202207/18/m3wdvdy9y3ft.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈말리의 어제보다 특별한 오늘〉 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/909</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/909</guid>
+            <pubDate>Sun, 24 Jul 2022 16:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.19(화) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202207/15/wz4x8m6xioqw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 최현우 〈THE BRAIN〉 - 성남 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/908</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/908</guid>
+            <pubDate>Sun, 24 Jul 2022 16:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.18(월) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/35/202207/15/w1dmkze5lzbx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 조이올팍페스티벌 1차 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/906</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/906</guid>
+            <pubDate>Sun, 24 Jul 2022 16:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.15(금) 18:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/02/202207/13/ty7lt4tc40rr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 HANA BANK SEOUL E-PRIX - 2차 티켓오픈안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/905</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/905</guid>
+            <pubDate>Sun, 24 Jul 2022 16:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.12(화) 20:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/17/202207/12/21vzuekdmlhc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제18회 제천국제음악영화제 A TEMPO JIMFF FESTIVAL 티켓오픈 안내]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/904</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/904</guid>
+            <pubDate>Sun, 24 Jul 2022 16:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.14(목) 14:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/32/202207/11/6rggcxv7491c.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
