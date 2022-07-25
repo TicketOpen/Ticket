@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-07-25T04:41:02.314Z</updated>
+    <updated>2022-07-25T05:23:50.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Flight082728：off the menu 편 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6330</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6330"/>
+        <updated>2022-07-25T05:20:06.509Z</updated>
+        <content type="html"><![CDATA[2022.07.25(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카코포니 피아노 단독공연 〈숨의 여름〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6329</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6321"/>
         <updated>2022-07-22T11:03:12.549Z</updated>
         <content type="html"><![CDATA[2022.07.27(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장기하 단독 공연［공중부양］앵콜 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6320</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6320"/>
-        <updated>2022-07-22T11:03:12.553Z</updated>
-        <content type="html"><![CDATA[2022.07.26(화) 14:00]]></content>
     </entry>
 </feed>
