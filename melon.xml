@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-07-26T08:14:11.627Z</updated>
+    <updated>2022-07-26T09:07:46.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인플래닛 레이블 콘 2022 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6334</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6334"/>
+        <updated>2022-07-26T09:03:59.634Z</updated>
+        <content type="html"><![CDATA[2022.08.01(월) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현대카드 Curated 78 Israel Jazz Night 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6333</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6333"/>
+        <updated>2022-07-26T09:03:59.636Z</updated>
+        <content type="html"><![CDATA[2022.07.27(수) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[키라라：그냥하는 단독공연 시즌 2－3 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6332</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6325"/>
         <updated>2022-07-22T11:03:12.506Z</updated>
         <content type="html"><![CDATA[2022.07.25(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대카드 Curated 77 너드커넥션 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6324</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6324"/>
-        <updated>2022-07-22T11:03:12.530Z</updated>
-        <content type="html"><![CDATA[2022.07.25(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배영경 단독공연｜푸른 너 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6323</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6323"/>
-        <updated>2022-07-22T11:03:12.538Z</updated>
-        <content type="html"><![CDATA[2022.07.26(화) 14:00]]></content>
     </entry>
 </feed>
