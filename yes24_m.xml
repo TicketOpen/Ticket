@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-07-26T05:02:03.153Z</updated>
+    <updated>2022-07-26T05:39:35.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [삼총사] 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11991&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11991&amp;order=1"/>
+        <updated>2022-07-26T05:36:41.384Z</updated>
+        <content type="html"><![CDATA[2022-08-02(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [미아 파밀리아] 마지막 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11990&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11982&amp;order=1"/>
         <updated>2022-07-22T06:09:03.356Z</updated>
         <content type="html"><![CDATA[2022-07-27(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케이팝 뮤직쇼 청춘스타 TOP7 콘서트 - 부산 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11981&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11981&amp;order=1"/>
-        <updated>2022-07-22T05:19:56.875Z</updated>
-        <content type="html"><![CDATA[2022-07-28(목) 16:00]]></content>
     </entry>
 </feed>
