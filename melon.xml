@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-07-28T10:09:23.914Z</updated>
+    <updated>2022-07-28T11:05:49.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프레젠트프로젝트 〈이제 단독 콘서트 ‘바다로’〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6341</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6341"/>
+        <updated>2022-07-28T11:02:13.451Z</updated>
+        <content type="html"><![CDATA[2022.08.03(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송예빈 첫 번째 팬미팅：우리라는 이야기의 첫 페이지 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6340</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6332"/>
         <updated>2022-07-26T03:21:53.503Z</updated>
         <content type="html"><![CDATA[2022.07.29(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동행 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6331</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6331"/>
-        <updated>2022-07-25T09:03:50.189Z</updated>
-        <content type="html"><![CDATA[2022.07.25(월) 18:00]]></content>
     </entry>
 </feed>
