@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-07-28T03:04:28.409Z</updated>
+    <updated>2022-07-28T04:05:09.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송예빈 첫 번째 팬미팅：우리라는 이야기의 첫 페이지 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6340</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6340"/>
+        <updated>2022-07-28T04:01:29.831Z</updated>
+        <content type="html"><![CDATA[2022.08.01(월) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Poles 단독 콘서트：Goin’ High 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6339</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6339"/>
+        <updated>2022-07-28T04:01:29.844Z</updated>
+        <content type="html"><![CDATA[2022.08.04(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트랙제로 Alive－vol．2 숨은목소리 2편 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6338</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6331"/>
         <updated>2022-07-25T09:03:50.189Z</updated>
         <content type="html"><![CDATA[2022.07.25(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flight082728：off the menu 편 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6330</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6330"/>
-        <updated>2022-07-25T05:20:06.509Z</updated>
-        <content type="html"><![CDATA[2022.07.25(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카코포니 피아노 단독공연 〈숨의 여름〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6329</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6329"/>
-        <updated>2022-07-25T03:06:13.563Z</updated>
-        <content type="html"><![CDATA[2022.08.01(월) 12:00]]></content>
     </entry>
 </feed>
