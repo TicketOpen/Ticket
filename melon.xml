@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-07-29T00:36:21.457Z</updated>
+    <updated>2022-07-29T03:17:38.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[YB 단독 콘서트 ‘LIGHTS：BURNS’－Encore 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6342</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6342"/>
+        <updated>2022-07-29T03:13:59.395Z</updated>
+        <content type="html"><![CDATA[2022.08.03(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프레젠트프로젝트 〈이제 단독 콘서트 ‘바다로’〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6341</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6333"/>
         <updated>2022-07-26T09:03:59.636Z</updated>
         <content type="html"><![CDATA[2022.07.27(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키라라：그냥하는 단독공연 시즌 2－3 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6332</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6332"/>
-        <updated>2022-07-26T03:21:53.503Z</updated>
-        <content type="html"><![CDATA[2022.07.29(금) 18:00]]></content>
     </entry>
 </feed>
