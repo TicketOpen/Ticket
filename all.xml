@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 05:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 06:26:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6339</guid>
             <pubDate>Thu, 28 Jul 2022 04:01:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.04(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 렛츠락 페스티벌 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43773&amp;groupno=43773&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43773&amp;groupno=43773&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 01 Aug 2022 06:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.02(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[조항조＆진성 <앙상블콘서트> - 광주 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[22.08.09(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈싱어 러브 라이터〉 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43756&amp;groupno=43756&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43756&amp;groupno=43756&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 29 Jul 2022 03:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.28(목)&nbsp;11:00]]></content:encoded>
+            <title><![CDATA[2022 렛츠락 페스티벌 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43773</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43773</guid>
+            <pubDate>Mon, 01 Aug 2022 06:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.02
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009774_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[조항조＆진성 <앙상블콘서트> - 광주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2022.08.03
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007536_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈배니싱〉 프리뷰 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43761</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43761</guid>
-            <pubDate>Fri, 29 Jul 2022 06:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.02
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
