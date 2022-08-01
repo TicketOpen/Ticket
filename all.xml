@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 08:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 09:06:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072815570885.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[〈GAME ON! 게임음악콘서트〉 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12004</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12004</guid>
+            <pubDate>Mon, 01 Aug 2022 09:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.04(목) 14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12003</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12003</guid>
@@ -426,11 +433,11 @@
             <content:encoded><![CDATA[2022.07.28(목) 18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[케이팝 뮤직쇼 청춘스타 TOP7 콘서트 - 대구 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11983</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11983</guid>
-            <pubDate>Sun, 31 Jul 2022 03:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.28(목) 17:00]]></content:encoded>
+            <title><![CDATA[〈GAME ON! 게임음악콘서트〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12004&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12004&amp;order=1</guid>
+            <pubDate>Mon, 01 Aug 2022 09:04:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022-08-04(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘2022 LOVESOME - 보통의 언어들’ 2차 라인업 안내 (예스24 티켓 모바일)]]></title>
@@ -493,13 +500,6 @@
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11994&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11994&amp;order=1</guid>
             <pubDate>Wed, 27 Jul 2022 13:36:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2022 이승환밴드 ‘914특공대’ 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11993&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=11993&amp;order=1</guid>
-            <pubDate>Wed, 27 Jul 2022 03:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022-07-27(수) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 RESFFECT FESTIVAL 리스펙 페스티벌 공식 티켓오픈 안내 N (위메프 공연티켓)]]></title>
