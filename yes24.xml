@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-08-02T05:44:10.578Z</updated>
+    <updated>2022-08-02T06:14:31.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[always summer 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12006</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12006"/>
+        <updated>2022-08-02T06:11:34.077Z</updated>
+        <content type="html"><![CDATA[2022.08.08(월) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12005</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11986"/>
         <updated>2022-08-01T15:05:27.202Z</updated>
         <content type="html"><![CDATA[2022.08.04(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TUNE UP STAGE : Dear My Playlist 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11985</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=11985"/>
-        <updated>2022-08-01T15:05:27.206Z</updated>
-        <content type="html"><![CDATA[2022.07.26(화) 14:00]]></content>
     </entry>
 </feed>
