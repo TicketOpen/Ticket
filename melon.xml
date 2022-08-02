@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-08-02T03:28:08.975Z</updated>
+    <updated>2022-08-02T05:03:00.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈엘리자벳〉 10주년 기념공연 2차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6353</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6353"/>
+        <updated>2022-08-02T04:59:35.515Z</updated>
+        <content type="html"><![CDATA[2022.08.09(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[솔루션스＆라쿠나：Talks On Music＃12 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6350</id>
@@ -66,13 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6342</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6342"/>
         <updated>2022-07-29T03:13:59.395Z</updated>
-        <content type="html"><![CDATA[2022.08.03(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프레젠트프로젝트 〈이제 단독 콘서트 ‘바다로’〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6341</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6341"/>
-        <updated>2022-07-28T11:02:13.451Z</updated>
         <content type="html"><![CDATA[2022.08.03(수) 20:00]]></content>
     </entry>
 </feed>
