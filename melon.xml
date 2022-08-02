@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-08-02T10:06:55.305Z</updated>
+    <updated>2022-08-02T11:05:13.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6353"/>
         <updated>2022-08-02T04:59:35.515Z</updated>
         <content type="html"><![CDATA[2022.08.09(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[weplay Ep．2：김예지 편［Lively 온＆오프라인 병행 공연］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6351</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6351"/>
+        <updated>2022-08-02T11:02:33.758Z</updated>
+        <content type="html"><![CDATA[2022.08.05(금) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[솔루션스＆라쿠나：Talks On Music＃12 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6343"/>
         <updated>2022-07-29T05:21:12.296Z</updated>
         <content type="html"><![CDATA[2022.08.01(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YB 단독 콘서트 ‘LIGHTS：BURNS’－Encore 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6342</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6342"/>
-        <updated>2022-07-29T03:13:59.395Z</updated>
-        <content type="html"><![CDATA[2022.08.03(수) 20:00]]></content>
     </entry>
 </feed>
