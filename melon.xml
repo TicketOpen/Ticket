@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-08-03T04:55:23.167Z</updated>
+    <updated>2022-08-03T05:38:47.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 IU CONCERT 〈The Golden Hour：오렌지 태양 아래〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6360</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6360"/>
+        <updated>2022-08-03T05:35:22.823Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30：The Frost On Your Kids SHOWCASE 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6357</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6357"/>
+        <updated>2022-08-03T05:35:22.827Z</updated>
+        <content type="html"><![CDATA[2022.08.05(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 IN 라이브클럽［화노 단독 콘서트］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6356</id>
@@ -59,20 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6349</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6349"/>
         <updated>2022-08-02T03:24:32.540Z</updated>
-        <content type="html"><![CDATA[2022.08.03(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WONHO OFFICIAL FANCLUB 2ND ‘위니 WENEE’ 모집 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6348</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6348"/>
-        <updated>2022-08-01T05:04:26.630Z</updated>
-        <content type="html"><![CDATA[2022.08.03(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유태성 앨범 발매 공연［미켈란젤로］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6347</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6347"/>
-        <updated>2022-08-01T05:04:26.636Z</updated>
         <content type="html"><![CDATA[2022.08.03(수) 14:00]]></content>
     </entry>
 </feed>
