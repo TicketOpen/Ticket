@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-08-02T23:06:28.942Z</updated>
+    <updated>2022-08-03T00:39:00.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－인천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54985</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54985"/>
+        <updated>2022-08-03T00:37:43.947Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.08(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엘사의 생일파티 - 속초 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54984</id>
@@ -38,7 +45,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/54979</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54979"/>
         <updated>2022-08-02T07:04:09.437Z</updated>
-        <content type="html"><![CDATA[<td>스포츠</td><td class="tl p_reative"><a href="/help/notice/54979">‘최강야구’ 직관 데이 OPEN!</a></td><td>2022.08.02</td><td class="ff_tahoma fs11">3062</td>]]></content>
+        <content type="html"><![CDATA[<td>스포츠</td><td class="tl p_reative"><a href="/help/notice/54979">‘최강야구’ 직관 데이 OPEN!</a></td><td>2022.08.02</td><td class="ff_tahoma fs11">3345</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 여수​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54970"/>
         <updated>2022-07-29T16:06:03.044Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.09(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 강릉 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54969</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54969"/>
-        <updated>2022-07-29T16:06:03.045Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.10(수) 02:00]]></content>
     </entry>
 </feed>
