@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-08-04T00:39:38.966Z</updated>
+    <updated>2022-08-04T02:59:09.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴페스타 2022 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6365</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6365"/>
+        <updated>2022-08-04T02:55:45.377Z</updated>
+        <content type="html"><![CDATA[2022.08.09(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 IU CONCERT 〈The Golden Hour：오렌지 태양 아래〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6360</id>
@@ -66,13 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6352</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6352"/>
         <updated>2022-08-03T03:09:58.957Z</updated>
-        <content type="html"><![CDATA[2022.08.05(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[weplay Ep．2：김예지 편［Lively 온＆오프라인 병행 공연］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6351</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6351"/>
-        <updated>2022-08-02T11:02:33.758Z</updated>
         <content type="html"><![CDATA[2022.08.05(금) 20:00]]></content>
     </entry>
 </feed>
