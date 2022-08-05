@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 06:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 07:05:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -503,7 +503,7 @@
             <content:encoded><![CDATA[2022-08-09(화) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[78AVENUE] 78LIVE - 솔루션스 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <title><![CDATA[[78AVENUE] 78LIVE - 솔루션스 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/927</link>
             <guid>https://ticket.wemakeprice.com/opennotice/927</guid>
             <pubDate>Thu, 04 Aug 2022 09:04:46 GMT</pubDate>
@@ -511,7 +511,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/42/202208/04/rdmzfoopsrfi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울페스타 2022 - 개막식 2차 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <title><![CDATA[서울페스타 2022 - 개막식 2차 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/926</link>
             <guid>https://ticket.wemakeprice.com/opennotice/926</guid>
             <pubDate>Thu, 04 Aug 2022 07:04:25 GMT</pubDate>
@@ -583,6 +583,41 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/56/202207/27/oxdqtmeix2ei.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 2022 크랙샷 콘서트 〈 Wave Re:Turns 〉 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55005</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55005</guid>
+            <pubDate>Fri, 05 Aug 2022 07:04:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.08.10(수) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 롯데워터파크 풀파티​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55004</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55004</guid>
+            <pubDate>Fri, 05 Aug 2022 07:04:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.08.09(화) 07:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 2022 포항 음악제 메인공연 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55003</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55003</guid>
+            <pubDate>Fri, 05 Aug 2022 07:04:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.08.11(목) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독오픈] MBC 강변가요제 뉴챌린지 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55002</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55002</guid>
+            <pubDate>Fri, 05 Aug 2022 07:04:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.08.09(화) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[명앙상블 제4회 정기연주회 ​티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55001</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55001</guid>
+            <pubDate>Fri, 05 Aug 2022 07:04:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.08.05(금) 04:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[명품악극〈불효자는 웁니다〉 - 울산​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/55000</link>
             <guid>http://www.ticketlink.co.kr/help/notice/55000</guid>
@@ -651,41 +686,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/54991</guid>
             <pubDate>Wed, 03 Aug 2022 20:06:05 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2022.08.08(월) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[알라딘과 자스민공주 - 서울 강서  티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54990</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54990</guid>
-            <pubDate>Wed, 03 Aug 2022 20:06:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.08.08(월) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 잔다리페스타 2022​ 얼리버드 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54989</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54989</guid>
-            <pubDate>Wed, 03 Aug 2022 20:06:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.08.05(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 장윤정 라이브 콘서트 – 일산 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54988</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54988</guid>
-            <pubDate>Wed, 03 Aug 2022 04:54:06 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.08.08(월) 06:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어린이 뮤지컬 ‘제돌이의 꿈’ - 원주 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54987</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54987</guid>
-            <pubDate>Wed, 03 Aug 2022 03:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.08.05(금) 08:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[대구] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54986</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54986</guid>
-            <pubDate>Wed, 03 Aug 2022 03:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.08.05(금) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[명앙상블 제4회 정기연주회 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
