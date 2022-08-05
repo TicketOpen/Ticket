@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 14:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 15:06:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/56/202207/27/oxdqtmeix2ei.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬〈쓰릴 미〉 3차 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55006</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55006</guid>
+            <pubDate>Fri, 05 Aug 2022 15:05:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.08.11(목) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 2022 크랙샷 콘서트 〈 Wave Re:Turns 〉 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/55005</link>
             <guid>http://www.ticketlink.co.kr/help/notice/55005</guid>
@@ -679,13 +686,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/54992</guid>
             <pubDate>Wed, 03 Aug 2022 20:06:05 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2022.08.04(목) 06:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엘사의 생일파티 - 광주 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/54991</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/54991</guid>
-            <pubDate>Wed, 03 Aug 2022 20:06:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.08.08(월) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[명앙상블 제4회 정기연주회 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
