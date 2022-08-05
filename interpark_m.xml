@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 08:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 09:05:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <러브레터 LOVE LETTERS> 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43842</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43842</guid>
+            <pubDate>Fri, 05 Aug 2022 09:02:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.12
+                                    <span>13:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080515261035.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[육군 창작 뮤지컬 <블루헬멧 : 메이사의 노래> 온라인 라이브 스트리밍 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43841</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.08.08
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080216482661.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원더티켓 - 수호나무의 부활 (파주) 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43832</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43832</guid>
-            <pubDate>Fri, 05 Aug 2022 05:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.10
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080417273705.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
