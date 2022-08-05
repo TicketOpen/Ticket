@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 00:40:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 03:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 LEO 3rd CONCERT PIANO MAN Op.9 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43828</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43828</guid>
+            <pubDate>Fri, 05 Aug 2022 03:07:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.09
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010060_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[［서울도봉］싱어롱 콘서트 뮤지컬 ‘Live Show’ 〈무지개 물고기〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43827</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43827</guid>
+            <pubDate>Fri, 05 Aug 2022 03:07:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.05
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 <고고다이노 우리동네공룡> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43826</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43826</guid>
+            <pubDate>Fri, 05 Aug 2022 03:07:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.09
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080415560902.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <나는나비> 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43825</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.08.11
                                     <span>17:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080410444185.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈빈센트 리버〉 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43818</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43818</guid>
-            <pubDate>Thu, 04 Aug 2022 06:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.09
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007406_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[장사익소리판 '사람이 사람을 만나' 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43817</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43817</guid>
-            <pubDate>Thu, 04 Aug 2022 05:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.08
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220804020551.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 장윤정 라이브 콘서트 - 여수 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43816</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43816</guid>
-            <pubDate>Thu, 04 Aug 2022 05:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.11
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080410350255.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
