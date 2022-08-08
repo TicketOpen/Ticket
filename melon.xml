@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-08-08T00:31:36.552Z</updated>
+    <updated>2022-08-08T03:04:35.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우주돌！밀키웨이 in 우주라이브 콘서트 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6371</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6371"/>
+        <updated>2022-08-08T03:00:57.428Z</updated>
+        <content type="html"><![CDATA[2022.08.10(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＋82BLOCK CYPHER SEASON 1 CONCERT 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6370</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6362"/>
         <updated>2022-08-04T03:49:08.600Z</updated>
         <content type="html"><![CDATA[2022.08.12(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［크리스피 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6361</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6361"/>
-        <updated>2022-08-04T03:49:08.602Z</updated>
-        <content type="html"><![CDATA[2022.08.12(금) 19:00]]></content>
     </entry>
 </feed>
