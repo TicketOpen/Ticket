@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-08-09T03:07:25.533Z</updated>
+    <updated>2022-08-09T04:32:53.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6377"/>
         <updated>2022-08-08T09:03:18.773Z</updated>
         <content type="html"><![CDATA[2022.08.10(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유해인 X 이사라［YOU＆I］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6375</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6375"/>
+        <updated>2022-08-09T04:29:03.809Z</updated>
+        <content type="html"><![CDATA[2022.08.10(수) 12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이영훈 2022 단독공연 〈오늘의 안녕〉 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6367"/>
         <updated>2022-08-05T09:02:26.696Z</updated>
         <content type="html"><![CDATA[2022.08.12(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숲세권 라이브：전유동 단독 공연 “Platanus” 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6366</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6366"/>
-        <updated>2022-08-05T04:33:38.372Z</updated>
-        <content type="html"><![CDATA[2022.08.09(화) 20:00]]></content>
     </entry>
 </feed>
