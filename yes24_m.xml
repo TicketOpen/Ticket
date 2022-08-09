@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-09T00:39:47.495Z</updated>
+    <updated>2022-08-09T03:07:25.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉－광주 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12026&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12026&amp;order=1"/>
+        <updated>2022-08-09T03:04:39.467Z</updated>
+        <content type="html"><![CDATA[2022-08-10(수) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈안나, 차이코프스키〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12025&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12025&amp;order=1"/>
+        <updated>2022-08-09T03:04:39.476Z</updated>
+        <content type="html"><![CDATA[2022-08-10(수) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 전국투어 콘서트〈박창근〉- 대구 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12024&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12017&amp;order=1"/>
         <updated>2022-08-04T08:10:06.418Z</updated>
         <content type="html"><![CDATA[2022-08-11(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [빈센트 리버] 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12016&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12016&amp;order=1"/>
-        <updated>2022-08-04T06:08:51.729Z</updated>
-        <content type="html"><![CDATA[2022-08-09(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [클림트] 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12015&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12015&amp;order=1"/>
-        <updated>2022-08-04T05:23:56.567Z</updated>
-        <content type="html"><![CDATA[2022-08-08(월) 15:00]]></content>
     </entry>
 </feed>
