@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 12:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 13:39:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/56/202207/27/oxdqtmeix2ei.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[영앤리치 썸머 파티(Young&Rich Summer Party)​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55022</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55022</guid>
+            <pubDate>Tue, 09 Aug 2022 13:38:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.08.10(수) 07:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[어린이 뮤지컬 아기돼지삼형제(늑대숲또옹돼지원정대) 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/55021</link>
             <guid>http://www.ticketlink.co.kr/help/notice/55021</guid>
@@ -679,13 +686,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/55008</guid>
             <pubDate>Mon, 08 Aug 2022 03:58:18 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2022.08.10(수) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[오픈연기] 뮤지컬 〈킹키부츠〉 3차 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/55007</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/55007</guid>
-            <pubDate>Mon, 08 Aug 2022 03:58:18 GMT</pubDate>
-            <content:encoded><![CDATA[<td>변경/취소</td><td class="tl p_reative"><a href="/help/notice/55007">[오픈연기] 뮤지컬 〈킹키부츠〉 3차 티켓오픈 안내</a></td><td>2022.08.08</td><td class="ff_tahoma fs11">154</td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 마에스트로 정명훈 실내악 콘서트 - 경주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -791,14 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/54998</guid>
             <pubDate>Thu, 04 Aug 2022 14:05:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.09(화) 06:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국립심포니오케스트라 DR's Pick Ⅱ '수수께끼' (네이버 공연)]]></title>
-            <link>https://blog.naver.com/ksoblog/222794940632</link>
-            <guid>https://blog.naver.com/ksoblog/222794940632</guid>
-            <pubDate>Mon, 18 Jul 2022 11:06:19 GMT</pubDate>
-            <content:encoded><![CDATA[08월 09일(화) 19:30]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20220624_260/1656050513120QLMhY_JPEG/2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국립심포니오케스트라 실내악 시리즈 <브람스 판타지> (네이버 공연)]]></title>
