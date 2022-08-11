@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 07:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 08:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,7 +15,7 @@
             <content:encoded><![CDATA[2022.08.18(목) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NO BAND FESTA（노밴드，크래쉬，디아블로）티켓 오픈 안내 (멜론 티켓)]]></title>
+            <title><![CDATA[NO BAND FESTA（노밴드，크래쉬，디아블로，가리온）티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6382</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6382</guid>
             <pubDate>Thu, 11 Aug 2022 03:40:36 GMT</pubDate>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6374</guid>
             <pubDate>Mon, 08 Aug 2022 09:03:18 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.11(목) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 이적 소극장 콘서트 〈흔적〉 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43908&amp;groupno=43908&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43908&amp;groupno=43908&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 11 Aug 2022 08:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.16(화)&nbsp;17:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈급식왕 - 발가락 떡볶이의 비밀〉 - 창원 티켓오픈 안.. (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[22.08.12(금)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[As always, Summer like U 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43890&amp;groupno=43890&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43890&amp;groupno=43890&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 10 Aug 2022 02:31:19 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.12(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[2022 이적 소극장 콘서트 〈흔적〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43908</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43908</guid>
+            <pubDate>Thu, 11 Aug 2022 08:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.16
+                                    <span>17:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010465_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈급식왕 - 발가락 떡볶이의 비밀〉 - 창원 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2022.08.12
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010110_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[시를 노래하다 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43897</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43897</guid>
-            <pubDate>Wed, 10 Aug 2022 07:03:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.16
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 장윤정 라이브 콘서트 - 제주 티켓오픈안내 (예스24 티켓)]]></title>
@@ -809,6 +809,14 @@
             <pubDate>Wed, 27 Jul 2022 04:43:51 GMT</pubDate>
             <content:encoded><![CDATA[08월 15일(월) 20:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220727_217/1658896916050cy9Ei_JPEG/246X138_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[145회 아트엠콘서트 비올리스트 김세준 (네이버 공연)]]></title>
+            <link>https://blog.naver.com/artmplus/222828090496</link>
+            <guid>https://blog.naver.com/artmplus/222828090496</guid>
+            <pubDate>Thu, 11 Aug 2022 08:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[08월 18일(목) 19:30]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20220811_289/1660202459423GyMrL_PNG/1.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
             <title><![CDATA[후원
