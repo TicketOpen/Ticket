@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-08-11T05:11:00.988Z</updated>
+    <updated>2022-08-11T06:11:51.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -73,6 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6374</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6374"/>
         <updated>2022-08-08T09:03:18.774Z</updated>
-        <content type="html"><![CDATA[2022.08.11(목) 14:00]]></content>
+        <content type="html"><![CDATA[2022.08.11(목) 16:00]]></content>
     </entry>
 </feed>
