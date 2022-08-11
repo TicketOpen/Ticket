@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-08-11T02:52:20.722Z</updated>
+    <updated>2022-08-11T03:43:42.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［박소은 단독 콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6383</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6383"/>
+        <updated>2022-08-11T03:40:36.055Z</updated>
+        <content type="html"><![CDATA[2022.08.18(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NO BAND FESTA（노밴드，크래쉬，디아블로）티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6382</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6382"/>
+        <updated>2022-08-11T03:40:36.059Z</updated>
+        <content type="html"><![CDATA[2022.08.16(화) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트랙제로 Alive－vol．3 90년대생들 1편 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6381</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6381"/>
         <updated>2022-08-10T09:03:38.388Z</updated>
         <content type="html"><![CDATA[2022.08.11(목) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울차일드 첫 내한 〈slchld 1st show in Seoul〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6380</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6380"/>
+        <updated>2022-08-11T03:40:36.064Z</updated>
+        <content type="html"><![CDATA[2022.08.18(목) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TONE STUDIO LIVE 〈송예린〉 티켓 오픈 안내]]></title>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6374"/>
         <updated>2022-08-08T09:03:18.774Z</updated>
         <content type="html"><![CDATA[2022.08.11(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[把酒問月（파주문월）with cott 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6373</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6373"/>
-        <updated>2022-08-08T05:14:00.606Z</updated>
-        <content type="html"><![CDATA[2022.08.11(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생각의 여름 4집 〈손〉 발매공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6372</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6372"/>
-        <updated>2022-08-08T03:57:07.717Z</updated>
-        <content type="html"><![CDATA[2022.08.09(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주돌！밀키웨이 in 우주라이브 콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6371</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6371"/>
-        <updated>2022-08-08T03:00:57.428Z</updated>
-        <content type="html"><![CDATA[2022.08.10(수) 14:00]]></content>
     </entry>
 </feed>
