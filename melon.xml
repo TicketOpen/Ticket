@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-08-16T04:32:57.473Z</updated>
+    <updated>2022-08-16T05:16:33.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6391"/>
         <updated>2022-08-16T03:07:47.065Z</updated>
         <content type="html"><![CDATA[2022.08.23(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JAYCI YUCCA：THE LAST BOY’s CONCERT with DJ＆Band 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6390</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6390"/>
+        <updated>2022-08-16T05:12:53.751Z</updated>
+        <content type="html"><![CDATA[2022.08.19(금) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 MONSTA X 〈NO LIMIT〉 TOUR IN SEOUL 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6385"/>
         <updated>2022-08-12T05:09:21.816Z</updated>
         <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단지，룬이 오면 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6384</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6384"/>
-        <updated>2022-08-12T05:09:21.824Z</updated>
-        <content type="html"><![CDATA[2022.08.13(토) 14:00]]></content>
     </entry>
 </feed>
