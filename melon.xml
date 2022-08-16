@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-08-16T08:09:49.434Z</updated>
+    <updated>2022-08-16T09:07:56.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KIF 케이팝 아이돌 페스티벌 송도 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6395</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6395"/>
+        <updated>2022-08-16T09:04:16.457Z</updated>
+        <content type="html"><![CDATA[2022.08.19(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［BRAVISSIMO in ITALY：김호중 화보집＆특별 전시회］한정판 패키지 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6394</id>
@@ -66,13 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6386</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6386"/>
         <updated>2022-08-12T05:09:21.807Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 케이윌 전국투어［HERE AND NOW］－서울 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6385</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6385"/>
-        <updated>2022-08-12T05:09:21.816Z</updated>
         <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
     </entry>
 </feed>
