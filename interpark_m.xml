@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 00:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 03:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이머시브공연 <금란방>_창작가무극 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43945</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43945</guid>
+            <pubDate>Wed, 17 Aug 2022 03:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.02
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[콘서트 브랜디드 포커시드 VOL.2 <디어클라우드> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43944</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43944</guid>
+            <pubDate>Wed, 17 Aug 2022 03:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.19
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081215212750.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈러브레터〉 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43943</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43943</guid>
+            <pubDate>Wed, 17 Aug 2022 03:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010101_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[퀸 엘리자베스 콩쿨 위너스 콘서트 [The Final] 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43942</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.08.18
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010532_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[늦여름의 기차여행: September Train 2DM - 투 데이 올드 스니커즈, 문없는집, 모스크바서핑클럽 티켓오픈]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43934</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43934</guid>
-            <pubDate>Tue, 16 Aug 2022 06:05:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.17
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081117124436.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김호중 展 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=916</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=916</guid>
-            <pubDate>Tue, 16 Aug 2022 05:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.19
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제34회 춘천인형극제 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43933</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43933</guid>
-            <pubDate>Tue, 16 Aug 2022 05:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.19
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081012133981.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
