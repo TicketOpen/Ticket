@@ -4,16 +4,25 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 07:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 08:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈배니싱〉 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43955</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43955</guid>
+            <pubDate>Wed, 17 Aug 2022 08:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009711_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈V 에버 애프터〉 마지막 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43954</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43954</guid>
             <pubDate>Wed, 17 Aug 2022 07:03:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.19
-                                    <span>14:00</span>]]></content:encoded>
+                                    <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007433_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
@@ -24,15 +33,6 @@
             <content:encoded><![CDATA[2022.08.18
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008657_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈배니싱〉 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43952</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43952</guid>
-            <pubDate>Wed, 17 Aug 2022 07:03:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.19
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009711_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈미아 파밀리아〉 추가티켓오픈 안내]]></title>
