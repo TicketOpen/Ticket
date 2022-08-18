@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 09:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 10:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,7 +85,7 @@
             <content:encoded><![CDATA[22.08.23(화)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 이종석 팬미팅 IN SEOUL  티켓오픈 안내 (인터파크 티켓)]]></title>
+            <title><![CDATA[2022 이종석 팬미팅 IN SEOUL 〈RE, JONG SUK〉 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43978&amp;groupno=43978&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43978&amp;groupno=43978&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 18 Aug 2022 09:03:26 GMT</pubDate>
@@ -213,7 +213,7 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 이종석 팬미팅 IN SEOUL <RE, JONG SUK> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <title><![CDATA[2022 이종석 팬미팅 IN SEOUL 〈RE, JONG SUK〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43978</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43978</guid>
             <pubDate>Thu, 18 Aug 2022 09:03:40 GMT</pubDate>
@@ -504,6 +504,14 @@
             <content:encoded><![CDATA[2022-09-02(금) 11:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[울트라 코리아 2022 어드밴스 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/940</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/940</guid>
+            <pubDate>Thu, 18 Aug 2022 10:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.19(금) 11:30]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/28/202208/18/1zcr2jmsit3a.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[레인보우 페스티벌 캠핑권 추가 오픈 안내 N (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/939</link>
             <guid>https://ticket.wemakeprice.com/opennotice/939</guid>
@@ -574,14 +582,6 @@
             <pubDate>Tue, 16 Aug 2022 12:13:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.23(화) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202208/11/jlo612b0sfwa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 안산 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/929</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/929</guid>
-            <pubDate>Tue, 16 Aug 2022 12:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.12(금) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/25/202208/10/t8nr0dfhrx8t.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 조이올팍페스티벌 티켓오픈 안내 (티켓링크)]]></title>
