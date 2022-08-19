@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-08-19T07:08:51.235Z</updated>
+    <updated>2022-08-19T08:11:55.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이희문 쏭폼스토리즈 ‘강남오아시스’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6405</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6405"/>
+        <updated>2022-08-19T08:08:21.514Z</updated>
+        <content type="html"><![CDATA[2022.08.25(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백지웅 단독 콘서트：백그림 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6400</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6391"/>
         <updated>2022-08-16T03:07:47.065Z</updated>
         <content type="html"><![CDATA[2022.08.23(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JAYCI YUCCA：THE LAST BOY’s CONCERT with DJ＆Band 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6390</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6390"/>
-        <updated>2022-08-16T05:12:53.751Z</updated>
-        <content type="html"><![CDATA[2022.08.19(금) 18:00]]></content>
     </entry>
 </feed>
