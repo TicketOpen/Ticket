@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-08-22T03:18:01.783Z</updated>
+    <updated>2022-08-22T05:03:56.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6404"/>
         <updated>2022-08-22T03:14:34.399Z</updated>
         <content type="html"><![CDATA[2022.08.29(월) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[숲세권 라이브：조소정 단독 공연 “Lily of the valley” 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6402</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6402"/>
+        <updated>2022-08-22T04:59:44.639Z</updated>
+        <content type="html"><![CDATA[2022.08.29(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BULGOGIDISCO 단독공연［사실은 난 말야］티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6396"/>
         <updated>2022-08-17T03:19:10.440Z</updated>
         <content type="html"><![CDATA[2022.08.24(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KIF 케이팝 아이돌 페스티벌 송도 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6395</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6395"/>
-        <updated>2022-08-16T09:04:16.457Z</updated>
-        <content type="html"><![CDATA[2022.08.19(금) 18:00]]></content>
     </entry>
 </feed>
