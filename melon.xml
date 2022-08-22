@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-08-22T05:03:56.029Z</updated>
+    <updated>2022-08-22T05:44:36.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6407"/>
         <updated>2022-08-22T03:14:34.396Z</updated>
         <content type="html"><![CDATA[2022.08.30(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US EARTH FESTIVAL ESG festival 2022（어스어스 페스티벌）티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6406</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6406"/>
+        <updated>2022-08-22T05:40:47.188Z</updated>
+        <content type="html"><![CDATA[2022.08.24(수) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이희문 쏭폼스토리즈 ‘강남오아시스’ 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6397"/>
         <updated>2022-08-17T03:19:10.440Z</updated>
         <content type="html"><![CDATA[2022.08.19(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［팔칠댄스 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6396</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6396"/>
-        <updated>2022-08-17T03:19:10.440Z</updated>
-        <content type="html"><![CDATA[2022.08.24(수) 20:00]]></content>
     </entry>
 </feed>
