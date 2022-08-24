@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-24T00:38:42.659Z</updated>
+    <updated>2022-08-24T03:28:22.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [인질극 X] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12075&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12075&amp;order=1"/>
+        <updated>2022-08-24T03:25:36.661Z</updated>
+        <content type="html"><![CDATA[2022-08-26(금) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[almost monday LIVE IN SEOUL 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12074&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12074&amp;order=1"/>
+        <updated>2022-08-24T03:25:36.664Z</updated>
+        <content type="html"><![CDATA[2022-08-31(수) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [오만과 편견] 2차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12073&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12065&amp;order=1"/>
         <updated>2022-08-19T08:09:10.617Z</updated>
         <content type="html"><![CDATA[2022-08-25(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [서편제] 3차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12064&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12064&amp;order=1"/>
-        <updated>2022-08-19T08:09:10.624Z</updated>
-        <content type="html"><![CDATA[2022-08-24(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘2022 LOVESOME - 보통의 언어들’ 최종 라인업 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12061&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12061&amp;order=1"/>
-        <updated>2022-08-19T05:20:04.494Z</updated>
-        <content type="html"><![CDATA[2022-08-19(금) 14:00]]></content>
     </entry>
 </feed>
