@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 06:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 07:07:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ 2022 Theatre 이문세 ] - 제주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44046</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44046</guid>
+            <pubDate>Wed, 24 Aug 2022 07:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.01
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220824035818.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김혁 색소폰 콘서트 2022: 재즈 읽어주는 남자 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44045</link>
@@ -41,7 +50,7 @@
             <pubDate>Wed, 24 Aug 2022 05:04:37 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.26
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220824020403.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010276_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[윤짱과 황지니의 첫번째 팬미팅 ‘ 가야 한다면’ 티켓오픈 안내]]></title>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.09.01
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082318013194.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김용준 단독콘서트 〈처음〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44036</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44036</guid>
-            <pubDate>Wed, 24 Aug 2022 03:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.01
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220824100151.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
