@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 07:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 08:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=43927&amp;groupno=43927&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 24 Aug 2022 22:03:33 GMT</pubDate>
             <content:encoded><![CDATA[22.08.31(수)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈어차피 혼자〉 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44059&amp;groupno=44059&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44059&amp;groupno=44059&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 25 Aug 2022 08:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.30(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <그녀를 용서할 수 있을까> 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -204,11 +211,13 @@
             <content:encoded><![CDATA[22.08.26(금)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 〈82년생 김지영〉 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44040&amp;groupno=44040&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44040&amp;groupno=44040&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 24 Aug 2022 22:03:33 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.30(화)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈어차피 혼자〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44059</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44059</guid>
+            <pubDate>Thu, 25 Aug 2022 08:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.30
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008345_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 <그녀를 용서할 수 있을까> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -292,15 +301,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011256_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[어린이라이브뮤지컬 '사운드 오브 뮤직'-목동 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44047</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44047</guid>
-            <pubDate>Wed, 24 Aug 2022 22:03:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.26
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011156_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[연극 [그녀를 용서할 수 있을까] 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12085</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12085</guid>
@@ -313,6 +313,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12084</guid>
             <pubDate>Thu, 25 Aug 2022 06:23:03 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.26(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[RE:FOLK RE:PLAY] 공연 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12083</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12083</guid>
+            <pubDate>Thu, 25 Aug 2022 08:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.29(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[원더티켓 - 수호나무의 부활 (파주) 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -434,13 +441,6 @@
             <content:encoded><![CDATA[2022.08.25(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [서편제] 3차 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12064</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12064</guid>
-            <pubDate>Wed, 24 Aug 2022 12:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.24(수) 12:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[연극 [그녀를 용서할 수 있을까] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12085&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12085&amp;order=1</guid>
@@ -453,6 +453,13 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12084&amp;order=1</guid>
             <pubDate>Thu, 25 Aug 2022 06:23:17 GMT</pubDate>
             <content:encoded><![CDATA[2022-08-26(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[RE:FOLK RE:PLAY] 공연 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12083&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12083&amp;order=1</guid>
+            <pubDate>Thu, 25 Aug 2022 08:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022-08-29(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[원더티켓 - 수호나무의 부활 (파주) 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -502,13 +509,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12076&amp;order=1</guid>
             <pubDate>Wed, 24 Aug 2022 05:05:01 GMT</pubDate>
             <content:encoded><![CDATA[2022-08-26(금) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 [인질극 X] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12075&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12075&amp;order=1</guid>
-            <pubDate>Wed, 24 Aug 2022 03:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022-08-26(금) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[STRIKE MUSIC FESTIVAL 2022 티켓오픈 안내 N (위메프 공연티켓)]]></title>
