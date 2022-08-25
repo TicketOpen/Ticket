@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-08-25T06:26:11.111Z</updated>
+    <updated>2022-08-25T07:17:25.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈어차피 혼자〉 2차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6417</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6417"/>
+        <updated>2022-08-25T07:13:46.255Z</updated>
+        <content type="html"><![CDATA[2022.08.30(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flight092324：Crackshot편 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6416</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6408"/>
         <updated>2022-08-23T10:04:44.037Z</updated>
         <content type="html"><![CDATA[2022.08.30(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈엘리자벳〉 10주년 기념공연 3차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6407</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6407"/>
-        <updated>2022-08-22T03:14:34.396Z</updated>
-        <content type="html"><![CDATA[2022.08.30(화) 14:00]]></content>
     </entry>
 </feed>
