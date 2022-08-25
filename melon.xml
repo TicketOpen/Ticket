@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-08-25T03:29:29.950Z</updated>
+    <updated>2022-08-25T05:13:17.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Flight092324：Crackshot편 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6416</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6416"/>
+        <updated>2022-08-25T05:10:36.071Z</updated>
+        <content type="html"><![CDATA[2022.08.31(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JAYCI YUCCA：THE LAST BOY’s CONCERT with DJ＆Band 추가 회차 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6415</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6415"/>
+        <updated>2022-08-25T05:10:36.090Z</updated>
+        <content type="html"><![CDATA[2022.08.31(수) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌5［크리스탈 티 단독 콘서트 ‘Neverland’］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6414</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6407"/>
         <updated>2022-08-22T03:14:34.396Z</updated>
         <content type="html"><![CDATA[2022.08.30(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US EARTH FESTIVAL ESG festival 2022（어스어스 페스티벌）티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6406</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6406"/>
-        <updated>2022-08-22T05:40:47.188Z</updated>
-        <content type="html"><![CDATA[2022.08.24(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이희문 쏭폼스토리즈 ‘강남오아시스’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6405</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6405"/>
-        <updated>2022-08-19T08:08:21.514Z</updated>
-        <content type="html"><![CDATA[2022.08.25(목) 14:00]]></content>
     </entry>
 </feed>

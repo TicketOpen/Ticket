@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-08-25T03:29:29.924Z</updated>
+    <updated>2022-08-25T05:13:17.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이은결의 더 일루션 - 마스터피스 - 천안 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55113</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55113"/>
+        <updated>2022-08-25T05:13:06.150Z</updated>
+        <content type="html"><![CDATA[2022.08.26(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘도 딴딴 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55112</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55099"/>
         <updated>2022-08-23T15:07:23.633Z</updated>
         <content type="html"><![CDATA[2022.08.25(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2022 최현우 〈THE BRAIN〉 - 여수​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55098</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55098"/>
-        <updated>2022-08-23T15:07:23.650Z</updated>
-        <content type="html"><![CDATA[2022.08.26(금) 02:00]]></content>
     </entry>
 </feed>
