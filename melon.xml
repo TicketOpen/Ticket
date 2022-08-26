@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-08-26T03:36:15.660Z</updated>
+    <updated>2022-08-26T05:20:53.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,27 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6421"/>
         <updated>2022-08-26T03:32:32.040Z</updated>
         <content type="html"><![CDATA[2022.08.31(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 IU CONCERT 〈The Golden Hour：오렌지 태양 아래〉 추가 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6420</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6420"/>
+        <updated>2022-08-26T05:17:18.753Z</updated>
+        <content type="html"><![CDATA[2022.08.30(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1st 발라드 페스티벌，발라당 2022 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6419</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6419"/>
+        <updated>2022-08-26T05:17:18.757Z</updated>
+        <content type="html"><![CDATA[2022.08.31(수) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 웰컴 대학로－웰컴 씨어터 뮤지컬 〈전설의 리틀 농구단〉－플레이오프 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6418</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6418"/>
+        <updated>2022-08-26T05:17:18.763Z</updated>
+        <content type="html"><![CDATA[2022.08.29(월) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈어차피 혼자〉 2차 티켓 오픈 안내]]></title>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6412"/>
         <updated>2022-08-24T05:04:13.078Z</updated>
         <content type="html"><![CDATA[2022.08.25(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[울트라 코리아 2022－어드밴스 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6411</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6411"/>
-        <updated>2022-08-24T03:24:35.628Z</updated>
-        <content type="html"><![CDATA[2022.08.24(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌5 순간의 노래［신인류 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6410</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6410"/>
-        <updated>2022-08-24T03:24:35.634Z</updated>
-        <content type="html"><![CDATA[2022.08.31(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안병웅 단독 콘서트 ‘Sittin in a Saucer’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6409</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6409"/>
-        <updated>2022-08-24T03:24:35.635Z</updated>
-        <content type="html"><![CDATA[2022.08.31(수) 20:00]]></content>
     </entry>
 </feed>
