@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-08-26T00:37:38.503Z</updated>
+    <updated>2022-08-26T03:36:15.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이은결 [더 일루션 - 마스터피스] - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12087&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12087&amp;order=1"/>
+        <updated>2022-08-26T03:33:31.483Z</updated>
+        <content type="html"><![CDATA[2022-08-31(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12086&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12086&amp;order=1"/>
+        <updated>2022-08-26T03:33:31.486Z</updated>
+        <content type="html"><![CDATA[2022-09-02(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [그녀를 용서할 수 있을까] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12085&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12078&amp;order=1"/>
         <updated>2022-08-24T05:05:01.567Z</updated>
         <content type="html"><![CDATA[2022-08-30(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 조항조&진성 [앙상블콘서트] - 천안 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12077&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12077&amp;order=1"/>
-        <updated>2022-08-24T05:05:01.571Z</updated>
-        <content type="html"><![CDATA[2022-08-26(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 조항조&진성 [앙상블콘서트] - 전주 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12076&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12076&amp;order=1"/>
-        <updated>2022-08-24T05:05:01.576Z</updated>
-        <content type="html"><![CDATA[2022-08-26(금) 14:00]]></content>
     </entry>
 </feed>

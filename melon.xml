@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-08-26T00:37:38.495Z</updated>
+    <updated>2022-08-26T03:36:15.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이은결［더 일루션－마스터피스］－부산 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6421</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6421"/>
+        <updated>2022-08-26T03:32:32.040Z</updated>
+        <content type="html"><![CDATA[2022.08.31(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈어차피 혼자〉 2차 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6417</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6409"/>
         <updated>2022-08-24T03:24:35.635Z</updated>
         <content type="html"><![CDATA[2022.08.31(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TONE STUDIO LIVE 〈OurR〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6408</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6408"/>
-        <updated>2022-08-23T10:04:44.037Z</updated>
-        <content type="html"><![CDATA[2022.08.30(화) 20:00]]></content>
     </entry>
 </feed>
