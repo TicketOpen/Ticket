@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-08-28T23:07:05.297Z</updated>
+    <updated>2022-08-29T00:39:55.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ROLLING PROJECT：CMYK #2［Hwanho & Creespy & OFF．E］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6423</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6423"/>
+        <updated>2022-08-29T00:37:10.267Z</updated>
+        <content type="html"><![CDATA[2022.09.05(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이은결［더 일루션－마스터피스］－부산 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6421</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6413"/>
         <updated>2022-08-25T03:25:41.393Z</updated>
         <content type="html"><![CDATA[2022.08.25(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WONHO OFFICIAL FANCLUB 2ND ‘위니 WENEE’ 추가모집 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6412</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6412"/>
-        <updated>2022-08-24T05:04:13.078Z</updated>
-        <content type="html"><![CDATA[2022.08.25(목) 14:00]]></content>
     </entry>
 </feed>
