@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 18:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 19:07:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/02/202208/19/97axksseefrx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극〈빈센트 리버〉 4차 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55166</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55166</guid>
+            <pubDate>Wed, 31 Aug 2022 19:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.09.06(화) 06:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2022 어린이뮤지컬 〈미녀와 야수〉 - 대구​​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/55165</link>
             <guid>http://www.ticketlink.co.kr/help/notice/55165</guid>
@@ -680,13 +687,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/55152</guid>
             <pubDate>Wed, 31 Aug 2022 05:23:30 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2022.09.05(월) 06:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈킹키부츠〉 마지막 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/55151</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/55151</guid>
-            <pubDate>Wed, 31 Aug 2022 05:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.09.06(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극〈빈센트 리버〉 4차 티켓오픈 안내 (티켓링크 모바일)]]></title>
