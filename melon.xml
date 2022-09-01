@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-09-01T08:12:26.260Z</updated>
+    <updated>2022-09-01T09:11:31.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 MONSTA X 〈NO LIMIT〉 TOUR IN SEOUL 추가 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6435</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6435"/>
+        <updated>2022-09-01T09:07:57.372Z</updated>
+        <content type="html"><![CDATA[2022.09.02(금) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈도도어스 정규 앨범 발매 쇼케이스〉 멸종의 기원]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6432</id>
@@ -34,6 +41,13 @@
         <content type="html"><![CDATA[2022.09.02(금) 12:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2022 DAVII CONCERT：GENEZIS3 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6428</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6428"/>
+        <updated>2022-09-01T09:07:57.420Z</updated>
+        <content type="html"><![CDATA[2022.09.02(금) 20:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MADDYXP 앨범발매 단독콘서트［BARIDEGI］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6427</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6427"/>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6424"/>
         <updated>2022-08-29T05:19:03.877Z</updated>
         <content type="html"><![CDATA[2022.08.31(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLING PROJECT：CMYK #2［Hwanho & Creespy & OFF．E］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6423</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6423"/>
-        <updated>2022-08-29T00:37:10.267Z</updated>
-        <content type="html"><![CDATA[2022.09.05(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈With Mate〉 김영소＆김준서 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6422</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6422"/>
-        <updated>2022-08-29T05:19:03.906Z</updated>
-        <content type="html"><![CDATA[2022.09.02(금) 20:00]]></content>
     </entry>
 </feed>
