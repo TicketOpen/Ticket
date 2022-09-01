@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-09-01T06:22:53.771Z</updated>
+    <updated>2022-09-01T07:14:20.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[〈도도어스 정규 앨범 발매 쇼케이스〉 멸종의 기원]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6432</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6432"/>
+        <updated>2022-09-01T07:10:50.196Z</updated>
+        <content type="html"><![CDATA[2022.09.05(월) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［피엘 단독 콘서트］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6431</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6422"/>
         <updated>2022-08-29T05:19:03.906Z</updated>
         <content type="html"><![CDATA[2022.09.02(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이은결［더 일루션－마스터피스］－부산 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6421</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6421"/>
-        <updated>2022-08-26T03:32:32.040Z</updated>
-        <content type="html"><![CDATA[2022.08.31(수) 14:00]]></content>
     </entry>
 </feed>
