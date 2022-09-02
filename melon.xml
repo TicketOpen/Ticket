@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-09-02T06:35:57.568Z</updated>
+    <updated>2022-09-02T07:19:10.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 BEST LINE－UP CONCERT 1010 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6438</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6438"/>
+        <updated>2022-09-02T07:15:46.135Z</updated>
+        <content type="html"><![CDATA[2022.09.07(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 MONSTA X 〈NO LIMIT〉 TOUR IN SEOUL 시야제한석 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6435</id>
@@ -66,13 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6427</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6427"/>
         <updated>2022-08-30T03:34:32.407Z</updated>
-        <content type="html"><![CDATA[2022.09.02(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T．G．I．F2022（greenglowgrow）티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6426</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6426"/>
-        <updated>2022-08-29T09:05:37.568Z</updated>
         <content type="html"><![CDATA[2022.09.02(금) 18:00]]></content>
     </entry>
 </feed>
