@@ -4,7 +4,7 @@
         <title>네이버 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 00:36:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 03:33:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,15 @@
             <pubDate>Thu, 25 Aug 2022 03:29:29 GMT</pubDate>
             <content:encoded><![CDATA[09월 12일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220822_181/KF336_1661144817862B5JGx_JPEG/1661144817837.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											[후원전용] 뮤지컬 <여신님이 보고 계셔> 9월 19일 중계]]></title>
+            <link>https://tv.naver.com/l/114523</link>
+            <guid>https://tv.naver.com/l/114523</guid>
+            <pubDate>Fri, 02 Sep 2022 03:33:08 GMT</pubDate>
+            <content:encoded><![CDATA[09월 19일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_84/P5xIa_16614917573404ibi6_JPEG/1661491757289.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
@@ -71,21 +80,21 @@
         </item>
         <item>
             <title><![CDATA[후원
+											[후원전용] 뮤지컬 <여신님이 보고 계셔> 9월 26일 중계]]></title>
+            <link>https://tv.naver.com/l/114540</link>
+            <guid>https://tv.naver.com/l/114540</guid>
+            <pubDate>Fri, 02 Sep 2022 03:33:08 GMT</pubDate>
+            <content:encoded><![CDATA[09월 26일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_221/cr2r6_16614980680349KAIY_JPEG/1661498067987.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											오페라 <호프만의 이야기>]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
             <pubDate>Mon, 29 Aug 2022 15:09:53 GMT</pubDate>
             <content:encoded><![CDATA[10월 01일(토) 15:00]]></content:encoded>
             <enclosure url="https://g-grafolio.pstatic.net/20220727_166/1658889829366cgH2j_PNG/1.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <여신님이 보고 계셔> 10월 11일 중계]]></title>
-            <link>https://tv.naver.com/l/114542</link>
-            <guid>https://tv.naver.com/l/114542</guid>
-            <pubDate>Fri, 02 Sep 2022 00:36:21 GMT</pubDate>
-            <content:encoded><![CDATA[10월 11일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_232/G4lOV_1661498389621AedUn_JPEG/1661498389597.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
