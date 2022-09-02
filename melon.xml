@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-09-02T08:13:06.863Z</updated>
+    <updated>2022-09-02T09:07:56.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6438"/>
         <updated>2022-09-02T07:15:46.135Z</updated>
         <content type="html"><![CDATA[2022.09.07(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OST For Rest in 서울숲 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6437</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6437"/>
+        <updated>2022-09-02T09:04:09.829Z</updated>
+        <content type="html"><![CDATA[2022.09.05(월) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 MONSTA X 〈NO LIMIT〉 TOUR IN SEOUL 시야제한석 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6428"/>
         <updated>2022-09-01T09:07:57.420Z</updated>
         <content type="html"><![CDATA[2022.09.02(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MADDYXP 앨범발매 단독콘서트［BARIDEGI］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6427</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6427"/>
-        <updated>2022-08-30T03:34:32.407Z</updated>
-        <content type="html"><![CDATA[2022.09.02(금) 18:00]]></content>
     </entry>
 </feed>
