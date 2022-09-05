@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-09-05T00:43:17.121Z</updated>
+    <updated>2022-09-05T03:36:12.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6437"/>
         <updated>2022-09-02T09:04:09.829Z</updated>
         <content type="html"><![CDATA[2022.09.05(월) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위아더나잇 〈미래를 향해，피해，사랑해〉 LIVE 2022 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6436</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6436"/>
+        <updated>2022-09-05T03:33:09.030Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 MONSTA X 〈NO LIMIT〉 TOUR IN SEOUL 시야제한석 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6429"/>
         <updated>2022-08-31T03:46:54.628Z</updated>
         <content type="html"><![CDATA[2022.09.02(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 DAVII CONCERT：GENEZIS3 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6428</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6428"/>
-        <updated>2022-09-01T09:07:57.420Z</updated>
-        <content type="html"><![CDATA[2022.09.02(금) 20:00]]></content>
     </entry>
 </feed>
