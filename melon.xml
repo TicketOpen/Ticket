@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-09-06T06:51:45.971Z</updated>
+    <updated>2022-09-06T07:34:27.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정서주 1st 앨범 발매 기념 콘서트 〈꽃들에게〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6444</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6444"/>
+        <updated>2022-09-06T07:30:53.553Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 AWESOME MUSIC FESTIVAL（2022 어썸뮤직페스티벌）티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6443</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6435"/>
         <updated>2022-09-01T09:07:57.372Z</updated>
         <content type="html"><![CDATA[2022.09.02(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 상상유니브 집현전 Festival 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6434</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6434"/>
-        <updated>2022-09-02T06:32:13.263Z</updated>
-        <content type="html"><![CDATA[2022.09.02(금) 15:00]]></content>
     </entry>
 </feed>
