@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-09-06T03:43:37.717Z</updated>
+    <updated>2022-09-06T05:26:13.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6442"/>
         <updated>2022-09-06T03:39:55.032Z</updated>
         <content type="html"><![CDATA[2022.09.13(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 자이브 슈퍼라이브 페스티벌 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6441</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6441"/>
+        <updated>2022-09-06T05:22:27.952Z</updated>
+        <content type="html"><![CDATA[2022.09.08(목) 17:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[위수 단독 콘서트：afterimage 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6433"/>
         <updated>2022-09-01T10:05:32.544Z</updated>
         <content type="html"><![CDATA[2022.09.07(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈도도어스 정규 앨범 발매 쇼케이스〉 멸종의 기원]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6432</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6432"/>
-        <updated>2022-09-01T07:10:50.196Z</updated>
-        <content type="html"><![CDATA[2022.09.05(월) 12:00]]></content>
     </entry>
 </feed>
