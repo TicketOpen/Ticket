@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-09-06T05:26:13.291Z</updated>
+    <updated>2022-09-06T06:51:45.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 AWESOME MUSIC FESTIVAL（2022 어썸뮤직페스티벌）티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6443</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6443"/>
+        <updated>2022-09-06T06:47:57.114Z</updated>
+        <content type="html"><![CDATA[2022.09.08(목) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 카즈미 타테이시 트리오 내한공연－크리스마스，재즈를 만나다 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6442</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6434"/>
         <updated>2022-09-02T06:32:13.263Z</updated>
         <content type="html"><![CDATA[2022.09.02(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TONE STUDIO LIVE 〈초승〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6433</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6433"/>
-        <updated>2022-09-01T10:05:32.544Z</updated>
-        <content type="html"><![CDATA[2022.09.07(수) 20:00]]></content>
     </entry>
 </feed>
