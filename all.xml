@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 06:53:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 07:36:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6442</guid>
             <pubDate>Tue, 06 Sep 2022 03:39:55 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.13(화) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[추적 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44201&amp;groupno=44201&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44201&amp;groupno=44201&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 07 Sep 2022 07:34:18 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.15(목)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[포르테 디 콰트로 언플러그드 콘서트: 메타포닉 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[22.09.06(화)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[9월 시스템 정기점검 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44183&amp;groupno=44183&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44183&amp;groupno=44183&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 07 Sep 2022 00:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;]]></content:encoded>
+            <title><![CDATA[추적 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44201</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44201</guid>
+            <pubDate>Wed, 07 Sep 2022 07:34:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.15
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022090514181860.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포르테 디 콰트로 언플러그드 콘서트: 메타포닉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -285,154 +294,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011875_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <킹키부츠> - 대구 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44193</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44193</guid>
-            <pubDate>Wed, 07 Sep 2022 05:25:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.14
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220907125548.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈지저스 크라이스트 수퍼스타〉 첫 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12135</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12135</guid>
-            <pubDate>Wed, 07 Sep 2022 06:50:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.16(금) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 [언택트 커넥션] 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12134</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12134</guid>
-            <pubDate>Wed, 07 Sep 2022 06:50:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.13(화) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 [에쿠우스]  1차 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12133</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12133</guid>
-            <pubDate>Wed, 07 Sep 2022 06:50:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.16(금) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12132</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12132</guid>
-            <pubDate>Wed, 07 Sep 2022 06:50:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.13(화) 21:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[해리 포터와 아즈카반의 죄수™ 인 콘서트 - 발코니석 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12131</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12131</guid>
-            <pubDate>Wed, 07 Sep 2022 06:50:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.08(목) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[노을 20주년 전국투어 콘서트〈스물〉티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12130</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12130</guid>
-            <pubDate>Wed, 07 Sep 2022 06:50:13 GMT</pubDate>
-            <content:encoded><![CDATA[추후공지]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 카즈미 타테이시 트리오 내한공연-크리스마스, 재즈를 만나다- 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12129</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12129</guid>
-            <pubDate>Wed, 07 Sep 2022 06:50:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.13(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 키드 라로이 내한공연（The Kid LAROI Live in Seoul）티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12128</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12128</guid>
-            <pubDate>Wed, 07 Sep 2022 06:50:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.14(수) 12:00<a class="noti-btn-pop" presaletit1="라이브네이션 선예매" presaletit2="" presaletime1="2022.09.13(화) 12:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12127</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12127</guid>
-            <pubDate>Wed, 07 Sep 2022 06:50:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.29(목) 20:00<a class="noti-btn-pop" presaletit1="팬클럽선예매" presaletit2="" presaletime1="2022.09.27(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[싱어게인2 TOP6 전국투어 콘서트〈The Original〉- 부산 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12125</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12125</guid>
-            <pubDate>Wed, 07 Sep 2022 06:50:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.15(목) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[싱어게인2 TOP6 전국투어 콘서트〈The Original〉- 대구 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12124</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12124</guid>
-            <pubDate>Wed, 07 Sep 2022 06:50:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.15(목) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 ZeeNuNew FanMeeting in Seoul [PLAYGROUND] 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12123</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12123</guid>
-            <pubDate>Wed, 07 Sep 2022 06:50:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.08(목) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 웰컴 대학로-웰컴 씨어터 창작음악극 [가족음악극 이솝우화] 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12122</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12122</guid>
-            <pubDate>Wed, 07 Sep 2022 06:50:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.05(월) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[싱어게인2 TOP6 전국투어 콘서트〈The Original〉오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12121</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12121</guid>
-            <pubDate>Wed, 07 Sep 2022 06:50:13 GMT</pubDate>
-            <content:encoded><![CDATA[추후공지]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [쓰릴 미] 4차 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12120</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12120</guid>
-            <pubDate>Wed, 07 Sep 2022 06:50:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.08(목) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(9/3, 9/4, 9/11, 9/17, 9/19) (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12119</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12119</guid>
-            <pubDate>Wed, 07 Sep 2022 06:50:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12118</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12118</guid>
-            <pubDate>Wed, 07 Sep 2022 06:50:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.05(월) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12117</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12117</guid>
-            <pubDate>Wed, 07 Sep 2022 06:50:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.14(수) 20:00<a class="noti-btn-pop" presaletit1="팬클럽선예매" presaletit2="" presaletime1="2022.09.13(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사라 브라이트만 내한공연（Sarah Brightman）티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12116</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12116</guid>
-            <pubDate>Wed, 07 Sep 2022 06:50:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.16(금) 12:00<a class="noti-btn-pop" presaletit1="라이브네이션 선예매" presaletit2="" presaletime1="2022.09.15(목) 12:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12115</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12115</guid>
-            <pubDate>Wed, 07 Sep 2022 06:50:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.08(목) 12:00<a class="noti-btn-pop" presaletit1="라이브네이션 선예매" presaletit2="" presaletime1="2022.09.07(수) 12:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈지저스 크라이스트 수퍼스타〉 첫 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12135&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12135&amp;order=1</guid>
@@ -503,6 +364,76 @@
             <content:encoded><![CDATA[2022-09-15(목) 15:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[ASMR MUSIC CONCERT "여행어때요?" - 원주 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55203</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55203</guid>
+            <pubDate>Wed, 07 Sep 2022 07:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.09.15(목) 08:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 是:시 박시연트리오 앨범 발매 기념 콘서트 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55202</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55202</guid>
+            <pubDate>Wed, 07 Sep 2022 07:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.09.13(화) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​가족뮤지컬 〈고고다이노 우리동네공룡〉 - 원주 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55201</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55201</guid>
+            <pubDate>Wed, 07 Sep 2022 07:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.09.14(수) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(사)남자의자격 청춘합창단 창단 10주년 및 제 5회 정기연주회 MEMORY & CHALLENGE​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55200</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55200</guid>
+            <pubDate>Wed, 07 Sep 2022 07:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.09.08(목) 07:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈​미세스 다웃파이어〉​ 마지막​ ​​티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55199</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55199</guid>
+            <pubDate>Wed, 07 Sep 2022 07:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.09.14(수) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[10월] DINO BAY(다이노베이) 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55198</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55198</guid>
+            <pubDate>Wed, 07 Sep 2022 07:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.09.08(목) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정태춘 박은옥 콘서트 〈아치의 노래〉 - 전주 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55197</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55197</guid>
+            <pubDate>Wed, 07 Sep 2022 07:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.09.08(목) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 자이브 슈퍼라이브 페스티벌 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55196</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55196</guid>
+            <pubDate>Wed, 07 Sep 2022 07:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.09.08(목) 08:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[해리 포터와 아즈카반의 죄수™ 인 콘서트 - 발코니석 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55195</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55195</guid>
+            <pubDate>Wed, 07 Sep 2022 07:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.09.08(목) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(부천) 2022 가족뮤지컬 누가 내 머리에 똥쌌어​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55194</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55194</guid>
+            <pubDate>Wed, 07 Sep 2022 07:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.09.14(수) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[세종] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/55193</link>
             <guid>http://www.ticketlink.co.kr/help/notice/55193</guid>
@@ -536,76 +467,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/55189</guid>
             <pubDate>Tue, 06 Sep 2022 18:09:15 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2022.09.19(월) 03:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​2022 최현우 〈THE BRAIN〉 - 익산​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/55188</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/55188</guid>
-            <pubDate>Tue, 06 Sep 2022 18:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.09.08(목) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  노이슈타트 제4회 정기연주회 ENSEMBLE NEUSTADT​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/55187</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/55187</guid>
-            <pubDate>Tue, 06 Sep 2022 18:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.09.08(목) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​2022 카즈미 타테이시 트리오 내한공연-크리스마스, 재즈를 만나다-​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/55186</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/55186</guid>
-            <pubDate>Tue, 06 Sep 2022 18:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.09.13(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 2022 대구 국제 미래모빌리티엑스포 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/55185</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/55185</guid>
-            <pubDate>Tue, 06 Sep 2022 18:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.09.06(화) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 2022 수성아트피아 마티네 콘서트 10월 - 쇼팽 피아노〉티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/55184</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/55184</guid>
-            <pubDate>Mon, 05 Sep 2022 19:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.09.07(수) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​2022 뮤지컬 〈빨래〉 - 대전​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/55183</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/55183</guid>
-            <pubDate>Mon, 05 Sep 2022 05:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.09.08(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[책먹는여우 - 인천​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/55182</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/55182</guid>
-            <pubDate>Mon, 05 Sep 2022 05:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.09.07(수) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  ​2022 INK콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/55181</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/55181</guid>
-            <pubDate>Mon, 05 Sep 2022 05:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.09.07(수) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]“Per Lei” 페르레이: 당신에게 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/55180</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/55180</guid>
-            <pubDate>Mon, 05 Sep 2022 05:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.09.06(화) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[책먹는여우 - 영천 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/55178</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/55178</guid>
-            <pubDate>Mon, 05 Sep 2022 05:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.09.06(화) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[세종] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내 (티켓링크 모바일)]]></title>
