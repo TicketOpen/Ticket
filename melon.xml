@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-09-07T05:28:37.220Z</updated>
+    <updated>2022-09-07T06:53:07.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6448"/>
         <updated>2022-09-07T05:24:45.485Z</updated>
         <content type="html"><![CDATA[2022.09.07(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빌리어코스티 카페콘서트 〈EDITION ＃5．5〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6447</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6447"/>
+        <updated>2022-09-07T06:49:25.362Z</updated>
+        <content type="html"><![CDATA[2022.09.13(화) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌5［이준형 단독 콘서트 ‘UTOPIA’］티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6442"/>
         <updated>2022-09-06T03:39:55.032Z</updated>
         <content type="html"><![CDATA[2022.09.13(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 자이브 슈퍼라이브 페스티벌 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6441</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6441"/>
-        <updated>2022-09-06T05:22:27.952Z</updated>
-        <content type="html"><![CDATA[2022.09.08(목) 17:00]]></content>
     </entry>
 </feed>

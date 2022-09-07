@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-09-07T05:28:37.210Z</updated>
+    <updated>2022-09-07T06:53:07.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12135&amp;order=1"/>
         <updated>2022-09-07T05:25:47.647Z</updated>
         <content type="html"><![CDATA[2022-09-16(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 [언택트 커넥션] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12134&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12134&amp;order=1"/>
+        <updated>2022-09-07T06:50:24.192Z</updated>
+        <content type="html"><![CDATA[2022-09-13(화) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 [에쿠우스]  1차 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12125&amp;order=1"/>
         <updated>2022-09-05T07:24:06.752Z</updated>
         <content type="html"><![CDATA[2022-09-15(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어게인2 TOP6 전국투어 콘서트〈The Original〉- 대구 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12124&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12124&amp;order=1"/>
-        <updated>2022-09-05T07:24:06.755Z</updated>
-        <content type="html"><![CDATA[2022-09-15(목) 14:00]]></content>
     </entry>
 </feed>
