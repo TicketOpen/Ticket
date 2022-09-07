@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-09-07T03:44:08.242Z</updated>
+    <updated>2022-09-07T05:28:37.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[N Lounge Party－인제 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6453</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6453"/>
+        <updated>2022-09-07T05:24:45.459Z</updated>
+        <content type="html"><![CDATA[2022.09.07(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Apink 초봄 팬미팅 ‘Framily’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6451</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6451"/>
+        <updated>2022-09-07T05:24:45.462Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해리 포터와 아즈카반의 죄수™ 인 콘서트 －발코니석 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6449</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6449"/>
         <updated>2022-09-07T03:40:18.621Z</updated>
         <content type="html"><![CDATA[2022.09.08(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MADDY（매디）단독공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6448</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6448"/>
+        <updated>2022-09-07T05:24:45.485Z</updated>
+        <content type="html"><![CDATA[2022.09.07(수) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌5［이준형 단독 콘서트 ‘UTOPIA’］티켓 오픈 안내]]></title>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6441"/>
         <updated>2022-09-06T05:22:27.952Z</updated>
         <content type="html"><![CDATA[2022.09.08(목) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위수 단독 콘서트：afterimage 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6440</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6440"/>
-        <updated>2022-09-05T09:07:26.178Z</updated>
-        <content type="html"><![CDATA[2022.09.06(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프리티브라운 3rd CONCERT ‘ONE FINE DAY’（프리티브라운 세번째 콘서트 원파인데이）티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6439</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6439"/>
-        <updated>2022-09-05T05:19:04.409Z</updated>
-        <content type="html"><![CDATA[2022.09.05(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 BEST LINE－UP CONCERT 1010 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6438</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6438"/>
-        <updated>2022-09-02T07:15:46.135Z</updated>
-        <content type="html"><![CDATA[2022.09.07(수) 14:00]]></content>
     </entry>
 </feed>
