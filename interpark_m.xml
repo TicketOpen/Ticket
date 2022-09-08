@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 05:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 06:38:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈헤르츠클란〉 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44234</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44234</guid>
+            <pubDate>Thu, 08 Sep 2022 06:35:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.15
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010270_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2022 송골매 전국 투어 콘서트:열망(熱望)-인천 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44233</link>
@@ -71,7 +80,7 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007810_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2022 Ailee 전국투어 콘서트 〈한 걸음 더〉 - 대전 티켓오픈 안내]]></title>
+            <title><![CDATA[2022 에일리 전국투어 콘서트 〈한 걸음 더〉 - 대전 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44226</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44226</guid>
             <pubDate>Thu, 08 Sep 2022 05:11:27 GMT</pubDate>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.09.14
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007400_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[매직드로잉 가족극 〈두들팝〉 10차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44224</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44224</guid>
-            <pubDate>Thu, 08 Sep 2022 03:30:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.16
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013289_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

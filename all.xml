@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 05:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 06:38:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,13 @@
             <content:encoded><![CDATA[2022.09.14(수) 18:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[연극 〈헤르츠클란〉 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44234&amp;groupno=44234&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44234&amp;groupno=44234&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 08 Sep 2022 06:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.15(목)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2022 송골매 전국 투어 콘서트:열망(熱望)-인천 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44233&amp;groupno=44233&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44233&amp;groupno=44233&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -127,7 +134,7 @@
             <content:encoded><![CDATA[22.09.15(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 Ailee 전국투어 콘서트 〈한 걸음 더〉 - 대전 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <title><![CDATA[2022 에일리 전국투어 콘서트 〈한 걸음 더〉 - 대전 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44226&amp;groupno=44226&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44226&amp;groupno=44226&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 08 Sep 2022 05:11:12 GMT</pubDate>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[22.09.14(수)&nbsp;13:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[태양의서커스〈뉴 알레그리아〉 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44216&amp;groupno=44216&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44216&amp;groupno=44216&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 08 Sep 2022 03:30:09 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.15(목)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[연극 〈헤르츠클란〉 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44234</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44234</guid>
+            <pubDate>Thu, 08 Sep 2022 06:35:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.15
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010270_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 송골매 전국 투어 콘서트:열망(熱望)-인천 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -267,7 +276,7 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007810_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2022 Ailee 전국투어 콘서트 〈한 걸음 더〉 - 대전 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <title><![CDATA[2022 에일리 전국투어 콘서트 〈한 걸음 더〉 - 대전 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44226</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44226</guid>
             <pubDate>Thu, 08 Sep 2022 05:11:27 GMT</pubDate>
@@ -285,13 +294,11 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007400_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[매직드로잉 가족극 〈두들팝〉 10차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44224</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44224</guid>
-            <pubDate>Thu, 08 Sep 2022 03:30:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.16
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013289_p.gif" length="0" type="image/gif"/>
+            <title><![CDATA[뮤지컬 〈클림트〉 3차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12148</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12148</guid>
+            <pubDate>Thu, 08 Sep 2022 06:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.15(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈시데레우스〉 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -427,11 +434,11 @@
             <content:encoded><![CDATA[2022.09.13(화) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[더 키드 라로이 내한공연（The Kid LAROI Live in Seoul）티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12128</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12128</guid>
-            <pubDate>Wed, 07 Sep 2022 22:05:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.14(수) 12:00<a class="noti-btn-pop" presaletit1="라이브네이션 선예매" presaletit2="" presaletime1="2022.09.13(화) 12:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈클림트〉 3차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12148&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12148&amp;order=1</guid>
+            <pubDate>Thu, 08 Sep 2022 06:35:40 GMT</pubDate>
+            <content:encoded><![CDATA[2022-09-15(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈시데레우스〉 마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -495,13 +502,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12139&amp;order=1</guid>
             <pubDate>Thu, 08 Sep 2022 03:30:57 GMT</pubDate>
             <content:encoded><![CDATA[2022-09-14(수) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022-23 YB TOUR LIGHTS - 대구 오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12138&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12138&amp;order=1</guid>
-            <pubDate>Thu, 08 Sep 2022 03:30:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022-09-14(수) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 청춘아레나 - 대구 공연일정 연기 안내 N (위메프 공연티켓)]]></title>
