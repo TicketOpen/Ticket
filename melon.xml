@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-09-08T10:09:08.100Z</updated>
+    <updated>2022-09-08T11:07:03.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프레젠트프로젝트 〈O．O．O 단독 콘서트 ‘Another Blue’〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6460</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6460"/>
+        <updated>2022-09-08T11:03:21.418Z</updated>
+        <content type="html"><![CDATA[2022.09.16(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프리즘브레이크 vol．14：서울전자음악단 x 콩코드 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6459</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6451"/>
         <updated>2022-09-07T05:24:45.462Z</updated>
         <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ORIGINAL DEMO ver 브로콜리너마저 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6450</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6450"/>
-        <updated>2022-09-07T08:11:52.296Z</updated>
-        <content type="html"><![CDATA[2022.09.14(수) 18:00]]></content>
     </entry>
 </feed>
