@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-09-08T03:33:57.348Z</updated>
+    <updated>2022-09-08T05:14:49.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈시데레우스〉 마지막 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12147</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12147"/>
+        <updated>2022-09-08T05:11:40.967Z</updated>
+        <content type="html"><![CDATA[2022.09.14(수) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12146</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12146"/>
+        <updated>2022-09-08T05:11:40.968Z</updated>
+        <content type="html"><![CDATA[2022.09.15(목) 20:00<a class="noti-btn-pop" presaletit1="MAY 3기 선예매" presaletit2="" presaletime1="2022.09.13(화) 19:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈안나, 차이코프스키〉 2차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12145</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12128"/>
         <updated>2022-09-07T22:05:42.604Z</updated>
         <content type="html"><![CDATA[2022.09.14(수) 12:00<a class="noti-btn-pop" presaletit1="라이브네이션 선예매" presaletit2="" presaletime1="2022.09.13(화) 12:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12127</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12127"/>
-        <updated>2022-09-07T22:05:42.607Z</updated>
-        <content type="html"><![CDATA[2022.09.29(목) 20:00<a class="noti-btn-pop" presaletit1="팬클럽선예매" presaletit2="" presaletime1="2022.09.27(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어게인2 TOP6 전국투어 콘서트〈The Original〉- 부산 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12125</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12125"/>
-        <updated>2022-09-07T22:05:42.610Z</updated>
-        <content type="html"><![CDATA[2022.09.15(목) 15:00]]></content>
     </entry>
 </feed>
