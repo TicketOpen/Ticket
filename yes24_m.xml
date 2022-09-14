@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-09-14T07:28:35.672Z</updated>
+    <updated>2022-09-14T08:13:00.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[거미 20주년 전국투어 콘서트〈BE ORIGIN〉- 일산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12158&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12158&amp;order=1"/>
+        <updated>2022-09-14T08:10:17.157Z</updated>
+        <content type="html"><![CDATA[2022-09-19(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거미 20주년 전국투어 콘서트〈BE ORIGIN〉- 천안 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12157&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12157&amp;order=1"/>
+        <updated>2022-09-14T08:10:17.168Z</updated>
+        <content type="html"><![CDATA[2022-09-19(월) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거미 20주년 전국투어 콘서트〈BE ORIGIN〉- 대구 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12156&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12156&amp;order=1"/>
+        <updated>2022-09-14T08:10:17.171Z</updated>
+        <content type="html"><![CDATA[2022-09-19(월) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거미 20주년 전국투어 콘서트〈BE ORIGIN〉- 울산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12155&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12155&amp;order=1"/>
+        <updated>2022-09-14T08:10:17.177Z</updated>
+        <content type="html"><![CDATA[2022-09-19(월) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노을 20주년 전국투어 콘서트〈스물〉- 전주 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12154&amp;order=1</id>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12149&amp;order=1"/>
         <updated>2022-09-08T09:09:52.630Z</updated>
         <content type="html"><![CDATA[2022-09-13(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈클림트〉 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12148&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12148&amp;order=1"/>
-        <updated>2022-09-08T06:35:40.571Z</updated>
-        <content type="html"><![CDATA[2022-09-15(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈시데레우스〉 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12147&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12147&amp;order=1"/>
-        <updated>2022-09-08T05:11:52.606Z</updated>
-        <content type="html"><![CDATA[2022-09-14(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PARK JIHOON 2022 CONCERT [CLUE] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12146&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12146&amp;order=1"/>
-        <updated>2022-09-08T05:11:52.608Z</updated>
-        <content type="html"><![CDATA[2022-09-15(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈안나, 차이코프스키〉 2차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12145&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12145&amp;order=1"/>
-        <updated>2022-09-08T03:30:57.632Z</updated>
-        <content type="html"><![CDATA[2022-09-14(수) 14:00]]></content>
     </entry>
 </feed>
