@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-09-14T08:13:00.589Z</updated>
+    <updated>2022-09-14T09:13:42.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 [눈을 뜻하는 수백 가지 단어들] 앵콜 공연 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12160&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12160&amp;order=1"/>
+        <updated>2022-09-14T09:11:01.020Z</updated>
+        <content type="html"><![CDATA[2022-09-21(수) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[거미 20주년 전국투어 콘서트〈BE ORIGIN〉- 일산 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12158&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12150&amp;order=1"/>
         <updated>2022-09-08T07:23:42.402Z</updated>
         <content type="html"><![CDATA[2022-09-14(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그레이트 서울 인베이전 전국투어 콘서트 - 서울 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12149&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12149&amp;order=1"/>
-        <updated>2022-09-08T09:09:52.630Z</updated>
-        <content type="html"><![CDATA[2022-09-13(화) 18:00]]></content>
     </entry>
 </feed>
