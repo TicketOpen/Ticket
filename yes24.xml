@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-09-15T03:42:51.232Z</updated>
+    <updated>2022-09-15T05:18:09.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12164</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12164"/>
+        <updated>2022-09-15T05:15:19.221Z</updated>
+        <content type="html"><![CDATA[2022.09.21(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12163</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12163"/>
+        <updated>2022-09-15T05:15:19.221Z</updated>
+        <content type="html"><![CDATA[2022.09.23(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(9/3, 9/4, 9/11, 9/17, 9/18, 9/19)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12162</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12144"/>
         <updated>2022-09-14T22:08:37.447Z</updated>
         <content type="html"><![CDATA[2022.09.23(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2022.09.20(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거미 20주년 전국투어 콘서트〈BE ORIGIN〉티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12143</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12143"/>
-        <updated>2022-09-14T22:08:37.447Z</updated>
-        <content type="html"><![CDATA[추후공지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어게인2 TOP6 전국투어 콘서트〈The Original〉- 수원 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12142</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12142"/>
-        <updated>2022-09-14T22:08:37.451Z</updated>
-        <content type="html"><![CDATA[2022.09.15(목) 16:00]]></content>
     </entry>
 </feed>
