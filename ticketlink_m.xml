@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-09-15T11:07:33.761Z</updated>
+    <updated>2022-09-15T12:17:55.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[PAN 세 번째 정기연주회 MISERERE : 위로​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[연극<오만과 편견> 3차​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55240</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55240"/>
+        <updated>2022-09-15T12:17:40.825Z</updated>
+        <content type="html"><![CDATA[2022.09.20(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  무용 “춤 時 - 오딧세이” 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55238</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55238"/>
+        <updated>2022-09-15T12:17:40.826Z</updated>
+        <content type="html"><![CDATA[2022.09.20(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  PAN 세 번째 정기연주회 MISERERE : 위로​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55237</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55237"/>
         <updated>2022-09-14T17:22:23.459Z</updated>
@@ -87,7 +101,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/55226</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55226"/>
         <updated>2022-09-13T09:13:03.506Z</updated>
-        <content type="html"><![CDATA[2022.09.15(목) 05:00]]></content>
+        <content type="html"><![CDATA[2022.09.16(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 오티움 콘서트Ⅴ Schumann’s 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55225"/>
         <updated>2022-09-13T09:13:03.507Z</updated>
         <content type="html"><![CDATA[2022.09.15(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 〈신숭겸〉 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55224</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55224"/>
-        <updated>2022-09-08T08:12:15.850Z</updated>
-        <content type="html"><![CDATA[2022.09.14(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(용인) 2022겨울왕국스토리뮤지컬 겨울이야기 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55223</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55223"/>
-        <updated>2022-09-08T08:12:15.851Z</updated>
-        <content type="html"><![CDATA[2022.09.14(수) 00:00]]></content>
     </entry>
 </feed>
