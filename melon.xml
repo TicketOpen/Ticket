@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-09-16T00:40:36.154Z</updated>
+    <updated>2022-09-16T03:44:40.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ANDOR 단독공연 〈HAPPY AT THIS TIME〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6472</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6472"/>
+        <updated>2022-09-16T03:41:41.452Z</updated>
+        <content type="html"><![CDATA[2022.09.19(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스피 단독 콘서트［WE‘RE］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6471</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6471"/>
+        <updated>2022-09-16T03:41:41.452Z</updated>
+        <content type="html"><![CDATA[2022.09.22(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌5 음악여행，쉼［버둥 단독 콘서트］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6470</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6463"/>
         <updated>2022-09-14T07:24:48.992Z</updated>
         <content type="html"><![CDATA[2022.09.14(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밴드 uni（유니）X 솔루션스 조인 클럽콘서트 ‘Re:born’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6462</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6462"/>
-        <updated>2022-09-14T07:24:48.996Z</updated>
-        <content type="html"><![CDATA[2022.09.16(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［사과단과 함께하는 표은지 가을 팬미팅］	티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6461</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6461"/>
-        <updated>2022-09-14T07:24:48.998Z</updated>
-        <content type="html"><![CDATA[2022.09.15(목) 20:00]]></content>
     </entry>
 </feed>
