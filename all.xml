@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 06:41:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 07:23:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6467</guid>
             <pubDate>Wed, 14 Sep 2022 07:24:48 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.21(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 서울시향 김선욱의 차이콥스키 피아노 협주곡 1번 합창석 티켓.. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44315&amp;groupno=44315&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44315&amp;groupno=44315&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 16 Sep 2022 07:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.22(목)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어쿠스틱카페-대구 지브리스튜디오OST 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[22.09.22(목)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022-23 YB TOUR LIGHTS - 안산 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44296&amp;groupno=44296&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44296&amp;groupno=44296&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 15 Sep 2022 07:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.22(목)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[2022 서울시향 김선욱의 차이콥스키 피아노 협주곡 1번 합창석 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44315</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44315</guid>
+            <pubDate>Fri, 16 Sep 2022 07:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.22
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004416_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[어쿠스틱카페-대구 지브리스튜디오OST 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2022.10.04
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091410325399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OHM NANON 1st Fan Meeting in Korea 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44304</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44304</guid>
-            <pubDate>Fri, 16 Sep 2022 03:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.27
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091316145993.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
@@ -820,6 +820,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_171/B2Q0A_1660874827147nqWbu_JPEG/1660874827106.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <마이 버킷 리스트> (네이버 공연)]]></title>
+            <link>https://tv.naver.com/l/115839</link>
+            <guid>https://tv.naver.com/l/115839</guid>
+            <pubDate>Fri, 16 Sep 2022 07:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[09월 21일(수) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220915_214/OE5JG_1663231426891oQJeg_JPEG/1663231426880.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[후원
 											뮤지컬<홀연했던 사나이> 녹화 중계 - 9/22(목) (네이버 공연)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/insight</link>
@@ -871,15 +879,6 @@
             <pubDate>Tue, 06 Sep 2022 05:26:12 GMT</pubDate>
             <content:encoded><![CDATA[10월 04일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220906_264/PeOeb_1662430607204nf4vC_JPEG/1662430607143.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <여신님이 보고 계셔> 10월 4일 중계 (네이버 공연)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/iyeonwoo</link>
-            <guid>https://patron.naver.com/ntv/c/intro/iyeonwoo</guid>
-            <pubDate>Thu, 15 Sep 2022 14:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[10월 04일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_137/gcE9r_1661498314230r1cHb_JPEG/1661498314178.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
