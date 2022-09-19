@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-09-19T05:24:08.560Z</updated>
+    <updated>2022-09-19T06:52:11.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[2022.09.19(월) 12:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤지원의 미술과 음악이 함께하는 콘서트 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[윤지원의 음악과 미술이 함께하는 콘서트 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6490</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6490"/>
         <updated>2022-09-19T05:20:35.270Z</updated>
