@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 23:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 00:40:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,12 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220919010300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(9/3, 9/4, 9/11, 9/17, 9/18, 9/19, 9/2.. (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12179</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12179</guid>
+            <pubDate>Tue, 20 Sep 2022 00:38:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[2022 조항조&진성 [앙상블콘서트] - 춘천 티켓오픈안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12178</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12178</guid>
@@ -424,13 +430,6 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12158</guid>
             <pubDate>Mon, 19 Sep 2022 00:36:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.19(월) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[거미 20주년 전국투어 콘서트〈BE ORIGIN〉- 천안 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12157</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12157</guid>
-            <pubDate>Mon, 19 Sep 2022 00:36:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.19(월) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 조항조&진성 [앙상블콘서트] - 춘천 티켓오픈안내 (예스24 티켓 모바일)]]></title>
