@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-10-04T10:11:21.745Z</updated>
+    <updated>2022-10-04T11:11:10.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 광주사운드파크페스티벌 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55338</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55338"/>
+        <updated>2022-10-04T11:11:05.297Z</updated>
+        <content type="html"><![CDATA[2022.10.05(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​(순천) 2022 버블매직쇼​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55337</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55324"/>
         <updated>2022-09-30T03:59:39.359Z</updated>
         <content type="html"><![CDATA[2022.10.05(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2022 김창옥 토크콘서트 시즌3 – 용인​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55323</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55323"/>
-        <updated>2022-09-30T03:59:39.370Z</updated>
-        <content type="html"><![CDATA[2022.10.06(목) 05:00]]></content>
     </entry>
 </feed>
