@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-10-11T12:17:26.541Z</updated>
+    <updated>2022-10-11T13:47:36.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라포엠 단독 콘서트 [LA POEM SYMPHONY]​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55380</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55380"/>
+        <updated>2022-10-11T13:46:25.623Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.18(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <드라큘라> 1차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55378</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55378"/>
         <updated>2022-10-11T05:13:45.564Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.17(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KH 슈퍼콘서트 X 고고90​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55377</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55377"/>
+        <updated>2022-10-11T13:46:25.631Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.14(금) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <엘리자벳> 10주년 기념공연 - 대구 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55365"/>
         <updated>2022-10-07T05:28:53.921Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.13(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <아트> 4차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55364</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55364"/>
-        <updated>2022-10-07T05:28:53.935Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.13(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <킹키부츠> - 여수 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55363</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55363"/>
-        <updated>2022-10-07T05:28:53.935Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.12(수) 06:00]]></content>
     </entry>
 </feed>
