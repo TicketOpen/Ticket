@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-10-15T15:08:19.982Z</updated>
+    <updated>2022-10-15T16:10:48.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 메모리즈-황치열x알리 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55419</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55419"/>
+        <updated>2022-10-15T16:10:39.579Z</updated>
+        <content type="html"><![CDATA[2022.10.19(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 김범수 콘서트 명품이즈백 – 부산 티켓오픈안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55418</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/55405</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55405"/>
         <updated>2022-10-14T13:51:42.939Z</updated>
-        <content type="html"><![CDATA[2022.10.18(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 민쩌미 <사랑해요 엄마!> - 세종 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55404</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55404"/>
-        <updated>2022-10-14T13:51:42.941Z</updated>
         <content type="html"><![CDATA[2022.10.18(화) 00:00]]></content>
     </entry>
 </feed>
