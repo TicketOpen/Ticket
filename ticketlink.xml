@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-10-17T05:23:23.281Z</updated>
+    <updated>2022-10-17T06:46:16.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 푸에르자 부르타 웨이라 인 서울 [2022 FUERZA BRUTA WAYRA IN SEOUL] 3차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55422</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55422"/>
+        <updated>2022-10-17T06:45:00.511Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.20(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 브레드이발소〈대결! 최고의 이발사〉- 대전 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55420</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55407"/>
         <updated>2022-10-14T16:14:10.986Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.20(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 <우리들 음악회> - 청주앵콜 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55406</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55406"/>
-        <updated>2022-10-14T00:53:01.720Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.18(화) 00:00]]></content>
     </entry>
 </feed>
