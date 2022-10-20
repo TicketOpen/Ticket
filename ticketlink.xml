@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-10-20T04:55:48.444Z</updated>
+    <updated>2022-10-20T05:36:17.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MJ LIVE - 천안​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55439</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55439"/>
+        <updated>2022-10-20T05:35:07.282Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌 3 - 창원​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55438</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55438"/>
+        <updated>2022-10-20T05:35:07.283Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.26(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2022 LIGHT UP FESTIVAL 티켓오픈​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55437</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55437"/>
+        <updated>2022-10-20T05:35:07.283Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​장진의 연극 <서툰 사람들>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55436</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55436"/>
+        <updated>2022-10-20T05:35:07.289Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.28(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라포엠 단독 콘서트 [LA POEM SYMPHONY] - 부산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55435</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55424"/>
         <updated>2022-10-18T05:21:17.576Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.21(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 KIM SUNG KYU Fan Meeting - 추가 회차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55423</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55423"/>
-        <updated>2022-10-17T23:09:01.335Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.19(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 푸에르자 부르타 웨이라 인 서울 [2022 FUERZA BRUTA WAYRA IN SEOUL] 3차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55422</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55422"/>
-        <updated>2022-10-17T06:45:00.511Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.20(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 스타1 대학대전(무친대 VS 철와대) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55421</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55421"/>
-        <updated>2022-10-17T23:09:01.375Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.18(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 브레드이발소〈대결! 최고의 이발사〉- 대전 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55420</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55420"/>
-        <updated>2022-10-17T03:48:59.477Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.20(목) 00:00]]></content>
     </entry>
 </feed>
