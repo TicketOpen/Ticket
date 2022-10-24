@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-10-24T00:54:35.252Z</updated>
+    <updated>2022-10-24T03:46:35.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55454"/>
         <updated>2022-10-22T00:47:37.427Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 브레드이발소 〈대결! 최고의 이발사〉 - 부산앵콜​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55453</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55453"/>
+        <updated>2022-10-24T03:45:18.230Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.25(화) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <용의자 X의 헌신> 2차​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55442"/>
         <updated>2022-10-20T12:15:07.696Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.26(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(평택) 2022 가족뮤지컬 호두까기인형 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55441</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55441"/>
-        <updated>2022-10-20T12:15:07.703Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 00:00]]></content>
     </entry>
 </feed>
