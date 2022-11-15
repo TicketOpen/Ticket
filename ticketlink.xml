@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-11-15T00:35:45.070Z</updated>
+    <updated>2022-11-15T02:45:35.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 브레드이발소 <대결! 최고의 이발사> - 고양​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55595</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55595"/>
+        <updated>2022-11-15T02:44:23.922Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.17(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​신비아파트 뮤지컬 시즌5 : 감염된 도시의 비밀 - 청주앵콜​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55594</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55594"/>
+        <updated>2022-11-15T02:44:23.923Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.17(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립소년소녀합창단] 제137회 정기공연_영어 오페라 시리즈 I 「피노키오」티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55593</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55593"/>
+        <updated>2022-11-15T02:44:23.927Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.15(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 아프리카TV 철감봉남 스타 대학대전 결승전 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55592</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55581"/>
         <updated>2022-11-14T17:21:26.674Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.11.11(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코미디 뮤지컬 <옹알스> 부천 2차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55580</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55580"/>
-        <updated>2022-11-14T17:21:26.674Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.14(월) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  파리나무십자가 소년합창단 'The Little Singers of Paris' - 경주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55579</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55579"/>
-        <updated>2022-11-14T17:21:26.676Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.14(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 임재범 전국투어 콘서트 - 수원 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55578</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55578"/>
-        <updated>2022-11-14T17:21:26.677Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.14(월) 04:00]]></content>
     </entry>
 </feed>
