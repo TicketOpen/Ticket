@@ -1,217 +1,778 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://TicketOpen.github.io/ticket/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-11-16T16:20:09.571Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[2023년 가족뮤지컬 <엄마까투리 - 마트에 간 꽁지> - 전주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55604</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55604"/>
-        <updated>2022-11-16T15:06:37.733Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.17(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2023 장윤정 라이브 콘서트 - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55603</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55603"/>
-        <updated>2022-11-16T15:06:37.777Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.18(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <종의 기원> 1차​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55602</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55602"/>
-        <updated>2022-11-16T15:06:37.786Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.22(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2022 펭수 연말 펭미팅 ​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55601</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55601"/>
-        <updated>2022-11-16T15:06:37.800Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.22(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2022-23 YB TOUR LIGHTS - 의성 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55600</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55600"/>
-        <updated>2022-11-16T15:06:37.806Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.21(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  Jazz Swing Days 「이것이 재즈다!」 / 앤디킴트리오​​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55599</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55599"/>
-        <updated>2022-11-15T13:29:10.804Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.16(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  Jazz Swing Days 「이것이 재즈다!」 / 김국주밴드​​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55598</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55598"/>
-        <updated>2022-11-15T13:29:10.813Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.16(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립국악관현악단 제 132회 정기연주회 '송년음악회-개세지재' 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55597</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55597"/>
-        <updated>2022-11-16T15:06:37.828Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.17(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 최현우 < THE BRAIN > - 강동 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55596</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55596"/>
-        <updated>2022-11-15T13:29:10.826Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.18(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 브레드이발소 <대결! 최고의 이발사> - 고양앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55595</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55595"/>
-        <updated>2022-11-15T02:44:23.922Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.17(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​신비아파트 뮤지컬 시즌5 : 감염된 도시의 비밀 - 청주앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55594</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55594"/>
-        <updated>2022-11-15T02:44:23.923Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.17(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립소년소녀합창단] 제137회 정기공연_영어 오페라 시리즈 I 「피노키오」티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55593</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55593"/>
-        <updated>2022-11-15T02:44:23.927Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.15(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 아프리카TV 철감봉남 스타 대학대전 결승전 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55592</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55592"/>
-        <updated>2022-11-14T17:21:26.620Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.15(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <브로드웨이 42번가> - 부산​​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55591</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55591"/>
-        <updated>2022-11-14T17:21:26.621Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.21(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왕가위 영화음악 오케스트라 콘서트​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55590</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55590"/>
-        <updated>2022-11-14T17:21:26.622Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.17(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <종의 기원> 1차​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55602</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55602"/>
-        <updated>2022-11-16T05:05:18.362Z</updated>
-        <content type="html"><![CDATA[2022.11.22(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2022 펭수 연말 펭미팅 ​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55601</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55601"/>
-        <updated>2022-11-16T05:05:18.382Z</updated>
-        <content type="html"><![CDATA[2022.11.22(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2022-23 YB TOUR LIGHTS - 의성 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55600</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55600"/>
-        <updated>2022-11-16T05:05:18.383Z</updated>
-        <content type="html"><![CDATA[2022.11.21(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  Jazz Swing Days 「이것이 재즈다!」 / 앤디킴트리오​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55599</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55599"/>
-        <updated>2022-11-15T14:05:47.368Z</updated>
-        <content type="html"><![CDATA[2022.11.16(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  Jazz Swing Days 「이것이 재즈다!」 / 김국주밴드​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55598</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55598"/>
-        <updated>2022-11-15T14:05:47.369Z</updated>
-        <content type="html"><![CDATA[2022.11.16(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 최현우 < THE BRAIN > - 강동 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55596</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55596"/>
-        <updated>2022-11-15T14:05:47.377Z</updated>
-        <content type="html"><![CDATA[2022.11.18(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 브레드이발소 <대결! 최고의 이발사> - 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55595</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55595"/>
-        <updated>2022-11-15T14:05:47.378Z</updated>
-        <content type="html"><![CDATA[2022.11.17(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​신비아파트 뮤지컬 시즌5 : 감염된 도시의 비밀 - 청주앵콜​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55594</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55594"/>
-        <updated>2022-11-15T14:05:47.391Z</updated>
-        <content type="html"><![CDATA[2022.11.17(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립소년소녀합창단] 제137회 정기공연_영어 오페라 시리즈 I 「피노키오」티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55593</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55593"/>
-        <updated>2022-11-15T14:05:47.393Z</updated>
-        <content type="html"><![CDATA[2022.11.15(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 아프리카TV 철감봉남 스타 대학대전 결승전 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55592</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55592"/>
-        <updated>2022-11-14T19:04:31.508Z</updated>
-        <content type="html"><![CDATA[2022.11.15(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <브로드웨이 42번가> - 부산​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55591</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55591"/>
-        <updated>2022-11-14T19:04:31.518Z</updated>
-        <content type="html"><![CDATA[2022.11.21(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왕가위 영화음악 오케스트라 콘서트​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55590</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55590"/>
-        <updated>2022-11-14T19:04:31.518Z</updated>
-        <content type="html"><![CDATA[2022.11.17(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 삼척시민과 함께하는 2022 송년 음악회​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55589</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55589"/>
-        <updated>2022-11-14T19:04:31.518Z</updated>
-        <content type="html"><![CDATA[2022.11.17(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​어린이뮤지컬 <다이노파워즈-그린에너지를 지켜라!> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55588</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55588"/>
-        <updated>2022-11-11T09:06:36.474Z</updated>
-        <content type="html"><![CDATA[2022.11.15(화) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 소연(라붐 . wsg 워너비) 1st 팬미팅​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55587</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55587"/>
-        <updated>2022-11-11T09:06:36.475Z</updated>
-        <content type="html"><![CDATA[2022.11.15(화) 05:00]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:22:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러블레스 〈낙과〉 발매 기념 단독 공연 티켓 오픈 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6712</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6712</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.22(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Questions From Our Night －한로로＆숨비 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6711</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6711</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18(금) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[밴드 uni（유니）첫 단독콘서트 Dive into The World！티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6710</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6710</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.21(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［우물 단독 콘서트］티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6709</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6709</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.24(목) 21:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［맥거핀 단독 콘서트］티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6708</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6708</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.23(수) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[현대카드 Curated 80 케빈오 ‘2022 케빈오 콘서트 Pieces of＿’ 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6707</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6707</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TUNE UP STAGE：ROCK MY WORLD 튠업 스테이지：락 마이 월드 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6706</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6706</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.17(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈웨스트 사이드 스토리〉 3차 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6705</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6705</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.23(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박진영 콘서트 ‘GROOVE BACK’ 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6704</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6704</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 김사월 연말 단독 공연 〈밖은 너무 추워 나는〉 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6703</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6703</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.17(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소크라테스 패러독스 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45091&amp;groupno=45091&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45091&amp;groupno=45091&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.18(금)&nbsp;15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 허각&2F 크리스마스 콘서트 [GIFT] 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45090&amp;groupno=45090&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45090&amp;groupno=45090&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.21(월)&nbsp;18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022-23 Forestella Concert - The Royal in Daegu 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45089&amp;groupno=45089&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45089&amp;groupno=45089&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.28(월)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022-23 Forestella Concert - The Royal in Seoul 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45088&amp;groupno=45088&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45088&amp;groupno=45088&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.09(금)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022-23 Forestella Concert - The Royal in Busan 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45087&amp;groupno=45087&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45087&amp;groupno=45087&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.16(금)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 브레드이발소 〈대결! 최고의 이발사〉 - 안성 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45086&amp;groupno=45086&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45086&amp;groupno=45086&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.18(금)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 장윤정 라이브 콘서트 - 부산 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45085&amp;groupno=45085&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45085&amp;groupno=45085&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.18(금)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7시에만나 Renewal 추가티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45084&amp;groupno=45084&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45084&amp;groupno=45084&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.23(수)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 멜로망스 전국투어 콘서트 〈Festival〉 - 성남 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45083&amp;groupno=45083&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45083&amp;groupno=45083&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.21(월)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[홍대광 콘서트 〈눈빛(snow light)〉 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45082&amp;groupno=45082&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45082&amp;groupno=45082&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.22(화)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈사나이 와타나베〉 마지막 티켓 오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45081&amp;groupno=45081&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45081&amp;groupno=45081&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.23(수)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈종의 기원〉 1차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45080&amp;groupno=45080&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45080&amp;groupno=45080&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.22(화)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 GUCKKASTEN CONCERT [HAPPENING] 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45079&amp;groupno=45079&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45079&amp;groupno=45079&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.18(금)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 Jeong Eun Ji Concert 'Travelog' 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45078&amp;groupno=45078&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45078&amp;groupno=45078&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.23(수)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 ICHILLIN＇CONCERT［Your Time］티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45077&amp;groupno=45077&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45077&amp;groupno=45077&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.21(월)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 신비아파트 시즌5 <감염된 도시의 비밀> - 서울앵콜 티켓오픈.. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45076&amp;groupno=45076&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45076&amp;groupno=45076&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.23(수)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <변신> 입체 낭독공연 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45075&amp;groupno=45075&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45075&amp;groupno=45075&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.18(금)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ensemble Stars!! DREAM LIVE -7th Tour "Allied Worlds"- Live Stre.. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45074&amp;groupno=45074&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45074&amp;groupno=45074&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.18(금)&nbsp;12:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소크라테스 패러독스 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45091</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45091</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20221116055455.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 허각&2F 크리스마스 콘서트 [GIFT] 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45090</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45090</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.21
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022111520205161.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022-23 Forestella Concert - The Royal in Daegu 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45089</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45089</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.28
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20221116040344.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022-23 Forestella Concert - The Royal in Seoul 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45088</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45088</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.09
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20221116035734.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022-23 Forestella Concert - The Royal in Busan 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45087</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45087</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.16
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20221116034648.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 브레드이발소 〈대결! 최고의 이발사〉 - 안성 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45086</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45086</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022111517493428.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 장윤정 라이브 콘서트 - 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45085</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45085</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022111114370042.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[7시에만나 Renewal 추가티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45084</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45084</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.23
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22012620_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 멜로망스 전국투어 콘서트 〈Festival〉 - 성남 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45083</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45083</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.21
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022111115121179.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홍대광 콘서트 〈눈빛(snow light)〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45082</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45082</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.22
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022111119150951.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈소크라테스 패러독스〉 프리뷰 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12453</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12453</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18(금) 15:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2022.11.18(금) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12452</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12452</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.23(수) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[홍대광 콘서트〈 눈빛（snow light）〉티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12451</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12451</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.22(화) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈미수〉 두 번째 좌석 열림 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12450</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12450</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.22(화) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 [사나이 와타나베] 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12449</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12449</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.23(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 멜로망스 전국투어 콘서트〈Festival〉- 성남 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12448</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12448</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.21(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박진영 콘서트 ‘GROOVE BACK’ 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12447</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12447</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈클림트〉 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12446</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12446</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[왕가위 영화음악 오케스트라 콘서트 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12445</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12445</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.17(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 멜로망스 전국투어 콘서트〈Festival〉- 대전 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12443</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12443</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[해리 스타일스 첫 내한공연（HARRY STYLES LOVE ON TOUR 2023 - Live in Seoul）티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12442</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12442</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.24(목) 13:00<a class="noti-btn-pop" presaletit1="라이브네이션 선예매" presaletit2="" presaletime1="2022.11.23(수) 13:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 더 픽스（THE FIX）단독 콘서트〈RUSH> 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12441</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12441</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 기탁 단독 콘서트〈Beyond〉티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12440</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12440</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임윤찬 피아노 리사이틀 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12439</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12439</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.17(목) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[강남심포니오케스트라 제150회 클래식품격콘서트〈Great CONCERTO Series-J. Haydn & M. Bruch〉.. (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12438</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12438</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.15(화) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈브로드웨이 42번가〉 - 부산 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12437</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12437</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.21(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 백지영 전국투어 콘서트〈GO BAEK〉- 고양 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12436</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12436</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 멜로망스 전국투어 콘서트〈Festival〉- 울산 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12435</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12435</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.17(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈로빈〉 1차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12434</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12434</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.21(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12433</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12433</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18(금) 12:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈소크라테스 패러독스〉 프리뷰 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12453&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12453&amp;order=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-18(금) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 콘서트 ‘불구경’ 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12452&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12452&amp;order=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-23(수) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[홍대광 콘서트〈 눈빛（snow light）〉티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12451&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12451&amp;order=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-22(화) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈미수〉 두 번째 좌석 열림 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12450&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12450&amp;order=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-22(화) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 [사나이 와타나베] 마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12449&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12449&amp;order=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-23(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 멜로망스 전국투어 콘서트〈Festival〉- 성남 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12448&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12448&amp;order=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-21(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박진영 콘서트 ‘GROOVE BACK’ 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12447&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12447&amp;order=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-18(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈클림트〉 마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12446&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12446&amp;order=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-18(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[왕가위 영화음악 오케스트라 콘서트 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12445&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12445&amp;order=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-17(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 멜로망스 전국투어 콘서트〈Festival〉- 대전 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12443&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12443&amp;order=1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-18(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023년 가족뮤지컬 <엄마까투리 - 마트에 간 꽁지> - 전주​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55604</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55604</guid>
+            <pubDate>Wed, 16 Nov 2022 15:06:37 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.11.17(목) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​2023 장윤정 라이브 콘서트 - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55603</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55603</guid>
+            <pubDate>Wed, 16 Nov 2022 15:06:37 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.11.18(금) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​뮤지컬 <종의 기원> 1차​​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55602</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55602</guid>
+            <pubDate>Wed, 16 Nov 2022 15:06:37 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.11.22(화) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  2022 펭수 연말 펭미팅 ​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55601</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55601</guid>
+            <pubDate>Wed, 16 Nov 2022 15:06:37 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.11.22(화) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  2022-23 YB TOUR LIGHTS - 의성 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55600</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55600</guid>
+            <pubDate>Wed, 16 Nov 2022 15:06:37 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.11.21(월) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  Jazz Swing Days 「이것이 재즈다!」 / 앤디킴트리오​​​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55599</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55599</guid>
+            <pubDate>Tue, 15 Nov 2022 13:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.11.16(수) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  Jazz Swing Days 「이것이 재즈다!」 / 김국주밴드​​​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55598</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55598</guid>
+            <pubDate>Tue, 15 Nov 2022 13:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.11.16(수) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 광주시립국악관현악단 제 132회 정기연주회 '송년음악회-개세지재' 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55597</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55597</guid>
+            <pubDate>Wed, 16 Nov 2022 15:06:37 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.11.17(목) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 최현우 < THE BRAIN > - 강동 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55596</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55596</guid>
+            <pubDate>Tue, 15 Nov 2022 13:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.11.18(금) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​뮤지컬 브레드이발소 <대결! 최고의 이발사> - 고양앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55595</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55595</guid>
+            <pubDate>Tue, 15 Nov 2022 02:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.11.17(목) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​신비아파트 뮤지컬 시즌5 : 감염된 도시의 비밀 - 청주앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55594</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55594</guid>
+            <pubDate>Tue, 15 Nov 2022 02:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.11.17(목) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] [광주시립소년소녀합창단] 제137회 정기공연_영어 오페라 시리즈 I 「피노키오」티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55593</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55593</guid>
+            <pubDate>Tue, 15 Nov 2022 02:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.11.15(화) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 아프리카TV 철감봉남 스타 대학대전 결승전 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55592</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55592</guid>
+            <pubDate>Mon, 14 Nov 2022 17:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.11.15(화) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <브로드웨이 42번가> - 부산​​​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55591</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55591</guid>
+            <pubDate>Mon, 14 Nov 2022 17:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.11.21(월) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[왕가위 영화음악 오케스트라 콘서트​​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55590</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55590</guid>
+            <pubDate>Mon, 14 Nov 2022 17:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.11.17(목) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​뮤지컬 <종의 기원> 1차​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55602</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55602</guid>
+            <pubDate>Wed, 16 Nov 2022 05:05:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.22(화) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  2022 펭수 연말 펭미팅 ​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55601</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55601</guid>
+            <pubDate>Wed, 16 Nov 2022 05:05:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.22(화) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  2022-23 YB TOUR LIGHTS - 의성 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55600</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55600</guid>
+            <pubDate>Wed, 16 Nov 2022 05:05:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.21(월) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  Jazz Swing Days 「이것이 재즈다!」 / 앤디킴트리오​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55599</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55599</guid>
+            <pubDate>Tue, 15 Nov 2022 14:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.16(수) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  Jazz Swing Days 「이것이 재즈다!」 / 김국주밴드​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55598</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55598</guid>
+            <pubDate>Tue, 15 Nov 2022 14:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.16(수) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 최현우 < THE BRAIN > - 강동 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55596</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55596</guid>
+            <pubDate>Tue, 15 Nov 2022 14:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18(금) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​뮤지컬 브레드이발소 <대결! 최고의 이발사> - 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55595</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55595</guid>
+            <pubDate>Tue, 15 Nov 2022 14:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.17(목) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​신비아파트 뮤지컬 시즌5 : 감염된 도시의 비밀 - 청주앵콜​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55594</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55594</guid>
+            <pubDate>Tue, 15 Nov 2022 14:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.17(목) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] [광주시립소년소녀합창단] 제137회 정기공연_영어 오페라 시리즈 I 「피노키오」티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55593</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55593</guid>
+            <pubDate>Tue, 15 Nov 2022 14:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.15(화) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 아프리카TV 철감봉남 스타 대학대전 결승전 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55592</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55592</guid>
+            <pubDate>Mon, 14 Nov 2022 19:04:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.15(화) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <브로드웨이 42번가> - 부산​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55591</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55591</guid>
+            <pubDate>Mon, 14 Nov 2022 19:04:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.21(월) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[왕가위 영화음악 오케스트라 콘서트​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55590</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55590</guid>
+            <pubDate>Mon, 14 Nov 2022 19:04:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.17(목) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 삼척시민과 함께하는 2022 송년 음악회​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55589</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55589</guid>
+            <pubDate>Mon, 14 Nov 2022 19:04:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.17(목) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​어린이뮤지컬 <다이노파워즈-그린에너지를 지켜라!> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55588</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55588</guid>
+            <pubDate>Fri, 11 Nov 2022 09:06:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.15(화) 08:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 2022 소연(라붐 . wsg 워너비) 1st 팬미팅​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55587</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55587</guid>
+            <pubDate>Fri, 11 Nov 2022 09:06:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.15(화) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <메리셸리> 온라인 스트리밍 (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/beautifulway21</link>
+            <guid>https://patron.naver.com/ntv/c/intro/beautifulway21</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[11월 21일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_226/Dpn37_1664174617876T7Rwk_JPEG/1664174617857.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[웰컴K-스테이지] 10주차 <사춤2-렛츠 댄스 크레이지> (네이버 공연)]]></title>
+            <link>https://tv.naver.com/l/119532</link>
+            <guid>https://tv.naver.com/l/119532</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[11월 23일(수) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_174/CVwEb_1667544300374Wzd0c_JPEG/1667544300355.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <번지점프를 하다> 후원 라이브_11/28 (월) 20:00 (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[11월 28일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221026_88/1WfyW_1666775374833ozjiK_JPEG/1666775374804.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											오페라 <라 보엠> (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[12월 03일(토) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_241/6Ism5_1665463065552jzfx8_JPEG/1665463065473.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <랭보> 영어 자막 지원 온라인 중계 (2019년도) (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/livecorp</link>
+            <guid>https://patron.naver.com/ntv/c/intro/livecorp</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[12월 05일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_124/Fsn8U_1667869906025IxslE_JPEG/1667869906000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립심포니오케스트라 DR's Pick Ⅳ '천지창조' (네이버 공연)]]></title>
+            <link>https://blog.naver.com/ksoblog/222910108760</link>
+            <guid>https://blog.naver.com/ksoblog/222910108760</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[12월 09일(금) 19:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_30/zAQJp_1667809366190zV5ku_JPEG/1667809366152.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											댄스 콘서트 <희노애락: THE ROAD> 네이버 후원 라이브 (네이버 공연)]]></title>
+            <link>https://tv.naver.com/l/119996</link>
+            <guid>https://tv.naver.com/l/119996</guid>
+            <pubDate>Wed, 16 Nov 2022 17:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[12월 12일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_13/2ppJ6_1668061000139j9hax_JPEG/1668061000120.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
