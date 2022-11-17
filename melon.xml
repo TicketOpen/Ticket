@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-11-17T05:09:06.252Z</updated>
+    <updated>2022-11-17T06:10:47.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Beyond LIVE－2022 THE BOYZ FAN CON：THE B－ROAD 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6718</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6718"/>
+        <updated>2022-11-17T06:08:46.253Z</updated>
+        <content type="html"><![CDATA[2022.11.18(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싱어송라이터 이민규 EP［Love Playlist］발매 기념 단독콘서트 Love and Songs 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6717</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6709"/>
         <updated>2022-11-16T17:18:24.554Z</updated>
         <content type="html"><![CDATA[2022.11.24(목) 21:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［맥거핀 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6708</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6708"/>
-        <updated>2022-11-16T17:18:24.557Z</updated>
-        <content type="html"><![CDATA[2022.11.23(수) 20:00]]></content>
     </entry>
 </feed>
