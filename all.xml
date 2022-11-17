@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 03:38:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 04:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6706</guid>
             <pubDate>Wed, 16 Nov 2022 17:18:24 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.17(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 KIM HO JOONG CONCERT TOUR [ ARISTRA ] - BUSAN 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45095&amp;groupno=45095&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45095&amp;groupno=45095&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 17 Nov 2022 04:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.22(화)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 코요태 콘서트 투어 〈LET's KOYOTE!〉 - 대구 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[22.11.23(수)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 ICHILLIN＇CONCERT［Your Time］티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45077&amp;groupno=45077&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45077&amp;groupno=45077&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 16 Nov 2022 17:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.21(월)&nbsp;20:00]]></content:encoded>
+            <title><![CDATA[2022 KIM HO JOONG CONCERT TOUR [ ARISTRA ] - BUSAN 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45095</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45095</guid>
+            <pubDate>Thu, 17 Nov 2022 04:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.22
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022111616513664.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 코요태 콘서트 투어 〈LET's KOYOTE!〉 - 대구 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2022.11.18
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016188_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 장윤정 라이브 콘서트 - 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45085</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45085</guid>
-            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.18
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016208_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 코요태 콘서트 투어〈LET‘s KOYOTE!〉- 대구 티켓오픈안내 (예스24 티켓)]]></title>
@@ -424,7 +424,7 @@
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12436</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12436</guid>
             <pubDate>Wed, 16 Nov 2022 23:03:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.18(금) 14:00]]></content:encoded>
+            <content:encoded><![CDATA[2022.11.18(금) 17:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 멜로망스 전국투어 콘서트〈Festival〉- 울산 티켓오픈안내 (예스24 티켓)]]></title>
