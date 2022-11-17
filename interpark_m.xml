@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 04:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 05:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023년 연극 <친정엄마와 2박3일 - 대구> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45098</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45098</guid>
+            <pubDate>Thu, 17 Nov 2022 05:05:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.22
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022111619284228.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤직드라마 당신만이 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45097</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45097</guid>
+            <pubDate>Thu, 17 Nov 2022 05:05:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.17
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005476_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[음악극 〈올드위키드송〉 Old Wicked Songs 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45096</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45096</guid>
+            <pubDate>Thu, 17 Nov 2022 05:05:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.23
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22015578_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2022 KIM HO JOONG CONCERT TOUR [ ARISTRA ] - BUSAN 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45095</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.11.28
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20221116040344.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022-23 Forestella Concert - The Royal in Seoul 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45088</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45088</guid>
-            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.09
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20221116035734.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022-23 Forestella Concert - The Royal in Busan 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45087</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45087</guid>
-            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.16
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20221116034648.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 브레드이발소 〈대결! 최고의 이발사〉 - 안성 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45086</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45086</guid>
-            <pubDate>Wed, 16 Nov 2022 17:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.18
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016188_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
