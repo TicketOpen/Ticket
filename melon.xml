@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-11-17T08:12:30.164Z</updated>
+    <updated>2022-11-17T09:08:21.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SUPERNOVA！FINAL 너드커넥션 단독 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6721</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6721"/>
+        <updated>2022-11-17T09:04:40.805Z</updated>
+        <content type="html"><![CDATA[2022.11.22(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 정승원 FANMEETING 〈Kick Off〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6720</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6720"/>
+        <updated>2022-11-17T09:04:40.807Z</updated>
+        <content type="html"><![CDATA[2022.11.18(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사운드 힐즈 단독공연 “언젠가 지날 이 계절에” 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6719</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6719"/>
+        <updated>2022-11-17T09:04:40.808Z</updated>
+        <content type="html"><![CDATA[2022.12.01(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond LIVE－2022 THE BOYZ FAN CON：THE B－ROAD 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6718</id>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6712"/>
         <updated>2022-11-16T17:18:24.527Z</updated>
         <content type="html"><![CDATA[2022.11.22(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Questions From Our Night －한로로＆숨비 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6711</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6711"/>
-        <updated>2022-11-16T17:18:24.529Z</updated>
-        <content type="html"><![CDATA[2022.11.18(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밴드 uni（유니）첫 단독콘서트 Dive into The World！티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6710</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6710"/>
-        <updated>2022-11-16T17:18:24.530Z</updated>
-        <content type="html"><![CDATA[2022.11.21(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［우물 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6709</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6709"/>
-        <updated>2022-11-16T17:18:24.554Z</updated>
-        <content type="html"><![CDATA[2022.11.24(목) 21:00]]></content>
     </entry>
 </feed>
