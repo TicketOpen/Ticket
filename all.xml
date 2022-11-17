@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 10:07:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 11:04:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6712</guid>
             <pubDate>Wed, 16 Nov 2022 17:18:24 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.22(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 이수영 연말 콘서트 ‘[The Winter Grace] 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45105&amp;groupno=45105&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45105&amp;groupno=45105&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 17 Nov 2022 11:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[22.11.22(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 변진섭 전국투어 콘서트 : 변천사 - 군포 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[22.12.09(금)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022-23 Forestella Concert - The Royal in Busan 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45087&amp;groupno=45087&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45087&amp;groupno=45087&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 16 Nov 2022 17:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.16(금)&nbsp;20:00]]></content:encoded>
+            <title><![CDATA[2022 이수영 연말 콘서트 ‘[The Winter Grace] 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45105</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45105</guid>
+            <pubDate>Thu, 17 Nov 2022 11:03:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.22
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022111620060810.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 변진섭 전국투어 콘서트 : 변천사 - 군포 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2022.11.23
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22015578_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 KIM HO JOONG CONCERT TOUR [ ARISTRA ] - BUSAN 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45095</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45095</guid>
-            <pubDate>Thu, 17 Nov 2022 04:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.22
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022111616513664.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 장윤정 라이브 콘서트 - 부산 티켓오픈안내 (예스24 티켓)]]></title>
@@ -584,6 +584,27 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/50/202211/08/tca9trpldyhx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 2022 대한민국 동화축제 - 포항​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55612</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55612</guid>
+            <pubDate>Thu, 17 Nov 2022 11:03:46 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.11.18(금) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 광주시립발레단 제133회 정기공연 [호두까기 인형]​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55611</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55611</guid>
+            <pubDate>Thu, 17 Nov 2022 11:03:46 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.11.22(화) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[클래식의 향기​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55610</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55610</guid>
+            <pubDate>Thu, 17 Nov 2022 11:03:46 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.11.21(월) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[터미널 : The Terminal 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/55607</link>
             <guid>http://www.ticketlink.co.kr/help/notice/55607</guid>
@@ -666,27 +687,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/55595</guid>
             <pubDate>Tue, 15 Nov 2022 02:44:23 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2022.11.17(목) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​신비아파트 뮤지컬 시즌5 : 감염된 도시의 비밀 - 청주앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/55594</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/55594</guid>
-            <pubDate>Tue, 15 Nov 2022 02:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.11.17(목) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] [광주시립소년소녀합창단] 제137회 정기공연_영어 오페라 시리즈 I 「피노키오」티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/55593</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/55593</guid>
-            <pubDate>Tue, 15 Nov 2022 02:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.11.15(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 아프리카TV 철감봉남 스타 대학대전 결승전 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/55592</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/55592</guid>
-            <pubDate>Mon, 14 Nov 2022 17:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.11.15(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[터미널 : The Terminal 티켓오픈 안내 (티켓링크 모바일)]]></title>
