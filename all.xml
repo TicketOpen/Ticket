@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 06:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 07:06:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,20 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022111612475862.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대구] 2023년 연극 〈친정엄마와 2박3일〉 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12458</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12458</guid>
+            <pubDate>Thu, 17 Nov 2022 07:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.22(화) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12457</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12457</guid>
+            <pubDate>Thu, 17 Nov 2022 07:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.21(월) 20:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[음악극 올드위키드송 (Old Wicked Songs) 1차 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12456</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12456</guid>
@@ -420,18 +434,18 @@
             <content:encoded><![CDATA[2022.11.15(화) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈브로드웨이 42번가〉 - 부산 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12437</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12437</guid>
-            <pubDate>Wed, 16 Nov 2022 23:03:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.21(월) 14:00]]></content:encoded>
+            <title><![CDATA[[대구] 2023년 연극 〈친정엄마와 2박3일〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12458&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12458&amp;order=1</guid>
+            <pubDate>Thu, 17 Nov 2022 07:04:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-22(화) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2023 백지영 전국투어 콘서트〈GO BAEK〉- 고양 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12436</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12436</guid>
-            <pubDate>Wed, 16 Nov 2022 23:03:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.18(금) 17:00]]></content:encoded>
+            <title><![CDATA[Xdinary Heroes Stage ♭ : Overture 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12457&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12457&amp;order=1</guid>
+            <pubDate>Thu, 17 Nov 2022 07:04:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022-11-21(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[음악극 올드위키드송 (Old Wicked Songs) 1차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -490,18 +504,12 @@
             <content:encoded><![CDATA[2022-11-23(수) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 멜로망스 전국투어 콘서트〈Festival〉- 성남 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12448&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12448&amp;order=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022-11-21(월) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박진영 콘서트 ‘GROOVE BACK’ 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12447&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12447&amp;order=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022-11-18(금) 14:00]]></content:encoded>
+            <title><![CDATA[상상을 찍는 사진작가 에릭 요한슨展 - 대구 얼리버드 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1002</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1002</guid>
+            <pubDate>Thu, 17 Nov 2022 07:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.17(목)]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/39/202211/17/uq328tynzzu1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[싱어송라이터 시리즈 - 이영훈 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -574,14 +582,6 @@
             <pubDate>Wed, 16 Nov 2022 18:21:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.08(화)]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/50/202211/08/tca9trpldyhx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어송라이터 시리즈 - 정세운 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/992</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/992</guid>
-            <pubDate>Wed, 16 Nov 2022 18:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.15(화) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/42/202211/08/upa7fak3ittr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[터미널 : The Terminal 티켓오픈 안내 (티켓링크)]]></title>
