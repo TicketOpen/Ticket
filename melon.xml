@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-11-17T02:43:45.989Z</updated>
+    <updated>2022-11-17T03:38:19.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌5［로우행잉프루츠 단독 콘서트 ‘My Universe’］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6716</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6716"/>
+        <updated>2022-11-17T03:35:38.763Z</updated>
+        <content type="html"><![CDATA[2022.11.24(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌5［허드 단독 콘서트 ‘HERD－CHRISTMAS’］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6715</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6715"/>
+        <updated>2022-11-17T03:35:38.775Z</updated>
+        <content type="html"><![CDATA[2022.11.24(목) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jean Christopher Cholet X Soojin Suh 콘서트 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6713</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6706"/>
         <updated>2022-11-16T17:18:24.559Z</updated>
         <content type="html"><![CDATA[2022.11.17(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈웨스트 사이드 스토리〉 3차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6705</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6705"/>
-        <updated>2022-11-16T17:18:24.560Z</updated>
-        <content type="html"><![CDATA[2022.11.23(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박진영 콘서트 ‘GROOVE BACK’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6704</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6704"/>
-        <updated>2022-11-16T17:18:24.582Z</updated>
-        <content type="html"><![CDATA[2022.11.18(금) 14:00]]></content>
     </entry>
 </feed>
