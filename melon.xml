@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-11-17T00:36:04.515Z</updated>
+    <updated>2022-11-17T02:43:45.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Jean Christopher Cholet X Soojin Suh 콘서트 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6713</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6713"/>
+        <updated>2022-11-17T02:40:00.513Z</updated>
+        <content type="html"><![CDATA[2022.11.21(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러블레스 〈낙과〉 발매 기념 단독 공연 티켓 오픈]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6712</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6704"/>
         <updated>2022-11-16T17:18:24.582Z</updated>
         <content type="html"><![CDATA[2022.11.18(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 김사월 연말 단독 공연 〈밖은 너무 추워 나는〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6703</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6703"/>
-        <updated>2022-11-16T17:18:24.583Z</updated>
-        <content type="html"><![CDATA[2022.11.17(목) 20:00]]></content>
     </entry>
 </feed>
