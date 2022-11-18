@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 00:40:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 02:49:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국민코미디극 보잉보잉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45109</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45109</guid>
+            <pubDate>Fri, 18 Nov 2022 02:45:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.22
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022111621314337.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬, 우리들의 사랑 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45107</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45107</guid>
+            <pubDate>Fri, 18 Nov 2022 02:45:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22013342_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <드라랄라 치과> -  KT＆G 상상마당 대치아트홀 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45106</link>
@@ -23,7 +41,7 @@
             <pubDate>Thu, 17 Nov 2022 11:03:03 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.21
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022111620060810.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016281_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2023 변진섭 전국투어 콘서트 : 변천사 - 군포 티켓오픈 안내]]></title>
@@ -41,7 +59,7 @@
             <pubDate>Thu, 17 Nov 2022 08:09:26 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.21
                                     <span>00:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022111521090094.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016163_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[직모유니버스어셈블 티켓오픈 안내]]></title>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.11.22
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022111519160858.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023년 연극 <친정엄마와 2박3일 - 대구> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45098</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45098</guid>
-            <pubDate>Thu, 17 Nov 2022 05:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.22
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022111619284228.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악극 〈올드위키드송〉 Old Wicked Songs 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45096</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45096</guid>
-            <pubDate>Thu, 17 Nov 2022 05:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.23
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22015578_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
