@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-11-19T14:06:19.531Z</updated>
+    <updated>2022-11-19T15:06:17.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 대구시립소년소녀합창단 제126회 정기연주회 -동무생각, 그리고 100년-​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55621</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55621"/>
+        <updated>2022-11-19T15:06:01.304Z</updated>
+        <content type="html"><![CDATA[2022.11.21(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[롤링쿼츠 두번째 단독 콘서트​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55620</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55620"/>
+        <updated>2022-11-19T15:06:01.308Z</updated>
+        <content type="html"><![CDATA[2022.11.21(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 정동하 크리스마스 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55619</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55619"/>
+        <updated>2022-11-19T15:06:01.352Z</updated>
+        <content type="html"><![CDATA[2022.11.24(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​2022 경산공감락페스티벌​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55618</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55605"/>
         <updated>2022-11-17T06:10:33.896Z</updated>
         <content type="html"><![CDATA[2022.11.25(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 가족뮤지컬 <엄마까투리 - 마트에 간 꽁지> - 전주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55604</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55604"/>
-        <updated>2022-11-16T23:05:36.460Z</updated>
-        <content type="html"><![CDATA[2022.11.17(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <종의 기원> 1차​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55602</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55602"/>
-        <updated>2022-11-16T05:05:18.362Z</updated>
-        <content type="html"><![CDATA[2022.11.22(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2022 펭수 연말 펭미팅 ​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55601</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55601"/>
-        <updated>2022-11-16T05:05:18.382Z</updated>
-        <content type="html"><![CDATA[2022.11.22(화) 09:00]]></content>
     </entry>
 </feed>
