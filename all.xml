@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 09:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 10:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6738</guid>
             <pubDate>Mon, 21 Nov 2022 09:07:17 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.24(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[조형우 소극장 콘서트 〈Be My Guest〉 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6737</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6737</guid>
+            <pubDate>Mon, 21 Nov 2022 10:05:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.28(월) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 주은 FANMEETING 〈JU：mp〉 티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6729</guid>
             <pubDate>Mon, 21 Nov 2022 06:09:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.25(금) 18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 소수빈 연말공연 〈Merry Christmasoo〉 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6726</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6726</guid>
-            <pubDate>Mon, 21 Nov 2022 06:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.23(수) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 DICKPUNKS X daybreak in “Winter Wonderland“ 티켓오픈 안내 (인터파크 티켓)]]></title>
