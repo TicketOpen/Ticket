@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-11-21T08:13:20.818Z</updated>
+    <updated>2022-11-21T09:11:05.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 THE CRY X－MAS 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6738</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6738"/>
+        <updated>2022-11-21T09:07:17.361Z</updated>
+        <content type="html"><![CDATA[2022.11.24(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 주은 FANMEETING 〈JU：mp〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6736</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6736"/>
+        <updated>2022-11-21T09:07:17.361Z</updated>
+        <content type="html"><![CDATA[2022.11.24(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[냥 딜리버리：그＿냥의 전국 음악 배달 서비스 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6735</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6735"/>
+        <updated>2022-11-21T09:07:17.361Z</updated>
+        <content type="html"><![CDATA[2022.11.24(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 정우의［Frame］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6734</id>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6726"/>
         <updated>2022-11-21T06:09:29.648Z</updated>
         <content type="html"><![CDATA[2022.11.23(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 전동석 콘서트 〈두 번째 선물－기다림〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6725</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6725"/>
-        <updated>2022-11-21T06:09:29.651Z</updated>
-        <content type="html"><![CDATA[2022.11.22(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈이프덴〉 2차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6724</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6724"/>
-        <updated>2022-11-21T06:09:29.655Z</updated>
-        <content type="html"><![CDATA[2022.11.24(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미켈란젤로 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6723</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6723"/>
-        <updated>2022-11-21T06:09:29.661Z</updated>
-        <content type="html"><![CDATA[2022.11.24(목) 14:00]]></content>
     </entry>
 </feed>
