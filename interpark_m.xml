@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 23:06:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 00:37:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023년 연극 〈친정엄마와 2박3일－부산〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45125</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45125</guid>
+            <pubDate>Mon, 21 Nov 2022 00:33:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022111822102363.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022_GRASS_CONCERT DRAW YOUR winter holiday 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45124</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.11.24
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22012631_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈이프덴〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45115</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45115</guid>
-            <pubDate>Fri, 18 Nov 2022 05:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.24
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22013839_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
