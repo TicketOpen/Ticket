@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-11-22T10:06:59.668Z</updated>
+    <updated>2022-11-22T11:05:21.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브로콜리너마저 2022년의 우리들－어디에 있더라도 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6744</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6744"/>
+        <updated>2022-11-22T11:02:40.935Z</updated>
+        <content type="html"><![CDATA[2022.11.25(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김주환 〈CANDY〉 쇼케이스 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6743</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6734"/>
         <updated>2022-11-22T07:03:27.143Z</updated>
         <content type="html"><![CDATA[2022.11.25(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Year－end new－song 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6733</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6733"/>
-        <updated>2022-11-22T07:03:27.146Z</updated>
-        <content type="html"><![CDATA[2022.11.23(수) 20:00]]></content>
     </entry>
 </feed>

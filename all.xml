@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 10:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 11:05:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브로콜리너마저 2022년의 우리들－어디에 있더라도 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6744</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6744</guid>
+            <pubDate>Tue, 22 Nov 2022 11:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.25(금) 20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[김주환 〈CANDY〉 쇼케이스 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6743</link>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6734</guid>
             <pubDate>Tue, 22 Nov 2022 07:03:27 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.25(금) 18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Year－end new－song 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6733</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6733</guid>
-            <pubDate>Tue, 22 Nov 2022 07:03:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.23(수) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈물랑루즈!〉 아시아 초연 (Moulin Rouge! The Musical) 2차.. (인터파크 티켓)]]></title>
@@ -511,86 +511,6 @@
             <content:encoded><![CDATA[2022-11-25(금) 19:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유다빈밴드 Concert 「우리의 밤」 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1004</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1004</guid>
-            <pubDate>Mon, 21 Nov 2022 09:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.25(금) 19:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/04/202211/21/vxnnbbs652sb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 오펀스 〈Orphans〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1003</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1003</guid>
-            <pubDate>Sun, 20 Nov 2022 18:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.21(월) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/46/202211/18/jel05fno6wcx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상상을 찍는 사진작가 에릭 요한슨展 - 대구 얼리버드 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1002</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1002</guid>
-            <pubDate>Sun, 20 Nov 2022 18:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.17(목)]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/39/202211/17/uq328tynzzu1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어송라이터 시리즈 - 이영훈 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1001</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1001</guid>
-            <pubDate>Sun, 20 Nov 2022 18:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.22(화) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/55/202211/15/uon1hkbfjpsq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어송라이터 시리즈 - 마마스건(Mamas Gun) 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1000</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1000</guid>
-            <pubDate>Sun, 20 Nov 2022 18:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.22(화) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/47/202211/15/u8bhs8gwt4k0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어송라이터 시리즈 - 예빛 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/999</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/999</guid>
-            <pubDate>Sun, 20 Nov 2022 18:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.22(화) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/41/202211/15/6w6nf4fzf32t.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BUDX FIFA FAN FESTIVAL 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/998</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/998</guid>
-            <pubDate>Sun, 20 Nov 2022 18:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.11(금) 18:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/13/202211/11/g3nlobwifds8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 SPEARHEAD FESTIVAL 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/997</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/997</guid>
-            <pubDate>Sun, 20 Nov 2022 18:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.11(금) 18:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202211/11/2hhtyrdlttxf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오페레타 뮤지컬 〈판타지아 시즌2〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/996</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/996</guid>
-            <pubDate>Sun, 20 Nov 2022 18:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.14(월) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/26/202211/10/4f4pjvjanlwy.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스에 뭐하니？ 일반 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/995</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/995</guid>
-            <pubDate>Sun, 20 Nov 2022 18:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.11(금) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/57/202211/15/ug4v7ljsnreq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[단독판매]  ​Canticum Novum Mission Choir 송년음악회​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/55636</link>
             <guid>http://www.ticketlink.co.kr/help/notice/55636</guid>
@@ -696,6 +616,76 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2022.11.23(수) 04:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 마당극 新뺑파전 - 동해​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55646</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55646</guid>
+            <pubDate>Tue, 22 Nov 2022 11:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.23(수) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 <앤서니브라운의 겁쟁이 빌리> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55645</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55645</guid>
+            <pubDate>Tue, 22 Nov 2022 11:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.30(수) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(시흥) 2023 어린이마술쇼 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55644</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55644</guid>
+            <pubDate>Tue, 22 Nov 2022 11:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.23(수) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 광주시립합창단 제191회 정기연주회 '칸타타, 달의 춤' 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55643</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55643</guid>
+            <pubDate>Tue, 22 Nov 2022 11:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.23(수) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 2022 뮤지컬<미오 프라텔로>_ 공연실황 녹화 중계​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55642</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55642</guid>
+            <pubDate>Tue, 22 Nov 2022 11:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.28(월) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 김창완밴드 전국투어 <아니벌써> - 전주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55641</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55641</guid>
+            <pubDate>Tue, 22 Nov 2022 11:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.23(수) 04:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 김창완밴드 전국투어 <아니벌써> - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55640</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55640</guid>
+            <pubDate>Tue, 22 Nov 2022 11:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.23(수) 04:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​(시흥) 2022 가족뮤지컬 프린세스 공주뮤지컬쇼​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55639</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55639</guid>
+            <pubDate>Tue, 22 Nov 2022 11:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.23(수) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 어쿠스틱카페 콘서트 내한공연 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55638</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55638</guid>
+            <pubDate>Tue, 22 Nov 2022 11:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.24(목) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어린이뮤지컬 <다이노파워즈-그린에저지를 지켜라!>-전주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55637</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55637</guid>
+            <pubDate>Tue, 22 Nov 2022 11:05:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.24(목) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매]  ​Canticum Novum Mission Choir 송년음악회​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/55636</link>
             <guid>http://m.ticketlink.co.kr/help/notice/55636</guid>
@@ -729,76 +719,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/55632</guid>
             <pubDate>Mon, 21 Nov 2022 13:34:36 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.22(화) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​2022 THE CRY X-MAS​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/55631</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/55631</guid>
-            <pubDate>Mon, 21 Nov 2022 13:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.23(수) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​2023 변진섭 전국투어 콘서트 : 변천사 - 군포​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/55630</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/55630</guid>
-            <pubDate>Mon, 21 Nov 2022 13:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.22(화) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  ​M1 Percussion Trio 가족 힐링 크리스마스 콘서트 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/55629</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/55629</guid>
-            <pubDate>Mon, 21 Nov 2022 13:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.22(화) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <드림스쿨>​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/55628</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/55628</guid>
-            <pubDate>Mon, 21 Nov 2022 13:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.22(화) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 2022 우리음악집단 소옥 정기공연 <비밀의 화원> -소옥대로- 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/55627</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/55627</guid>
-            <pubDate>Mon, 21 Nov 2022 13:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.28(월) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뮤지컬, 우리들의 사랑] ​ 2차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/55626</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/55626</guid>
-            <pubDate>Mon, 21 Nov 2022 13:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.25(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 뮤지컬 <미드나잇 : 액터뮤지션> - THE DAY​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/55625</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/55625</guid>
-            <pubDate>Mon, 21 Nov 2022 13:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.25(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 김창옥 토크콘서트 시즌3 - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/55624</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/55624</guid>
-            <pubDate>Mon, 21 Nov 2022 13:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.25(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 김창옥 토크콘서트 시즌3 - 수원​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/55623</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/55623</guid>
-            <pubDate>Mon, 21 Nov 2022 13:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.25(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  ​제1회 인어스 브라스 소사이어티 콘서트 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/55622</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/55622</guid>
-            <pubDate>Mon, 21 Nov 2022 13:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.23(수) 04:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[웰컴K-스테이지] 10주차 <사춤2-렛츠 댄스 크레이지> (네이버 공연)]]></title>
