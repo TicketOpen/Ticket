@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 06:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 07:07:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈온 더 비트〉 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45146</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45146</guid>
+            <pubDate>Tue, 22 Nov 2022 07:03:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.25
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22014012_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[안톤 체홉 4대 희곡 번안 프로젝트 - <종로 갈매기>, <쯔루하시 세자매>, <능길삼촌>, <연꽃정원> 티켓오픈]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45145</link>
@@ -71,13 +80,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022112123103759.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어린이뮤지컬 <다이노파워즈-그린에저지를 지켜라!>-전주 티켓오픈 안내]]></title>
+            <title><![CDATA[어린이뮤지컬 <다이노파워즈-그린에너지를 지켜라!>-전주 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45138</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45138</guid>
             <pubDate>Tue, 22 Nov 2022 02:42:26 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.24
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20221122035422.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 DICKPUNKS X daybreak in “Winter Wonderland“ 티켓오픈 안내]]></title>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.11.25
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20221121060335.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 THE CRY X-MAS 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45136</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45136</guid>
-            <pubDate>Mon, 21 Nov 2022 09:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.23
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016347_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
