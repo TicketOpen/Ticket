@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-11-23T03:29:51.076Z</updated>
+    <updated>2022-11-23T04:11:31.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[겨울잠：정새벽，슈야，라디오 파라다이스와 함께하는 포근한 겨울밤 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6750</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6750"/>
+        <updated>2022-11-23T04:07:53.408Z</updated>
+        <content type="html"><![CDATA[2022.11.28(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 WONHO CONCERT 〈Everyday Christmas〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6749</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6741"/>
         <updated>2022-11-22T14:03:08.271Z</updated>
         <content type="html"><![CDATA[2022.11.25(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음악극〈브릴리언트〉 찬란하게 빛나던 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6740</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6740"/>
-        <updated>2022-11-22T14:03:08.271Z</updated>
-        <content type="html"><![CDATA[2022.11.25(금) 11:00]]></content>
     </entry>
 </feed>
