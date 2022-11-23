@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 00:31:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 02:29:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[낭만주의 거장 <차이코프스키 & 라흐마니노프> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45148</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45148</guid>
+            <pubDate>Wed, 23 Nov 2022 02:26:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022111816444359.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Touched concert 'Highlight 2022' 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45147</link>
@@ -50,7 +59,7 @@
             <pubDate>Tue, 22 Nov 2022 05:04:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.24
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022111715350692.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016405_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[왕세자실종사건 티켓오픈 안내]]></title>
@@ -68,7 +77,7 @@
             <pubDate>Tue, 22 Nov 2022 05:04:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.24
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20221122025524.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016381_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[김장훈 크리스마스 콘서-r트 티켓오픈 안내]]></title>
@@ -86,16 +95,7 @@
             <pubDate>Tue, 22 Nov 2022 02:42:26 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.24
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20221122035422.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 DICKPUNKS X daybreak in “Winter Wonderland“ 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45137</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45137</guid>
-            <pubDate>Tue, 22 Nov 2022 15:04:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.25
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20221121060335.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016401_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
