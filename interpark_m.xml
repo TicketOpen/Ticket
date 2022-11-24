@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 04:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 05:07:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈스위니토드〉 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45163</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45163</guid>
+            <pubDate>Thu, 24 Nov 2022 05:04:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.01
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22013271_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[그 여자 그 남자 그리고 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45162</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.11.24
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016357_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[오페레타 뮤지컬 판타지아 시즌2 추가티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45152</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45152</guid>
-            <pubDate>Wed, 23 Nov 2022 08:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.24
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22014802_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
