@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-11-25T04:11:17.022Z</updated>
+    <updated>2022-11-25T05:07:59.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BRANDNEW YEAR 2022 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12485&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12485&amp;order=1"/>
+        <updated>2022-11-25T05:05:05.659Z</updated>
+        <content type="html"><![CDATA[2022-11-29(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 전국투어 콘서트〈박창근〉- 광주앵콜 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12484&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12476&amp;order=1"/>
         <updated>2022-11-24T09:05:11.489Z</updated>
         <content type="html"><![CDATA[2022-11-29(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022-23 YB TOUR LIGHTS - 성남 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12475&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12475&amp;order=1"/>
-        <updated>2022-11-23T07:03:51.919Z</updated>
-        <content type="html"><![CDATA[2022-11-28(월) 16:00]]></content>
     </entry>
 </feed>
