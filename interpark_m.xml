@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 06:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 07:06:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 한국사 대모험 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45199</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45199</guid>
+            <pubDate>Mon, 28 Nov 2022 07:03:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.06
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022112815000714.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 CRUSH ON YOU TOUR ［CRUSH HOUR］ - 대구 지정석 추가 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45198</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45198</guid>
+            <pubDate>Mon, 28 Nov 2022 07:03:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.29
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016184_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲 15차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45197</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.11.29
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22012863_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 전국투어 콘서트 <박창근> - 포항앵콜 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45188</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45188</guid>
-            <pubDate>Mon, 28 Nov 2022 00:28:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.05
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20221128102120.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지브리 페스티벌 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45187</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45187</guid>
-            <pubDate>Mon, 28 Nov 2022 00:28:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.29
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016602_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
