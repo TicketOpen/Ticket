@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 08:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 09:07:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SURL(설) concert ‘review of us’ - 춘천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45204</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45204</guid>
+            <pubDate>Mon, 28 Nov 2022 09:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.05
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20221128055707.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SURL(설) concert ‘review of us’ - 전주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45203</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45203</guid>
+            <pubDate>Mon, 28 Nov 2022 09:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.05
+                                    <span>17:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20221128055454.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[싸이 올나잇스탠드 2022 <막차와 첫차 싸이> 티켓오픈안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45200</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.12.02
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22013388_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[권서경 콘서트 〈Once upon a Holiday〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45192</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45192</guid>
-            <pubDate>Mon, 28 Nov 2022 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022112811361457.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폴리팝(두들팝ver.2) 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45190</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45190</guid>
-            <pubDate>Mon, 28 Nov 2022 02:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.05
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0003233_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
