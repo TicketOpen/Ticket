@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-11-28T02:24:08.732Z</updated>
+    <updated>2022-11-28T03:24:01.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​제3회 더 소프라노즈 정기연주회 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55680</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55680"/>
+        <updated>2022-11-28T03:22:48.364Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.29(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 음악극<브릴리언트>​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55677</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55677"/>
+        <updated>2022-11-28T03:22:48.368Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.28(월) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시가 - 대구​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55676</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55676"/>
+        <updated>2022-11-28T03:22:48.373Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.29(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신데렐라 - 수원 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55675</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55675"/>
+        <updated>2022-11-28T03:22:48.375Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.29(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지브리 페스티벌​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55674</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55664"/>
         <updated>2022-11-24T11:05:32.508Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.11.25(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클래식 디깅 클럽 - 쇼팽​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55663</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55663"/>
-        <updated>2022-11-24T11:05:32.522Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.02(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​연극 <러브레터> - 전주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55662</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55662"/>
-        <updated>2022-11-24T00:35:15.890Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.25(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [온라인] 2022 에일리 전국투어콘서트 <한 걸음 더> - 서울​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55661</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55661"/>
-        <updated>2022-11-23T17:04:40.836Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.25(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​몽심 - 부산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55660</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55660"/>
-        <updated>2022-11-23T17:04:40.849Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.24(목) 01:00]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2022-11-28T02:24:08.771Z</updated>
+    <updated>2022-11-28T03:24:01.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12491&amp;order=1"/>
         <updated>2022-11-28T02:22:27.733Z</updated>
         <content type="html"><![CDATA[2022-11-29(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안예은단독콘서트 ‘제6회 (안밀린) 오타쿠리스마스’ 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12490&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12490&amp;order=1"/>
+        <updated>2022-11-28T03:22:18.524Z</updated>
+        <content type="html"><![CDATA[2022-12-01(목) 19:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <한국사 대모험> 프리뷰 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12483&amp;order=1"/>
         <updated>2022-11-25T02:24:22.639Z</updated>
         <content type="html"><![CDATA[2022-12-01(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 전국투어 콘서트〈박창근〉- 강릉앵콜 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12482&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12482&amp;order=1"/>
-        <updated>2022-11-24T10:04:38.078Z</updated>
-        <content type="html"><![CDATA[2022-11-30(수) 14:00]]></content>
     </entry>
 </feed>
