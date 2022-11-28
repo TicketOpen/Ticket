@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 07:06:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 08:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6760</guid>
             <pubDate>Mon, 28 Nov 2022 05:03:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.30(수) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[싸이 올나잇스탠드 2022 <막차와 첫차 싸이> 티켓오픈안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45200&amp;groupno=45200&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45200&amp;groupno=45200&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 28 Nov 2022 08:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.06(화)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 한국사 대모험 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[22.11.28(월)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이머시브 다이닝 〈그랜드 엑스페디션〉 5차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45181&amp;groupno=45181&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45181&amp;groupno=45181&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 25 Nov 2022 04:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[22.11.29(화)&nbsp;15:00]]></content:encoded>
+            <title><![CDATA[싸이 올나잇스탠드 2022 <막차와 첫차 싸이> 티켓오픈안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45200</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45200</guid>
+            <pubDate>Mon, 28 Nov 2022 08:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.06
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20221128042459.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 한국사 대모험 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2022.12.05
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0003233_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈범옹〉 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45189</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45189</guid>
-            <pubDate>Mon, 28 Nov 2022 00:28:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.29
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22012863_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈한국사 대모험〉 프리뷰 티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -503,6 +503,14 @@
             <content:encoded><![CDATA[2022-12-02(금) 14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[엉덩이 탐정 플레이파크 미션 대모험 - 미아/천호/킨텍스 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1006</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1006</guid>
+            <pubDate>Mon, 28 Nov 2022 08:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.30(수) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/16/202211/28/03wsge3i85co.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연극 〈맥베스 레퀴엠〉 - 위멮데이 티켓오픈 안내 N (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1005</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1005</guid>
@@ -573,14 +581,6 @@
             <pubDate>Sat, 26 Nov 2022 21:03:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.11(금) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202211/11/2hhtyrdlttxf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오페레타 뮤지컬 〈판타지아 시즌2〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/996</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/996</guid>
-            <pubDate>Sat, 26 Nov 2022 21:03:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.14(월) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/26/202211/10/4f4pjvjanlwy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독판매]  ​제3회 더 소프라노즈 정기연주회 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
