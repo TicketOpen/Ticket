@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-11-30T05:06:16.942Z</updated>
+    <updated>2022-11-30T07:06:59.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어썸스테이지 in 부산－LUCY 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6788</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6788"/>
+        <updated>2022-11-30T07:03:21.381Z</updated>
+        <content type="html"><![CDATA[2022.12.07(수) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어썸스테이지 in 부산－하현상＆LUCY 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6787</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6787"/>
+        <updated>2022-11-30T07:03:21.387Z</updated>
+        <content type="html"><![CDATA[2022.12.06(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로칼하이프리즘스테이지 기부콘서트 ‘나눔’ 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6783</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6775"/>
         <updated>2022-11-29T20:03:34.706Z</updated>
         <content type="html"><![CDATA[2022.11.29(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박성현 프로 팬미팅：남달라와 함께하는 남다른 ‘LOCKER ROOM 5’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6774</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6774"/>
-        <updated>2022-11-29T20:03:34.707Z</updated>
-        <content type="html"><![CDATA[2022.11.29(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONEWE ‘ONE day in the WEnter（겨울의 어느 날）’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6773</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6773"/>
-        <updated>2022-11-29T20:03:34.707Z</updated>
-        <content type="html"><![CDATA[2022.12.02(금) 20:00]]></content>
     </entry>
 </feed>
