@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 08:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 09:07:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,20 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6787</guid>
             <pubDate>Wed, 30 Nov 2022 07:03:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.06(화) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[9001 연말 콘서트［Rewind］티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6785</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6785</guid>
+            <pubDate>Wed, 30 Nov 2022 09:03:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.02(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이솔로몬 1st Fanmeeting ‘계절의 끝자락에서’ 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6784</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6784</guid>
+            <pubDate>Wed, 30 Nov 2022 09:03:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.02(금) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[로칼하이프리즘스테이지 기부콘서트 ‘나눔’ 티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -62,20 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6777</guid>
             <pubDate>Tue, 29 Nov 2022 20:03:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.30(수) 13:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[함보경 개인전：두근두근 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6776</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6776</guid>
-            <pubDate>Tue, 29 Nov 2022 20:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.29(화) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[weplay Ep．2：태인 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6775</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6775</guid>
-            <pubDate>Tue, 29 Nov 2022 20:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.29(화) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 서울 아시테지 겨울축제 - 대학로극장 쿼드 티켓오픈 안내 (인터파크 티켓)]]></title>
