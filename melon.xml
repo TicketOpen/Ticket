@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-12-01T09:07:13.056Z</updated>
+    <updated>2022-12-01T10:07:32.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TONE STUDIO LIVE 〈빌리어코스티〉：Merry Acoustie 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6792</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6792"/>
+        <updated>2022-12-01T10:03:56.209Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌5［김정훈 앨범발매 단독 콘서트 ‘Disapper’］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6791</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[로칼하이프리즘스테이지 기부콘서트 ‘나눔’ 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6783</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6783"/>
-        <updated>2022-12-01T00:34:06.754Z</updated>
-        <content type="html"><![CDATA[2022.12.05(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지웅＆윤서빈 팬미팅 ‘Dream of You：가장 행복한 꿈’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6782</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6782"/>
         <updated>2022-12-01T00:34:06.754Z</updated>
         <content type="html"><![CDATA[2022.12.05(월) 20:00]]></content>
     </entry>
