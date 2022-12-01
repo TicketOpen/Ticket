@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 23:06:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 00:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장녀들 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45224</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45224</guid>
+            <pubDate>Thu, 01 Dec 2022 00:34:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.01
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016045_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[신비한 마녀의 세상바꾸기 - 세종 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45223</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45223</guid>
+            <pubDate>Thu, 01 Dec 2022 00:34:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.01
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016721_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2023 서울 아시테지 겨울축제 - 대학로극장 쿼드 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45222</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.12.02
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022112321374014.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <서편제> - 대전 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45213</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45213</guid>
-            <pubDate>Tue, 29 Nov 2022 05:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016703_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <청춘소음> 프리뷰 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45212</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45212</guid>
-            <pubDate>Tue, 29 Nov 2022 05:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.06
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022112811120443.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
