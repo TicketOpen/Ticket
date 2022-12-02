@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 02:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 03:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플레이 뮤지컬 〈핑크퐁과 아기상어의 생일파티 대소동〉 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45235</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45235</guid>
+            <pubDate>Fri, 02 Dec 2022 03:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.05
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22015210_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2022 쫀득이 연말 콘서트 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45234</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.12.13
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22013053_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 정승환의 안녕, 겨울 : 그럼에도 사랑하게 될 날들 추가티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45221</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45221</guid>
-            <pubDate>Fri, 02 Dec 2022 02:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.02
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22012976_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
