@@ -4,9 +4,72 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 04:08:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 05:05:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 김창옥 토크콘서트 시즌3 - 익산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45242</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45242</guid>
+            <pubDate>Fri, 02 Dec 2022 05:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.05
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022113015243713.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 뮤지컬 삼총사 - 대전 OP석 및 1월 1일 공연 추가오픈 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45241</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45241</guid>
+            <pubDate>Fri, 02 Dec 2022 05:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.06
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120112443384.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Funking Christmas 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45240</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45240</guid>
+            <pubDate>Fri, 02 Dec 2022 05:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.05
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈푸른 잿빛 밤〉 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45239</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45239</guid>
+            <pubDate>Fri, 02 Dec 2022 05:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.08
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22014666_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[최고다 호기심딱지 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45238</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45238</guid>
+            <pubDate>Fri, 02 Dec 2022 05:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.06
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120117070218.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈미저리〉 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45237</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45237</guid>
+            <pubDate>Fri, 02 Dec 2022 05:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.06
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22015919_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 〈깨비키즈의 빽투더 공룡배틀〉 - 고양 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45236</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45236</guid>
+            <pubDate>Fri, 02 Dec 2022 05:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.06
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120116481391.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[플레이 뮤지컬 〈핑크퐁과 아기상어의 생일파티 대소동〉 2차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45235</link>
@@ -33,69 +96,6 @@
             <content:encoded><![CDATA[2022.12.05
                                     <span>17:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22015301_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[금호아트홀 아름다운 목요일－박종해 Piano 양인모 Violin 문태국 Cello（1122） 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45232</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45232</guid>
-            <pubDate>Thu, 01 Dec 2022 09:04:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.05
-                                    <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22015235_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[금호아트홀 아름다운 목요일－박종해 Piano 양인모 Violin 문태국 Cello（1123） 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45231</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45231</guid>
-            <pubDate>Thu, 01 Dec 2022 09:04:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.05
-                                    <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22015330_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[금호아트홀 아름다운 목요일－알렉상드르 타로 Piano 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45230</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45230</guid>
-            <pubDate>Thu, 01 Dec 2022 09:04:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.05
-                                    <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22015686_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 라이브 가족뮤지컬〈알라딘〉-대전 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45229</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45229</guid>
-            <pubDate>Thu, 01 Dec 2022 06:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.07
-                                    <span>00:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈스노우데이〉 - 국립중앙박물관 극장용 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45228</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45228</guid>
-            <pubDate>Fri, 02 Dec 2022 04:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.06
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016126_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈반짝반짝 달님이 - 버블버블 마법의 솜사탕〉 - 용인 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45227</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45227</guid>
-            <pubDate>Thu, 01 Dec 2022 04:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.05
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022113015542860.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2022_인천 파이널 추가좌석오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45226</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45226</guid>
-            <pubDate>Thu, 01 Dec 2022 02:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.02
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22013321_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
