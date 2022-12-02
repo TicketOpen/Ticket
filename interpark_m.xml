@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 08:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 09:06:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손민수 Curated 01 김도현 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45248</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45248</guid>
+            <pubDate>Fri, 02 Dec 2022 09:03:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.05
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016983_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[연극 〈늘근도둑이야기〉 1월 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45247</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.12.08
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22014666_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[최고다 호기심딱지 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45238</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45238</guid>
-            <pubDate>Fri, 02 Dec 2022 05:03:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.06
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120117070218.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
