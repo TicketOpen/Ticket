@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 10:06:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 11:05:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메리 크리스투아！（Merry Christua！）티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6798</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6798</guid>
+            <pubDate>Fri, 02 Dec 2022 11:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.08(목) 20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[크림빌라 퓨리 쇼케이스 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6797</link>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6789</guid>
             <pubDate>Fri, 02 Dec 2022 05:02:58 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.02(금) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어썸스테이지 in 부산－LUCY 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6788</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6788</guid>
-            <pubDate>Fri, 02 Dec 2022 05:02:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.07(수) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[손민수 Curated 01 김도현 티켓오픈 안내 (인터파크 티켓)]]></title>
