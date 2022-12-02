@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 03:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 04:08:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,6 +71,15 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈스노우데이〉 - 국립중앙박물관 극장용 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45228</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45228</guid>
+            <pubDate>Fri, 02 Dec 2022 04:05:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.06
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016126_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[가족뮤지컬 〈반짝반짝 달님이 - 버블버블 마법의 솜사탕〉 - 용인 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45227</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45227</guid>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.12.02
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22013321_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈여신님이 보고 계셔〉 10th Anniversary 4차티켓 오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45225</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45225</guid>
-            <pubDate>Thu, 01 Dec 2022 02:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.13
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22013053_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
