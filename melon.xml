@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-12-05T00:32:09.501Z</updated>
+    <updated>2022-12-05T02:13:32.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정동원 콘서트 2nd 음학회 ‘音學會’（2nd JEONG DONG WON’S ORCHESTRA CONCERT）전국투어－서울 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6799</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6799"/>
+        <updated>2022-12-05T02:09:43.323Z</updated>
+        <content type="html"><![CDATA[2022.12.08(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메리 크리스투아！（Merry Christua！）티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6798</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6790"/>
         <updated>2022-12-04T10:03:54.031Z</updated>
         <content type="html"><![CDATA[2022.12.07(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 장재인 BOOK CONCERT 〈Jane Air〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6789</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6789"/>
-        <updated>2022-12-04T10:03:54.034Z</updated>
-        <content type="html"><![CDATA[2022.12.02(금) 20:00]]></content>
     </entry>
 </feed>
