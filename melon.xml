@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-12-05T08:12:21.921Z</updated>
+    <updated>2022-12-05T09:06:10.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DRIFT：In Sync with the Earth 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6806</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6806"/>
+        <updated>2022-12-05T09:03:26.215Z</updated>
+        <content type="html"><![CDATA[2022.12.08(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRAVITY 공식 팬클럽 LUVITY 3기 모집 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6805</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6797"/>
         <updated>2022-12-05T08:08:32.613Z</updated>
         <content type="html"><![CDATA[2022.12.05(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박장현 1st Fanmeeting ‘현주소’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6796</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6796"/>
-        <updated>2022-12-05T08:08:32.616Z</updated>
-        <content type="html"><![CDATA[2022.12.05(월) 20:00]]></content>
     </entry>
 </feed>
