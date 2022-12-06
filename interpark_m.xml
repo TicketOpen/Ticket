@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 06:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 07:06:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 KIM HO JOONG CONCERT TOUR [ARISTRA] ONLINE 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45285</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45285</guid>
+            <pubDate>Tue, 06 Dec 2022 07:02:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.13
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소프리노 손지수 앨범 발매 기념 콘서트 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45284</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.12.09
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22012253_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2022_인천 파이널 (합창석) 추가티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45275</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45275</guid>
-            <pubDate>Tue, 06 Dec 2022 03:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22013321_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
