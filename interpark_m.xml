@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 23:06:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 00:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마우스트랩 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45270</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45270</guid>
+            <pubDate>Tue, 06 Dec 2022 00:26:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.23
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120603060424.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김마리 연말 단독 콘서트 “MARIE Christmas” 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45269</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.12.07
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120511394823.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 어쿠스틱카페 콘서트 내한공연 - 부산 with,지브리스튜디오OST 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45260</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45260</guid>
-            <pubDate>Mon, 05 Dec 2022 03:06:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.09
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022113017265079.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
