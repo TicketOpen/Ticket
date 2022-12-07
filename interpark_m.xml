@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 04:07:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 05:06:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 장윤정 라이브 콘서트 - 대전 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45303</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45303</guid>
+            <pubDate>Wed, 07 Dec 2022 05:03:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.09
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120614455575.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈웨스트 사이드 스토리〉 4차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45302</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45302</guid>
+            <pubDate>Wed, 07 Dec 2022 05:03:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.14
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22012184_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈빨래〉 26차 마지막 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45301</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.12.09
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22017002_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈로빈〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45292</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45292</guid>
-            <pubDate>Wed, 07 Dec 2022 00:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016158_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[SURL(설) 전국투어 ‘review of us’ - 대구 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45291</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45291</guid>
-            <pubDate>Tue, 06 Dec 2022 09:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.12
-                                    <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120215585757.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
