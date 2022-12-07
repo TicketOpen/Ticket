@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 02:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 03:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈빨래〉 26차 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45301</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45301</guid>
+            <pubDate>Wed, 07 Dec 2022 03:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.09
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005675_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[푸른 늑대의 후예 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45300</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.12.12
                                     <span>19:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120215585757.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SURL(설) 전국투어 ‘review of us’ - 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45290</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45290</guid>
-            <pubDate>Tue, 06 Dec 2022 09:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.12
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120216070929.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
