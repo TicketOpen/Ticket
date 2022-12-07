@@ -1,8 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://mticket.interpark.com/Notice/</id>
-    <title>인터파크 티켓 모바일</title>
-    <updated>2022-12-07T21:04:42.089Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>인터파크 티켓 모바일</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 07 Dec 2022 22:06:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다나카 1st 내한 콘서트 [꼬ㅊ보다 TANAKA] 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45312</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45312</guid>
+            <pubDate>Wed, 07 Dec 2022 22:03:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.22
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20221207060035.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헤이맨 (HeyMen) 단독콘서트 'HEEEY NEW YEAR' 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45311</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45311</guid>
+            <pubDate>Wed, 07 Dec 2022 22:03:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.14
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120616390266.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소크라테스 패러독스 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45310</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45310</guid>
+            <pubDate>Wed, 07 Dec 2022 22:03:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.08
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016244_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45309</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45309</guid>
+            <pubDate>Wed, 07 Dec 2022 22:03:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.09
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120713343994.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈온 더 비트〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45308</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45308</guid>
+            <pubDate>Wed, 07 Dec 2022 22:03:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.09
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22014012_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[어린이 베스트셀러 뮤지컬 <누가 내머리에 똥쌌어?>－화성 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45307</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45307</guid>
+            <pubDate>Wed, 07 Dec 2022 22:03:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.15
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120614544511.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 이미자 노래인생 60년 기념 음악회 - 청주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45306</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45306</guid>
+            <pubDate>Wed, 07 Dec 2022 22:03:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.09
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120621094458.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 백지영 전국투어 콘서트 〈GO BAEK〉 - 안산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45305</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45305</guid>
+            <pubDate>Wed, 07 Dec 2022 22:03:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120619040026.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[음악극 〈올드위키드송〉 Old Wicked Songs 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45304</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45304</guid>
+            <pubDate>Wed, 07 Dec 2022 22:03:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.14
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22015578_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 장윤정 라이브 콘서트 - 대전 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45303</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45303</guid>
+            <pubDate>Wed, 07 Dec 2022 22:03:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.09
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120614455575.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
