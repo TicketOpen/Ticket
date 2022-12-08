@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 03:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 04:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6818</guid>
             <pubDate>Wed, 07 Dec 2022 21:02:18 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.09(금) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우주라이브［퀸샤（Quinsha）］콘서트 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6817</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6817</guid>
+            <pubDate>Thu, 08 Dec 2022 04:06:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.09(금) 13:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[크리스탈 티 단독 콘서트 ‘겨울엔 야자수’：롤링 28주년 기념 공연 티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6810</guid>
             <pubDate>Wed, 07 Dec 2022 21:02:18 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.14(수) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[리온 단독 콘서트：LAST SUMMER 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6809</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6809</guid>
-            <pubDate>Wed, 07 Dec 2022 21:02:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.07(수) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022-23 Forestella Concert - The Royal in Seoul 티켓오픈 안내 (인터파크 티켓)]]></title>
