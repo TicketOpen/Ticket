@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 23:06:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 00:29:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 PIANO CANTABILE 신년음악회 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45313</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45313</guid>
+            <pubDate>Thu, 08 Dec 2022 00:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.08
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016868_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[다나카 1st 내한 콘서트 [꼬ㅊ보다 TANAKA] 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45312</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.12.14
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22015578_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 장윤정 라이브 콘서트 - 대전 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45303</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45303</guid>
-            <pubDate>Wed, 07 Dec 2022 22:03:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.09
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120614455575.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
