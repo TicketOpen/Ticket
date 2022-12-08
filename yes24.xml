@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2022-12-08T02:16:25.854Z</updated>
+    <updated>2022-12-08T03:13:44.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈넓은 하늘의 무지개를 보면 내 마음은 춤춘다〉 2차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12538</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12538"/>
+        <updated>2022-12-08T03:10:43.315Z</updated>
+        <content type="html"><![CDATA[2022.12.13(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 캣츠 오리지널 내한-서울(Musical CATS) 2차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12537</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12504"/>
         <updated>2022-12-08T00:26:58.357Z</updated>
         <content type="html"><![CDATA[2022.12.02(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장진의 연극 [서툰 사람들] 2차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12501</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12501"/>
-        <updated>2022-12-08T00:26:58.361Z</updated>
-        <content type="html"><![CDATA[2022.12.02(금) 11:00]]></content>
     </entry>
 </feed>

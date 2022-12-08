@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-12-08T02:16:25.853Z</updated>
+    <updated>2022-12-08T03:13:44.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 이지혜 단독 팬콘서트 〈첫번졔〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6819</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6819"/>
+        <updated>2022-12-08T03:09:50.692Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 알쏭달쏭 캐치！티니핑 〈신비한 상자를 열어라！〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6818</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6818"/>
         <updated>2022-12-07T21:02:18.480Z</updated>
         <content type="html"><![CDATA[2022.12.09(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스탈 티 단독 콘서트 ‘겨울엔 야자수’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6816</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6816"/>
+        <updated>2022-12-08T03:09:50.699Z</updated>
+        <content type="html"><![CDATA[2022.12.16(금) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신해경 최저낙원 단독공연 티켓 오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6809"/>
         <updated>2022-12-07T21:02:18.505Z</updated>
         <content type="html"><![CDATA[2022.12.07(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈이프덴〉 3차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6808</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6808"/>
-        <updated>2022-12-07T21:02:18.508Z</updated>
-        <content type="html"><![CDATA[2022.12.12(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리들의 따뜻한 겨울 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6807</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6807"/>
-        <updated>2022-12-07T21:02:18.514Z</updated>
-        <content type="html"><![CDATA[2022.12.06(화) 10:00]]></content>
     </entry>
 </feed>
