@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 05:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 06:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(서울) 2023 김재환 소극장 콘서트 - '달과 별 그리고...' 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45324</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45324</guid>
+            <pubDate>Thu, 08 Dec 2022 06:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.14
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20221208021229.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(부산) 2023 김재환 소극장 콘서트 - '달과 별 그리고...' 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45323</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45323</guid>
+            <pubDate>Thu, 08 Dec 2022 06:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.21
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20221208021105.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예측불허 실전로맨스♥〈극적인 하룻밤〉 1월 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45322</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45322</guid>
+            <pubDate>Thu, 08 Dec 2022 06:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.15
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007810_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[연극 <스크루테이프> 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45320</link>
@@ -24,24 +51,6 @@
             <content:encoded><![CDATA[2022.12.14
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120710144329.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(서울) 2023 김재환 소극장 콘서트 - '달과 별 그리고...' 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45318</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45318</guid>
-            <pubDate>Thu, 08 Dec 2022 05:02:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.14
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20221208015748.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(부산) 2023 김재환 소극장 콘서트 - '달과 별 그리고...' 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45317</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45317</guid>
-            <pubDate>Thu, 08 Dec 2022 05:02:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.14
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20221208015526.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 〈넓은 하늘의 무지개를 보면 내 마음은 춤춘다〉 2차 티켓오픈 안내]]></title>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.12.14
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120616390266.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소크라테스 패러독스 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45310</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45310</guid>
-            <pubDate>Wed, 07 Dec 2022 22:03:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.08
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016244_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
