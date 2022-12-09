@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-12-09T10:06:49.291Z</updated>
+    <updated>2022-12-09T11:06:06.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6824"/>
         <updated>2022-12-09T09:03:18.511Z</updated>
         <content type="html"><![CDATA[2022.12.09(금) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[b！ni mini christmas！ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6823</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6823"/>
+        <updated>2022-12-09T11:02:31.116Z</updated>
+        <content type="html"><![CDATA[2022.12.09(금) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈셰익스피어 인 러브〉 1차 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6818"/>
         <updated>2022-12-09T09:03:18.535Z</updated>
         <content type="html"><![CDATA[2022.12.09(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주라이브［퀸샤（Quinsha）］콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6817</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6817"/>
-        <updated>2022-12-09T09:03:18.542Z</updated>
-        <content type="html"><![CDATA[2022.12.09(금) 13:00]]></content>
     </entry>
 </feed>
