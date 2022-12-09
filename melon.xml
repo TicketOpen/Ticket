@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-12-09T02:16:27.212Z</updated>
+    <updated>2022-12-09T03:14:04.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[실수하지 않는 법 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6824</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6824"/>
+        <updated>2022-12-09T03:10:11.737Z</updated>
+        <content type="html"><![CDATA[2022.12.09(금) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1415 단독 콘서트：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6821</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6821"/>
+        <updated>2022-12-09T03:10:11.740Z</updated>
+        <content type="html"><![CDATA[2022.12.15(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[곽진언 소극장 콘서트－Op．6 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6820</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6820"/>
+        <updated>2022-12-09T03:10:11.740Z</updated>
+        <content type="html"><![CDATA[2022.12.13(화) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 이지혜 단독 팬콘서트 〈첫번졔〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6819</id>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6813"/>
         <updated>2022-12-09T00:28:54.065Z</updated>
         <content type="html"><![CDATA[2022.12.14(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈웨스트 사이드 스토리〉 4차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6812</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6812"/>
-        <updated>2022-12-09T00:28:54.072Z</updated>
-        <content type="html"><![CDATA[2022.12.14(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈베토벤；Beethoven Secret〉 2차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6811</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6811"/>
-        <updated>2022-12-09T00:28:54.076Z</updated>
-        <content type="html"><![CDATA[2022.12.14(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경서 단독 콘서트 ‘경서랑 팬서트’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6810</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6810"/>
-        <updated>2022-12-09T00:28:54.080Z</updated>
-        <content type="html"><![CDATA[2022.12.14(수) 20:00]]></content>
     </entry>
 </feed>
