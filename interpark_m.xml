@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 08:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 09:06:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누군가의 플레이리스트 Track. 60 백아x마인드유 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45345</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45345</guid>
+            <pubDate>Fri, 09 Dec 2022 09:03:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.12
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22017214_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[THE GREATEST : 전율 정동하 X 소향 - 남양주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45344</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45344</guid>
+            <pubDate>Fri, 09 Dec 2022 09:03:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.14
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120817311848.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KBS교향악단 2023시즌 L 패키지 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45343</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.12.13
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120910475975.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022-23 이무진 전국투어 콘서트 [별책부록] - 전주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45335</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45335</guid>
-            <pubDate>Fri, 09 Dec 2022 05:03:03 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.13
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120910502875.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 푸에르자 부르타 웨이라 인 서울 [2022 FUERZA BRUTA WAYRA IN SEOUL] 연장공연오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45334</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45334</guid>
-            <pubDate>Fri, 09 Dec 2022 05:03:03 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.13
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010276_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
