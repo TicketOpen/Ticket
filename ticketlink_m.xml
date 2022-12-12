@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-12-12T00:34:03.274Z</updated>
+    <updated>2022-12-12T02:16:41.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 <고고다이노 우리동네공룡> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55771</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55771"/>
+        <updated>2022-12-12T02:16:34.947Z</updated>
+        <content type="html"><![CDATA[2022.12.14(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2022 우드드로잉 연말 콘서트 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55770</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55770"/>
+        <updated>2022-12-12T02:16:34.947Z</updated>
+        <content type="html"><![CDATA[2022.12.13(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예문학생윈드오케스트라, 예문학생시어터 공연 <홈커밍데이(Homecoming Day)> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55769</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55769"/>
+        <updated>2022-12-12T02:16:34.947Z</updated>
+        <content type="html"><![CDATA[2022.12.13(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​뮤지컬 갈라 콘서트  - 경주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55767</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55767"/>
+        <updated>2022-12-12T02:16:34.951Z</updated>
+        <content type="html"><![CDATA[2022.12.19(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023 김창완밴드 전국투어 <아니벌써> - 창원 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55766</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55755"/>
         <updated>2022-12-09T12:12:33.829Z</updated>
         <content type="html"><![CDATA[2022.12.12(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 가족뮤지컬 <겨울이야기> - 시흥​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55754</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55754"/>
-        <updated>2022-12-09T12:12:33.830Z</updated>
-        <content type="html"><![CDATA[2022.12.14(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2023년 가족뮤지컬 <겨울이야기> - 목포​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55753</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55753"/>
-        <updated>2022-12-09T12:12:33.835Z</updated>
-        <content type="html"><![CDATA[2022.12.14(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <빨래> - 인천​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55752</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55752"/>
-        <updated>2022-12-09T12:12:33.836Z</updated>
-        <content type="html"><![CDATA[2022.12.15(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​THE GREATEST : 전율 정동하 X 소향 - 남양주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55751</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55751"/>
-        <updated>2022-12-09T12:12:33.838Z</updated>
-        <content type="html"><![CDATA[2022.12.14(수) 05:00]]></content>
     </entry>
 </feed>
