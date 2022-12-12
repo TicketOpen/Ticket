@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-12-12T12:14:13.650Z</updated>
+    <updated>2022-12-12T13:19:15.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​THE GREATEST : 전율 정동하 X 소향 - 의정부​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55774</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55774"/>
+        <updated>2022-12-12T13:19:05.640Z</updated>
+        <content type="html"><![CDATA[2022.12.16(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(부천) 2023 가족뮤지컬 출동!슈퍼윙스<스노우 페스티벌> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55773</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55773"/>
+        <updated>2022-12-12T13:19:05.644Z</updated>
+        <content type="html"><![CDATA[2022.12.14(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 홈쑈핑 주식회사 국제흥신소 - 익산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55772</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55772"/>
+        <updated>2022-12-12T13:19:05.652Z</updated>
+        <content type="html"><![CDATA[2022.12.20(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​가족뮤지컬 <고고다이노 우리동네공룡> - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55771</id>
@@ -25,6 +46,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55769"/>
         <updated>2022-12-12T02:16:34.947Z</updated>
         <content type="html"><![CDATA[2022.12.13(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 <급식왕 - 발가락 떡볶이의 비밀> - 용산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55768</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55768"/>
+        <updated>2022-12-12T13:19:05.665Z</updated>
+        <content type="html"><![CDATA[2022.12.14(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​뮤지컬 갈라 콘서트  - 경주​ 티켓오픈 안내]]></title>
@@ -80,34 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/55760</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55760"/>
         <updated>2022-12-09T12:12:33.818Z</updated>
-        <content type="html"><![CDATA[2022.12.13(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LINK FESTA​ : 2022 임한별 콘서트 ‘Christmas Eve-ning Star’​ 추가 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55759</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55759"/>
-        <updated>2022-12-09T12:12:33.818Z</updated>
-        <content type="html"><![CDATA[2022.12.12(월) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 <티티체리-용의 생일잔치를 도와라> - 성남 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55757</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55757"/>
-        <updated>2022-12-09T12:12:33.825Z</updated>
-        <content type="html"><![CDATA[2022.12.14(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 푸에르자 부르타 웨이라 인 서울 [2022 FUERZA BRUTA WAYRA IN SEOUL] 연장공연오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55756</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55756"/>
-        <updated>2022-12-09T12:12:33.826Z</updated>
-        <content type="html"><![CDATA[2022.12.13(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​찰리재즈오케스트라 정기연주회 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55755</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55755"/>
-        <updated>2022-12-09T12:12:33.829Z</updated>
-        <content type="html"><![CDATA[2022.12.12(월) 01:00]]></content>
+        <content type="html"><![CDATA[2022.12.13(화) 02:30]]></content>
     </entry>
 </feed>
