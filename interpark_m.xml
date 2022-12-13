@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 23:06:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 00:34:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족뮤지컬 <고고다이노 : 우리동네공룡> - 대전 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45362</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45362</guid>
+            <pubDate>Tue, 13 Dec 2022 00:32:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.30
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022121011164648.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 가족마술콘서트 <매직오브아트> - 부산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45361</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45361</guid>
+            <pubDate>Tue, 13 Dec 2022 00:32:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.19
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022121016494552.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[THE GREATEST : 전율 정동하 X 소향 - 의정부 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45360</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.12.15
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120914415066.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <깨비키즈의 빽투더 공룡배틀> - 대전 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45352</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45352</guid>
-            <pubDate>Mon, 12 Dec 2022 02:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.16
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022120913252760.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 라이브 가족뮤지컬 〈미녀와야수〉 - 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45351</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45351</guid>
-            <pubDate>Mon, 12 Dec 2022 02:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.15
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
