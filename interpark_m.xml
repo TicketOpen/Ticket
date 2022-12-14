@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 04:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 05:06:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈종의 기원〉 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45384</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45384</guid>
+            <pubDate>Wed, 14 Dec 2022 05:03:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.21
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22015474_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[대학로 1위 연극 〈쉬어매드니스〉 2023년 1월 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45383</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45383</guid>
+            <pubDate>Wed, 14 Dec 2022 05:03:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.16
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/19/19018229_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2022-23 이무진 전국투어 콘서트 [별책부록] - 전주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45382</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45382</guid>
+            <pubDate>Wed, 14 Dec 2022 05:03:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.16
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022121410493030.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LINK FESTA : HEALING VOICE 하림 X 정인 콘서트 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45381</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.12.20
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022121309382850.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 노들 드림 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45374</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45374</guid>
-            <pubDate>Tue, 13 Dec 2022 08:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.14
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22017431_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈광부화가들〉 마지막 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45373</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45373</guid>
-            <pubDate>Tue, 13 Dec 2022 07:02:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.15
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22015164_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤직드라마 당신만이 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45372</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45372</guid>
-            <pubDate>Tue, 13 Dec 2022 07:02:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.15
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005476_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
