@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 00:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 02:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 오펀스(Orphans) 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45395</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45395</guid>
+            <pubDate>Thu, 15 Dec 2022 02:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.22
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22013868_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 브레드이발소 <대결! 최고의 이발사> - 부산앵콜 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45394</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.12.21
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22015474_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[대학로 1위 연극 〈쉬어매드니스〉 2023년 1월 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45383</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45383</guid>
-            <pubDate>Wed, 14 Dec 2022 05:03:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.16
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/19/19018229_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
