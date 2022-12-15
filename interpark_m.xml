@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 05:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 06:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <데미안> 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45406</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45406</guid>
+            <pubDate>Thu, 15 Dec 2022 06:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.19
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022121414530234.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로맨틱 뮤직 체력극 〈신바람 삼대〉 1월 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45405</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45405</guid>
+            <pubDate>Thu, 15 Dec 2022 06:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.20
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/20/20009530_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[어린이뮤지컬 <티티체리-용의 생일잔치를 도와라> - 부산 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45404</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.12.20
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022121416003453.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제15회 서울재즈페스티벌 2023 블라인드 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45396</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45396</guid>
-            <pubDate>Thu, 15 Dec 2022 03:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.22
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022121417305477.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 오펀스(Orphans) 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45395</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45395</guid>
-            <pubDate>Thu, 15 Dec 2022 02:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.22
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22013868_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
