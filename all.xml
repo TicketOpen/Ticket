@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 07:04:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 08:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,27 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6829</guid>
             <pubDate>Fri, 16 Dec 2022 06:07:57 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.19(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <브로드웨이 42번가> - 창원 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45423&amp;groupno=45423&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45423&amp;groupno=45423&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 16 Dec 2022 08:05:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.22(목)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈물랑루즈!〉 아시아 초연 (Moulin Rouge! The Musical) 3차.. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45422&amp;groupno=45422&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45422&amp;groupno=45422&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 16 Dec 2022 08:05:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.20(화)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈지저스 크라이스트 수퍼스타〉 50주년 기념 한국 공연 - 부.. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45421&amp;groupno=45421&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45421&amp;groupno=45421&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 16 Dec 2022 08:05:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.23(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈지저스 크라이스트 수퍼스타〉 50주년 기념 한국 공연 - 성.. (인터파크 티켓)]]></title>
@@ -183,25 +204,31 @@
             <content:encoded><![CDATA[22.12.19(월)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[로맨틱 뮤직 체력극 〈신바람 삼대〉 1월 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45405&amp;groupno=45405&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45405&amp;groupno=45405&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 15 Dec 2022 06:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.20(화)&nbsp;11:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <브로드웨이 42번가> - 창원 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45423</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45423</guid>
+            <pubDate>Fri, 16 Dec 2022 08:06:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.22
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022121417464219.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어린이뮤지컬 <티티체리-용의 생일잔치를 도와라> - 부산 티켓오픈 .. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45404&amp;groupno=45404&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45404&amp;groupno=45404&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 15 Dec 2022 05:03:27 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.20(화)&nbsp;10:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈물랑루즈!〉 아시아 초연 (Moulin Rouge! The Musical) 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45422</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45422</guid>
+            <pubDate>Fri, 16 Dec 2022 08:06:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.20
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22014586_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2023 백지영 전국투어 콘서트 〈GO BAEK〉-창원 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45403&amp;groupno=45403&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45403&amp;groupno=45403&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 15 Dec 2022 05:03:27 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.20(화)&nbsp;15:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈지저스 크라이스트 수퍼스타〉 50주년 기념 한국 공연 - 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45421</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45421</guid>
+            <pubDate>Fri, 16 Dec 2022 08:06:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.23
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022121516021964.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈지저스 크라이스트 수퍼스타〉 50주년 기념 한국 공연 - 성남 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -267,38 +294,18 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22017569_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2023 경기아트센터 레퍼토리 시즌 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45413</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45413</guid>
-            <pubDate>Fri, 16 Dec 2022 02:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.22
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022121319481426.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[정동원콘서트 2nd 음학회 ‘音學會’ (2nd JEONG DONG WON’S ORCHESTRA CONCERT) - 대구 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45412</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45412</guid>
-            <pubDate>Fri, 16 Dec 2022 02:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.22
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022121518444435.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023  가족어린이공연 〈공룡애니멀쇼〉 - 대전 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45411</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45411</guid>
-            <pubDate>Thu, 15 Dec 2022 09:05:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.21
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022121512033862.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈브로드웨이 42번가〉 - 고양 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12565</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12565</guid>
             <pubDate>Fri, 16 Dec 2022 06:08:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.21(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12564</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12564</guid>
+            <pubDate>Fri, 16 Dec 2022 08:06:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.20(화) 19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[조항조＆진성〈앙상블콘서트〉- 대구 티켓오픈안내 (예스24 티켓)]]></title>
@@ -427,18 +434,18 @@
             <content:encoded><![CDATA[2022.12.15(목) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12545</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12545</guid>
-            <pubDate>Thu, 15 Dec 2022 07:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.15(목) 16:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈브로드웨이 42번가〉 - 고양 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12565&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12565&amp;order=1</guid>
             <pubDate>Fri, 16 Dec 2022 06:08:55 GMT</pubDate>
             <content:encoded><![CDATA[2022-12-21(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[검정치마 연말 공연 - Christmas & New Year’s Eve 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12564&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12564&amp;order=1</guid>
+            <pubDate>Fri, 16 Dec 2022 08:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022-12-20(화) 19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[조항조＆진성〈앙상블콘서트〉- 대구 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -495,13 +502,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12556&amp;order=1</guid>
             <pubDate>Thu, 15 Dec 2022 05:04:17 GMT</pubDate>
             <content:encoded><![CDATA[2022-12-23(금) 18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 CALL THE BEAT 투어 콘서트 - 부산 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12555&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12555&amp;order=1</guid>
-            <pubDate>Wed, 14 Dec 2022 09:03:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022-12-16(금) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 World DJ Festival - 슈퍼얼리버드 티켓오픈 안내 (위메프 공연티켓)]]></title>
