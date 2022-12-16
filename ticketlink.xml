@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-12-16T06:11:49.277Z</updated>
+    <updated>2022-12-16T07:04:11.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <지저스 크라이스트 수퍼스타> 50주년 기념 한국 공연 - 성남​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55811</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55811"/>
+        <updated>2022-12-16T07:03:51.367Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.26(월) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <지저스 크라이스트 수퍼스타> 50주년 기념 한국 공연 - 수원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55810</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55810"/>
+        <updated>2022-12-16T07:03:51.373Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.23(금) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​책먹는여우 - 대전​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55809</id>
@@ -93,20 +107,6 @@
         <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 제주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55797</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55797"/>
-        <updated>2022-12-14T10:04:19.126Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.15(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 울산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55796</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55796"/>
-        <updated>2022-12-14T10:04:19.126Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.15(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 용인 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55795</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55795"/>
         <updated>2022-12-14T10:04:19.126Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.12.15(목) 01:00]]></content>
     </entry>
