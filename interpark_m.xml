@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 23:07:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 02:05:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 경기아트센터 레퍼토리 시즌 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45413</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45413</guid>
+            <pubDate>Fri, 16 Dec 2022 02:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.22
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022121319481426.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[정동원콘서트 2nd 음학회 ‘音學會’ (2nd JEONG DONG WON’S ORCHESTRA CONCERT) - 대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45412</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45412</guid>
+            <pubDate>Fri, 16 Dec 2022 02:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.22
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022121518444435.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023  가족어린이공연 〈공룡애니멀쇼〉 - 대전 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45411</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.12.20
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022121417081058.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 백지영 전국투어 콘서트 〈GO BAEK〉-창원 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45403</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45403</guid>
-            <pubDate>Thu, 15 Dec 2022 05:03:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.20
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022121321055910.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 백지영 전국투어 콘서트 〈GO BAEK〉-수원 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45402</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45402</guid>
-            <pubDate>Thu, 15 Dec 2022 05:03:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.20
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022121320544917.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
