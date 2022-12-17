@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 10:06:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 12:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -794,14 +794,6 @@
             <content:encoded><![CDATA[2022.12.15(목) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Happy Opera Day ② 국립오페라단 오페라 <헨젤과 그레텔> (네이버 공연)]]></title>
-            <link>https://tv.naver.com/l/120064</link>
-            <guid>https://tv.naver.com/l/120064</guid>
-            <pubDate>Sun, 04 Dec 2022 09:05:41 GMT</pubDate>
-            <content:encoded><![CDATA[12월 17일(토) 17:00]]></content:encoded>
-            <enclosure url="https://g-grafolio.pstatic.net/20221204_171/1670142678020aAtYE_JPEG/1668129297891.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[후원
 											뮤지컬 <트레이스 유> : 김경수, 박규원 (네이버 공연)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
@@ -878,6 +870,15 @@
             <pubDate>Thu, 08 Dec 2022 12:14:08 GMT</pubDate>
             <content:encoded><![CDATA[12월 22일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_135/1U3FZ_1670422526968iGU6V_JPEG/1670422526939.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <번지점프를 하다> 후원 라이브_12/22 (목) 20:00 (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
+            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
+            <pubDate>Wed, 30 Nov 2022 05:06:16 GMT</pubDate>
+            <content:encoded><![CDATA[12월 22일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_90/nr4KR_1669943617226OGQ8f_JPEG/1669943617203.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
