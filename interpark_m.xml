@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 13:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 15:06:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,15 +24,6 @@
             <content:encoded><![CDATA[2023.01.03
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022122013422130.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오페레타 뮤지컬 판타지아 시즌2 굿바이 기념 평일 S/A석 추가오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45441</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45441</guid>
-            <pubDate>Tue, 20 Dec 2022 02:07:01 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.20
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22014802_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[겨울왕국뮤지컬 "겨울이야기" - 안산 티켓오픈 안내]]></title>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2022.12.23
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022121611451230.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 가족벌룬콘서트<레인보우 벌룬쇼>-대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45433</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45433</guid>
+            <pubDate>Tue, 20 Dec 2022 15:03:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.22
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022121714083984.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
