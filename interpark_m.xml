@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 02:05:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 03:07:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쇼미더머니11 콘서트 〈Show Me the Money11 Concert〉 - 대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45452</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45452</guid>
+            <pubDate>Wed, 21 Dec 2022 03:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.23
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022122010474806.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쇼미더머니11 콘서트 〈Show Me the Money11 Concert〉 - 인천 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45451</link>
@@ -35,7 +44,7 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022122011201027.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쇼미더머니11 콘서트 〈Show Me the Money11 Concert〉  - 서울 티켓오픈 안내]]></title>
+            <title><![CDATA[쇼미더머니11 콘서트 〈Show Me the Money11 Concert〉 - 서울 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45448</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45448</guid>
             <pubDate>Wed, 21 Dec 2022 02:03:31 GMT</pubDate>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2023.01.03
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022122013422130.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울왕국뮤지컬 "겨울이야기" - 안산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45440</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45440</guid>
-            <pubDate>Tue, 20 Dec 2022 02:07:01 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.22
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022121714415544.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
