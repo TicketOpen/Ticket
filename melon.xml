@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-12-21T03:07:14.964Z</updated>
+    <updated>2022-12-21T04:06:53.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[D82 단독 콘서트：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6846</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6846"/>
+        <updated>2022-12-21T04:04:11.507Z</updated>
+        <content type="html"><![CDATA[2022.12.27(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쇼미더머니11 콘서트 〈Show Me the Money11 Concert〉－부산 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6845</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6837"/>
         <updated>2022-12-18T21:02:48.757Z</updated>
         <content type="html"><![CDATA[2022.12.17(토) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김준서 단독 콘서트 ‘나의 자전’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6836</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6836"/>
-        <updated>2022-12-18T21:02:48.763Z</updated>
-        <content type="html"><![CDATA[2022.12.22(목) 20:00]]></content>
     </entry>
 </feed>
