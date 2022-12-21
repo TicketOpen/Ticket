@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-12-21T04:06:53.520Z</updated>
+    <updated>2022-12-21T05:06:10.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈이프덴〉 4차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6847</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6847"/>
+        <updated>2022-12-21T05:02:50.027Z</updated>
+        <content type="html"><![CDATA[2022.12.27(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[D82 단독 콘서트：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6846</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6838"/>
         <updated>2022-12-18T21:02:48.738Z</updated>
         <content type="html"><![CDATA[2022.12.23(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더베인x오오오：크리스마스크로스 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6837</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6837"/>
-        <updated>2022-12-18T21:02:48.757Z</updated>
-        <content type="html"><![CDATA[2022.12.17(토) 18:00]]></content>
     </entry>
 </feed>
