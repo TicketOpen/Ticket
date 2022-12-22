@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 14:06:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 15:05:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -267,15 +267,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022122111233751.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 이천문화재단 신년음악회 - 이천 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45466</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45466</guid>
-            <pubDate>Thu, 22 Dec 2022 04:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.22
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22017185_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <장수탕 선녀님> - 창원 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45465</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45465</guid>
@@ -292,6 +283,15 @@
             <content:encoded><![CDATA[2022.12.26
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022121416382091.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈볼륨업〉 마지막 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45463</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45463</guid>
+            <pubDate>Thu, 22 Dec 2022 15:03:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.23
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010419_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈볼륨업〉 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -795,24 +795,6 @@
         </item>
         <item>
             <title><![CDATA[후원
-											연극 <인어;바다를 부른 여인> 온라인 스트리밍 (네이버 공연)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Thu, 08 Dec 2022 12:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[12월 22일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_135/1U3FZ_1670422526968iGU6V_JPEG/1670422526939.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <번지점프를 하다> 후원 라이브_12/22 (목) 20:00 (네이버 공연)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/metatheater</link>
-            <guid>https://patron.naver.com/ntv/c/intro/metatheater</guid>
-            <pubDate>Wed, 30 Nov 2022 05:06:16 GMT</pubDate>
-            <content:encoded><![CDATA[12월 22일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_90/nr4KR_1669943617226OGQ8f_JPEG/1669943617203.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
 											Happy Opera Day ③ 국립오페라단 오페라 <라 트라비아타> (네이버 공연)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
             <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
@@ -880,6 +862,24 @@
             <pubDate>Mon, 19 Dec 2022 15:05:42 GMT</pubDate>
             <content:encoded><![CDATA[01월 02일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221129_263/sEQ3h_16697238375097R4Gp_JPEG/1669723837467.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <트레이스 유> : 김경수, 이해준 (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
+            <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
+            <pubDate>Mon, 19 Dec 2022 15:05:42 GMT</pubDate>
+            <content:encoded><![CDATA[01월 08일(일) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_125/8juMl_1669723922193ESwsU_JPEG/1669723922171.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <트레이스 유> : 이율, 박규원 (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/thewave2018</link>
+            <guid>https://patron.naver.com/ntv/c/intro/thewave2018</guid>
+            <pubDate>Mon, 19 Dec 2022 15:05:42 GMT</pubDate>
+            <content:encoded><![CDATA[01월 09일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221206_186/guHD1_1670311753094FnWkB_JPEG/1670311753047.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
