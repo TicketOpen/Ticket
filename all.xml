@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 06:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 07:05:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,20 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6839</guid>
             <pubDate>Sun, 18 Dec 2022 21:02:48 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.20(화) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[최고다 호기심딱지 - 고양 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45472&amp;groupno=45472&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45472&amp;groupno=45472&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 22 Dec 2022 07:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.26(월)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[최고다 호기심딱지 - 하남 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45471&amp;groupno=45471&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45471&amp;groupno=45471&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 22 Dec 2022 07:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[22.12.26(월)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈드롭스〉 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -190,18 +204,22 @@
             <content:encoded><![CDATA[22.12.27(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2023 CRAVITY FAN-CON 〈Dear My LUVITY〉 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45453&amp;groupno=45453&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45453&amp;groupno=45453&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 21 Dec 2022 05:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.19(목)&nbsp;20:00]]></content:encoded>
+            <title><![CDATA[최고다 호기심딱지 - 고양 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45472</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45472</guid>
+            <pubDate>Thu, 22 Dec 2022 07:02:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.26
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022122117034610.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쇼미더머니11 콘서트 〈Show Me the Money11 Concert〉 - 대구 티켓.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45452&amp;groupno=45452&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45452&amp;groupno=45452&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 21 Dec 2022 03:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.23(금)&nbsp;15:00]]></content:encoded>
+            <title><![CDATA[최고다 호기심딱지 - 하남 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45471</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45471</guid>
+            <pubDate>Thu, 22 Dec 2022 07:02:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.26
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022122117161275.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈드롭스〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -274,24 +292,6 @@
             <content:encoded><![CDATA[2022.12.23
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010419_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[구리문화재단 2023 신년음악회 〈A NEW HOPE〉 - 구리 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45462</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45462</guid>
-            <pubDate>Wed, 21 Dec 2022 08:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.23
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22017638_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[소정김명자 팔순기념공연 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45460</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45460</guid>
-            <pubDate>Wed, 21 Dec 2022 08:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.23
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22017712_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈볼륨업〉 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
