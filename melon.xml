@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-12-22T02:08:41.713Z</updated>
+    <updated>2022-12-22T03:06:12.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스탠딩에그 단독 콘서트 ‘스탠딩 콘서트’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6848</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6848"/>
+        <updated>2022-12-22T03:03:17.287Z</updated>
+        <content type="html"><![CDATA[2022.12.28(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈이프덴〉 4차 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6847</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6839"/>
         <updated>2022-12-18T21:02:48.735Z</updated>
         <content type="html"><![CDATA[2022.12.20(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 WORLD TOUR JAY B TAPE：PRESS PAUSE ENCORE in SEOUL 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6838</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6838"/>
-        <updated>2022-12-18T21:02:48.738Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
     </entry>
 </feed>
