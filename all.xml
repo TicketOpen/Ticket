@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 14:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 15:06:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,15 +231,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022122216421086.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022-23 YB TOUR LIGHTS - 강릉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45483</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45483</guid>
-            <pubDate>Mon, 26 Dec 2022 02:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.26
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22017803_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[가족뮤지컬 〈고고다이노 우리동네공룡〉 - 진주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45482</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45482</guid>
@@ -292,6 +283,15 @@
             <content:encoded><![CDATA[2022.12.27
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22017801_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[히사이시 조 영화음악 콘서트 2023_포항 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45476</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45476</guid>
+            <pubDate>Mon, 26 Dec 2022 15:02:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.28
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022122216530757.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈고고다이노 우리동네공룡〉 - 진주 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -792,15 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/55827</guid>
             <pubDate>Tue, 20 Dec 2022 16:09:26 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.22(목) 06:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <개와 고양이의 시간> 녹화중계 (네이버 공연)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
-            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
-            <pubDate>Wed, 30 Nov 2022 07:06:58 GMT</pubDate>
-            <content:encoded><![CDATA[12월 26일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_213/du1nW_16691883708708BByh_JPEG/1669188370840.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세종문화회관 12월 천원의 행복 '가족무용극 <나의 심청>' (네이버 공연)]]></title>
