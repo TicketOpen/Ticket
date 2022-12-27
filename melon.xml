@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-12-27T04:06:50.349Z</updated>
+    <updated>2022-12-27T05:06:06.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 위사 페스티벌 NFF 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6854</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6854"/>
+        <updated>2022-12-27T05:02:42.893Z</updated>
+        <content type="html"><![CDATA[2022.12.28(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정석훈＆LOW HANGING FRUITS 〈TRAVEL〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6853</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6845"/>
         <updated>2022-12-26T02:06:04.337Z</updated>
         <content type="html"><![CDATA[2022.12.23(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프레젠트프로젝트 〈SING SANG SONG：87dance 단독 콘서트 ‘Preview of COLOR PAPER HOTEL’〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6844</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6844"/>
-        <updated>2022-12-26T02:06:04.337Z</updated>
-        <content type="html"><![CDATA[2022.12.21(수) 20:00]]></content>
     </entry>
 </feed>
