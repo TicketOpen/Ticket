@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-12-27T08:11:21.488Z</updated>
+    <updated>2022-12-27T09:05:26.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한요한［Time Machine］ENCORE CONCERT 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6855</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6855"/>
+        <updated>2022-12-27T09:02:39.514Z</updated>
+        <content type="html"><![CDATA[2022.12.28(수) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 위사 페스티벌 NFF 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6854</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6846"/>
         <updated>2022-12-26T02:06:04.337Z</updated>
         <content type="html"><![CDATA[2022.12.27(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼미더머니11 콘서트 〈Show Me the Money11 Concert〉－부산 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6845</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6845"/>
-        <updated>2022-12-26T02:06:04.337Z</updated>
-        <content type="html"><![CDATA[2022.12.23(금) 18:00]]></content>
     </entry>
 </feed>
