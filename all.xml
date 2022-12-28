@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 10:07:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 11:04:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,28 +584,49 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/04/202211/21/vxnnbbs652sb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <이상한 과자 가게 전천당> - 안양 티켓오픈 안내 (티켓링크)]]></title>
+            <title><![CDATA[뮤지컬 <장수탕 선녀님> - 고양​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55861</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55861</guid>
+            <pubDate>Wed, 28 Dec 2022 11:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.12.29(목) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  LINK FESTA : 3gether : 친해지길바래 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55860</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55860</guid>
+            <pubDate>Wed, 28 Dec 2022 11:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2022.12.29(목) 06:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​2023년 특선가족뮤지컬 <라푼젤> - 군산​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55859</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55859</guid>
+            <pubDate>Wed, 28 Dec 2022 11:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.01.02(월) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 뮤지컬 <이상한 과자 가게 전천당> - 안양 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/55858</link>
             <guid>http://www.ticketlink.co.kr/help/notice/55858</guid>
             <pubDate>Wed, 28 Dec 2022 00:28:53 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2023.01.03(화) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <이상한 과자 가게 전천당> - 부천 티켓오픈 안내 (티켓링크)]]></title>
+            <title><![CDATA[[단독판매] 뮤지컬 <이상한 과자 가게 전천당> - 부천 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/55857</link>
             <guid>http://www.ticketlink.co.kr/help/notice/55857</guid>
             <pubDate>Wed, 28 Dec 2022 00:28:53 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2023.01.03(화) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <이상한 과자 가게 전천당> - 광주 티켓오픈 안내 (티켓링크)]]></title>
+            <title><![CDATA[[단독판매] 뮤지컬 <이상한 과자 가게 전천당> - 광주 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/55856</link>
             <guid>http://www.ticketlink.co.kr/help/notice/55856</guid>
             <pubDate>Wed, 28 Dec 2022 00:28:53 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2023.01.03(화) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <이상한 과자 가게 전천당> - 청주 티켓오픈 안내 (티켓링크)]]></title>
+            <title><![CDATA[[단독판매] 뮤지컬 <이상한 과자 가게 전천당> - 청주 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/55855</link>
             <guid>http://www.ticketlink.co.kr/help/notice/55855</guid>
             <pubDate>Wed, 28 Dec 2022 00:28:53 GMT</pubDate>
@@ -666,27 +687,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/55847</guid>
             <pubDate>Mon, 26 Dec 2022 10:04:11 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2022.12.27(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <용의자 X의 헌신> 4차​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/55846</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/55846</guid>
-            <pubDate>Mon, 26 Dec 2022 10:04:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.12.30(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​책먹는여우 - 과천​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/55845</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/55845</guid>
-            <pubDate>Mon, 26 Dec 2022 10:04:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2022.12.28(수) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공지] NHN티켓링크 개인정보처리방침 변경에 대한 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/55844</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/55844</guid>
-            <pubDate>Mon, 26 Dec 2022 10:04:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.26]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​W필하모닉오케스트라 <말러 교향곡 2번 ‘부활’>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
