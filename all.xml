@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 05:06:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 06:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,20 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6852</guid>
             <pubDate>Tue, 27 Dec 2022 12:09:20 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.28(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈레드〉 마지막 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45505&amp;groupno=45505&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45505&amp;groupno=45505&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 29 Dec 2022 06:08:03 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.05(목)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲 16차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45504&amp;groupno=45504&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45504&amp;groupno=45504&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 29 Dec 2022 06:08:03 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.05(목)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈푸른 잿빛 밤〉 마지막 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -190,18 +204,22 @@
             <content:encoded><![CDATA[22.12.30(금)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈청춘소음〉 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45487&amp;groupno=45487&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45487&amp;groupno=45487&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 27 Dec 2022 02:03:19 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.03(화)&nbsp;11:00]]></content:encoded>
+            <title><![CDATA[연극 〈레드〉 마지막 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45505</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45505</guid>
+            <pubDate>Thu, 29 Dec 2022 06:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.05
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22014115_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[CRUSH ON YOU TOUR [CRUSH HOUR] ENCORE 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45486&amp;groupno=45486&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45486&amp;groupno=45486&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 26 Dec 2022 03:03:55 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.28(수)&nbsp;20:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲 16차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45504</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45504</guid>
+            <pubDate>Thu, 29 Dec 2022 06:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.05
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007404_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈푸른 잿빛 밤〉 마지막 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -274,24 +292,6 @@
             <content:encoded><![CDATA[2022.12.29
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22017902_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈웨스트 사이드 스토리〉 마지막 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45495</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45495</guid>
-            <pubDate>Wed, 28 Dec 2022 05:02:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.04
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22012184_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[레이어스 클래식 라이브 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45494</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45494</guid>
-            <pubDate>Wed, 28 Dec 2022 03:03:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.29
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22017818_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[음악극 올드위키드송 (Old Wicked Songs) 마지막 티켓오픈 안내 (예스24 티켓)]]></title>

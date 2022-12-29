@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 05:06:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 06:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈레드〉 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45505</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45505</guid>
+            <pubDate>Thu, 29 Dec 2022 06:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.05
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22014115_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲 16차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45504</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45504</guid>
+            <pubDate>Thu, 29 Dec 2022 06:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.05
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007404_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈푸른 잿빛 밤〉 마지막 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45503</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.12.29
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22017902_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈웨스트 사이드 스토리〉 마지막 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45495</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45495</guid>
-            <pubDate>Wed, 28 Dec 2022 05:02:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.04
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22012184_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[레이어스 클래식 라이브 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45494</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45494</guid>
-            <pubDate>Wed, 28 Dec 2022 03:03:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.29
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22017818_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
