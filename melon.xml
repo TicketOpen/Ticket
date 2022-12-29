@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-12-29T00:33:46.411Z</updated>
+    <updated>2022-12-29T02:09:16.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강재훈 X 류다빈 JAEHUN KANG X DABIN RYU 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6860</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6860"/>
+        <updated>2022-12-29T02:06:14.958Z</updated>
+        <content type="html"><![CDATA[2022.12.30(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈웨스트 사이드 스토리〉 마지막 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6859</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6851"/>
         <updated>2022-12-27T12:09:20.565Z</updated>
         <content type="html"><![CDATA[2022.12.27(화) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정동원 콘서트 2nd 음학회 ‘音學會’－수원 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6850</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6850"/>
-        <updated>2022-12-27T12:09:20.571Z</updated>
-        <content type="html"><![CDATA[2022.12.29(목) 18:00]]></content>
     </entry>
 </feed>

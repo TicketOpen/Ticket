@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 00:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 02:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 '빵야' 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45502</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45502</guid>
+            <pubDate>Thu, 29 Dec 2022 02:06:42 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.03
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022122814472425.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022-23 YB TOUR LIGHTS - 인천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45501</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45501</guid>
+            <pubDate>Thu, 29 Dec 2022 02:06:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.30
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022122317072773.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아리의 모험 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45500</link>
@@ -41,7 +59,7 @@
             <pubDate>Wed, 28 Dec 2022 05:02:51 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.30
                                     <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022122315155759.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22017930_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－천안 티켓오픈 안내]]></title>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.12.30
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022122602171304.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈용의자X의 헌신〉 4차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45492</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45492</guid>
-            <pubDate>Tue, 27 Dec 2022 09:03:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.30
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22013388_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈여신님이 보고 계셔〉 토크콘서트 - 10주년 기념 잔치 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45491</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45491</guid>
-            <pubDate>Tue, 27 Dec 2022 08:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.04
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022122716011252.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
