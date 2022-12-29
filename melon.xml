@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2022-12-29T02:09:16.862Z</updated>
+    <updated>2022-12-29T03:06:16.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헤온（heon）X Low Hanging Fruits 합동공연 〈해〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6861</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6861"/>
+        <updated>2022-12-29T03:03:42.609Z</updated>
+        <content type="html"><![CDATA[2023.01.05(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강재훈 X 류다빈 JAEHUN KANG X DABIN RYU 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6860</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6852"/>
         <updated>2022-12-27T12:09:20.556Z</updated>
         <content type="html"><![CDATA[2022.12.28(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주라이브［근처］콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6851</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6851"/>
-        <updated>2022-12-27T12:09:20.565Z</updated>
-        <content type="html"><![CDATA[2022.12.27(화) 13:00]]></content>
     </entry>
 </feed>
