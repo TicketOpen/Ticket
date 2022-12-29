@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 23:05:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 00:33:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6850</guid>
             <pubDate>Tue, 27 Dec 2022 12:09:20 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.29(목) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아리의 모험 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45500&amp;groupno=45500&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45500&amp;groupno=45500&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 29 Dec 2022 00:30:09 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.03(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈웨이스티드〉 : 연극열전9_네 번째 작품 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[22.12.26(월)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 〈고고다이노 우리동네공룡〉 - 진주 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45482&amp;groupno=45482&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45482&amp;groupno=45482&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 23 Dec 2022 09:02:36 GMT</pubDate>
-            <content:encoded><![CDATA[22.12.27(화)&nbsp;10:00]]></content:encoded>
+            <title><![CDATA[아리의 모험 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45500</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45500</guid>
+            <pubDate>Thu, 29 Dec 2022 00:30:27 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.03
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022122815183733.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈웨이스티드〉 : 연극열전9_네 번째 작품 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2023.01.04
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022122716011252.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈그때도 오늘〉 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45490</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45490</guid>
-            <pubDate>Tue, 27 Dec 2022 05:03:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.30
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22015612_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[LUCKLIFE 내한공연 티켓 오픈 안내 (예스24 티켓)]]></title>
