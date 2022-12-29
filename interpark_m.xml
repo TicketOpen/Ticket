@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 03:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 04:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈푸른 잿빛 밤〉 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45503</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45503</guid>
+            <pubDate>Thu, 29 Dec 2022 04:06:43 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.04
+                                    <span>13:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22014666_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[연극 '빵야' 1차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45502</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.12.29
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22017818_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <알사탕> - 거제 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45493</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45493</guid>
-            <pubDate>Wed, 28 Dec 2022 03:03:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.30
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022122602171304.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
