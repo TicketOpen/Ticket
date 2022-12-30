@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 02:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 03:06:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이티링스 : 더 마이티 쇼 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45511</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45511</guid>
+            <pubDate>Fri, 30 Dec 2022 03:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.03
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20221230110701.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 가족매직쇼〈일루젼 버블쇼〉-대전 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45510</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2023.01.03
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022122814472425.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022-23 YB TOUR LIGHTS - 인천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45501</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45501</guid>
-            <pubDate>Thu, 29 Dec 2022 02:06:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.30
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22018014_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
