@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 03:06:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 04:07:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023년 연극 〈친정엄마와 2박3일 - 포항〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45513</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45513</guid>
+            <pubDate>Fri, 30 Dec 2022 04:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.03
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022122916165211.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈미드나잇 : 앤틀러스〉 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45512</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45512</guid>
+            <pubDate>Fri, 30 Dec 2022 04:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.05
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22017293_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[마이티링스 : 더 마이티 쇼 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45511</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2023.01.05
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007404_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈푸른 잿빛 밤〉 마지막 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45503</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45503</guid>
-            <pubDate>Thu, 29 Dec 2022 04:06:43 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.04
-                                    <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22014666_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 '빵야' 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45502</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45502</guid>
-            <pubDate>Thu, 29 Dec 2022 02:06:42 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.03
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022122814472425.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
