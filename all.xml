@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 05:05:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 06:05:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6867</guid>
             <pubDate>Thu, 05 Jan 2023 00:30:17 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.10(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈맘마미아!〉 1차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45568&amp;groupno=45568&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45568&amp;groupno=45568&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 05 Jan 2023 06:03:36 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.12(목)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어썸스테이지 #1-2 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[23.01.12(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <영웅> 4차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45550&amp;groupno=45550&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45550&amp;groupno=45550&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 04 Jan 2023 22:03:24 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.11(수)&nbsp;15:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈맘마미아!〉 1차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45568</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45568</guid>
+            <pubDate>Thu, 05 Jan 2023 06:03:55 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.12
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023010410024766.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어썸스테이지 #1-2 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2023.01.11
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001159_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 장윤정 라이브 콘서트 - 군산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45558</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45558</guid>
-            <pubDate>Wed, 04 Jan 2023 22:03:45 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.06
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23000132_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2023 KIM SUNG KYU CONCERT ‘LV - LIKE YOUR VIBES’ 티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -503,7 +503,7 @@
             <content:encoded><![CDATA[2023-01-06(금) 13:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[키자니아 푸드 아트 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <title><![CDATA[키자니아 푸드 아트 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1014</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1014</guid>
             <pubDate>Wed, 04 Jan 2023 06:09:31 GMT</pubDate>
@@ -581,6 +581,27 @@
             <pubDate>Tue, 03 Jan 2023 05:03:49 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.30(수) 11:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/50/202211/28/ayowsbwn7flw.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] LINK FESTA : 뮤지컬 더 라스트맨 “​혼자가 아닌 콘서트”​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55898</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55898</guid>
+            <pubDate>Thu, 05 Jan 2023 06:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.01.10(화) 04:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] Pokémon the Orchestra​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55897</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55897</guid>
+            <pubDate>Thu, 05 Jan 2023 06:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.01.11(수) 06:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​[시네마 필름 콘서트] 러브레터 & 4월 이야기​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/55896</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/55896</guid>
+            <pubDate>Thu, 05 Jan 2023 06:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.01.06(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 KIM SUNG KYU CONCERT ‘LV - LIKE YOUR VIBES’​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -667,25 +688,32 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.01.06(금) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 <반짝반짝 달님이 - 버블버블 마법의 솜사탕>​ 안산 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/55883</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/55883</guid>
-            <pubDate>Tue, 03 Jan 2023 09:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.01.05(목) 01:00]]></content:encoded>
+            <title><![CDATA[[단독판매] LINK FESTA : 뮤지컬 더 라스트맨 “​혼자가 아닌 콘서트”​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55898</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55898</guid>
+            <pubDate>Thu, 05 Jan 2023 06:05:07 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.10(화) 04:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2023 가족마술콘서트<매직오브아트> - 인천 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/55882</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/55882</guid>
-            <pubDate>Tue, 03 Jan 2023 09:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.01.06(금) 00:00]]></content:encoded>
+            <title><![CDATA[[단독판매] Pokémon the Orchestra​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55897</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55897</guid>
+            <pubDate>Thu, 05 Jan 2023 06:05:07 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.11(수) 06:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[책먹는여우 - 울산 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/55881</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/55881</guid>
-            <pubDate>Tue, 03 Jan 2023 09:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.01.05(목) 00:00]]></content:encoded>
+            <title><![CDATA[​[시네마 필름 콘서트] 러브레터 & 4월 이야기​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55896</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55896</guid>
+            <pubDate>Thu, 05 Jan 2023 06:05:07 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.06(금) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 KIM SUNG KYU CONCERT ‘LV - LIKE YOUR VIBES’​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/55895</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/55895</guid>
+            <pubDate>Thu, 05 Jan 2023 06:05:07 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.09(월) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​뮤지컬 <종의 기원> 3차​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -763,34 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/55884</guid>
             <pubDate>Wed, 04 Jan 2023 04:07:19 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.06(금) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <반짝반짝 달님이 - 버블버블 마법의 솜사탕>​ 안산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/55883</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/55883</guid>
-            <pubDate>Wed, 04 Jan 2023 04:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.05(목) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 가족마술콘서트<매직오브아트> - 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/55882</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/55882</guid>
-            <pubDate>Wed, 04 Jan 2023 04:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.06(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[책먹는여우 - 울산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/55881</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/55881</guid>
-            <pubDate>Wed, 04 Jan 2023 04:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.05(목) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​NEW 뮤지컬 미니특공대 브이레인저스 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/55880</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/55880</guid>
-            <pubDate>Wed, 04 Jan 2023 04:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.05(목) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
