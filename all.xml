@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 02:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 03:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OFF．E＆변하은＆igloobay：롤링 28주년 기념 공연 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6878</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6878</guid>
+            <pubDate>Fri, 06 Jan 2023 03:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.12(목) 20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[키라라：그냥하는 단독공연 시즌 2－FINAL 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6877</link>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6869</guid>
             <pubDate>Thu, 05 Jan 2023 00:30:16 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.09(월) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정우 단독 콘서트 ‘옛날이야기해 주세요’：롤링 28주년 기념 공연 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6868</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6868</guid>
-            <pubDate>Thu, 05 Jan 2023 00:30:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.11(수) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[히사이시 조 영화음악 콘서트 2023_여수 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -237,7 +237,7 @@
             <pubDate>Fri, 06 Jan 2023 02:12:51 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.09
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023010417215758.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23000178_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022-23 임재범 전국투어 콘서트 청주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -501,86 +501,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12597&amp;order=1</guid>
             <pubDate>Tue, 03 Jan 2023 06:05:46 GMT</pubDate>
             <content:encoded><![CDATA[2023-01-05(목) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[키자니아 푸드 아트 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1014</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1014</guid>
-            <pubDate>Wed, 04 Jan 2023 06:09:31 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.04(수) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/53/202301/04/mpt2uf5s4pvh.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 World DJ Festival - 슈퍼얼리버드 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1013</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1013</guid>
-            <pubDate>Tue, 03 Jan 2023 05:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.22(목) 18:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/17/202212/15/5flg7bcvsbee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 오펀스(Orphans) - 위멮데이 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1012</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1012</guid>
-            <pubDate>Tue, 03 Jan 2023 05:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.16(금) 11:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/01/202212/12/yfhlx1evmd5y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 서울 아시테지 겨울축제 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1011</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1011</guid>
-            <pubDate>Tue, 03 Jan 2023 05:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.12(월) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/19/202212/08/y3qfnni6q0vn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플레이 뮤지컬 〈핑크퐁과 아기상어의 생일파티 대소동〉 2차 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1010</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1010</guid>
-            <pubDate>Tue, 03 Jan 2023 05:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.05(월) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/38/202212/02/hckebrzqjx0x.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[프리다 칼로 사진展 : 삶의 초상 - 얼리버드 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1009</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1009</guid>
-            <pubDate>Tue, 03 Jan 2023 05:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.03(토) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202212/01/dvt9z1ve7eak.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈지저스 크라이스트 수퍼스타〉 (Musical Jesus Christ Superstar) 50주년 기념 한국 공연 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1008</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1008</guid>
-            <pubDate>Tue, 03 Jan 2023 05:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.01(목) 11:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/47/202211/30/dajrouqrtft0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레인보우 뮤직＆캠핑 페스티벌 2023 - 블라인드 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1007</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1007</guid>
-            <pubDate>Tue, 03 Jan 2023 05:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.29(화) 17:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/41/202211/29/5dhfru5tnvu8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엉덩이 탐정 플레이파크 미션 대모험 - 미아/천호/킨텍스 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1006</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1006</guid>
-            <pubDate>Tue, 03 Jan 2023 05:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.30(수) 00:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/16/202211/28/03wsge3i85co.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈맥베스 레퀴엠〉 - 위멮데이 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1005</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1005</guid>
-            <pubDate>Tue, 03 Jan 2023 05:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.30(수) 11:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/50/202211/28/ayowsbwn7flw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 라이브 가족뮤지컬<라푼젤> - 인천 티켓오픈 안내 (티켓링크)]]></title>
