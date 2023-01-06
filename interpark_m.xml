@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 07:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 08:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애니메이션 첼로 페스티벌 디즈니 VS 지브리 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45590</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45590</guid>
+            <pubDate>Fri, 06 Jan 2023 08:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.10
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023010414304539.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 김창옥 토크콘서트 시즌3 - 이천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45589</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45589</guid>
+            <pubDate>Fri, 06 Jan 2023 08:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.12
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023010522203043.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[앙드레 브라질리에 특별전 시향키트 패키지 단독오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=935</link>
@@ -41,7 +59,7 @@
             <pubDate>Fri, 06 Jan 2023 05:02:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.13
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023010600163947.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23000281_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈태양〉 티켓오픈 안내]]></title>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2023.01.12
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023010518225754.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2023_춘천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45580</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45580</guid>
-            <pubDate>Fri, 06 Jan 2023 02:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023010518204522.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ 전주 ] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45579</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45579</guid>
-            <pubDate>Fri, 06 Jan 2023 02:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.09
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23000178_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
