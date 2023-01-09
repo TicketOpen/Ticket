@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 02:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 03:06:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플레이 뮤지컬 〈핑크퐁과 아기상어의 생일파티 대소동〉 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45595</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45595</guid>
+            <pubDate>Mon, 09 Jan 2023 03:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22015210_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[WE필하모닉 오케스트라 제1회 정기연주회 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45594</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45594</guid>
+            <pubDate>Mon, 09 Jan 2023 03:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.13
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023010616434776.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈이상한 엄마〉 - 대전 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45593</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2023.01.13
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016158_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[식스 더 뮤지컬 최초 한국 공연 - 내한 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45586</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45586</guid>
-            <pubDate>Fri, 06 Jan 2023 05:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.13
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23000281_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈태양〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45585</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45585</guid>
-            <pubDate>Fri, 06 Jan 2023 05:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.11
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22017872_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
