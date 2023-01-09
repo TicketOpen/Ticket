@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 00:31:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 02:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈이상한 엄마〉 - 대전 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45593</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45593</guid>
+            <pubDate>Mon, 09 Jan 2023 02:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.11
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023010514014884.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 ［엄마까투리 - 마트에 간 꽁지］ - 울산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45592</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45592</guid>
+            <pubDate>Mon, 09 Jan 2023 02:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.11
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023010520122721.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 <고고다이노 우리동네공룡> - 울산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45591</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45591</guid>
+            <pubDate>Mon, 09 Jan 2023 02:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.11
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023010616123809.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애니메이션 첼로 페스티벌 디즈니 VS 지브리 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45590</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2023.01.11
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22017872_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[플레이 뮤지컬 〈핑크퐁과 아기상어의 생일파티 대소동〉 - 대구 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45583</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45583</guid>
-            <pubDate>Fri, 06 Jan 2023 04:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.10
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023010510395578.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2023_여수 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45582</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45582</guid>
-            <pubDate>Fri, 06 Jan 2023 02:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023010518255124.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2023_전주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45581</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45581</guid>
-            <pubDate>Fri, 06 Jan 2023 02:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023010518225754.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
