@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 03:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 04:10:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족뮤지컬 〈반짝반짝 달님이 - 버블버블 마법의 솜사탕〉 - 안양 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45614</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45614</guid>
+            <pubDate>Tue, 10 Jan 2023 04:06:42 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.12
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023010916000927.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어린이뮤지컬 〈티티체리 - 용의 생일파티를 도와라〉 - 광주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45613</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45613</guid>
+            <pubDate>Tue, 10 Jan 2023 04:06:42 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.12
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023010911102486.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023남우현 팬미팅 SECRET HOTEL NAMU:나무랄 데 없는 하루 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45612</link>
@@ -77,24 +95,6 @@
             <content:encoded><![CDATA[2023.01.13
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023010917464509.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브루스 리우 피아노 리사이틀 - 안산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45604</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45604</guid>
-            <pubDate>Tue, 10 Jan 2023 02:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.16
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소크라테스 패러독스 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45603</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45603</guid>
-            <pubDate>Tue, 10 Jan 2023 00:37:14 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.13
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22016244_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
