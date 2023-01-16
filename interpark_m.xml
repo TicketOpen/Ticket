@@ -4,9 +4,26 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 06:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 07:06:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 빅3 "행복한 만남" 콘서트 - 강릉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45687</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45687</guid>
+            <pubDate>Mon, 16 Jan 2023 07:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.19
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023011322350939.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임동혁 피아노 리사이틀 <쇼팽에 대하여> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45686</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45686</guid>
+            <pubDate>Mon, 16 Jan 2023 07:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span>추후공지</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023011612591277.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TOMORROW X TOGETHER WORLD TOUR 〈ACT : SWEET MIRAGE〉 IN SEOUL 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45685</link>
@@ -77,24 +94,6 @@
             <content:encoded><![CDATA[2023.01.19
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023011211160517.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베토벤&라흐마니노프 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45676</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45676</guid>
-            <pubDate>Mon, 16 Jan 2023 02:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.18
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 아마데우스 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45675</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45675</guid>
-            <pubDate>Mon, 16 Jan 2023 02:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.19
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22018039_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
