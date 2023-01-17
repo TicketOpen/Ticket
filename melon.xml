@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-01-17T02:13:14.108Z</updated>
+    <updated>2023-01-17T03:05:30.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[9와 숫자들 단독 콘서트 ‘New Year＇s Rollin＇（@Rolling Hall）’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6904</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6904"/>
+        <updated>2023-01-17T03:02:37.346Z</updated>
+        <content type="html"><![CDATA[2023.01.25(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈여신님이 보고 계셔〉 10th Anniversary－부산 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6903</id>
@@ -66,13 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6894</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6894"/>
         <updated>2023-01-16T20:02:45.984Z</updated>
-        <content type="html"><![CDATA[2023.01.18(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[행로난 단독 콘서트：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6893</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6893"/>
-        <updated>2023-01-16T20:02:45.987Z</updated>
         <content type="html"><![CDATA[2023.01.18(수) 20:00]]></content>
     </entry>
 </feed>
