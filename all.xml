@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 06:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 07:07:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김가람 피아노 리사이틀 ‘Lament’ 티켓 오픈 공지 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6908</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6908</guid>
+            <pubDate>Tue, 17 Jan 2023 07:03:07 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.20(금) 10:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[빌리어코스티 정규 3집 발매기념공연 〈STEREO FILTER〉 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6905</link>
@@ -71,11 +78,11 @@
             <content:encoded><![CDATA[2023.01.17(화) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌6［WAS SUMMER］지소쿠리클럽 단독 콘서트 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6895</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6895</guid>
-            <pubDate>Mon, 16 Jan 2023 20:02:45 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.19(목) 20:00]]></content:encoded>
+            <title><![CDATA[가족뮤지컬 〈슈퍼 히어로의 똥 닦는 법〉 - 안산 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45698&amp;groupno=45698&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45698&amp;groupno=45698&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 17 Jan 2023 07:03:20 GMT</pubDate>
+            <content:encoded><![CDATA[23.01.20(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈브로드웨이 42번가〉 - 여수 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[23.01.19(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2023 조명섭 참좋은 ‘달밤 음악회’ - 강릉 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45680&amp;groupno=45680&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45680&amp;groupno=45680&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 16 Jan 2023 05:03:16 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.19(목)&nbsp;12:00]]></content:encoded>
+            <title><![CDATA[가족뮤지컬 〈슈퍼 히어로의 똥 닦는 법〉 - 안산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45698</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45698</guid>
+            <pubDate>Tue, 17 Jan 2023 07:03:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.20
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230117035923.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈브로드웨이 42번가〉 - 여수 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2023.01.20
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230116055411.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김대준 박진우 듀오 리사이틀 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45688</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45688</guid>
-            <pubDate>Mon, 16 Jan 2023 08:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.18
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23000647_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[구미]가족뮤지컬 〈반짝반짝 달님이의 마법의 솜사탕〉 티켓오픈 안내 (예스24 티켓)]]></title>
