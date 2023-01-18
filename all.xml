@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 07:06:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 08:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,7 +96,7 @@
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45707&amp;groupno=45707&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45707&amp;groupno=45707&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 18 Jan 2023 06:08:37 GMT</pubDate>
-            <content:encoded><![CDATA[23.01.20(금)&nbsp;14:00]]></content:encoded>
+            <content:encoded><![CDATA[23.01.20(금)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[디핵문화제GT 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -211,12 +211,21 @@
             <content:encoded><![CDATA[23.01.19(목)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈물랑루즈!〉 아시아 초연 (Moulin Rouge! The Musical) 마지막 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45709</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45709</guid>
+            <pubDate>Wed, 18 Jan 2023 08:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.20
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22014586_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[클라,무궁화 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45707</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45707</guid>
             <pubDate>Wed, 18 Jan 2023 06:08:52 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.20
-                                    <span>14:00</span>]]></content:encoded>
+                                    <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23000836_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
@@ -290,155 +299,6 @@
             <content:encoded><![CDATA[2023.01.25
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023011715362037.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈브로드웨이 42번가〉 - 여수 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45697</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45697</guid>
-            <pubDate>Wed, 18 Jan 2023 07:02:59 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.19
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230118025509.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG아트센터 서울 2023년 기획공연 시즌 CoMPAS 23 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12664</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12664</guid>
-            <pubDate>Wed, 18 Jan 2023 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.19(목) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[밤베르크 심포니 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12663</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12663</guid>
-            <pubDate>Wed, 18 Jan 2023 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.19(목) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[임동혁 피아노 리사이틀 <쇼팽에 대하여> 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12662</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12662</guid>
-            <pubDate>Wed, 18 Jan 2023 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.19(목) 16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[구미]가족뮤지컬 〈반짝반짝 달님이의 마법의 솜사탕〉 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12661</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12661</guid>
-            <pubDate>Wed, 18 Jan 2023 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.18(수) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022-23 임재범 전국투어 콘서트 [앵콜] - 서울 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12660</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12660</guid>
-            <pubDate>Wed, 18 Jan 2023 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.17(화) 12:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022-23 임재범 전국투어 콘서트 - 인천 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12659</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12659</guid>
-            <pubDate>Wed, 18 Jan 2023 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.19(목) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12658</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12658</guid>
-            <pubDate>Wed, 18 Jan 2023 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.19(목) 19:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[포터 로빈슨 내한공연 (Porter Robinson Live in Seoul) 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12657</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12657</guid>
-            <pubDate>Wed, 18 Jan 2023 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.20(금) 12:00<a class="noti-btn-pop" presaletit1="아티스트 선예매" presaletit2="" presaletime1="2023.01.19(목) 12:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈여신님이 보고 계셔〉 10th Anniversary 부산공연 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12656</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12656</guid>
-            <pubDate>Wed, 18 Jan 2023 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.20(금) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈결투〉 1차 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12655</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12655</guid>
-            <pubDate>Wed, 18 Jan 2023 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.20(금) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12652</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12652</guid>
-            <pubDate>Wed, 18 Jan 2023 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.20(금) 19:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12651</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12651</guid>
-            <pubDate>Wed, 18 Jan 2023 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.20(금) 18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12650</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12650</guid>
-            <pubDate>Wed, 18 Jan 2023 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.20(금) 17:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12649</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12649</guid>
-            <pubDate>Wed, 18 Jan 2023 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.20(금) 16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12648</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12648</guid>
-            <pubDate>Wed, 18 Jan 2023 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.25(수) 19:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2023.01.18(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12647</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12647</guid>
-            <pubDate>Wed, 18 Jan 2023 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.18(수) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2023.01.16(월) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NEW 뮤지컬 미니특공대 브이레인저스 - 성남 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12646</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12646</guid>
-            <pubDate>Wed, 18 Jan 2023 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.18(수) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12645</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12645</guid>
-            <pubDate>Wed, 18 Jan 2023 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.25(수) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2023.01.19(목) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12644</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12644</guid>
-            <pubDate>Wed, 18 Jan 2023 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.26(목) 12:00<a class="noti-btn-pop" presaletit1="아티스트 선예매" presaletit2="" presaletime1="2023.01.25(수) 12:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 KIM SUNG KYU CONCERT ‘LV - LIKE YOUR VIBES’ 추가 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12643</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12643</guid>
-            <pubDate>Wed, 18 Jan 2023 04:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.17(화) 19:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2023.01.16(월) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[LG아트센터 서울 2023년 기획공연 시즌 CoMPAS 23 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
