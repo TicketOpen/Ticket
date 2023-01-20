@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 02:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 03:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코난 그레이 첫 단독 내한공연 VIP 패키지 (Conan Gray Live in Seoul VIP Package) 오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45731</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45731</guid>
+            <pubDate>Fri, 20 Jan 2023 03:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.26
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22015105_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2023 이은미 전국투어 콘서트 〈NOCTURN〉 - 고양 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45730</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2023.01.26
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023011914054471.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 브레드이발소 〈대결! 최고의 이발사〉 - 성남 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45721</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45721</guid>
-            <pubDate>Thu, 19 Jan 2023 05:03:16 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.26
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023011910241839.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
