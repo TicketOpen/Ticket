@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 00:32:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 02:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈종의 기원〉 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45743</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45743</guid>
+            <pubDate>Wed, 25 Jan 2023 02:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.31
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22015474_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 ＇빵야＇ 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45742</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45742</guid>
+            <pubDate>Wed, 25 Jan 2023 02:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.27
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/L0/L0000025_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈그때도 오늘〉 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45741</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45741</guid>
+            <pubDate>Wed, 25 Jan 2023 02:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.26
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22015612_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈웨이스티드〉 : 연극열전9_네 번째 작품 마지막 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45739</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2023.01.26
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023011020425170.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 THE FIRST PHANTOMS 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45732</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45732</guid>
-            <pubDate>Fri, 20 Jan 2023 04:04:52 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.26
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230120125454.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코난 그레이 첫 단독 내한공연 VIP 패키지 (Conan Gray Live in Seoul VIP Package) 오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45731</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45731</guid>
-            <pubDate>Fri, 20 Jan 2023 03:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.26
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22015105_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 이은미 전국투어 콘서트 〈NOCTURN〉 - 고양 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45730</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45730</guid>
-            <pubDate>Fri, 20 Jan 2023 02:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023011815481473.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
