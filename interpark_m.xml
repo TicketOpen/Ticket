@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 10:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 11:06:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -77,7 +77,7 @@
             <pubDate>Wed, 25 Jan 2023 05:03:37 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.30
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230125074051.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지브리 탱고 티켓오픈 안내]]></title>
