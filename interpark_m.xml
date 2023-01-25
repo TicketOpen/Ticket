@@ -4,9 +4,45 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 06:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 07:05:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이은결 〈MAGIC ＆ ILLUSION〉 - 제주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45757</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45757</guid>
+            <pubDate>Wed, 25 Jan 2023 07:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023011722110914.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<원슈타인X수란> 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45756</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45756</guid>
+            <pubDate>Wed, 25 Jan 2023 07:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.26
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23000763_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 최현우 〈THE BRAIN〉 - 강릉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45755</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45755</guid>
+            <pubDate>Wed, 25 Jan 2023 07:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023011913244558.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <알사탕> - 전주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45754</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45754</guid>
+            <pubDate>Wed, 25 Jan 2023 07:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.30
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023011717064280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 남진 60주년 콘서트 - 인천 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45751</link>
@@ -60,42 +96,6 @@
             <content:encoded><![CDATA[2023.01.27
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023011911002744.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <슈퍼 히어로의 똥 닦는 법> - 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45745</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45745</guid>
-            <pubDate>Wed, 25 Jan 2023 03:03:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.26
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23001073_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[산국 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45744</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45744</guid>
-            <pubDate>Wed, 25 Jan 2023 03:03:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.27
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023012023262686.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈종의 기원〉 마지막 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45743</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45743</guid>
-            <pubDate>Wed, 25 Jan 2023 02:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.31
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22015474_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 ＇빵야＇ 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45742</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45742</guid>
-            <pubDate>Wed, 25 Jan 2023 02:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.27
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/L0/L0000025_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
