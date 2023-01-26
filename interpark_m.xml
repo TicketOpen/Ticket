@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 04:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 05:06:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족뮤지컬 〈백설공주〉 - 서울 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45769</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45769</guid>
+            <pubDate>Thu, 26 Jan 2023 05:03:09 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.31
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023012516514777.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 크레디아클래식클럽 : 손태진 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45768</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45768</guid>
+            <pubDate>Thu, 26 Jan 2023 05:03:09 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.30
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023012610041724.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈셰익스피어 인 러브〉 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45767</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45767</guid>
+            <pubDate>Thu, 26 Jan 2023 05:03:09 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.01
+                                    <span>13:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22017346_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[봄愛이천 스테이지 - 정준일콘서트 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45766</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2023.02.02
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023012515074327.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이현준 1st 단독공연 [기본값, 복원 (DEFAULT, RESTORE)] 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45759</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45759</guid>
-            <pubDate>Wed, 25 Jan 2023 10:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.26
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23000847_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈일라이〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45758</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45758</guid>
-            <pubDate>Wed, 25 Jan 2023 10:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.31
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23000681_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이은결 〈MAGIC ＆ ILLUSION〉 - 제주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45757</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45757</guid>
-            <pubDate>Wed, 25 Jan 2023 07:02:48 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.27
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23001092_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
