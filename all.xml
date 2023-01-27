@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 16:08:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 17:05:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/41/202211/29/5dhfru5tnvu8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[​지브리 탱고​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/56037</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/56037</guid>
+            <pubDate>Fri, 27 Jan 2023 17:04:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.01.30(월) 06:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[​뮤지컬 민쩌미 <사랑해요 엄마!> - 용인첫공연!!​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/56036</link>
             <guid>http://www.ticketlink.co.kr/help/notice/56036</guid>
@@ -626,7 +633,7 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.02.01(수) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[디오리지널 프렌치 갈라 뮤지컬 콘서트 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <title><![CDATA[디오리지널 프렌치 뮤지컬 갈라 콘서트 - 대구 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/56030</link>
             <guid>http://www.ticketlink.co.kr/help/notice/56030</guid>
             <pubDate>Fri, 27 Jan 2023 07:05:35 GMT</pubDate>
@@ -678,13 +685,6 @@
             <title><![CDATA[마리아킴 Two For The Road (대구)​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/56023</link>
             <guid>http://www.ticketlink.co.kr/help/notice/56023</guid>
-            <pubDate>Thu, 26 Jan 2023 21:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.01.30(월) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마리아킴 Two For The Road (세종)​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/56022</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/56022</guid>
             <pubDate>Thu, 26 Jan 2023 21:05:29 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2023.01.30(월) 01:00]]></content:encoded>
         </item>

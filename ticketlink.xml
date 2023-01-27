@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-01-27T16:08:38.497Z</updated>
+    <updated>2023-01-27T17:05:53.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​지브리 탱고​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56037</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56037"/>
+        <updated>2023-01-27T17:04:38.719Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.30(월) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 민쩌미 <사랑해요 엄마!> - 용인첫공연!!​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56036</id>
@@ -48,7 +55,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.02.01(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[디오리지널 프렌치 갈라 뮤지컬 콘서트 - 대구 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[디오리지널 프렌치 뮤지컬 갈라 콘서트 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56030</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56030"/>
         <updated>2023-01-27T07:05:35.956Z</updated>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/56023</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56023"/>
         <updated>2023-01-26T21:05:29.282Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.30(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마리아킴 Two For The Road (세종)​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56022</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56022"/>
-        <updated>2023-01-26T21:05:29.289Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.01.30(월) 01:00]]></content>
     </entry>
 </feed>
