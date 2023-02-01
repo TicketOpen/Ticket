@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 03:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 04:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6921</guid>
             <pubDate>Thu, 26 Jan 2023 09:02:41 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.27(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[조성현 . 함경의 백 투 더 베이직 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45830&amp;groupno=45830&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45830&amp;groupno=45830&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 01 Feb 2023 04:07:52 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.03(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[앙상블더공감정기연주회 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[23.02.03(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2023_청주 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45812&amp;groupno=45812&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45812&amp;groupno=45812&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 31 Jan 2023 02:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.03(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[조성현 . 함경의 백 투 더 베이직 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45830</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45830</guid>
+            <pubDate>Wed, 01 Feb 2023 04:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.03
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23000556_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2023 MOONBIN&SANHA FAN CON : [DIFFUSION] 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2023.02.03
                                     <span>17:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023012720272235.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 이승윤 전국투어 콘서트 〈DOCKING〉 - 대전 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45818</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45818</guid>
-            <pubDate>Tue, 31 Jan 2023 05:02:50 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.03
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023012715413519.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
