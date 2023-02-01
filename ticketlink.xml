@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-02-01T04:11:09.371Z</updated>
+    <updated>2023-02-01T05:05:19.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 악극 찔레꽃 - 의성 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56064</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56064"/>
+        <updated>2023-02-01T05:04:01.576Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.08(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[광주시립발레단 기획공연 [발레 살롱콘서트Ⅰ] 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56063</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56050"/>
         <updated>2023-02-01T02:25:35.580Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.02.03(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고양] 뮤지컬 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56049</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56049"/>
-        <updated>2023-01-30T02:08:47.117Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.31(화) 02:00]]></content>
     </entry>
 </feed>
