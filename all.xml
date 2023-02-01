@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 09:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 10:06:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -321,7 +321,7 @@
             <content:encoded><![CDATA[2023.02.08(수) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2023.02.08(수) 18:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[레떼아모르 올 데이 콘서트(LETTEAMOR All Day Concert) 티켓오픈 안내 (예스24 티켓)]]></title>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12705</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12705</guid>
             <pubDate>Wed, 01 Feb 2023 08:08:35 GMT</pubDate>
@@ -716,6 +716,13 @@
             <content:encoded><![CDATA[2023.02.07(화) 05:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[단독판매] [TO THE NCT UNIVERSE] NCT HOME 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/56065</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/56065</guid>
+            <pubDate>Wed, 01 Feb 2023 10:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.03(금) 08:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 악극 찔레꽃 - 의성 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/56064</link>
             <guid>http://m.ticketlink.co.kr/help/notice/56064</guid>
@@ -744,7 +751,7 @@
             <content:encoded><![CDATA[2023.02.03(금) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[일클라씨코 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <title><![CDATA[[단독판매]  일클라씨코 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/56060</link>
             <guid>http://m.ticketlink.co.kr/help/notice/56060</guid>
             <pubDate>Wed, 01 Feb 2023 06:11:30 GMT</pubDate>
@@ -784,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/56055</guid>
             <pubDate>Wed, 01 Feb 2023 06:11:30 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.07(화) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 라이브 가족뮤지컬 <라푼젤> -수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/56054</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/56054</guid>
-            <pubDate>Wed, 01 Feb 2023 06:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.06(월) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
