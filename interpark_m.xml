@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 08:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 09:05:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 SG워너비 콘서트 : 우리의 노래 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45858</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45858</guid>
+            <pubDate>Thu, 02 Feb 2023 09:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.14
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023020216202304.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 어린이 베스트셀러 연극 〈누가내머리에똥샀어?〉-창원 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45857</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45857</guid>
+            <pubDate>Thu, 02 Feb 2023 09:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.08
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023020217342216.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 어린이 베스트셀러 뮤지컬 〈사과가쿵〉-대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45856</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45856</guid>
+            <pubDate>Thu, 02 Feb 2023 09:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.08
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023020214213425.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가족뮤지컬 <슈퍼 히어로의 똥 닦는 법> - 소월아트홀 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45855</link>
@@ -35,13 +62,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023020114262755.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어썸스테이지 #2-2 티켓오픈 안내]]></title>
+            <title><![CDATA[2023 어썸스테이지 #2-3 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45852</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45852</guid>
             <pubDate>Thu, 02 Feb 2023 07:03:29 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.06
                                     <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023020213471274.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230202054309.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어썸스테이지 #2-1 티켓오픈 안내]]></title>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2023.02.08
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23000221_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <해적> 프리뷰 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45848</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45848</guid>
-            <pubDate>Thu, 02 Feb 2023 06:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.09
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023020213184439.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 여수 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45847</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45847</guid>
-            <pubDate>Thu, 02 Feb 2023 05:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.07
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23001332_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[LE SSERAFIM FAN MEETING ‘FEARNADA’ 2023 S/S 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45846</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45846</guid>
-            <pubDate>Thu, 02 Feb 2023 05:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.22
-                                    <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23001292_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
