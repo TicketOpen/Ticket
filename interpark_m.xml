@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 03:06:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 04:08:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 조명섭 참좋은 '달밤 음악회' - 과천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45888</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45888</guid>
+            <pubDate>Mon, 06 Feb 2023 04:06:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.08
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023012612520562.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클래식 유니버스 5 피아노로 쓰는 서정시 - 2023 아람누리 마티네 콘서트 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45887</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2023.02.08
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023020310023567.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(2023) 백설공주와 난쟁이 - 부산 신세계 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45877</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45877</guid>
-            <pubDate>Mon, 06 Feb 2023 00:28:11 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.08
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023020309594425.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
