@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-02-07T02:11:59.692Z</updated>
+    <updated>2023-02-07T03:06:07.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.yes24.com/New/Notice/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<2023 세종시즌> 프로그램 개별 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12721</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12721"/>
+        <updated>2023-02-07T03:03:08.204Z</updated>
+        <content type="html"><![CDATA[2023.02.08(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <키스> 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12720</id>
@@ -135,12 +142,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12701"/>
         <updated>2023-02-06T03:04:31.543Z</updated>
         <content type="html"><![CDATA[2023.02.03(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 뮤지컬 [브로드웨이 42번가] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12700</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12700"/>
-        <updated>2023-02-06T03:04:31.545Z</updated>
-        <content type="html"><![CDATA[2023.02.03(금) 14:00]]></content>
     </entry>
 </feed>
