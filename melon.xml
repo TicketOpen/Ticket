@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-02-08T02:19:00.319Z</updated>
+    <updated>2023-02-08T03:14:30.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,27 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6952"/>
         <updated>2023-02-08T02:15:55.237Z</updated>
         <content type="html"><![CDATA[2023.02.16(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PL（피엘） EP앨범 〈접속〉 발매 기념 콘서트 ‘우리는 서로의 봄’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6950</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6950"/>
+        <updated>2023-02-08T03:10:55.629Z</updated>
+        <content type="html"><![CDATA[2023.02.13(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이희상 단독콘서트 〈HOWEVER CONCERT〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6949</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6949"/>
+        <updated>2023-02-08T03:10:55.631Z</updated>
+        <content type="html"><![CDATA[2023.02.10(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크랙샷 단독 콘서트 ‘Hello My Love’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6948</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6948"/>
+        <updated>2023-02-08T03:10:55.635Z</updated>
+        <content type="html"><![CDATA[2023.02.14(화) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[그리즐리（Grizzly）Concert：Spring House 티켓 오픈 안내]]></title>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6942"/>
         <updated>2023-02-07T22:02:44.392Z</updated>
         <content type="html"><![CDATA[2023.02.10(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dreamcatcher（드림캐쳐）공식 팬클럽［InSomnia］2기 추가모집 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6941</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6941"/>
-        <updated>2023-02-07T22:02:44.396Z</updated>
-        <content type="html"><![CDATA[2023.02.06(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 58회 라이브 클럽 데이 with 멜론 트랙제로－블라인드 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6940</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6940"/>
-        <updated>2023-02-07T22:02:44.409Z</updated>
-        <content type="html"><![CDATA[2023.02.08(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김현철 단독 공연 “김현철 도시의밤” 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6939</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6939"/>
-        <updated>2023-02-07T22:02:44.413Z</updated>
-        <content type="html"><![CDATA[2023.02.07(화) 20:00]]></content>
     </entry>
 </feed>
