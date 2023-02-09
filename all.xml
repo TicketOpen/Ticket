@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 06:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 07:06:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6948</guid>
             <pubDate>Wed, 08 Feb 2023 23:02:54 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.14(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 HYNN(박혜원) X 홍이삭 어쩌다 페스티벌 SPECIAL - 인천 티켓오.. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45953&amp;groupno=45953&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45953&amp;groupno=45953&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 09 Feb 2023 07:03:08 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.10(금)&nbsp;17:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[브랜든 리 뮤지컬 심포니 콘서트 Vol.2 - 성남 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[23.02.16(목)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 아마데우스 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45935&amp;groupno=45935&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45935&amp;groupno=45935&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 08 Feb 2023 23:03:06 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.14(화)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[2023 HYNN(박혜원) X 홍이삭 어쩌다 페스티벌 SPECIAL - 인천 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45953</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45953</guid>
+            <pubDate>Thu, 09 Feb 2023 07:03:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.10
+                                    <span>17:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23001677_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[브랜든 리 뮤지컬 심포니 콘서트 Vol.2 - 성남 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2023.02.15
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제15회 서울재즈페스티벌 2023 2차 라인업 공개 및 1일권 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45943</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45943</guid>
-            <pubDate>Thu, 09 Feb 2023 03:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.14
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023020910111485.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <포쉬> 프리뷰 티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -534,7 +534,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/07/202302/02/xp4pyl6fudjo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 원픽 페스티벌 - 서울 티켓오픈 안내 (위메프 공연티켓)]]></title>
+            <title><![CDATA[2023 원픽 페스티벌 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1019</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1019</guid>
             <pubDate>Wed, 08 Feb 2023 20:04:34 GMT</pubDate>
