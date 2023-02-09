@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-02-09T03:15:26.457Z</updated>
+    <updated>2023-02-09T04:06:07.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우주라이브［현온］콘서트 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6954</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6954"/>
+        <updated>2023-02-09T04:02:58.365Z</updated>
+        <content type="html"><![CDATA[2023.02.10(금) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 IN 라이브클럽［프랭클리 단독 콘서트］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6953</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6945"/>
         <updated>2023-02-08T23:02:54.111Z</updated>
         <content type="html"><![CDATA[2023.02.09(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김마리，김준서 〈어느 날의 꿈〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6944</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6944"/>
-        <updated>2023-02-08T23:02:54.115Z</updated>
-        <content type="html"><![CDATA[2023.02.13(월) 20:00]]></content>
     </entry>
 </feed>

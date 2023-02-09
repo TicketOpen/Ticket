@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 03:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 04:06:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우주라이브［현온］콘서트 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6954</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6954</guid>
+            <pubDate>Thu, 09 Feb 2023 04:02:58 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.10(금) 13:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［프랭클리 단독 콘서트］티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6953</link>
@@ -71,11 +78,11 @@
             <content:encoded><![CDATA[2023.02.09(목) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김마리，김준서 〈어느 날의 꿈〉 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6944</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6944</guid>
-            <pubDate>Wed, 08 Feb 2023 23:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.13(월) 20:00]]></content:encoded>
+            <title><![CDATA[국립합창단 제193회 정기연주회 에드워드 엘가 〈더 뮤직 메이커스〉.. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45944&amp;groupno=45944&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45944&amp;groupno=45944&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 09 Feb 2023 04:03:11 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.15(수)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제15회 서울재즈페스티벌 2023 2차 라인업 공개 및 1일권 티켓오픈 .. (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[23.02.15(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[대니초 스탠드업 코미디 전국투어 <코리안 드림> - 대구 티켓오픈 안.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45926&amp;groupno=45926&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45926&amp;groupno=45926&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 08 Feb 2023 23:03:06 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.15(수)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[국립합창단 제193회 정기연주회 에드워드 엘가 〈더 뮤직 메이커스〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45944</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45944</guid>
+            <pubDate>Thu, 09 Feb 2023 04:03:25 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.15
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제15회 서울재즈페스티벌 2023 2차 라인업 공개 및 1일권 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2023.02.14
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22018039_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 김창옥 토크콘서트 시즌 3 - 김해 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45934</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45934</guid>
-            <pubDate>Wed, 08 Feb 2023 23:03:21 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.14
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023020711024081.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 원픽 페스티벌 티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -582,6 +582,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/17/202212/15/5flg7bcvsbee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[서울] 싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기> x티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/56120</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/56120</guid>
+            <pubDate>Thu, 09 Feb 2023 04:04:45 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.02.13(월) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] SHOOTING STAR ASIA TOUR IN SEOUL 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/56119</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/56119</guid>
+            <pubDate>Thu, 09 Feb 2023 04:04:45 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.02.15(수) 11:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[양인모&김다솔 듀오 리사이틀 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/56118</link>
             <guid>http://www.ticketlink.co.kr/help/notice/56118</guid>
@@ -621,7 +635,7 @@
             <link>http://www.ticketlink.co.kr/help/notice/56113</link>
             <guid>http://www.ticketlink.co.kr/help/notice/56113</guid>
             <pubDate>Wed, 08 Feb 2023 12:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.02.10(금) 05:00]]></content:encoded>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.02.09(목) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​가족뮤지컬 <급식왕 - 발가락 떡볶이의 비밀> - 창원앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -671,20 +685,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/56106</guid>
             <pubDate>Tue, 07 Feb 2023 09:05:16 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2023.02.10(금) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<2023 세종시즌> 프로그램 개별 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/56105</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/56105</guid>
-            <pubDate>Tue, 07 Feb 2023 09:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.02.08(수) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 버블콘서트<일루젼버블쇼>-대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/56103</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/56103</guid>
-            <pubDate>Mon, 06 Feb 2023 23:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.02.10(금) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[양인모&김다솔 듀오 리사이틀 티켓오픈 안내 (티켓링크 모바일)]]></title>
