@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 18:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 19:05:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/53/202301/04/mpt2uf5s4pvh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <보이체크 인 더 다크> 2차​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/56138</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/56138</guid>
+            <pubDate>Fri, 10 Feb 2023 19:04:37 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.02.14(화) 07:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[​2023 빅3 “​행복한 만남”​ <강진, 김용임,진성> 콘서트 - 인천​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/56137</link>
             <guid>http://www.ticketlink.co.kr/help/notice/56137</guid>
@@ -677,13 +684,6 @@
             <title><![CDATA[(2023 롯데백화점 영등포) 아기돼지 삼형제 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/56124</link>
             <guid>http://www.ticketlink.co.kr/help/notice/56124</guid>
-            <pubDate>Thu, 09 Feb 2023 16:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.02.10(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​(2023 롯데백화점 대구) 아기돼지 삼형제​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/56123</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/56123</guid>
             <pubDate>Thu, 09 Feb 2023 16:06:35 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2023.02.10(금) 05:00]]></content:encoded>
         </item>
