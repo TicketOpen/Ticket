@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Feb 2023 23:06:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 00:35:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <세일즈맨의 죽음> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45975</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45975</guid>
+            <pubDate>Mon, 13 Feb 2023 00:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.13
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23001936_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 임대아파트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45974</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45974</guid>
+            <pubDate>Mon, 13 Feb 2023 00:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.14
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23001983_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈보이체크 인 더 다크〉 2차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45973</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2023.02.15
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023020911095874.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 이승윤 전국투어 콘서트 〈DOCKING〉 - 서울 시야제한석 추가오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45964</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45964</guid>
-            <pubDate>Fri, 10 Feb 2023 05:03:03 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.13
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23001048_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈실비아, 살다〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45963</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45963</guid>
-            <pubDate>Fri, 10 Feb 2023 15:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.17
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22017876_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
