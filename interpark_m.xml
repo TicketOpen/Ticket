@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 04:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 05:05:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈알사탕〉 - 서울숲 17차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45984</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45984</guid>
+            <pubDate>Mon, 13 Feb 2023 05:03:07 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.16
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007832_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[BTOB OFFICIAL FAN CLUB MELODY 5TH FAN MEETING [MELODY COMPANY 연수회] 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45983</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45983</guid>
+            <pubDate>Mon, 13 Feb 2023 05:03:07 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.23
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23002068_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 김창옥 토크콘서트 시즌3 - 부천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45982</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45982</guid>
+            <pubDate>Mon, 13 Feb 2023 05:03:07 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.16
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023021011151968.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 김창옥 토크콘서트 시즌3 - 여수 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45981</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2023.02.13
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23001936_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 임대아파트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45974</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45974</guid>
-            <pubDate>Mon, 13 Feb 2023 00:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.14
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23001983_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈보이체크 인 더 다크〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45973</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45973</guid>
-            <pubDate>Fri, 10 Feb 2023 09:04:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.14
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23000450_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[PEAKBOX 23-04 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45972</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45972</guid>
-            <pubDate>Fri, 10 Feb 2023 09:04:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.15
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023021017021040.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
