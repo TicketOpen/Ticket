@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 05:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 06:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=45735&amp;groupno=45735&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Sun, 12 Feb 2023 17:02:52 GMT</pubDate>
             <content:encoded><![CDATA[23.02.20(월)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 장사익소리판 사람이 사람을 만나 - 진주 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46002&amp;groupno=46002&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46002&amp;groupno=46002&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 14 Feb 2023 06:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.16(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲 17차 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -204,11 +211,13 @@
             <content:encoded><![CDATA[23.02.21(화)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈알사탕〉 - 서울숲 17차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45984&amp;groupno=45984&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45984&amp;groupno=45984&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 13 Feb 2023 05:02:53 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.16(목)&nbsp;11:00]]></content:encoded>
+            <title><![CDATA[2023 장사익소리판 사람이 사람을 만나 - 진주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46002</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46002</guid>
+            <pubDate>Tue, 14 Feb 2023 06:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.16
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023021311513364.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲 17차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -290,15 +299,6 @@
             <content:encoded><![CDATA[2023.02.16
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나만 알고싶은 인디 Ep. 26 예람 단독 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45992</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=45992</guid>
-            <pubDate>Mon, 13 Feb 2023 09:05:39 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.14
-                                    <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23001956_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
@@ -515,7 +515,7 @@
             <guid>https://ticket.wemakeprice.com/opennotice/1025</guid>
             <pubDate>Mon, 13 Feb 2023 09:06:44 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.16(목) 14:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/11/202302/13/dcuarhhfyjck.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/58/202302/14/l8raxtu0kdfv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈드라큘라〉 - 대구 티켓오픈 안내 (위메프 공연티켓)]]></title>
