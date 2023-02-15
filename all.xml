@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 06:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 08:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,27 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=45735&amp;groupno=45735&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Sun, 12 Feb 2023 17:02:52 GMT</pubDate>
             <content:encoded><![CDATA[23.02.20(월)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈캣츠〉 오리지널 내한－익산（Musical CATS） 티켓오픈 안.. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46043&amp;groupno=46043&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46043&amp;groupno=46043&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 15 Feb 2023 08:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.17(금)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈앤ANNE〉 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46042&amp;groupno=46042&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46042&amp;groupno=46042&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 15 Feb 2023 08:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.21(화)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Rock ＆ 樂 Concert Vol.44 로맨틱펀치 - 군포 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46041&amp;groupno=46041&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46041&amp;groupno=46041&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 15 Feb 2023 08:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.24(금)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤직드라마 당신만이 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -190,25 +211,31 @@
             <content:encoded><![CDATA[23.02.16(목)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[테일즈위버 디 오케스트라 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46026&amp;groupno=46026&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46026&amp;groupno=46026&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 15 Feb 2023 02:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.17(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈캣츠〉 오리지널 내한－익산（Musical CATS） 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46043</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46043</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.17
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023021415080707.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[토요스테이지 - 최후의 클래식 쇼스타코비치 V 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46025&amp;groupno=46025&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46025&amp;groupno=46025&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 15 Feb 2023 00:30:15 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.16(목)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈앤ANNE〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46042</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46042</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23000197_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[토요스테이지 - 최후의 클래식 쇼스타코비치 IV 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46024&amp;groupno=46024&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46024&amp;groupno=46024&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 15 Feb 2023 00:30:15 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.16(목)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[Rock ＆ 樂 Concert Vol.44 로맨틱펀치 - 군포 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46041</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46041</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.24
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23001390_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤직드라마 당신만이 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -274,31 +301,149 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22017511_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 1차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46033</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46033</guid>
-            <pubDate>Wed, 15 Feb 2023 05:04:12 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.23
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023020714270187.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뮤지컬 〈결투〉 2차 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12749</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12749</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.20(월) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[무비 OST 콘서트 with 첼로댁 <토크콘서트> - 인천 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46031</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46031</guid>
-            <pubDate>Wed, 15 Feb 2023 02:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.17
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230215111005.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[시스템 점검으로 인한 서비스 일부 제한 안내(2/19) (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12748</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12748</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2023 가족뮤지컬 <고고다이노 우리동네공룡> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46030</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46030</guid>
-            <pubDate>Wed, 15 Feb 2023 02:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.20
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023021312593123.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[일리야 라쉬코프스키 피아노 리사이틀 ＂열정＂ 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12747</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12747</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.22(수) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[테일즈위버 디 오케스트라 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12746</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12746</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.17(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12745</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12745</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.17(금) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[선셋 롤러코스터 내한공연 (Sunset Rollercoaster Live in Seoul) 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12744</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12744</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.22(수) 12:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 백지영 전국투어 콘서트〈GO BAEK〉- 창원 OP석 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12743</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12743</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.15(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12742</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12742</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.20(월) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오페라 모차르트 <마술피리> 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12741</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12741</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.16(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(2/4, 2/12, 2/14, 2/18, 2/19, 2/20) (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12740</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12740</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[연극 [그새끼] 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12739</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12739</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.15(수) 12:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12738</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12738</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.20(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[인천]플레이뮤지컬 핑크퐁과 아기상어의 생일파티 대소동 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12737</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12737</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.16(목) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12736</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12736</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.20(월) 12:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12735</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12735</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.21(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12734</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12734</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.17(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 김창옥 토크콘서트 시즌3 - 여수 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12733</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12733</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.16(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 〈고고다이노 우리동네공룡 〉- 제주 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12732</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12732</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.15(수) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12731</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12731</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.14(화) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈어린왕자〉 2차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12730</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12730</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.15(수) 15:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2023.02.15(수) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈결투〉 2차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12749&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12749&amp;order=1</guid>
+            <pubDate>Wed, 15 Feb 2023 08:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[2023-02-20(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일리야 라쉬코프스키 피아노 리사이틀 ＂열정＂ 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -362,13 +507,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12738&amp;order=1</guid>
             <pubDate>Mon, 13 Feb 2023 05:03:30 GMT</pubDate>
             <content:encoded><![CDATA[2023-02-20(월) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[인천]플레이뮤지컬 핑크퐁과 아기상어의 생일파티 대소동 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12737&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12737&amp;order=1</guid>
-            <pubDate>Mon, 13 Feb 2023 05:03:30 GMT</pubDate>
-            <content:encoded><![CDATA[2023-02-16(목) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[모차르트 〈마술피리〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
