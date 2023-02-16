@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-02-16T02:17:35.715Z</updated>
+    <updated>2023-02-16T03:15:19.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌6 My Universe［김제형 단독 콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6979</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6979"/>
+        <updated>2023-02-16T03:11:29.253Z</updated>
+        <content type="html"><![CDATA[2023.02.22(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OAH！단독 콘서트 ‘자유로워 OAH！’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6978</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6978"/>
+        <updated>2023-02-16T03:11:29.278Z</updated>
+        <content type="html"><![CDATA[2023.02.22(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 구원찬 단독공연 〈Object〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6977</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6970"/>
         <updated>2023-02-14T02:16:20.287Z</updated>
         <content type="html"><![CDATA[2023.02.15(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COM－PLAY HOUSE ＃1Wooden Language 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6969</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6969"/>
-        <updated>2023-02-14T02:16:20.287Z</updated>
-        <content type="html"><![CDATA[2023.02.17(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 58회 라이브 클럽 데이 with 멜론 트랙제로 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6968</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6968"/>
-        <updated>2023-02-13T15:04:21.295Z</updated>
-        <content type="html"><![CDATA[2023.02.15(수) 15:00]]></content>
     </entry>
 </feed>

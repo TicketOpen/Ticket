@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 02:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 03:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유니버셜 발레단 <지젤> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46059</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46059</guid>
+            <pubDate>Thu, 16 Feb 2023 03:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.22
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023020918395917.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손열음 모차르트 피아노 소나타 전곡 리사이틀 (5.2 / 화) 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46058</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46058</guid>
+            <pubDate>Thu, 16 Feb 2023 03:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.17
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23001229_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <라흐마니노프> 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46057</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2023.02.20
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23002026_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[코리안 브라스 앙상블의 다이얼로그 IV 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46049</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46049</guid>
-            <pubDate>Thu, 16 Feb 2023 02:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.17
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23002210_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[양인모 & 김다솔 듀오 리사이틀 - 인천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46048</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46048</guid>
-            <pubDate>Thu, 16 Feb 2023 00:30:28 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.16
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23001940_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
