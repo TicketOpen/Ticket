@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 00:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 02:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=45735&amp;groupno=45735&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Sun, 12 Feb 2023 17:02:52 GMT</pubDate>
             <content:encoded><![CDATA[23.02.20(월)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 일리야 라쉬코프스키, 라흐마니노프 3개의 피아노협주곡 티켓오.. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46082&amp;groupno=46082&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46082&amp;groupno=46082&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 20 Feb 2023 02:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[23.02.23(목)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 민쩌미 <사랑해요 엄마!> - 부산앵콜 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -204,11 +211,13 @@
             <content:encoded><![CDATA[23.02.21(화)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2023_부산 앙코르 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46064&amp;groupno=46064&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46064&amp;groupno=46064&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 17 Feb 2023 02:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[23.02.23(목)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[2023 일리야 라쉬코프스키, 라흐마니노프 3개의 피아노협주곡 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46082</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46082</guid>
+            <pubDate>Mon, 20 Feb 2023 02:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.23
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023020714273606.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 민쩌미 <사랑해요 엄마!> - 부산앵콜 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -290,15 +299,6 @@
             <content:encoded><![CDATA[2023.02.23
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23001738_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[22-23 로얄콘서트 : The Palace of Forestella in Seoul ENCORE 시야제한석 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46072</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46072</guid>
-            <pubDate>Fri, 17 Feb 2023 05:03:50 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.21
-                                    <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23001060_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈윌리엄과 윌리엄의 윌리엄들〉 추가티켓오픈 안내 (예스24 티켓)]]></title>
