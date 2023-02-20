@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 06:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 07:06:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 이성종 오리엔테이션 [다시, 봄] 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46096</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46096</guid>
+            <pubDate>Mon, 20 Feb 2023 07:03:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.24
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023022014412678.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손열음 피아노 리사이틀 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46095</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46095</guid>
+            <pubDate>Mon, 20 Feb 2023 07:03:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.22
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넌버벌 퍼포먼스 <옹알스> 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46094</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2023.02.21
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23002479_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈미드나잇 : 앤틀러스〉 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46086</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46086</guid>
-            <pubDate>Mon, 20 Feb 2023 05:03:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.24
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22017293_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[어린이뮤지컬 〈티티체리 - 용의 생일파티를 도와라〉 - 인천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46085</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46085</guid>
-            <pubDate>Mon, 20 Feb 2023 05:03:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.22
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023021711462236.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
