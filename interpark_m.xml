@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 21:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 02:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[히사이시 조 영화음악 콘서트 2023_서울 03.26 18시 공연 추가회차오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46099</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46099</guid>
+            <pubDate>Tue, 21 Feb 2023 02:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.23
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23001725_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[서울 심포닉 윈드 오케스트라 창단연주회 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46098</link>
@@ -50,7 +59,7 @@
             <pubDate>Mon, 20 Feb 2023 06:09:23 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.21
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023021515405900.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23001598_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈캣츠〉 오리지널 내한 - 울산 (Musical CATS) 티켓오픈 안내]]></title>
@@ -59,7 +68,7 @@
             <pubDate>Mon, 20 Feb 2023 06:09:23 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.22
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023021716293349.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23002497_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈캣츠〉 오리지널 내한－청주 (Musical CATS) 티켓오픈 안내]]></title>
@@ -68,7 +77,7 @@
             <pubDate>Mon, 20 Feb 2023 05:03:51 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.22
                                     <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023021715392202.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23002571_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[양희준 김수하 콘서트 <다섯번째걸음, 그리고…> 티켓오픈 안내]]></title>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2023.02.28
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23000681_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 이은미 전국투어 콘서트 〈NOCTURN〉 - 인천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46088</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46088</guid>
-            <pubDate>Mon, 20 Feb 2023 05:03:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.23
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023021717120959.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
