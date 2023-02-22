@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-02-22T09:05:44.414Z</updated>
+    <updated>2023-02-22T11:05:41.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6997"/>
         <updated>2023-02-22T05:03:42.236Z</updated>
         <content type="html"><![CDATA[2023.02.28(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맥거핀 단독 공연 ‘Mr．Education’ Lesson ONE 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6996</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6996"/>
+        <updated>2023-02-22T11:03:42.556Z</updated>
+        <content type="html"><![CDATA[2023.02.27(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[YOU ME IS SPRING 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6987"/>
         <updated>2023-02-20T05:03:26.747Z</updated>
         <content type="html"><![CDATA[2023.02.20(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W24 단독콘서트 ‘BORN AGAIN’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=6986</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=6986"/>
-        <updated>2023-02-20T05:03:26.751Z</updated>
-        <content type="html"><![CDATA[2023.02.20(월) 18:00]]></content>
     </entry>
 </feed>
