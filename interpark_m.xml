@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 02:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 04:09:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족뮤지컬 〈고고다이노 우리동네공룡〉 - 인천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46160</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46160</guid>
+            <pubDate>Fri, 24 Feb 2023 04:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.28
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023022314165205.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 행복 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46159</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46159</guid>
+            <pubDate>Fri, 24 Feb 2023 04:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23002728_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[지브리&디즈니  with 팬텀 - 대전 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46158</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2023.03.02
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023022214544837.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해금의 세계(Seoul Haeguem Ensemble 창단연주회) 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46149</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46149</guid>
-            <pubDate>Fri, 24 Feb 2023 02:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.27
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023022110094051.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <알사탕> - 안산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46148</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46148</guid>
-            <pubDate>Fri, 24 Feb 2023 02:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.28
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023022018331748.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
