@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-02-26T22:05:27.440Z</updated>
+    <updated>2023-02-27T00:33:41.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NEW 뮤지컬 미니특공대 브이레인저스 - 안산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56227</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56227"/>
+        <updated>2023-02-27T00:33:21.801Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.02(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2023년 특선가족뮤지컬 <라푼젤> - 삼척​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56226</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56213"/>
         <updated>2023-02-21T17:04:50.027Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.02.24(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 코믹오페라 <사랑의묘약> - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56212</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56212"/>
-        <updated>2023-02-21T17:04:50.029Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.23(목) 01:00]]></content>
     </entry>
 </feed>
