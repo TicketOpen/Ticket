@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 02:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 03:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족뮤지컬 <엄마까투리는 슈퍼맘> - 인천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46314</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46314</guid>
+            <pubDate>Thu, 09 Mar 2023 03:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.13
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023030817514448.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[체인징파트너 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46313</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46313</guid>
+            <pubDate>Thu, 09 Mar 2023 03:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.09
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23003308_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[2023 대한민국오페라페스티벌] 라 트라비아타 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46312</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46312</guid>
+            <pubDate>Thu, 09 Mar 2023 03:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.15
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023030714460740.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[[서울] 2023 장윤정 디너쇼 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46309</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2023.03.10
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23003366_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[쏜애플 콘서트 ‘검은 별’ 추가티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46302</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46302</guid>
-            <pubDate>Wed, 08 Mar 2023 09:05:02 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.14
-                                    <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23002929_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[브릭데이 with BAND 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46301</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46301</guid>
-            <pubDate>Wed, 08 Mar 2023 09:05:02 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.10
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23003362_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 김수영 단독공연 〈Round and Round〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46300</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46300</guid>
-            <pubDate>Wed, 08 Mar 2023 09:05:02 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.14
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023022817184092.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
