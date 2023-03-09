@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 06:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 08:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다나카 1st 내한 콘서트 [꼬ㅊ보다  TANAKA] - 대전 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46334</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46334</guid>
+            <pubDate>Thu, 09 Mar 2023 08:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.13
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023030913552372.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 <만복이네 떡집> - 서울 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46333</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46333</guid>
+            <pubDate>Thu, 09 Mar 2023 08:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.14
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[히사이시 조 영화음악 콘서트 2023_강릉 추가티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46332</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2023.03.10
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23003410_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 하현상 X 스윗소로우 SUDDENLY FESTIVAL - 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46324</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46324</guid>
-            <pubDate>Thu, 09 Mar 2023 06:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.13
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230309015738.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 이찬원 전국투어 콘서트 ONE DAY - 성남 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46323</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46323</guid>
-            <pubDate>Thu, 09 Mar 2023 06:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.13
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023030612011450.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
