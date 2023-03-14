@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 22:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 01:57:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,20 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7053</guid>
             <pubDate>Fri, 10 Mar 2023 08:08:54 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.16(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[M 아티스트 2023 <김도현 피아노 리사이틀 Ⅱ> 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46385&amp;groupno=46385&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46385&amp;groupno=46385&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 14 Mar 2023 01:56:12 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.17(금)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[M 아티스트 2023 <김도현 피아노 리사이틀Ⅰ> 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46384&amp;groupno=46384&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46384&amp;groupno=46384&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 14 Mar 2023 01:56:12 GMT</pubDate>
+            <content:encoded><![CDATA[23.03.17(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[누군가의 플레이리스트 Track. 62 초승 콘서트 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -190,18 +204,22 @@
             <content:encoded><![CDATA[23.03.16(목)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <세계문명탐험대 - 태양의나라이집트> 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46367&amp;groupno=46367&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46367&amp;groupno=46367&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 10 Mar 2023 08:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.14(화)&nbsp;10:00]]></content:encoded>
+            <title><![CDATA[M 아티스트 2023 <김도현 피아노 리사이틀 Ⅱ> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46385</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46385</guid>
+            <pubDate>Tue, 14 Mar 2023 01:56:25 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.17
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023031311385126.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메가필드뮤직페스티벌 2023 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46366&amp;groupno=46366&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46366&amp;groupno=46366&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 10 Mar 2023 08:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[23.03.17(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[M 아티스트 2023 <김도현 피아노 리사이틀Ⅰ> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46384</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46384</guid>
+            <pubDate>Tue, 14 Mar 2023 01:56:25 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.17
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023031311353287.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누군가의 플레이리스트 Track. 62 초승 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -276,22 +294,18 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023030915124935.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈분장실〉 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46375</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46375</guid>
-            <pubDate>Mon, 13 Mar 2023 07:02:59 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.16
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23001512_p.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[제주] 맘마미아! 아바걸스 내한공연 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12841</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12841</guid>
+            <pubDate>Tue, 14 Mar 2023 01:56:37 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.16(목) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[식스 더 뮤지컬 최초 한국 공연 - 한국어 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46374</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46374</guid>
-            <pubDate>Mon, 13 Mar 2023 07:02:59 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.17
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23002045_p.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[고양] 가족뮤지컬 〈꼬마버스 타요 - 용감한 구조대 레스큐 타요〉 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12840</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12840</guid>
+            <pubDate>Tue, 14 Mar 2023 01:56:37 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.17(금) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[창원] 가족뮤지컬 〈꼬마버스 타요 - 용감한 구조대 레스큐 타요〉 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -420,18 +434,18 @@
             <content:encoded><![CDATA[2023.03.10(금) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[대전] 적재 X 이진아 SUDDENLY FESTIVAL (부제：어쩌다 페스티벌) 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12821</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12821</guid>
-            <pubDate>Mon, 13 Mar 2023 14:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.10(금) 14:00]]></content:encoded>
+            <title><![CDATA[[제주] 맘마미아! 아바걸스 내한공연 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12841&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12841&amp;order=1</guid>
+            <pubDate>Tue, 14 Mar 2023 01:56:47 GMT</pubDate>
+            <content:encoded><![CDATA[2023-03-16(목) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12819</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12819</guid>
-            <pubDate>Mon, 13 Mar 2023 14:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.10(금) 10:00]]></content:encoded>
+            <title><![CDATA[[고양] 가족뮤지컬 〈꼬마버스 타요 - 용감한 구조대 레스큐 타요〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12840&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12840&amp;order=1</guid>
+            <pubDate>Tue, 14 Mar 2023 01:56:47 GMT</pubDate>
+            <content:encoded><![CDATA[2023-03-17(금) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[창원] 가족뮤지컬 〈꼬마버스 타요 - 용감한 구조대 레스큐 타요〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -490,18 +504,12 @@
             <content:encoded><![CDATA[2023-03-13(월) 16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈캣츠〉 오리지널 내한 - 진주 (Musical CATS)  티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12831&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12831&amp;order=1</guid>
-            <pubDate>Fri, 10 Mar 2023 05:04:06 GMT</pubDate>
-            <content:encoded><![CDATA[2023-03-15(수) 17:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈캣츠〉 오리지널 내한 - 용인 (Musical CATS)  티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12830&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12830&amp;order=1</guid>
-            <pubDate>Fri, 10 Mar 2023 05:04:06 GMT</pubDate>
-            <content:encoded><![CDATA[2023-03-15(수) 16:00]]></content:encoded>
+            <title><![CDATA[창작뮤지컬 〈신과 함께：저승편〉 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1041</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1041</guid>
+            <pubDate>Tue, 14 Mar 2023 01:57:09 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.17(금) 10:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/10/202303/14/4p3vwpfecz9u.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[〈페스티벌, 지금〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -576,12 +584,18 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/59/202302/23/nfgdkfcx3pui.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 Don＇t Let Daddy Know Korea [Kick off] 얼리버드 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1031</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1031</guid>
-            <pubDate>Wed, 08 Mar 2023 09:06:10 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.02(목) 18:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/13/202302/24/ztkckg1tid8h.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[청주] 싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기> 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/56353</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/56353</guid>
+            <pubDate>Tue, 14 Mar 2023 01:57:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.03.15(수) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[광주시립교향악단] GSO 실내악 시리즈 I ‘Trio for Beethoven’ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/56351</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/56351</guid>
+            <pubDate>Tue, 14 Mar 2023 01:57:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.03.15(수) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 2023 정기연주회 <대구 클라리넷 앙상블>​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -675,18 +689,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.03.17(금) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 <엄마까투리는 슈퍼맘> - 구미​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/56336</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/56336</guid>
-            <pubDate>Sat, 11 Mar 2023 06:06:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.03.13(월) 01:00]]></content:encoded>
+            <title><![CDATA[[청주] 싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/56353</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/56353</guid>
+            <pubDate>Tue, 14 Mar 2023 01:57:30 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.15(수) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[페스티벌, 지금​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/56335</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/56335</guid>
-            <pubDate>Sat, 11 Mar 2023 06:06:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.03.13(월) 04:00]]></content:encoded>
+            <title><![CDATA[[광주시립교향악단] GSO 실내악 시리즈 I ‘Trio for Beethoven’ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/56351</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/56351</guid>
+            <pubDate>Tue, 14 Mar 2023 01:57:30 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.15(수) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 2023 정기연주회 <대구 클라리넷 앙상블>​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -778,20 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/56337</guid>
             <pubDate>Mon, 13 Mar 2023 03:05:54 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.17(금) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <엄마까투리는 슈퍼맘> - 구미​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/56336</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/56336</guid>
-            <pubDate>Sat, 11 Mar 2023 06:06:43 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.13(월) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[페스티벌, 지금​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/56335</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/56335</guid>
-            <pubDate>Sat, 11 Mar 2023 06:06:43 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.13(월) 04:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원

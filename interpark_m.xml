@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 22:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 01:57:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[M 아티스트 2023 <김도현 피아노 리사이틀 Ⅱ> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46385</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46385</guid>
+            <pubDate>Tue, 14 Mar 2023 01:56:25 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.17
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023031311385126.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[M 아티스트 2023 <김도현 피아노 리사이틀Ⅰ> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46384</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46384</guid>
+            <pubDate>Tue, 14 Mar 2023 01:56:25 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.17
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023031311353287.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[누군가의 플레이리스트 Track. 62 초승 콘서트 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46383</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2023.03.16
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023030915124935.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈분장실〉 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46375</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46375</guid>
-            <pubDate>Mon, 13 Mar 2023 07:02:59 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.16
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23001512_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[식스 더 뮤지컬 최초 한국 공연 - 한국어 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46374</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46374</guid>
-            <pubDate>Mon, 13 Mar 2023 07:02:59 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.17
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23002045_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
