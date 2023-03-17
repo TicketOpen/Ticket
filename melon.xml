@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-03-17T05:05:13.156Z</updated>
+    <updated>2023-03-17T06:06:42.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 백아 단독공연 ‘향기 香氣’－부산，서울 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7080</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7080"/>
+        <updated>2023-03-17T06:04:15.129Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KARA 15TH ANNIVERSARY FAN MEETING 2023 ∼MOVE AGAIN∼ IN SEOUL 추가 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7079</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7071"/>
         <updated>2023-03-16T10:03:26.108Z</updated>
         <content type="html"><![CDATA[2023.03.21(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mercury 88 Vol．2 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7070</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7070"/>
-        <updated>2023-03-16T10:03:26.114Z</updated>
-        <content type="html"><![CDATA[2023.03.17(금) 20:00]]></content>
     </entry>
 </feed>
