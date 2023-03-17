@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 00:32:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 02:07:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손정범 피아노 리사이틀 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46445</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46445</guid>
+            <pubDate>Fri, 17 Mar 2023 02:05:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.22
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023031616160633.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 왁스 소극장 콘서트 ‘왁스의 일기’ 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46444</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46444</guid>
+            <pubDate>Fri, 17 Mar 2023 02:05:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.22
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023031610440034.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오픈 일시 변경] 나상현씨밴드 콘서트 '찬란의 순간들' 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46443</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2023.03.22
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023031515534979.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<불타는 트롯맨> 전국투어 콘서트 - 대구 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46435</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46435</guid>
-            <pubDate>Thu, 16 Mar 2023 06:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.22
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023031515522912.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲 18차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46434</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46434</guid>
-            <pubDate>Thu, 16 Mar 2023 05:03:21 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.21
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007404_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
