@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-03-21T04:07:45.997Z</updated>
+    <updated>2023-03-21T06:10:33.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 CRAVITY THE 1ST WORLD TOUR ‘MASTERPIECE’ IN SEOUL 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7092</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7092"/>
+        <updated>2023-03-21T06:08:24.360Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[W24＆UNI（유니）Joint Concert “SPRING HARMONY” 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7091</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7091"/>
+        <updated>2023-03-21T06:08:24.366Z</updated>
+        <content type="html"><![CDATA[2023.03.24(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[범진의 범．ZIP 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7088</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7080"/>
         <updated>2023-03-19T15:02:53.905Z</updated>
         <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KARA 15TH ANNIVERSARY FAN MEETING 2023 ∼MOVE AGAIN∼ IN SEOUL 추가 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7079</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7079"/>
-        <updated>2023-03-19T15:02:53.906Z</updated>
-        <content type="html"><![CDATA[2023.03.20(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［서울 대학로］연극 라면 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7078</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7078"/>
-        <updated>2023-03-19T15:02:53.907Z</updated>
-        <content type="html"><![CDATA[2023.03.20(월) 12:00]]></content>
     </entry>
 </feed>
