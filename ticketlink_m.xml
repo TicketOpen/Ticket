@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-03-22T04:06:01.996Z</updated>
+    <updated>2023-03-22T07:05:28.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <몽심> - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56435</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56435"/>
+        <updated>2023-03-22T07:05:21.099Z</updated>
+        <content type="html"><![CDATA[2023.03.24(금) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]「본능을 넘어서 BEYOND INSTINCT 」/ 원초적 음악집단 이드 - 광주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56434</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56434"/>
+        <updated>2023-03-22T07:05:21.101Z</updated>
+        <content type="html"><![CDATA[2023.03.24(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[< PITTA 강형호 콘서트: BE FREE > - 부산​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56433</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56433"/>
+        <updated>2023-03-22T07:05:21.103Z</updated>
+        <content type="html"><![CDATA[2023.03.28(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2023 청춘 트롯 콘서트 - 전주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56432</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56432"/>
+        <updated>2023-03-22T07:05:21.105Z</updated>
+        <content type="html"><![CDATA[2023.03.28(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 청춘 트롯 콘서트 - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56431</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56431"/>
+        <updated>2023-03-22T07:05:21.108Z</updated>
+        <content type="html"><![CDATA[2023.03.27(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​아르티제 ⨯ 라파시오나타 오케스트라​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56430</id>
@@ -13,11 +48,25 @@
         <content type="html"><![CDATA[2023.03.23(목) 02:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 스타크래프트 멸망전 - 동아리 최강전 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56429</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56429"/>
+        <updated>2023-03-22T07:05:21.112Z</updated>
+        <content type="html"><![CDATA[2023.03.23(목) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2023 남진 디너쇼 - 서울 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56428</id>
         <link href="http://m.ticketlink.co.kr/help/notice/56428"/>
         <updated>2023-03-22T02:02:51.556Z</updated>
         <content type="html"><![CDATA[2023.03.27(월) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <포쉬> 2차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56427</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56427"/>
+        <updated>2023-03-22T07:05:21.117Z</updated>
+        <content type="html"><![CDATA[2023.03.28(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 천안 티켓오픈 안내]]></title>
@@ -60,54 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56421"/>
         <updated>2023-03-21T06:10:27.109Z</updated>
         <content type="html"><![CDATA[2023.03.24(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <옛날 옛적에 훠어이 훠이> - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56420</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56420"/>
-        <updated>2023-03-21T06:10:27.110Z</updated>
-        <content type="html"><![CDATA[2023.03.22(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​프랭크 와일드혼 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56419</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56419"/>
-        <updated>2023-03-21T06:10:27.111Z</updated>
-        <content type="html"><![CDATA[2023.03.22(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 <티티체리 - 용의 생일파티를 도와라> – 안양​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56418</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56418"/>
-        <updated>2023-03-21T06:10:27.111Z</updated>
-        <content type="html"><![CDATA[2023.03.24(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEW 뮤지컬 미니특공대 브이레인저스 – 수원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56417</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56417"/>
-        <updated>2023-03-21T06:10:27.111Z</updated>
-        <content type="html"><![CDATA[2023.03.24(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <꼬마버스 타요 - 용감한 구조대 레스큐 타요> – 성남​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56416</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56416"/>
-        <updated>2023-03-21T06:10:27.118Z</updated>
-        <content type="html"><![CDATA[2023.03.24(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <슈퍼 히어로의 똥 닦는 법> - 인천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56415</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56415"/>
-        <updated>2023-03-21T06:10:27.120Z</updated>
-        <content type="html"><![CDATA[2023.03.24(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[오프라인] Forest of Jiyoung 일본 팬미팅​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56414</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56414"/>
-        <updated>2023-03-21T03:05:45.560Z</updated>
-        <content type="html"><![CDATA[2023.03.22(수) 07:00]]></content>
     </entry>
 </feed>
