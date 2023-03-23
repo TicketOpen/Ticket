@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-03-22T23:05:16.979Z</updated>
+    <updated>2023-03-23T02:30:40.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 전율 정동하 X 소향 - 천안 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56440</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56440"/>
+        <updated>2023-03-23T02:30:27.710Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.28(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뱅크개라지 라이브 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56438</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56425"/>
         <updated>2023-03-21T07:04:49.355Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.22(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[필그림 미션콰이어 제41회 정기연주회 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56424</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56424"/>
-        <updated>2023-03-21T07:04:49.356Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.23(목) 05:00]]></content>
     </entry>
 </feed>
