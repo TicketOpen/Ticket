@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-03-23T09:06:40.934Z</updated>
+    <updated>2023-03-23T11:04:53.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[You Hip x 임우태 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7098</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7098"/>
+        <updated>2023-03-23T11:03:09.777Z</updated>
+        <content type="html"><![CDATA[2023.03.24(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팔칠댄스（87dance），［COLOR PAPER HOTEL］Residence 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7097</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7087"/>
         <updated>2023-03-23T02:29:25.093Z</updated>
         <content type="html"><![CDATA[2023.03.22(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[festival SUM 2023 x 전주국제영화제 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7086</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7086"/>
-        <updated>2023-03-23T02:29:25.093Z</updated>
-        <content type="html"><![CDATA[2023.03.23(목) 20:00]]></content>
     </entry>
 </feed>
