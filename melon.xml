@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-03-24T02:37:02.140Z</updated>
+    <updated>2023-03-24T04:06:42.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SAAY 단독 콘서트 ‘mise－en－scène：ENCORE’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7099</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7099"/>
+        <updated>2023-03-24T04:04:45.316Z</updated>
+        <content type="html"><![CDATA[2023.03.30(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[You Hip x 임우태 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7098</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7088"/>
         <updated>2023-03-23T02:29:25.092Z</updated>
         <content type="html"><![CDATA[2023.03.24(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 10회 김사월 쇼：Married To the Music 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7087</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7087"/>
-        <updated>2023-03-23T02:29:25.093Z</updated>
-        <content type="html"><![CDATA[2023.03.22(수) 20:00]]></content>
     </entry>
 </feed>
