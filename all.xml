@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 19:04:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 22:03:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,6 +204,51 @@
             <content:encoded><![CDATA[23.03.30(목)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[78AVENUE] 78LIVE - 겸 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46578</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46578</guid>
+            <pubDate>Mon, 27 Mar 2023 22:02:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.30
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023032715012118.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누군가의 플레이리스트 Spring Playlist 김마리 x 마치 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46577</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46577</guid>
+            <pubDate>Mon, 27 Mar 2023 22:02:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.30
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023032322271763.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누군가의 플레이리스트 Spring Playlist 신인류 x 유다빈밴드 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46576</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46576</guid>
+            <pubDate>Mon, 27 Mar 2023 22:02:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.30
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023032322010020.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누군가의 플레이리스트 Spring Playlist 오왠 x 홍이삭 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46575</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46575</guid>
+            <pubDate>Mon, 27 Mar 2023 22:02:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.30
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023032322072675.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 XEED 'Dream Land' encore concert 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46574</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46574</guid>
+            <pubDate>Mon, 27 Mar 2023 22:02:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.30
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230327054654.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2023 실리카겔 단독공연 〈Machine Boy〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46573</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46573</guid>
@@ -219,7 +264,7 @@
             <pubDate>Mon, 27 Mar 2023 07:03:39 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.28
                                     <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23004550_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2023 최현우 Answer 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -247,51 +292,6 @@
             <content:encoded><![CDATA[2023.04.03
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023032013123914.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <장수탕 선녀님> - 구미 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46568</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46568</guid>
-            <pubDate>Mon, 27 Mar 2023 04:05:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.30
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023032311525893.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <왓 이프> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46567</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46567</guid>
-            <pubDate>Mon, 27 Mar 2023 04:05:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.04
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023032420290260.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그림읽어주는 베토벤 클래식콘서트 〈고흐vs고갱〉－성남 토요일 단하루！！ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46566</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46566</guid>
-            <pubDate>Mon, 27 Mar 2023 04:05:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.28
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23004420_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 라이브 가족뮤지컬〈고양이캣〉-울산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46565</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46565</guid>
-            <pubDate>Mon, 27 Mar 2023 04:05:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.30
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023032513233297.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW 뮤지컬 미니특공대 브이레인저스 - 울산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46564</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46564</guid>
-            <pubDate>Mon, 27 Mar 2023 04:05:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.30
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023032314201686.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 주현미 콘서트 [The Original] - 울산 티켓 오픈 안내 (예스24 티켓)]]></title>
