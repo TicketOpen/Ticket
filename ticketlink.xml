@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-03-29T02:13:45.614Z</updated>
+    <updated>2023-03-29T03:05:48.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강원도립국악관현악단 실내악시리즈 Ⅱ - 춘천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56499</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56499"/>
+        <updated>2023-03-29T03:05:30.584Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.31(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2] - 창원앵콜​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56498</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56485"/>
         <updated>2023-03-28T06:11:28.511Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.30(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  구미 孝(효) 트롯 페스타​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56484</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56484"/>
-        <updated>2023-03-28T06:11:28.517Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.03(월) 05:00]]></content>
     </entry>
 </feed>
