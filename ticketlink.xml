@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-03-29T04:07:48.435Z</updated>
+    <updated>2023-03-29T07:04:31.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 가족뮤지컬 로보카폴리 <잡아라! 황금트로피!> - 광주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56506</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56506"/>
+        <updated>2023-03-29T07:04:09.799Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.30(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <알사탕> - 천안 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56505</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56505"/>
+        <updated>2023-03-29T07:04:09.809Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.05(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <광염 소나타> 3차​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56504</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56504"/>
+        <updated>2023-03-29T07:04:09.813Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.04(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[맘마미아 아바걸스 내한공연 - 서울 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56503</id>
@@ -18,6 +39,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56502"/>
         <updated>2023-03-29T04:07:29.225Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.31(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 연극 뷰티풀 라이프 - 의성 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56501</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56501"/>
+        <updated>2023-03-29T07:04:09.820Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.06(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 주현미 디너쇼 <5월의 러브레터> 티켓오픈 안내]]></title>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56492"/>
         <updated>2023-03-28T06:11:28.470Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.29(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 박창근 팬미팅 <포그니데이> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56491</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56491"/>
-        <updated>2023-03-28T06:11:28.475Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.30(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 볼빨간사춘기 단독 콘서트 '사랑.zip' 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56490</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56490"/>
-        <updated>2023-03-28T06:11:28.476Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.29(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 그림자극과 함께하는 키즈클래식​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56489</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56489"/>
-        <updated>2023-03-28T06:11:28.481Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.29(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​드로잉 매직쇼 크레용용 - 서울​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56488</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56488"/>
-        <updated>2023-03-28T06:11:28.487Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.30(목) 00:00]]></content>
     </entry>
 </feed>
