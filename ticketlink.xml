@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-03-31T05:04:07.087Z</updated>
+    <updated>2023-03-31T07:05:09.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 브라스마켓 시네콘서트 : 존 윌리암스 vs 한스짐머 (포항)​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56529</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56529"/>
+        <updated>2023-03-31T07:04:54.624Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.04(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  2023 이승기 아시아투어 콘서트 '소년, 길을 걷다 - Chapter2' 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56528</id>
@@ -24,7 +31,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/56526</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56526"/>
         <updated>2023-03-31T05:03:52.196Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.04(화) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.05(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <트레이스 유> 1차​​ 티켓오픈 안내]]></title>
@@ -87,14 +94,14 @@
         <id>http://www.ticketlink.co.kr/help/notice/56517</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56517"/>
         <updated>2023-03-31T03:05:21.153Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.04(화) 02:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.04(화) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <레드북> 3차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56515</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56515"/>
         <updated>2023-03-30T07:05:32.376Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.04(화) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.11(화) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note)​​​ 3차 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56514"/>
         <updated>2023-03-30T05:05:51.204Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.06(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지브리 페스티벌 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56513</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56513"/>
-        <updated>2023-03-30T03:05:14.820Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.04(화) 05:00]]></content>
     </entry>
 </feed>
