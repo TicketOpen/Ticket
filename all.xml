@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 07:06:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 08:09:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,6 +204,24 @@
             <content:encoded><![CDATA[23.04.05(수)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[빈-베를린 체임버 오케스트라 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46664</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46664</guid>
+            <pubDate>Tue, 04 Apr 2023 08:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.06
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023040414104046.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[룩셈부르크 필하모닉 - 인천 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46663</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46663</guid>
+            <pubDate>Tue, 04 Apr 2023 08:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.06
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023040414073803.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LIVECONNECT STAGE with 김필선 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46662</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46662</guid>
@@ -222,22 +240,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023033018020443.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<룩셈부르크 필하모닉>, <빈-베를린 체임버 오케스트라> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46660</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46660</guid>
-            <pubDate>Tue, 04 Apr 2023 05:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.06
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <할란카운티> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46659</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46659</guid>
             <pubDate>Tue, 04 Apr 2023 05:02:54 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.11
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023040410380722.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230404050340.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어린이뮤지컬 〈티티체리 - 용의 생일파티를 도와라〉 - 포항 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2023.04.10
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005476_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <광주> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46652</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46652</guid>
-            <pubDate>Tue, 04 Apr 2023 02:00:23 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.11
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23004308_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[루체른 심포니 오케스트라 티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/10/202303/14/4p3vwpfecz9u.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] MixMag Korea 7th Anniversary Special Event 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/56556</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/56556</guid>
+            <pubDate>Tue, 04 Apr 2023 08:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.04.06(목) 11:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[6년만에 귀환! 프렌치 내한 뮤지컬 <나폴레옹> (Musical NAPOLEON) 첫 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/56555</link>
             <guid>http://www.ticketlink.co.kr/help/notice/56555</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.04.05(수) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 2023 JUNG YONG HWA LIVE ‘All-Rounder' 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/56537</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/56537</guid>
-            <pubDate>Mon, 03 Apr 2023 05:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.04.11(화) 11:00]]></content:encoded>
+            <title><![CDATA[[단독판매] MixMag Korea 7th Anniversary Special Event 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/56556</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/56556</guid>
+            <pubDate>Tue, 04 Apr 2023 08:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.06(목) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6년만에 귀환! 프렌치 내한 뮤지컬 <나폴레옹> (Musical NAPOLEON) 첫 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/56538</guid>
             <pubDate>Mon, 03 Apr 2023 01:58:06 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.05(수) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 2023 JUNG YONG HWA LIVE ‘All-Rounder' 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/56537</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/56537</guid>
-            <pubDate>Mon, 03 Apr 2023 05:04:31 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.11(화) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
