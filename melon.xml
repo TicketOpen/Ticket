@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-04-05T07:05:45.041Z</updated>
+    <updated>2023-04-05T08:11:26.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈베토벤；Beethoven Secret〉 SEASON 2－2차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7132</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7132"/>
+        <updated>2023-04-05T08:09:21.291Z</updated>
+        <content type="html"><![CDATA[2023.04.11(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 IN 라이브클럽 ［토스터즈 단독 콘서트］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7131</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7122"/>
         <updated>2023-04-05T04:04:01.077Z</updated>
         <content type="html"><![CDATA[2023.04.07(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CHERRY HILL PRESENTS：AUSTN ‘MELODIZM TRIP’ CONCERT 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7121</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7121"/>
-        <updated>2023-04-05T04:04:01.080Z</updated>
-        <content type="html"><![CDATA[2023.04.04(화) 12:00]]></content>
     </entry>
 </feed>
