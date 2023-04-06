@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 11:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 14:04:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,15 @@
             <content:encoded><![CDATA[23.04.07(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈Again - 여고동창생〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46692</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46692</guid>
+            <pubDate>Thu, 06 Apr 2023 14:03:01 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.07
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23004873_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈맘마미아!〉 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46691</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46691</guid>
@@ -290,15 +299,6 @@
             <content:encoded><![CDATA[2023.04.11
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023040514435291.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 성시경의 축가 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46682</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46682</guid>
-            <pubDate>Thu, 06 Apr 2023 01:57:55 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.19
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023040517165680.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[앨리스 북아트전: 현실과 초현실을 지나는 앨리스 티켓오픈 안내 (예스24 티켓)]]></title>
