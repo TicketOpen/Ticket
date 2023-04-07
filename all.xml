@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 02:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 03:06:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7131</guid>
             <pubDate>Wed, 05 Apr 2023 06:08:27 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.12(수) 19:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[PEAK FESTIVAL 2023 - 얼리버드 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46695&amp;groupno=46695&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46695&amp;groupno=46695&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 07 Apr 2023 03:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.10(월)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블록버스터 드라마 영화음악 콘서트 2023_서울 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,13 +204,6 @@
             <content:encoded><![CDATA[23.04.10(월)&nbsp;17:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－대구앵콜 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46677&amp;groupno=46677&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46677&amp;groupno=46677&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 05 Apr 2023 06:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.06(목)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[블록버스터 드라마 영화음악 콘서트 2023_서울 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46694</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46694</guid>
@@ -294,143 +294,11 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23005096_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[앨리스 북아트전: 현실과 초현실을 지나는 앨리스 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12938</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12938</guid>
-            <pubDate>Thu, 06 Apr 2023 09:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.14(금) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12937</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12937</guid>
-            <pubDate>Thu, 06 Apr 2023 09:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.19(수) 20:00<a class="noti-btn-pop" presaletit1="FC 선예매" presaletit2="" presaletime1="2023.04.17(월) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 이찬원 콘서트 ＂ONE DAY＂ - 고양 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12936</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12936</guid>
-            <pubDate>Thu, 06 Apr 2023 09:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.10(월) 12:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12935</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12935</guid>
-            <pubDate>Thu, 06 Apr 2023 09:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.12(수) 12:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 김창옥 토크콘서트 시즌3 - 성남 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12934</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12934</guid>
-            <pubDate>Thu, 06 Apr 2023 09:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.11(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈영웅〉 - 수원 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12933</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12933</guid>
-            <pubDate>Thu, 06 Apr 2023 09:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.07(금) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(4/9, 4/16, 4/17) (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12932</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12932</guid>
-            <pubDate>Thu, 06 Apr 2023 09:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[6년만에 귀환! 프렌치 내한 뮤지컬 〈나폴레옹〉 (Musical NAPOLEON) 첫 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12931</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12931</guid>
-            <pubDate>Thu, 06 Apr 2023 09:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.07(금) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[루체른 심포니 오케스트라 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12930</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12930</guid>
-            <pubDate>Thu, 06 Apr 2023 09:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.07(금) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12929</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12929</guid>
-            <pubDate>Thu, 06 Apr 2023 09:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.13(목) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈할란카운티〉 1차 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12928</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12928</guid>
-            <pubDate>Thu, 06 Apr 2023 09:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.11(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[포항]어린이 뮤지컬 티티체리 - 용의 생일파티를 도와라 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12927</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12927</guid>
-            <pubDate>Thu, 06 Apr 2023 09:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.06(목) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[버블J의 언빌리버블쇼 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12926</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12926</guid>
-            <pubDate>Thu, 06 Apr 2023 09:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.07(금) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12925</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12925</guid>
-            <pubDate>Thu, 06 Apr 2023 09:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.11(화) 12:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[부천아트센터 개관페스티벌 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12924</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12924</guid>
-            <pubDate>Thu, 06 Apr 2023 09:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.07(금) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[평택]플레이뮤지컬 핑크퐁과 아기상어의 생일파티 대소동 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12923</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12923</guid>
-            <pubDate>Thu, 06 Apr 2023 09:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.06(목) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[온라인] ATEEZ WORLD TOUR [THE FELLOWSHIP : BREAK THE WALL] ANCHOR IN SEOUL 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12922</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12922</guid>
-            <pubDate>Thu, 06 Apr 2023 09:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.03(월) 18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12921</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12921</guid>
-            <pubDate>Thu, 06 Apr 2023 09:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.07(금) 12:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Glen Check 단독 콘서트 [Mind Surfing] 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12920</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12920</guid>
-            <pubDate>Thu, 06 Apr 2023 09:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.07(금) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈브라더스 까라마조프〉 2차 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12918</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12918</guid>
-            <pubDate>Thu, 06 Apr 2023 09:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.03(월) 14:00]]></content:encoded>
+            <title><![CDATA[PEAK FESTIVAL 2023 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12939&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12939&amp;order=1</guid>
+            <pubDate>Fri, 07 Apr 2023 03:05:18 GMT</pubDate>
+            <content:encoded><![CDATA[2023-04-10(월) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[앨리스 북아트전: 현실과 초현실을 지나는 앨리스 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -494,13 +362,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12929&amp;order=1</guid>
             <pubDate>Tue, 04 Apr 2023 05:03:15 GMT</pubDate>
             <content:encoded><![CDATA[2023-04-13(목) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈할란카운티〉 1차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12928&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12928&amp;order=1</guid>
-            <pubDate>Tue, 04 Apr 2023 05:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[2023-04-11(화) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[청춘페스티벌 2023 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -581,6 +442,27 @@
             <pubDate>Fri, 24 Mar 2023 04:06:00 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.16(목) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/28/202303/14/us8t5x99k2sr.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[​PEAK FESTIVAL 2023​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/56571</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/56571</guid>
+            <pubDate>Fri, 07 Apr 2023 03:05:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.04.10(월) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[청춘페스티벌2023 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/56570</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/56570</guid>
+            <pubDate>Fri, 07 Apr 2023 03:05:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.04.12(수) 08:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[책먹는여우 - 성남 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/56569</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/56569</guid>
+            <pubDate>Fri, 07 Apr 2023 03:05:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.04.11(화) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​[단독판매]  2023년 안산시 청년 약물중독예방사업 뮤지컬 '각인'​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -667,25 +549,25 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.04.05(수) 08:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[앤서니브라운의 돼지책 - 안양​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/56553</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/56553</guid>
-            <pubDate>Tue, 04 Apr 2023 06:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.04.05(수) 00:00]]></content:encoded>
+            <title><![CDATA[​PEAK FESTIVAL 2023​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/56571</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/56571</guid>
+            <pubDate>Fri, 07 Apr 2023 03:06:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.10(월) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[루체른 심포니 오케스트라​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/56552</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/56552</guid>
-            <pubDate>Tue, 04 Apr 2023 05:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.04.07(금) 05:00]]></content:encoded>
+            <title><![CDATA[청춘페스티벌2023 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/56570</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/56570</guid>
+            <pubDate>Fri, 07 Apr 2023 03:06:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.12(수) 08:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2023 최현우 < THE BRAIN > - 부산 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/56550</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/56550</guid>
-            <pubDate>Tue, 04 Apr 2023 05:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.04.07(금) 05:00]]></content:encoded>
+            <title><![CDATA[책먹는여우 - 성남 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/56569</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/56569</guid>
+            <pubDate>Fri, 07 Apr 2023 03:06:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.11(화) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​[단독판매]  2023년 안산시 청년 약물중독예방사업 뮤지컬 '각인'​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -770,27 +652,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/56554</guid>
             <pubDate>Tue, 04 Apr 2023 07:06:01 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.05(수) 08:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[앤서니브라운의 돼지책 - 안양​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/56553</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/56553</guid>
-            <pubDate>Tue, 04 Apr 2023 06:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.05(수) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[루체른 심포니 오케스트라​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/56552</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/56552</guid>
-            <pubDate>Tue, 04 Apr 2023 05:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.07(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 최현우 < THE BRAIN > - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/56550</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/56550</guid>
-            <pubDate>Tue, 04 Apr 2023 05:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.07(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[창작산실 오페라 <피가로의 이혼> 공연실황 녹화중계 (네이버 공연)]]></title>
