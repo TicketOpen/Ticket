@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 03:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 04:06:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PEAK FESTIVAL 2023 - 얼리버드 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46695</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46695</guid>
+            <pubDate>Fri, 07 Apr 2023 04:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.10
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023040711181328.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블록버스터 드라마 영화음악 콘서트 2023_서울 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46694</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2023.04.07
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23005111_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 어린이 베스트셀러 뮤지컬〈누가 내 머리에 똥 쌌어？〉 - 서울 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46684</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46684</guid>
-            <pubDate>Thu, 06 Apr 2023 01:57:55 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.10
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23005096_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
