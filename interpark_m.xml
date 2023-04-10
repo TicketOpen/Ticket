@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 22:03:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 01:58:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RADWIMPS Asian Tour 2023 in Seoul 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46716</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46716</guid>
+            <pubDate>Mon, 10 Apr 2023 01:57:02 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.17
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023040716131123.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제17회 대구국제뮤지컬페스티벌 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46715</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46715</guid>
+            <pubDate>Mon, 10 Apr 2023 01:57:02 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23005120_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[김범룡 최성수 맞짱콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46714</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46714</guid>
+            <pubDate>Mon, 10 Apr 2023 01:57:03 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.13
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023040717014542.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 어썸스테이지 in 부산 [ daybreak x LUCY ] 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46713</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2023.04.14
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023040713280363.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PEAK TIME CONCERT [YOUR TIME] 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46706</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46706</guid>
-            <pubDate>Fri, 07 Apr 2023 10:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.13
-                                    <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023040515054963.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈빠리빵집〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46704</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46704</guid>
-            <pubDate>Fri, 07 Apr 2023 10:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23003123_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[플레이 뮤지컬 〈핑크퐁과 아기상어의 생일파티 대소동〉 - 대전 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46702</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46702</guid>
-            <pubDate>Fri, 07 Apr 2023 10:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.10
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23005116_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
