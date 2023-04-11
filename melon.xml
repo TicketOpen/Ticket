@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-04-11T09:06:16.505Z</updated>
+    <updated>2023-04-11T10:06:07.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제59회 라이브 클럽 데이 with 멜론 트랙제로－일반 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7156</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7156"/>
+        <updated>2023-04-11T10:03:22.377Z</updated>
+        <content type="html"><![CDATA[2023.04.12(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈더 테일 에이프릴 풀스〉 1차 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7155</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7147"/>
         <updated>2023-04-10T05:02:13.534Z</updated>
         <content type="html"><![CDATA[2023.04.12(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSG워너비（M．O．M）콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7146</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7146"/>
-        <updated>2023-04-10T05:02:13.534Z</updated>
-        <content type="html"><![CDATA[2023.04.10(월) 17:00]]></content>
     </entry>
 </feed>
