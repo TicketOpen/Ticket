@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 06:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 07:04:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7149</guid>
             <pubDate>Mon, 10 Apr 2023 05:02:13 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.14(금) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 양지은 콘서트 ‘듣다’ - 부산 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46757&amp;groupno=46757&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46757&amp;groupno=46757&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 12 Apr 2023 07:02:22 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.13(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[에드워드 호퍼: 길 위에서 1차 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -193,13 +200,6 @@
             <title><![CDATA[연극 <분장실> - 인천 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46741&amp;groupno=46741&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46741&amp;groupno=46741&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 11 Apr 2023 07:03:10 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.17(월)&nbsp;10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 <분장실> - 성남 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46740&amp;groupno=46740&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46740&amp;groupno=46740&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 11 Apr 2023 07:03:10 GMT</pubDate>
             <content:encoded><![CDATA[23.04.17(월)&nbsp;10:00]]></content:encoded>
         </item>
