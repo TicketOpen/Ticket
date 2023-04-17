@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 00:29:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 01:59:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -219,7 +219,7 @@
             <pubDate>Fri, 14 Apr 2023 10:03:46 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.18
                                     <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023041216421178.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23005459_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2023 라이브 가족뮤지컬〈인어공주〉 - 울산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -282,7 +282,7 @@
             <pubDate>Fri, 14 Apr 2023 07:03:15 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.18
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023041318112249.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23005494_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 <회란기> - 광주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -291,7 +291,7 @@
             <pubDate>Fri, 14 Apr 2023 07:03:15 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.18
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023041412335366.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23005476_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 <누수공사> 티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -299,6 +299,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12971</guid>
             <pubDate>Sat, 15 Apr 2023 02:00:17 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.17(월) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12970</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12970</guid>
+            <pubDate>Mon, 17 Apr 2023 01:59:05 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.24(월) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대구] 유리상자 전국투어콘서트 티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -427,18 +434,18 @@
             <content:encoded><![CDATA[2023.04.18(화) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제18회 부산국제매직페스티벌 -매직컨벤션 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12951</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=12951</guid>
-            <pubDate>Fri, 14 Apr 2023 18:06:20 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.17(월) 10:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[연극 <누수공사> 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12971&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12971&amp;order=1</guid>
             <pubDate>Sat, 15 Apr 2023 02:00:26 GMT</pubDate>
             <content:encoded><![CDATA[2023-04-17(월) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AndyWu &YuJin 1st Fanmeeting in Seoul 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12970&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12970&amp;order=1</guid>
+            <pubDate>Mon, 17 Apr 2023 01:59:15 GMT</pubDate>
+            <content:encoded><![CDATA[2023-04-24(월) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대구] 유리상자 전국투어콘서트 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -493,13 +500,6 @@
             <title><![CDATA[제 20회 부산국제연극제 - 구멍 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12962&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12962&amp;order=1</guid>
-            <pubDate>Thu, 13 Apr 2023 08:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[2023-04-18(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제 20회 부산국제연극제 - 변신 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12961&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=12961&amp;order=1</guid>
             <pubDate>Thu, 13 Apr 2023 08:09:09 GMT</pubDate>
             <content:encoded><![CDATA[2023-04-18(화) 14:00]]></content:encoded>
         </item>
@@ -582,6 +582,13 @@
             <pubDate>Thu, 13 Apr 2023 08:09:26 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.07(금) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/43/202303/16/zvxvbykulwys.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[​THE GREATEST: 전율 정동하 X 소향 - 인천​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/56634</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/56634</guid>
+            <pubDate>Mon, 17 Apr 2023 01:59:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.04.20(목) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬  가방들어주는 아이 - 용인​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.04.18(화) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[<브레이크 아웃> - 칠곡군 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/56618</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/56618</guid>
-            <pubDate>Thu, 13 Apr 2023 09:04:51 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.04.17(월) 02:00]]></content:encoded>
+            <title><![CDATA[​THE GREATEST: 전율 정동하 X 소향 - 인천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/56634</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/56634</guid>
+            <pubDate>Mon, 17 Apr 2023 01:59:48 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.20(목) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬  가방들어주는 아이 - 용인​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -787,13 +794,6 @@
             <content:encoded><![CDATA[2023.04.18(화) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[<브레이크 아웃> - 칠곡군 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/56618</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/56618</guid>
-            <pubDate>Thu, 13 Apr 2023 09:04:57 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.17(월) 02:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[후원
 											뮤지컬<비더슈탄트> 4월17일(월)오후7시30분 (네이버 공연)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/mysticculture</link>
@@ -827,6 +827,14 @@
             <pubDate>Mon, 10 Apr 2023 07:05:37 GMT</pubDate>
             <content:encoded><![CDATA[04월 24일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230410_293/VC5fW_1681089710811pNsSz_JPEG/1681089710794.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <미궁(迷宮)의 설계자> 공연실황 녹화중계 (네이버 공연)]]></title>
+            <link>https://tv.naver.com/l/129267</link>
+            <guid>https://tv.naver.com/l/129267</guid>
+            <pubDate>Fri, 14 Apr 2023 07:04:50 GMT</pubDate>
+            <content:encoded><![CDATA[04월 25일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230414_243/sfW4Z_1681456959081ohPVq_JPEG/1681456959040.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <미궁(迷宮)의 설계자> 공연실황 녹화중계 (네이버 공연)]]></title>
@@ -870,15 +878,6 @@
             <pubDate>Mon, 10 Apr 2023 07:05:37 GMT</pubDate>
             <content:encoded><![CDATA[05월 01일(월) 19:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230410_118/X06gt_1681089784109Lvr8o_JPEG/1681089784090.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											<창작 실내악 음악극 붕(鵬)새의 꿈> 공연실황 (네이버 공연)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
-            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
-            <pubDate>Sun, 16 Apr 2023 16:04:46 GMT</pubDate>
-            <content:encoded><![CDATA[05월 04일(목) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_157/KMce5_1680844903381OGUP7_JPEG/1680844903364.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
