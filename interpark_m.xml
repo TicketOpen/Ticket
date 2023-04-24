@@ -4,9 +4,45 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 04:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 05:04:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈분장실〉 앵콜 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46881</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46881</guid>
+            <pubDate>Mon, 24 Apr 2023 05:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23001512_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[창작공감: 작가] 보존과학자 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46880</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46880</guid>
+            <pubDate>Mon, 24 Apr 2023 05:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.02
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023042113272369.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈세일즈맨의 죽음〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46879</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46879</guid>
+            <pubDate>Mon, 24 Apr 2023 05:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.26
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023042411311821.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUGA | Agust D TOUR ‘D-DAY’ in SEOUL 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46878</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46878</guid>
+            <pubDate>Mon, 24 Apr 2023 05:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.02
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23005796_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2023 크러쉬 팬미팅 〈ZZINBOMBTING〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46877</link>
@@ -60,42 +96,6 @@
             <content:encoded><![CDATA[2023.04.24
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23002872_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[톤앤뮤직 페스티벌 2023 - 공식티켓 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46870</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46870</guid>
-            <pubDate>Fri, 21 Apr 2023 18:04:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23003443_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 인천펜타포트락페스티벌 블라인드 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46869</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46869</guid>
-            <pubDate>Fri, 21 Apr 2023 18:04:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.28
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023042009460485.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈비스티〉 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46868</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46868</guid>
-            <pubDate>Fri, 21 Apr 2023 18:04:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.28
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23005030_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <스웨그에이지 외쳐,조선!> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46866</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46866</guid>
-            <pubDate>Fri, 21 Apr 2023 18:04:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.28
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230421030212.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
