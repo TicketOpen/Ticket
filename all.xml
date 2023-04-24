@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 02:02:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 02:33:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7186</guid>
             <pubDate>Fri, 21 Apr 2023 23:02:44 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.10(수) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[시티즌 오브 헬 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46876&amp;groupno=46876&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46876&amp;groupno=46876&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 24 Apr 2023 02:31:44 GMT</pubDate>
+            <content:encoded><![CDATA[23.04.28(금)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[슬램덩크 성우 토크 콘서트 - 인천 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -195,13 +202,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46859&amp;groupno=46859&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 21 Apr 2023 05:02:12 GMT</pubDate>
             <content:encoded><![CDATA[23.04.27(목)&nbsp;15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 창원 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46858&amp;groupno=46858&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46858&amp;groupno=46858&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 21 Apr 2023 05:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.27(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈브라더스 까라마조프〉 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
