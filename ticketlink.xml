@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-04-24T23:04:00.177Z</updated>
+    <updated>2023-04-25T02:30:45.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [MD]STARCALL GOOD CONCERT vol.1 다나카​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56708</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56708"/>
+        <updated>2023-04-25T02:30:22.881Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]심승엽 피아노 리사이틀 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56706</id>
@@ -18,13 +25,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56705"/>
         <updated>2023-04-24T05:04:22.529Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 펭수 펭미팅 <20세기 펭수 – 우리의 네 번째 여름> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56704</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56704"/>
-        <updated>2023-04-24T05:04:22.529Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.02(화) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 김태우 2023 T-Party < For:Rest > 티켓오픈 안내]]></title>
