@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 09:05:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 11:03:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7195</guid>
             <pubDate>Tue, 25 Apr 2023 09:03:48 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.25(화) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 라이브 가족뮤지컬〈라푼젤〉-대구 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46897&amp;groupno=46897&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46897&amp;groupno=46897&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 25 Apr 2023 11:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.02(화)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[메가필드뮤직페스티벌 2023_3차 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[23.05.02(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 〈세일즈맨의 죽음〉 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46879&amp;groupno=46879&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46879&amp;groupno=46879&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 24 Apr 2023 05:03:19 GMT</pubDate>
-            <content:encoded><![CDATA[23.04.26(수)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[2023 라이브 가족뮤지컬〈라푼젤〉-대구 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46897</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46897</guid>
+            <pubDate>Tue, 25 Apr 2023 11:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.02
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023042517233944.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메가필드뮤직페스티벌 2023_3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2023.04.26
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23006035_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[S(e)oul Station 2023 [Beautiful Noise] Live in Seoul 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46887</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46887</guid>
-            <pubDate>Tue, 25 Apr 2023 07:03:21 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.28
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230425033848.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
