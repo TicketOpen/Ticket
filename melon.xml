@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-04-26T00:30:26.014Z</updated>
+    <updated>2023-04-26T02:02:12.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sync Next 23 (싱크 넥스트 23) 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7205</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7205"/>
+        <updated>2023-04-26T01:59:33.685Z</updated>
+        <content type="html"><![CDATA[추후공지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유지애 2nd Fanmeeting 〈TO YOO〉 티켓 오픈안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7204</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7196"/>
         <updated>2023-04-25T21:02:00.547Z</updated>
         <content type="html"><![CDATA[2023.04.27(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOHBOY X 김미정 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7195</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7195"/>
-        <updated>2023-04-25T21:02:00.555Z</updated>
-        <content type="html"><![CDATA[2023.04.25(화) 18:00]]></content>
     </entry>
 </feed>
