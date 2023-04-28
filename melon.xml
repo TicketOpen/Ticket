@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-04-28T10:05:15.700Z</updated>
+    <updated>2023-04-28T11:03:28.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문없는집 단독공연 〈조각들〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7221</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7221"/>
+        <updated>2023-04-28T11:01:36.268Z</updated>
+        <content type="html"><![CDATA[2023.05.02(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연세문화대향연 〈한여름 밤의 꿈〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7220</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7210"/>
         <updated>2023-04-26T06:09:14.240Z</updated>
         <content type="html"><![CDATA[2023.05.02(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔분의일 단독 콘서트 〈Prologue〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7209</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7209"/>
-        <updated>2023-04-26T06:09:14.242Z</updated>
-        <content type="html"><![CDATA[2023.04.28(금) 20:00]]></content>
     </entry>
 </feed>
