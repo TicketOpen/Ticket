@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 23:05:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 00:30:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주디스 콰르텟 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46930</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46930</guid>
+            <pubDate>Fri, 28 Apr 2023 00:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.28
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23005968_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[피크타임 콘서트 ［YOUR TIME］- 온라인 생중계 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46929</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2023.05.02
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007404_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈알사탕〉 - 서울숲 19차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46921</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46921</guid>
-            <pubDate>Thu, 27 Apr 2023 07:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.04
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007832_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
