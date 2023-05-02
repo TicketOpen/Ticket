@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 07:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 09:06:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[터치드(TOUCHED) 콘서트 ＇SUPERNOVA' 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46963</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46963</guid>
+            <pubDate>Tue, 02 May 2023 09:05:16 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.09
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023050210083916.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 박정현 콘서트 〈The Bridge〉 - 대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46962</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46962</guid>
+            <pubDate>Tue, 02 May 2023 09:05:16 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.04
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230502055626.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 박정현 콘서트 〈The Bridge〉 - 부산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46961</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46961</guid>
+            <pubDate>Tue, 02 May 2023 09:05:16 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.04
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23006233_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[임세모 단독공연 : 그래서! 모？ in 부산 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46960</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2023.05.03
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23006223_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈할란카운티〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46953</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46953</guid>
-            <pubDate>Tue, 02 May 2023 06:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.09
-                                    <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23005207_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 가족버블콘서트〈일루젼버블쇼〉 - 안양 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46952</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46952</guid>
-            <pubDate>Tue, 02 May 2023 06:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.04
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023043016180824.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS교향악단 K-Classic 스포트라이트 시리즈 I 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46950</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46950</guid>
-            <pubDate>Tue, 02 May 2023 06:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.04
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/L0/L0000040_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
