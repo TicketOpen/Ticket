@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 01:58:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 02:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <그날들> 10주년 기념 공연 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46967</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46967</guid>
+            <pubDate>Wed, 03 May 2023 02:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.10
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023050217015036.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <모차르트!> 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46966</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46966</guid>
+            <pubDate>Wed, 03 May 2023 02:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.09
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0003461_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[M소나타시리즈 <윤홍천 피아노 리사이틀> 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46964</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2023.05.03
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23006147_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈폭풍의 언덕〉 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46956</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46956</guid>
-            <pubDate>Tue, 02 May 2023 06:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.04
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23004670_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 NTX FANMEETING:START the X 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46955</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46955</guid>
-            <pubDate>Tue, 02 May 2023 06:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.09
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023050114252309.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
