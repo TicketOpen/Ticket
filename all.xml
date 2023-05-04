@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 00:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 01:57:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7224</guid>
             <pubDate>Wed, 03 May 2023 16:03:08 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.04(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <백작> 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46974&amp;groupno=46974&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46974&amp;groupno=46974&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 04 May 2023 01:56:08 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.11(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <갈매기> 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[23.05.09(화)&nbsp;17:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈왕자대전〉 1차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46957&amp;groupno=46957&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46957&amp;groupno=46957&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 02 May 2023 06:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.03(수)&nbsp;15:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <백작> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46974</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46974</guid>
+            <pubDate>Thu, 04 May 2023 01:56:22 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.11
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 <갈매기> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2023.05.10
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023050217201040.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[터치드(TOUCHED) 콘서트 ＇SUPERNOVA' 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46963</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46963</guid>
-            <pubDate>Tue, 02 May 2023 09:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.09
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023050210083916.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈행복한 왕자〉 3차 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -503,7 +503,7 @@
             <content:encoded><![CDATA[2023-05-04(목) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[오픈일시변경] 2023 하남 미사경정공원 바비큐비어페스티벌 - 사전 예약석 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <title><![CDATA[[오픈일시변경] 2023 하남 미사경정공원 바비큐비어페스티벌 - 사전 예약석 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1060</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1060</guid>
             <pubDate>Wed, 03 May 2023 02:26:07 GMT</pubDate>
@@ -583,11 +583,39 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/03/202304/03/ujhodx9gyjfw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매]대구시립무용단 기획공연 - SPIN OFF (스핀오프) 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/56771</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/56771</guid>
+            <pubDate>Thu, 04 May 2023 01:57:06 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.05.10(수) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 가족버블콘서트 <일루젼버블쇼> - 안양 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/56770</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/56770</guid>
+            <pubDate>Thu, 04 May 2023 01:57:06 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.05.08(월) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​뮤지컬 <백작> 프리뷰​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/56768</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/56768</guid>
+            <pubDate>Thu, 04 May 2023 01:57:06 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.05.11(목) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2023 라이브 가족뮤지컬 <고양이캣> - 대전 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/56767</link>
             <guid>http://www.ticketlink.co.kr/help/notice/56767</guid>
             <pubDate>Thu, 04 May 2023 00:28:10 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2023.05.08(월) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 김태우 2023 T-Party < For:Rest > 추가판매석 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/56766</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/56766</guid>
+            <pubDate>Thu, 04 May 2023 01:57:06 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.05.09(화) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 국립심포니오케스트라 ‘CINEMA CLASSIC DAY’ 티켓오픈 안내 (티켓링크)]]></title>
@@ -660,32 +688,25 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.05.04(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <할란카운티> 2차 티켓오픈 공지 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/56755</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/56755</guid>
-            <pubDate>Tue, 02 May 2023 06:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.05.09(화) 04:00]]></content:encoded>
+            <title><![CDATA[[단독판매]대구시립무용단 기획공연 - SPIN OFF (스핀오프) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/56771</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/56771</guid>
+            <pubDate>Thu, 04 May 2023 01:57:16 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.10(수) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연세문화대향연 <한여름 밤의 꿈> 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/56754</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/56754</guid>
-            <pubDate>Tue, 02 May 2023 03:04:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.05.08(월) 09:00]]></content:encoded>
+            <title><![CDATA[2023 가족버블콘서트 <일루젼버블쇼> - 안양 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/56770</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/56770</guid>
+            <pubDate>Thu, 04 May 2023 01:57:16 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.08(월) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 삼국유사교육문화회관 가정의달 기념 연극 『템플』 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/56753</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/56753</guid>
-            <pubDate>Tue, 02 May 2023 07:03:42 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.05.04(목) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 창작판소리 <몽석가 : 夢石歌> - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/56752</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/56752</guid>
-            <pubDate>Tue, 02 May 2023 07:03:42 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.05.04(목) 01:00]]></content:encoded>
+            <title><![CDATA[​뮤지컬 <백작> 프리뷰​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/56768</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/56768</guid>
+            <pubDate>Thu, 04 May 2023 01:57:16 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.11(목) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 라이브 가족뮤지컬 <고양이캣> - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -693,6 +714,13 @@
             <guid>http://m.ticketlink.co.kr/help/notice/56767</guid>
             <pubDate>Thu, 04 May 2023 00:28:19 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.08(월) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 김태우 2023 T-Party < For:Rest > 추가판매석 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/56766</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/56766</guid>
+            <pubDate>Thu, 04 May 2023 01:57:16 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.09(화) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 국립심포니오케스트라 ‘CINEMA CLASSIC DAY’ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -763,34 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/56756</guid>
             <pubDate>Tue, 02 May 2023 20:04:31 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.04(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <할란카운티> 2차 티켓오픈 공지 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/56755</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/56755</guid>
-            <pubDate>Tue, 02 May 2023 20:04:31 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.09(화) 04:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연세문화대향연 <한여름 밤의 꿈> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/56754</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/56754</guid>
-            <pubDate>Tue, 02 May 2023 20:04:31 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.08(월) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 삼국유사교육문화회관 가정의달 기념 연극 『템플』 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/56753</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/56753</guid>
-            <pubDate>Tue, 02 May 2023 20:04:31 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.04(목) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 창작판소리 <몽석가 : 夢石歌> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/56752</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/56752</guid>
-            <pubDate>Tue, 02 May 2023 20:04:31 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.04(목) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<창작 실내악 음악극 붕(鵬)새의 꿈> 공연실황 (네이버 공연)]]></title>
