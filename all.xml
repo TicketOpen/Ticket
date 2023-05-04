@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 23:05:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 00:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7224</guid>
             <pubDate>Wed, 03 May 2023 16:03:08 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.04(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 <갈매기> 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46973&amp;groupno=46973&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46973&amp;groupno=46973&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 04 May 2023 00:27:09 GMT</pubDate>
+            <content:encoded><![CDATA[23.05.08(월)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[ 텐트 사전 판매 ] 2023 피크닉 페스티벌 - We Go Together Concert.. (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[23.05.03(수)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 〈폭풍의 언덕〉 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46956&amp;groupno=46956&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46956&amp;groupno=46956&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 02 May 2023 06:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[23.05.04(목)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[연극 <갈매기> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46973</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46973</guid>
+            <pubDate>Thu, 04 May 2023 00:27:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.08
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23006271_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극〈늘근도둑이야기〉 6월 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2023.05.09
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023050210083916.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 박정현 콘서트 〈The Bridge〉 - 대구 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46962</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=46962</guid>
-            <pubDate>Tue, 02 May 2023 09:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.04
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230502055626.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈행복한 왕자〉 3차 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/03/202304/03/ujhodx9gyjfw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2023 라이브 가족뮤지컬 <고양이캣> - 대전 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/56767</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/56767</guid>
+            <pubDate>Thu, 04 May 2023 00:28:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.05.08(월) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 국립심포니오케스트라 ‘CINEMA CLASSIC DAY’ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/56765</link>
             <guid>http://www.ticketlink.co.kr/help/notice/56765</guid>
@@ -625,7 +632,7 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.05.03(수) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2023 전주브랜드공연(마당창극) 오만방자 전라감사 길들이기 티켓오픈 안내 (티켓링크)]]></title>
+            <title><![CDATA[[단독판매] 2023 전주브랜드공연(마당창극) 오만방자 전라감사 길들이기 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/56759</link>
             <guid>http://www.ticketlink.co.kr/help/notice/56759</guid>
             <pubDate>Tue, 02 May 2023 09:06:07 GMT</pubDate>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.05.04(목) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] ‘2023시즌 최강야구’ 두번째 직관데이  티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/56751</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/56751</guid>
-            <pubDate>Tue, 02 May 2023 02:00:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.05.09(화) 05:00]]></content:encoded>
+            <title><![CDATA[2023 라이브 가족뮤지컬 <고양이캣> - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/56767</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/56767</guid>
+            <pubDate>Thu, 04 May 2023 00:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.08(월) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 국립심포니오케스트라 ‘CINEMA CLASSIC DAY’ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -730,7 +737,7 @@
             <content:encoded><![CDATA[2023.05.03(수) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2023 전주브랜드공연(마당창극) 오만방자 전라감사 길들이기 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <title><![CDATA[[단독판매] 2023 전주브랜드공연(마당창극) 오만방자 전라감사 길들이기 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/56759</link>
             <guid>http://m.ticketlink.co.kr/help/notice/56759</guid>
             <pubDate>Tue, 02 May 2023 20:04:31 GMT</pubDate>
@@ -784,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/56752</guid>
             <pubDate>Tue, 02 May 2023 20:04:31 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.04(목) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] ‘2023시즌 최강야구’ 두번째 직관데이  티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/56751</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/56751</guid>
-            <pubDate>Tue, 02 May 2023 20:04:31 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.09(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<창작 실내악 음악극 붕(鵬)새의 꿈> 공연실황 (네이버 공연)]]></title>
