@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 02:03:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 02:31:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <멸화군> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47013</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47013</guid>
+            <pubDate>Tue, 09 May 2023 02:30:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.16
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023050816554296.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[FRIDAY HIPHOP SHOW vol.2 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47012</link>
@@ -32,7 +41,7 @@
             <pubDate>Mon, 08 May 2023 07:02:42 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.10
                                     <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023050218085827.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23006361_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2023 AARON FANMEETING TOUR ［SPECTRUM OF］- 온라인 생중계 티켓오픈 안내]]></title>
@@ -41,7 +50,7 @@
             <pubDate>Mon, 08 May 2023 07:02:42 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.11
                                     <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230509104553.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈해적〉 마지막 티켓오픈 안내]]></title>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2023.05.11
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023050513343093.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tenor Baek Dong-Yoon Recital 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47003</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47003</guid>
-            <pubDate>Mon, 08 May 2023 03:03:55 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.10
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
