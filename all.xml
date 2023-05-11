@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 10:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 12:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,6 +204,24 @@
             <content:encoded><![CDATA[23.05.17(수)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[정진, 정진, 정진! 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47061</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47061</guid>
+            <pubDate>Thu, 11 May 2023 12:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.17
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023051109562490.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEVER STOP vol. 6 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47060</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47060</guid>
+            <pubDate>Thu, 11 May 2023 12:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.12
+                                    <span>13:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23006500_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[2023 가족뮤지컬 로보카폴리<잡아라! 황금트로피!> - 서울 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47059</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47059</guid>
@@ -274,24 +292,6 @@
             <content:encoded><![CDATA[2023.05.19
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23006443_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 < 2시22분 - A Ghost Story > 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47051</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47051</guid>
-            <pubDate>Thu, 11 May 2023 07:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.18
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023051015343703.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈오페라의 유령〉 - 서울 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47050</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47050</guid>
-            <pubDate>Thu, 11 May 2023 02:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.18
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023051015361953.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
