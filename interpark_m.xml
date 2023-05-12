@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 05:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 06:09:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예측불허 실전로맨스♥〈극적인 하룻밤〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47069</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47069</guid>
+            <pubDate>Fri, 12 May 2023 06:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007810_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <빨래> - 용인 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47068</link>
@@ -23,7 +32,7 @@
             <pubDate>Fri, 12 May 2023 05:03:31 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.17
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230512021159.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 윤하(YOUNHA) 홀릭스 7기 팬미팅 티켓오픈 안내]]></title>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2023.05.17
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023051009280470.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈맘마미아!〉 - 진주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47058</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47058</guid>
-            <pubDate>Thu, 11 May 2023 07:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.18
-                                    <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023051011162898.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
