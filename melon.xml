@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-05-15T08:10:51.073Z</updated>
+    <updated>2023-05-15T10:05:24.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스마일러브위크엔드 2023 Seoul City＆Pop 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7286</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7286"/>
+        <updated>2023-05-15T10:02:59.409Z</updated>
+        <content type="html"><![CDATA[2023.05.19(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BECK TO BEOK 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7285</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7285"/>
+        <updated>2023-05-15T10:02:59.428Z</updated>
+        <content type="html"><![CDATA[2023.05.16(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[숨비 EP 발매 기념 쇼케이스 “SOOMMER NIGHT” 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7284</id>
@@ -55,24 +69,10 @@
         <content type="html"><![CDATA[2023.05.16(화) 20:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주윤하 앨범 발매 기념 단독 공연 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[주윤하＿단독공연 alone again 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7277</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7277"/>
         <updated>2023-05-12T15:02:48.205Z</updated>
-        <content type="html"><![CDATA[2023.05.15(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[춘길＆모세 2023 소극장 콘서트 ‘언제나 입춘대길’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7276</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7276"/>
-        <updated>2023-05-12T15:02:48.215Z</updated>
-        <content type="html"><![CDATA[2023.05.16(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트랙제로 Alive－Vol．12 트랙제로 이달의 아티스트 oceanfromtheblue 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7275</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7275"/>
-        <updated>2023-05-12T15:02:48.263Z</updated>
         <content type="html"><![CDATA[2023.05.15(월) 18:00]]></content>
     </entry>
 </feed>
