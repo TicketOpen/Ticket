@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-05-14T23:03:38.374Z</updated>
+    <updated>2023-05-15T02:02:20.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TUNE UP STAGE：Jclef 앨범발매기념 쇼케이스－O，PRUNED！：HOMEMADE JAM 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7281</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7281"/>
+        <updated>2023-05-15T02:00:59.460Z</updated>
+        <content type="html"><![CDATA[2023.05.16(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Breakfast Club：윤석철 X 세진 발매기념 쇼케이스 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7280</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7272"/>
         <updated>2023-05-12T15:02:48.284Z</updated>
         <content type="html"><![CDATA[2023.05.17(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PAIR PLAY：vol．5 진동욱x이고도 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7271</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7271"/>
-        <updated>2023-05-12T15:02:48.285Z</updated>
-        <content type="html"><![CDATA[2023.05.15(월) 18:00]]></content>
     </entry>
 </feed>
