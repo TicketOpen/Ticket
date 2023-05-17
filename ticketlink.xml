@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-05-16T21:04:25.545Z</updated>
+    <updated>2023-05-17T02:03:28.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <폭풍의 언덕> 4차(마지막) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56857</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56857"/>
+        <updated>2023-05-17T02:03:14.870Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.23(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광주시립교향악단] GSO 오티움 콘서트Ⅲ ‘South vs North’ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56855</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[[단독판매]2023 수성아트피아 아트피-아트웍스 <태양의 목소리, 이탈리아> 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56842</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56842"/>
-        <updated>2023-05-16T02:03:04.577Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.23(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <데스노트> - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56841</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56841"/>
         <updated>2023-05-16T02:03:04.577Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.05.23(화) 05:00]]></content>
     </entry>
