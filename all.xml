@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 10:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 12:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,15 @@
             <content:encoded><![CDATA[23.05.18(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2023 가족마술콘서트 〈매직오브아트〉 - 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47142</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47142</guid>
+            <pubDate>Thu, 18 May 2023 12:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.24
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023051815005286.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈라흐 헤스트〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47141</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47141</guid>
@@ -290,15 +299,6 @@
             <content:encoded><![CDATA[2023.05.22
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족매직콘서트<버블J의 언빌리버블쇼>제주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47132</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47132</guid>
-            <pubDate>Thu, 18 May 2023 07:03:01 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.23
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023051720113117.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[HAVE A NICE TRIP 2023 티켓 오픈 안내 (예스24 티켓)]]></title>
