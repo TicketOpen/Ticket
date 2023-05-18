@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2023-05-17T23:04:14.273Z</updated>
+    <updated>2023-05-18T02:02:05.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <알로하, 나의 엄마들> 1차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13067</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13067"/>
+        <updated>2023-05-18T02:01:06.138Z</updated>
+        <content type="html"><![CDATA[2023.05.22(월) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[제주] 가족매직콘서트 〈 버블J의 언빌리버블쇼 〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13066</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13066"/>
+        <updated>2023-05-18T02:01:06.157Z</updated>
+        <content type="html"><![CDATA[2023.05.22(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈겟팅아웃〉 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13065</id>
@@ -128,20 +142,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13044</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13044"/>
         <updated>2023-05-17T18:06:21.715Z</updated>
-        <content type="html"><![CDATA[2023.05.17(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제16회 부산항축제 - 문보트 탑승 체험 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13043</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13043"/>
-        <updated>2023-05-17T18:06:21.719Z</updated>
-        <content type="html"><![CDATA[2023.05.17(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제16회 부산항축제 - 도넛보트 탑승 체험 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13042</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13042"/>
-        <updated>2023-05-17T18:06:21.725Z</updated>
         <content type="html"><![CDATA[2023.05.17(수) 14:00]]></content>
     </entry>
 </feed>
