@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 20:05:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 02:08:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세종솔로이스츠의 실내악 시리즈 〈그랑 듀오〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47177</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47177</guid>
+            <pubDate>Tue, 23 May 2023 02:07:16 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.24
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호국보훈 유월음악회 - 논산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47176</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47176</guid>
+            <pubDate>Tue, 23 May 2023 02:07:16 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.23
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23007199_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2023 라이브 가족뮤지컬〈미녀와야수〉-부산 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47175</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2023.05.23
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23007084_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[Let's Go To My Star 시즌 2 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47167</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47167</guid>
-            <pubDate>Mon, 22 May 2023 09:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.24
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023051900534386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피크타임 콘서트 ［YOUR TIME］ - 부산 추가티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47166</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47166</guid>
-            <pubDate>Mon, 22 May 2023 09:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.24
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23006784_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
