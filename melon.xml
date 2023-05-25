@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-05-24T23:04:27.932Z</updated>
+    <updated>2023-05-25T05:04:19.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양반들 EP 에루화 발매 기념 공연 “해가 났다네 Sun‘s Out” 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7321</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7321"/>
+        <updated>2023-05-25T05:02:50.447Z</updated>
+        <content type="html"><![CDATA[2023.05.30(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[REDSTART BOYS 1st FANMEETING “This time is our turn” 추가 회차 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7320</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7312"/>
         <updated>2023-05-24T03:03:25.836Z</updated>
         <content type="html"><![CDATA[2023.05.30(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 김강민 첫번째 팬미팅：여름날의 우리 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7311</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7311"/>
-        <updated>2023-05-24T03:03:25.849Z</updated>
-        <content type="html"><![CDATA[2023.05.25(목) 20:00]]></content>
     </entry>
 </feed>
