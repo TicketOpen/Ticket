@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-05-26T06:11:39.457Z</updated>
+    <updated>2023-05-26T09:04:41.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈춘천놈들〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7325</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7325"/>
+        <updated>2023-05-26T09:03:06.683Z</updated>
+        <content type="html"><![CDATA[2023.05.26(금) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네미시스 라이브 콘서트 ‘여름의 시작’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7324</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7324"/>
+        <updated>2023-05-26T09:03:06.684Z</updated>
+        <content type="html"><![CDATA[2023.05.30(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스탠딩에그 단독 콘서트 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7323</id>
@@ -59,20 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7316</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7316"/>
         <updated>2023-05-24T09:03:10.791Z</updated>
-        <content type="html"><![CDATA[2023.05.31(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanillare 싱글 ‘Alive’ 발매기념 단독공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7315</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7315"/>
-        <updated>2023-05-24T03:03:25.818Z</updated>
-        <content type="html"><![CDATA[2023.05.25(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌6 OUR SUMMER［아디오스 오디오 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7314</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7314"/>
-        <updated>2023-05-24T03:03:25.820Z</updated>
         <content type="html"><![CDATA[2023.05.31(수) 20:00]]></content>
     </entry>
 </feed>
