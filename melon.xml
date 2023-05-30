@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-05-30T07:04:29.924Z</updated>
+    <updated>2023-05-30T11:04:31.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누군가의 플레이리스트 Track．65 그_냥 앨범 발매 기념 단독콘서트 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7338</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7338"/>
+        <updated>2023-05-30T11:02:36.262Z</updated>
+        <content type="html"><![CDATA[2023.05.31(수) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오오오（O．O．O）BECK TO BEOK－대전 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7337</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7337"/>
+        <updated>2023-05-30T11:02:36.265Z</updated>
+        <content type="html"><![CDATA[2023.05.31(수) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남메아리밴드 2집 Recording Session 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7336</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7328"/>
         <updated>2023-05-28T00:30:17.026Z</updated>
         <content type="html"><![CDATA[2023.05.30(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［오핑 음감회］Offing：What Would You Drink Around A Bonfire？티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7327</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7327"/>
-        <updated>2023-05-28T00:30:17.027Z</updated>
-        <content type="html"><![CDATA[2023.05.29(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 이예준 단독 콘서트 Say Ye‘s 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7326</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7326"/>
-        <updated>2023-05-28T00:30:17.031Z</updated>
-        <content type="html"><![CDATA[2023.05.30(화) 19:00]]></content>
     </entry>
 </feed>
