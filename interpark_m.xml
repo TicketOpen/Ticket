@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 16:06:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 17:04:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,15 +44,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23003459_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[손민수 Curated 07 아벨콰르텟 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47243</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47243</guid>
-            <pubDate>Tue, 30 May 2023 07:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.30
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23007440_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2023 최현우 Answer 2차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47242</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47242</guid>
@@ -89,13 +80,22 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023052415450517.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈왕자대전〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47238</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47238</guid>
-            <pubDate>Tue, 30 May 2023 04:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.30
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23006147_p.gif" length="0" type="image/gif"/>
+            <title><![CDATA[WONDERLAND와 후라보노 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47237</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47237</guid>
+            <pubDate>Tue, 30 May 2023 17:02:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.31
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23007581_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[캐리tv 액티비티 뮤지컬 시즌1 <점프점프> - 서울 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47236</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47236</guid>
+            <pubDate>Tue, 30 May 2023 17:02:36 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.31
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23007517_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
