@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 06:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 07:07:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 폴킴 팬미팅 <폴세계백화점> - GRAND OPEN! 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47262</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47262</guid>
+            <pubDate>Wed, 31 May 2023 07:05:11 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.09
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023053109345254.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈더 픽션〉 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47261</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47261</guid>
+            <pubDate>Wed, 31 May 2023 07:05:11 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.07
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23006429_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈테베랜드〉 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47260</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47260</guid>
+            <pubDate>Wed, 31 May 2023 07:05:11 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23006433_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[몽니의 사색동화 몽땅 패키지 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47259</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2023.06.01
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230531015446.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ENHYPEN WORLD TOUR ‘FATE’ IN SEOUL 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47252</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47252</guid>
-            <pubDate>Wed, 31 May 2023 05:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.07
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23007507_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 김민재 1st 팬미팅 <텔레파시:하고 싶은 말 보고 싶은 날> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47251</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47251</guid>
-            <pubDate>Wed, 31 May 2023 03:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.02
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230531015333.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소프라노 손나래 리사이틀 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47250</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47250</guid>
-            <pubDate>Wed, 31 May 2023 05:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.01
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
