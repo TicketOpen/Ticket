@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 23:05:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 02:46:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -228,7 +228,7 @@
             <pubDate>Wed, 31 May 2023 08:09:22 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.02
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023052617014853.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23007779_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2023 폴킴 팬미팅 <폴세계백화점> - GRAND OPEN! 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/54/202305/11/4crx4fgwdjna.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[마리아킴 재즈 콜렉티브 Getz/Gilberto 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/56949</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/56949</guid>
+            <pubDate>Thu, 01 Jun 2023 02:45:35 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.06.02(금) 08:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2023 변진섭 전국투어 콘서트 : 변천사 - 인천 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/56948</link>
             <guid>http://www.ticketlink.co.kr/help/notice/56948</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.05.31(수) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2023 이은미 LIVE TOUR  콘서트  광주공연 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/56933</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/56933</guid>
-            <pubDate>Thu, 25 May 2023 10:05:51 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.05.30(화) 05:00]]></content:encoded>
+            <title><![CDATA[마리아킴 재즈 콜렉티브 Getz/Gilberto 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/56949</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/56949</guid>
+            <pubDate>Thu, 01 Jun 2023 02:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.02(금) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 변진섭 전국투어 콘서트 : 변천사 - 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/56934</guid>
             <pubDate>Thu, 25 May 2023 10:06:01 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.31(수) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 이은미 LIVE TOUR  콘서트  광주공연 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/56933</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/56933</guid>
-            <pubDate>Thu, 25 May 2023 10:06:01 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.30(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 쿠로이 저택엔 누가 살고 있을까? 미디어콜 중계 (네이버 공연)]]></title>
