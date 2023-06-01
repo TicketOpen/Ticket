@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 06:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 08:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈보이A〉 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47278</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47278</guid>
+            <pubDate>Thu, 01 Jun 2023 08:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.08
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23005596_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[죠지 단독 콘서트 〈FRR〉 - 부산 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47277</link>
@@ -17,13 +26,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023053120275780.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <반짝이는 프리채널 - 두근두근! 주얼 컬렉션!> - 서울 티켓오픈 안내]]></title>
+            <title><![CDATA[뮤지컬 <반짝이는 프리채널 - 두근두근! 주얼 컬렉션!> - 용산 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47276</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47276</guid>
             <pubDate>Thu, 01 Jun 2023 06:10:40 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.02
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023053012290468.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23007726_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－부산 신세계 티켓오픈 안내]]></title>
@@ -32,7 +41,7 @@
             <pubDate>Thu, 01 Jun 2023 06:10:40 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.02
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023052411302286.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23007837_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 서울 추가 티켓오픈 안내]]></title>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2023.06.08
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023053010184925.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PEPPERTONES 2023 CLUB TOUR - 광주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47268</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47268</guid>
-            <pubDate>Thu, 01 Jun 2023 05:03:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023053010172570.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
