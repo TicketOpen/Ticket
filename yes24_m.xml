@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-06-02T06:10:36.483Z</updated>
+    <updated>2023-06-02T07:08:42.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[안산시민과 함께 하는 K트롯 콘서트 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13120&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13120&amp;order=1"/>
+        <updated>2023-06-02T07:08:03.591Z</updated>
+        <content type="html"><![CDATA[2023-06-05(월) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈오페라의 유령〉 부산 - 문화지원 프로그램 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13119&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13119&amp;order=1"/>
+        <updated>2023-06-02T07:08:03.605Z</updated>
+        <content type="html"><![CDATA[2023-06-05(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10-FEET ＂COLLINS＂ TOUR 2023 in Korea 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13118&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13109&amp;order=1"/>
         <updated>2023-05-31T02:21:12.828Z</updated>
         <content type="html"><![CDATA[2023-05-31(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이앨리 vol.2 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13108&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13108&amp;order=1"/>
-        <updated>2023-05-30T11:03:52.838Z</updated>
-        <content type="html"><![CDATA[2023-06-07(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 WEi SHOW-CON [Eternal Sunshine] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13107&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13107&amp;order=1"/>
-        <updated>2023-05-30T11:03:52.839Z</updated>
-        <content type="html"><![CDATA[2023-06-09(금) 20:00]]></content>
     </entry>
 </feed>
