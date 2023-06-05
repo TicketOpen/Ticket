@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 06:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 07:04:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유발이 단독공연 ‘그녀의 일기장을 훔쳐봐주세요’ 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7362</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7362</guid>
+            <pubDate>Mon, 05 Jun 2023 07:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.09(금) 20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[웹드라마 〈소년을 위로해줘！〉 팬미팅 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7361</link>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7353</guid>
             <pubDate>Fri, 02 Jun 2023 06:08:12 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.05(월) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박기훈 정규 2집 제작 발표회 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7352</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7352</guid>
-            <pubDate>Thu, 01 Jun 2023 05:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.02(금) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[싸이흠뻑쇼 SUMMERSWAG2023 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -211,6 +211,15 @@
             <content:encoded><![CDATA[23.06.05(월)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[연극 〈바니타스〉 마지막 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47312</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47312</guid>
+            <pubDate>Mon, 05 Jun 2023 07:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.07
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23005247_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[애니메이션 첼로 페스티벌 디즈니 VS 지브리 - 대구 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47311</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47311</guid>
@@ -218,15 +227,6 @@
             <content:encoded><![CDATA[2023.06.08
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023053014531599.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬<빨래>-수원 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47310</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47310</guid>
-            <pubDate>Mon, 05 Jun 2023 05:03:08 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023060116514030.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈알사탕〉 - 서울숲 20차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
