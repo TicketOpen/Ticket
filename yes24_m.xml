@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2023-06-05T05:05:05.812Z</updated>
+    <updated>2023-06-05T06:10:31.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[안산시민과 함께 하는 K트롯 콘서트 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13131&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13131&amp;order=1"/>
+        <updated>2023-06-05T06:09:45.410Z</updated>
+        <content type="html"><![CDATA[2023-06-05(월) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콘서트 [투가이즈쇼] 4차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13130&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13122&amp;order=1"/>
         <updated>2023-06-02T10:04:57.154Z</updated>
         <content type="html"><![CDATA[2023-06-12(월) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <나무 위의 군대> 발코니석 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13121&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13121&amp;order=1"/>
-        <updated>2023-06-02T08:07:30.858Z</updated>
-        <content type="html"><![CDATA[2023-06-08(목) 16:00]]></content>
     </entry>
 </feed>
