@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 23:04:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 00:33:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테너 정필립 리사이틀 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47296</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47296</guid>
+            <pubDate>Mon, 05 Jun 2023 00:32:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.09
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 콘서트 with 팬텀 히어로즈 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47295</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2023.06.05
                                     <span>13:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23007732_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <사의찬미> - 여주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47284</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47284</guid>
-            <pubDate>Fri, 02 Jun 2023 15:03:16 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.07
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23007614_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

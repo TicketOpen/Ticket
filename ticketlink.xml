@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-06-04T23:04:34.904Z</updated>
+    <updated>2023-06-05T00:33:30.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 김지연 아코디언 팝스 오케스트라 <군포 휴 콘서트> 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56972</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56972"/>
+        <updated>2023-06-05T00:33:09.107Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.05(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[틀려도 괜찮아 - 중랑구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56971</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56955"/>
         <updated>2023-06-02T04:05:05.937Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.07(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애니메이션 첼로 페스티벌 디즈니 VS 지브리 - 성남 ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56954</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56954"/>
-        <updated>2023-06-01T08:09:40.713Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.08(목) 05:00]]></content>
     </entry>
 </feed>
