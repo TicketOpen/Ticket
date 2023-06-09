@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 15:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 16:05:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,15 +42,6 @@
             <content:encoded><![CDATA[2023.06.16
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23006588_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[권인하 노희섭 콜라보 콘서트 〈천둥〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47375</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47375</guid>
-            <pubDate>Fri, 09 Jun 2023 13:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.09
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23007960_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈왓 이프〉 2차 티켓오픈 안내]]></title>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2023.06.15
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023053016282900.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1923년생 조선인 최영우 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47369</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47369</guid>
+            <pubDate>Fri, 09 Jun 2023 16:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.14
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023060713371965.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
