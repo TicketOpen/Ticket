@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 23:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 00:36:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족음악극 <슈베르트와 장미요정 샤베트> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47381</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47381</guid>
+            <pubDate>Mon, 12 Jun 2023 00:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.15
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230612090337.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 가족매직쇼 〈류엘의 매직콘서트〉 - 용산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47380</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47380</guid>
+            <pubDate>Mon, 12 Jun 2023 00:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.13
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23008178_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2023 제 2회 선셋재즈페스티벌 얼리버드 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47379</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2023.06.13
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007404_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[<불타는 트롯맨> TOP7 울산콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47370</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47370</guid>
-            <pubDate>Fri, 09 Jun 2023 05:03:18 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.15
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023053016282900.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1923년생 조선인 최영우 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47369</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47369</guid>
-            <pubDate>Fri, 09 Jun 2023 16:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.14
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023060713371965.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
