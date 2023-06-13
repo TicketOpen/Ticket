@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 08:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 09:04:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 가족매직쇼 〈류엘의 매직콘서트〉 - 대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47411</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47411</guid>
+            <pubDate>Tue, 13 Jun 2023 09:03:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.19
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023061312501573.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 김기태 전국투어 콘서트 ［위로］ - 대전 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47410</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2023.06.15
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제4회 여주인공 페스티벌 참가작 〈BE HAPPY〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47400</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47400</guid>
-            <pubDate>Mon, 12 Jun 2023 10:03:08 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.14
-                                    <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23008243_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
