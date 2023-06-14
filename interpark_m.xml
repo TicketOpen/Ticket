@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 10:05:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 12:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쥬멜 듀오 피아노 리싸이틀 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47424</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47424</guid>
+            <pubDate>Wed, 14 Jun 2023 12:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.14
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23008195_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[환상가족음악극 <리틀 뮤지션 스페셜> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47422</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47422</guid>
+            <pubDate>Wed, 14 Jun 2023 12:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.16
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023061316041492.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[［재단출범3주년 기념공연］최백호 콘서트 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47421</link>
@@ -71,31 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0003461_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2023 가족버블쇼〈일루젼 버블쇼〉 - 용인 티켓오픈 안내]]></title>
+            <title><![CDATA[2023 가족매직콘서트<매직오브아트>-용인 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47414</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47414</guid>
             <pubDate>Wed, 14 Jun 2023 05:03:25 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.15
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023061112281573.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[［울산］싱어롱 콘서트 뮤지컬 ‘Live Show’ 〈무지개 물고기〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47413</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47413</guid>
-            <pubDate>Wed, 14 Jun 2023 05:03:25 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.19
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023061309522752.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 가족매직쇼 〈류엘의 매직콘서트〉 - 대구 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47411</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47411</guid>
-            <pubDate>Tue, 13 Jun 2023 09:03:14 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.19
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023061312501573.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23008278_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
