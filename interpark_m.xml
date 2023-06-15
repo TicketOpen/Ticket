@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 04:06:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 06:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－안양 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47433</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47433</guid>
+            <pubDate>Thu, 15 Jun 2023 06:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.20
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023061411245573.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘, 발라드 콘서트 in 대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47432</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47432</guid>
+            <pubDate>Thu, 15 Jun 2023 06:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.19
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023061413212036.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손민수 Curated 08 문지영 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47431</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47431</guid>
+            <pubDate>Thu, 15 Jun 2023 06:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.15
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23008401_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[Soundberry Festa’ 23 일반티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47430</link>
@@ -32,7 +59,7 @@
             <pubDate>Thu, 15 Jun 2023 04:04:05 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.16
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023061410492693.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23008447_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈트레드밀〉 1차 티켓오픈 안내]]></title>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2023.06.16
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23008389_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[［재단출범3주년 기념공연］최백호 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47421</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47421</guid>
-            <pubDate>Thu, 15 Jun 2023 04:04:05 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.16
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23008237_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[［재단출범3주년 기념공연］뮤지컬 갈라 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47420</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47420</guid>
-            <pubDate>Thu, 15 Jun 2023 04:04:05 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.16
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[［11시＆브런치］Vol.6 카리나 네뷸라 재즈 콘서트 - 구리 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47419</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47419</guid>
-            <pubDate>Thu, 15 Jun 2023 04:04:05 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.16
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23008238_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
