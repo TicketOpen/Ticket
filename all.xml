@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 06:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 07:05:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7403</guid>
             <pubDate>Wed, 14 Jun 2023 08:05:50 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.15(목) 12:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈2시 22분 - A GHOST STORY〉 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47434&amp;groupno=47434&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47434&amp;groupno=47434&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 15 Jun 2023 07:03:20 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.22(목)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－안양 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[23.06.21(수)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈쿠로이 저택엔 누가 살고 있을까？〉 싱어롱 데이 앵콜:가.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47416&amp;groupno=47416&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47416&amp;groupno=47416&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 15 Jun 2023 00:31:55 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.19(월)&nbsp;15:00]]></content:encoded>
+            <title><![CDATA[연극 〈2시 22분 - A GHOST STORY〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47434</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47434</guid>
+            <pubDate>Thu, 15 Jun 2023 07:03:41 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.22
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23006686_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－안양 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2023.06.20
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023061417061646.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환상가족음악극 <리틀 뮤지션 스페셜> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47422</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47422</guid>
-            <pubDate>Thu, 15 Jun 2023 04:04:05 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.16
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23008389_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[Woodstock Music ＆ Art Fair 2023 티켓 오픈 안내 (예스24 티켓)]]></title>
