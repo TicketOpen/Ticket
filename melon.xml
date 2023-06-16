@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-06-16T07:05:30.125Z</updated>
+    <updated>2023-06-16T09:03:43.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7415"/>
         <updated>2023-06-16T03:03:53.537Z</updated>
         <content type="html"><![CDATA[2023.06.22(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NO HIPHOP NO LIFE（노힢노랖）Vol．001－허클베리피 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7422</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7422"/>
+        <updated>2023-06-16T09:02:16.639Z</updated>
+        <content type="html"><![CDATA[2023.06.21(수) 18:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앙리 마티스 특별전：LOVE＆JAZZ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7421</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7421"/>
+        <updated>2023-06-16T09:02:16.642Z</updated>
+        <content type="html"><![CDATA[2023.06.17(토) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈구텐버그〉 오픈위크 티켓 오픈 안내]]></title>
@@ -67,19 +81,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7412"/>
         <updated>2023-06-16T03:03:53.541Z</updated>
         <content type="html"><![CDATA[2023.06.15(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VIVIZ（비비지）공식 팬클럽 나비（Na．V）2기 추가모집 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7411</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7411"/>
-        <updated>2023-06-16T03:03:53.547Z</updated>
-        <content type="html"><![CDATA[2023.06.19(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌6 청춘의 밤［김필선 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7410</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7410"/>
-        <updated>2023-06-16T03:03:53.548Z</updated>
-        <content type="html"><![CDATA[2023.06.22(목) 20:00]]></content>
     </entry>
 </feed>
