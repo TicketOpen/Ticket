@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 06:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 07:06:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈모차르트！〉 마지막 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7449</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7449</guid>
+            <pubDate>Mon, 26 Jun 2023 07:03:45 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.04(화) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Summer Jazzbreak 2023 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7447</link>
@@ -71,18 +78,18 @@
             <content:encoded><![CDATA[2023.06.26(월) 18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈레베카〉 10주년 기념공연 1차 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7436</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7436</guid>
-            <pubDate>Tue, 20 Jun 2023 07:02:52 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.27(화) 14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[찰리 푸스 내한공연 (Charlie Puth Live in Seoul) 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=47406&amp;groupno=47406&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=47406&amp;groupno=47406&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 23 Jun 2023 03:29:05 GMT</pubDate>
             <content:encoded><![CDATA[23.06.30(금)&nbsp;12:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈모차르트!〉 마지막 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47543&amp;groupno=47543&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47543&amp;groupno=47543&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 26 Jun 2023 07:03:56 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.04(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인형극<세친구> 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -204,11 +211,13 @@
             <content:encoded><![CDATA[23.06.27(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2023 정해인 팬미팅 [열번째 계절] 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47525&amp;groupno=47525&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47525&amp;groupno=47525&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 23 Jun 2023 06:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.26(월)&nbsp;18:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈모차르트!〉 마지막 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47543</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47543</guid>
+            <pubDate>Mon, 26 Jun 2023 07:04:11 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.04
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0003461_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[인형극<세친구> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -290,15 +299,6 @@
             <content:encoded><![CDATA[2023.06.29
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023062314025385.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <이토록 보통의> 오픈위크 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47533</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47533</guid>
-            <pubDate>Mon, 26 Jun 2023 03:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023062318114004.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Summer Jazzbreak 2023 티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -844,6 +844,15 @@
             <pubDate>Mon, 26 Jun 2023 02:30:24 GMT</pubDate>
             <content:encoded><![CDATA[07월 12일(수) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230622_45/jIdRb_1687414229063pKKLr_JPEG/1687414229037.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											[후원전용] <청춘소음> 공연실황 녹화중계 (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Mon, 26 Jun 2023 07:06:04 GMT</pubDate>
+            <content:encoded><![CDATA[07월 13일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_261/IR6gO_1686725133425iyguC_JPEG/1686725133404.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
