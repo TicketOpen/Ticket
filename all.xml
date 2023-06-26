@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 05:05:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 06:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,6 +85,13 @@
             <content:encoded><![CDATA[23.06.30(금)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[인형극<세친구> 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47542&amp;groupno=47542&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47542&amp;groupno=47542&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 26 Jun 2023 06:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.30(금)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤직드라마 〈불편한 편의점〉 5차 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47541&amp;groupno=47541&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47541&amp;groupno=47541&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -141,7 +148,7 @@
             <content:encoded><![CDATA[23.06.29(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <이토록 보통의> 오픈위크 티켓오픈 안내 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <title><![CDATA[뮤지컬 <이토록 보통의> 오픈위크 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47533&amp;groupno=47533&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47533&amp;groupno=47533&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 26 Jun 2023 02:28:12 GMT</pubDate>
@@ -204,11 +211,49 @@
             <content:encoded><![CDATA[23.06.26(월)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제 1회 연습실에서 독백하기 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47524&amp;groupno=47524&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47524&amp;groupno=47524&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 23 Jun 2023 05:03:27 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.30(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[인형극<세친구> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47542</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47542</guid>
+            <pubDate>Mon, 26 Jun 2023 06:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.30
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤직드라마 〈불편한 편의점〉 5차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47541</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47541</guid>
+            <pubDate>Mon, 26 Jun 2023 06:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.30
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23003651_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 산울림 고전극장 <용의 아이> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47540</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47540</guid>
+            <pubDate>Mon, 26 Jun 2023 06:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.28
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023062316013149.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUGA | Agust D TOUR ‘D-DAY’ THE FINAL 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47539</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47539</guid>
+            <pubDate>Mon, 26 Jun 2023 06:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.21
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23008871_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤직드라마 당신만이 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47538</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47538</guid>
+            <pubDate>Mon, 26 Jun 2023 06:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.03
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005476_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[금성 여인숙 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -247,58 +292,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023062314025385.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <이토록 보통의> 오픈위크 티켓오픈 안내 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <title><![CDATA[뮤지컬 <이토록 보통의> 오픈위크 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47533</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47533</guid>
             <pubDate>Mon, 26 Jun 2023 03:25:56 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.12
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023062318114004.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2023_대전 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47532</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47532</guid>
-            <pubDate>Mon, 26 Jun 2023 03:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.29
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023062315181593.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2023_여수 앙코르 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47531</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47531</guid>
-            <pubDate>Mon, 26 Jun 2023 03:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.29
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023062315192624.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈백작〉 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47530</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47530</guid>
-            <pubDate>Mon, 26 Jun 2023 03:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.30
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23006461_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[김수영 Fan Meet-Up 〈Spoiler Day〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47529</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47529</guid>
-            <pubDate>Fri, 23 Jun 2023 12:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.28
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230623060330.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SILICA GEL VINYL POP-UP 〈Silica Gel〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47528</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47528</guid>
-            <pubDate>Fri, 23 Jun 2023 12:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.28
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230623055659.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Summer Jazzbreak 2023 티켓 오픈 안내 (예스24 티켓)]]></title>
