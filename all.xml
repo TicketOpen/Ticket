@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 22:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 00:38:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=47406&amp;groupno=47406&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 23 Jun 2023 03:29:05 GMT</pubDate>
             <content:encoded><![CDATA[23.06.30(금)&nbsp;12:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <전천당 vs 흑화당> - 하남 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47544&amp;groupno=47544&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47544&amp;groupno=47544&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 27 Jun 2023 00:35:14 GMT</pubDate>
+            <content:encoded><![CDATA[23.06.29(목)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈모차르트!〉 마지막 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -200,13 +207,6 @@
             <title><![CDATA[뮤지컬 브레드이발소 시즌2 <내 꿈을 찾아서> - 성남 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47527&amp;groupno=47527&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47527&amp;groupno=47527&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 23 Jun 2023 08:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.27(화)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트>-.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47526&amp;groupno=47526&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47526&amp;groupno=47526&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 23 Jun 2023 08:09:36 GMT</pubDate>
             <content:encoded><![CDATA[23.06.27(화)&nbsp;14:00]]></content:encoded>
         </item>
@@ -590,6 +590,27 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/29/202306/08/zvhglffvskd8.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <전천당 vs 흑화당> - 하남 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57132</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57132</guid>
+            <pubDate>Tue, 27 Jun 2023 00:38:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.06.29(목) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[THE GREATEST : 전율 정동하 X 소향 - 창원 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57131</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57131</guid>
+            <pubDate>Tue, 27 Jun 2023 00:38:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.06.30(금) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 구본수의 The Secret Forest 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57130</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57130</guid>
+            <pubDate>Tue, 27 Jun 2023 00:38:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.06.29(목) 04:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] XIA Fanmeeting Tour < COCOTIME > in Seoul : The 20th Anniversary 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/57129</link>
             <guid>http://www.ticketlink.co.kr/help/notice/57129</guid>
@@ -674,25 +695,25 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.06.27(화) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[(시흥) 2023 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57117</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57117</guid>
-            <pubDate>Sat, 24 Jun 2023 03:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.06.27(화) 00:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <전천당 vs 흑화당> - 하남 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57132</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57132</guid>
+            <pubDate>Tue, 27 Jun 2023 00:38:33 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.29(목) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> - 수원 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57116</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57116</guid>
-            <pubDate>Fri, 23 Jun 2023 08:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.06.29(목) 05:00]]></content:encoded>
+            <title><![CDATA[THE GREATEST : 전율 정동하 X 소향 - 창원 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57131</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57131</guid>
+            <pubDate>Tue, 27 Jun 2023 00:38:33 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.30(금) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 브레드이발소 시즌2 <내 꿈을 찾아서> - 성남​​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57115</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57115</guid>
-            <pubDate>Fri, 23 Jun 2023 08:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.06.27(화) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 구본수의 The Secret Forest 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57130</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57130</guid>
+            <pubDate>Tue, 27 Jun 2023 00:38:33 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.29(목) 04:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] XIA Fanmeeting Tour < COCOTIME > in Seoul : The 20th Anniversary 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -777,27 +798,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/57118</guid>
             <pubDate>Sat, 24 Jun 2023 03:22:27 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.27(화) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(시흥) 2023 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57117</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57117</guid>
-            <pubDate>Sat, 24 Jun 2023 03:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.27(화) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57116</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57116</guid>
-            <pubDate>Fri, 23 Jun 2023 08:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.29(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 브레드이발소 시즌2 <내 꿈을 찾아서> - 성남​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57115</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57115</guid>
-            <pubDate>Fri, 23 Jun 2023 08:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.27(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
