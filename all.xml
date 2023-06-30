@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 11:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 12:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,6 +218,24 @@
             <content:encoded><![CDATA[23.06.27(화)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2023 10CM Summer Concert with CGV vol. 2 - 광주금남로 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47594</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47594</guid>
+            <pubDate>Fri, 30 Jun 2023 12:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.06
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023062917343906.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 10CM Summer Concert with CGV vol. 2 - 대전 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47593</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47593</guid>
+            <pubDate>Fri, 30 Jun 2023 12:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.06
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023062917405175.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2023 10CM Summer Concert with CGV vol. 2 - 계양 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47592</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47592</guid>
@@ -288,24 +306,6 @@
             <content:encoded><![CDATA[2023.07.07
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023062710134169.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈테베랜드〉 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47583</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47583</guid>
-            <pubDate>Fri, 30 Jun 2023 05:03:20 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.05
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23006433_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈더 테일 에이프릴 풀스〉 4차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47582</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47582</guid>
-            <pubDate>Fri, 30 Jun 2023 05:03:20 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.11
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23005356_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2023 최현우 Answer 티켓 오픈 안내 (예스24 티켓)]]></title>
