@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 05:05:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 07:05:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈토카타〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47586</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47586</guid>
+            <pubDate>Fri, 30 Jun 2023 07:03:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.06
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023063014481296.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈비스티〉 4차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47585</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47585</guid>
+            <pubDate>Fri, 30 Jun 2023 07:03:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.07
+                                    <span>13:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23005030_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[문종업 팬 콘서트［UPPIE IS BACK］- ONLINE TICKET 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47584</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2023.07.04
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023062914072950.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈더 픽션〉 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47575</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47575</guid>
-            <pubDate>Thu, 29 Jun 2023 13:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.05
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23006429_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 변진섭 전국투어 콘서트 : 변천사 - 마산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47574</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47574</guid>
-            <pubDate>Thu, 29 Jun 2023 13:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.05
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023062913590067.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
