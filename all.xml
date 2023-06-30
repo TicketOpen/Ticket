@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 14:03:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 15:04:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7459</guid>
             <pubDate>Thu, 29 Jun 2023 10:04:24 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.03(월) 18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[찰리 푸스 내한공연 (Charlie Puth Live in Seoul) 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=47406&amp;groupno=47406&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=47406&amp;groupno=47406&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 28 Jun 2023 23:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.30(금)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SEVENTEEN TOUR ‘FOLLOW’ TO SEOUL 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -820,6 +813,14 @@
             <pubDate>Fri, 16 Jun 2023 06:10:52 GMT</pubDate>
             <content:encoded><![CDATA[07월 03일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230614_240/qVWR7_1686717585989vXETs_JPEG/1686717585939.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <라흐 헤스트> 생중계 (네이버 공연)]]></title>
+            <link>https://tv.naver.com/l/134090</link>
+            <guid>https://tv.naver.com/l/134090</guid>
+            <pubDate>Fri, 30 Jun 2023 15:04:24 GMT</pubDate>
+            <content:encoded><![CDATA[07월 04일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230630_62/QzDrz_1688115799419f12hL_JPEG/1688115799365.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
