@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 23:06:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 00:39:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=47203&amp;groupno=47203&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 28 Jun 2023 23:07:25 GMT</pubDate>
             <content:encoded><![CDATA[23.07.05(수)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈라스트 세션〉 마지막 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47595&amp;groupno=47595&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47595&amp;groupno=47595&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 03 Jul 2023 00:36:13 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.05(수)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 10CM Summer Concert with CGV vol. 2 - 광주금남로 티켓오픈 .. (인터파크 티켓)]]></title>
@@ -202,13 +209,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47578&amp;groupno=47578&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 29 Jun 2023 10:04:38 GMT</pubDate>
             <content:encoded><![CDATA[23.07.06(목)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뷰렛 Rock Star 발매 기념 콘서트 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47577&amp;groupno=47577&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47577&amp;groupno=47577&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 29 Jun 2023 10:04:38 GMT</pubDate>
-            <content:encoded><![CDATA[23.06.27(화)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 10CM Summer Concert with CGV vol. 2 - 광주금남로 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -438,6 +438,13 @@
             <content:encoded><![CDATA[2023.06.26(월) 12:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[연극 <라스트 세션(Freud’s Last Session)> 마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13224&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13224&amp;order=1</guid>
+            <pubDate>Mon, 03 Jul 2023 00:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[2023-07-05(수) 11:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2023 최현우 Answer 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13223&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13223&amp;order=1</guid>
@@ -498,13 +505,6 @@
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13214&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13214&amp;order=1</guid>
             <pubDate>Wed, 28 Jun 2023 05:04:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[썬더 프롬 다운 언더 IN 서울 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13213&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13213&amp;order=1</guid>
-            <pubDate>Wed, 28 Jun 2023 05:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[2023-06-30(금) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 WORLD K-POP FESTIVAL - BORYEONG 티켓오픈 안내 (위메프 공연티켓)]]></title>
