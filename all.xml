@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 06:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 07:04:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,7 +217,7 @@
             <pubDate>Mon, 03 Jul 2023 06:09:37 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.05
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023063013302644.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230703031250.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈스웨그에이지 외쳐,조선!〉 4차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -589,6 +589,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/44/202306/28/xhndwmhnfzth.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[장한나, 미샤 마이스키 & 디토 오케스트라​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57173</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57173</guid>
+            <pubDate>Mon, 03 Jul 2023 07:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.07.05(수) 06:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 2023 신인음악회 - 대구 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/57172</link>
             <guid>http://www.ticketlink.co.kr/help/notice/57172</guid>
@@ -687,11 +694,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.07.04(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[익산] 뮤지컬 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!>​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57158</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57158</guid>
-            <pubDate>Thu, 29 Jun 2023 10:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.07.05(수) 02:00]]></content:encoded>
+            <title><![CDATA[장한나, 미샤 마이스키 & 디토 오케스트라​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57173</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57173</guid>
+            <pubDate>Mon, 03 Jul 2023 07:04:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.05(수) 06:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 2023 신인음악회 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -790,13 +797,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/57159</guid>
             <pubDate>Sat, 01 Jul 2023 00:41:19 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.04(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[익산] 뮤지컬 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57158</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57158</guid>
-            <pubDate>Sat, 01 Jul 2023 00:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.05(수) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
