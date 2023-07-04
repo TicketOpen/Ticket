@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 06:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 09:05:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈히스토리 보이즈〉 10주년 기념 ‘셰필드 마을잔치’ 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47615</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47615</guid>
+            <pubDate>Tue, 04 Jul 2023 09:03:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.07
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230704035146.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극〈늘근도둑이야기〉 8월 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47614</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2023.07.05
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23009233_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈스웨그에이지 외쳐,조선!〉 4차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47605</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47605</guid>
-            <pubDate>Mon, 03 Jul 2023 06:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.06
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23006037_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
