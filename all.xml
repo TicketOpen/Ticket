@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 23:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 00:40:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=47203&amp;groupno=47203&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 28 Jun 2023 23:07:25 GMT</pubDate>
             <content:encoded><![CDATA[23.07.05(수)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈고등어〉 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47616&amp;groupno=47616&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47616&amp;groupno=47616&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 05 Jul 2023 00:37:37 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.10(월)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈히스토리 보이즈〉 10주년 기념 ‘셰필드 마을잔치’ 티켓오.. (인터파크 티켓)]]></title>
@@ -202,13 +209,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47598&amp;groupno=47598&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 03 Jul 2023 03:19:06 GMT</pubDate>
             <content:encoded><![CDATA[23.08.03(목)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[무용 〈돌〉 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47597&amp;groupno=47597&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47597&amp;groupno=47597&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 03 Jul 2023 03:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.05(수)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈히스토리 보이즈〉 10주년 기념 ‘셰필드 마을잔치’ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
