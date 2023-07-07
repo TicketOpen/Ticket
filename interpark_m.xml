@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 10:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 11:04:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 〈최우진, 직진 그리고 전진〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47672</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47672</guid>
+            <pubDate>Fri, 07 Jul 2023 11:03:07 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230707054144.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 〈슈퍼스타 뽀로로 드림콘서트〉 - 부산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47671</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47671</guid>
+            <pubDate>Fri, 07 Jul 2023 11:03:07 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.13
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023070714505166.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안중근, 천국에서의 춤 - 성남 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47670</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2023.07.11
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007404_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 브레드이발소 시즌2 〈내 꿈을 찾아서〉  부천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47661</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47661</guid>
-            <pubDate>Fri, 07 Jul 2023 07:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.10
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23009376_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 라이브 가족뮤지컬 〈겨울이야기〉 - 수원 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47660</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47660</guid>
-            <pubDate>Fri, 07 Jul 2023 07:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.12
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023070615411697.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
