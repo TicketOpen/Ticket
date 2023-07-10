@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-07-10T03:26:06.860Z</updated>
+    <updated>2023-07-10T05:05:15.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[K．will OFFICIAL FANCLUB［HYUNGKNIGHT］6기 모집 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7499</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7499"/>
+        <updated>2023-07-10T05:03:51.136Z</updated>
+        <content type="html"><![CDATA[2023.07.17(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 울산서머페스티벌－쇼！음악중심 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7498</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7498"/>
+        <updated>2023-07-10T05:03:51.148Z</updated>
+        <content type="html"><![CDATA[2023.07.14(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 INFINITE CONCERT 〈COMEBACK AGAIN〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7497</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7489"/>
         <updated>2023-07-08T03:22:25.521Z</updated>
         <content type="html"><![CDATA[2023.07.11(화) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST SHEPHERD（양치기소년단 단독공연）티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7488</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7488"/>
-        <updated>2023-07-08T03:22:25.521Z</updated>
-        <content type="html"><![CDATA[2023.07.10(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PL（피엘）여름 콘서트 〈Summer Diary 2023〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7487</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7487"/>
-        <updated>2023-07-08T03:22:25.521Z</updated>
-        <content type="html"><![CDATA[2023.07.11(화) 20:00]]></content>
     </entry>
 </feed>
