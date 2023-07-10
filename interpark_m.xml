@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 23:04:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 00:41:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안드라스 쉬프 피아노 리사이틀 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47674</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47674</guid>
+            <pubDate>Mon, 10 Jul 2023 00:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.19
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023062812010490.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈전설의 리틀 농구단〉 - 안양 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47673</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47673</guid>
+            <pubDate>Mon, 10 Jul 2023 00:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.11
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023070409442243.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 〈최우진, 직진 그리고 전진〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47672</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2023.07.12
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023070621585003.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 최현우 Answer - 수원 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47663</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47663</guid>
-            <pubDate>Fri, 07 Jul 2023 07:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.11
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023070410034944.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲 21차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47662</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47662</guid>
-            <pubDate>Fri, 07 Jul 2023 07:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.11
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007404_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
