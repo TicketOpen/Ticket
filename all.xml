@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 03:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 04:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7492</guid>
             <pubDate>Sat, 08 Jul 2023 03:22:25 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.11(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 〈슈퍼스타 뽀로로 드림콘서트.. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47704&amp;groupno=47704&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47704&amp;groupno=47704&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 11 Jul 2023 04:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.17(월)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[레이니 내한 공연 (LANY Live In Seoul) 추가티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -197,11 +204,40 @@
             <content:encoded><![CDATA[23.07.13(목)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 〈옆집사람〉 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47686&amp;groupno=47686&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47686&amp;groupno=47686&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 10 Jul 2023 10:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.13(목)&nbsp;15:00]]></content:encoded>
+            <title><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 〈슈퍼스타 뽀로로 드림콘서트〉 - 광주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47704</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47704</guid>
+            <pubDate>Tue, 11 Jul 2023 04:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.17
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023071016412417.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레이니 내한 공연 (LANY Live In Seoul) 추가티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47703</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47703</guid>
+            <pubDate>Tue, 11 Jul 2023 04:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.12
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23008179_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[BAE173 공식 팬클럽 〈ELSE〉 1기 모집 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47702</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47702</guid>
+            <pubDate>Tue, 11 Jul 2023 04:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.17
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023070615020890.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 김민재 1st 팬미팅 〈텔레파시:하고 싶은 말 보고 싶은 날〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47701</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47701</guid>
+            <pubDate>Tue, 11 Jul 2023 04:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.14
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230711115815.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[히사이시 조 영화음악 콘서트 2023_구미 앙코르 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -258,40 +294,11 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023071013012462.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 라이브 가족뮤지컬〈라푼젤〉 - 평택 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47694</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47694</guid>
-            <pubDate>Mon, 10 Jul 2023 12:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.12
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23009548_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 라이브 가족뮤지컬〈미녀와 야수〉 - 울산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47693</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47693</guid>
-            <pubDate>Mon, 10 Jul 2023 12:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.14
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023071015590355.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 라이브 가족뮤지컬〈고양이캣〉 - 대구 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47692</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47692</guid>
-            <pubDate>Mon, 10 Jul 2023 12:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.14
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023071016402996.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 라이브 가족뮤지컬 〈백설공주〉 - 대구 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47691</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47691</guid>
-            <pubDate>Mon, 10 Jul 2023 12:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.13
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023070816473223.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[광주] 뽀로로 20주년 스페셜 매직 싱어롱쇼 〈슈퍼스타 뽀로로 드림콘서트〉 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13252</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13252</guid>
+            <pubDate>Tue, 11 Jul 2023 04:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.17(월) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
@@ -426,11 +433,11 @@
             <content:encoded><![CDATA[2023.07.11(화) 12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈보이A〉 마지막 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13232</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13232</guid>
-            <pubDate>Fri, 07 Jul 2023 11:03:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.12(수) 15:00]]></content:encoded>
+            <title><![CDATA[[광주] 뽀로로 20주년 스페셜 매직 싱어롱쇼 〈슈퍼스타 뽀로로 드림콘서트〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13252&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13252&amp;order=1</guid>
+            <pubDate>Tue, 11 Jul 2023 04:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[2023-07-17(월) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[페더 엘리아스 내한공연 (Peder Elias LIVE IN SEOUL) 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -494,13 +501,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13243&amp;order=1</guid>
             <pubDate>Mon, 10 Jul 2023 10:07:25 GMT</pubDate>
             <content:encoded><![CDATA[2023-07-14(금) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한요한 정규 5집 [Shining Star] 앵콜 콘서트 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13242&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13242&amp;order=1</guid>
-            <pubDate>Sat, 08 Jul 2023 03:23:22 GMT</pubDate>
-            <content:encoded><![CDATA[2023-07-10(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 부산나이트워크42K 티켓오픈 안내 (위메프 공연티켓)]]></title>
