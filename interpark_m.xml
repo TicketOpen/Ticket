@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 10:06:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 12:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족뮤지컬 <로보카폴리 - 잡아라! 황금트로피!> - 성남 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47730</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47730</guid>
+            <pubDate>Wed, 12 Jul 2023 12:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.14
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023071114222144.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈극적인 하룻밤〉 7, 8월 티켓오픈 안내 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47729</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47729</guid>
+            <pubDate>Wed, 12 Jul 2023 12:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.14
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23008636_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[연극 <그 순간, 시간이 멈춘다> 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47728</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2023.07.17
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230712013233.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈스웨그에이지 외쳐,조선!〉 외쳐, 잔칫날! 티켓 오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47720</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47720</guid>
-            <pubDate>Wed, 12 Jul 2023 07:03:45 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.14
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23006037_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[김영임 “50주년” 소리 孝 대공연 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47719</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47719</guid>
-            <pubDate>Wed, 12 Jul 2023 07:03:45 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.18
-                                    <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230712110701.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
