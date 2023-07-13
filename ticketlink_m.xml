@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-07-13T00:37:44.116Z</updated>
+    <updated>2023-07-13T02:28:04.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프레드 허쉬 솔로 피아노 2023 - 광림아트센터​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57253</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57253"/>
+        <updated>2023-07-13T02:27:58.124Z</updated>
+        <content type="html"><![CDATA[2023.07.14(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국민가수 김수희 2023 HAPPY CONCERT - 인천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57252</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57252"/>
+        <updated>2023-07-13T02:27:58.126Z</updated>
+        <content type="html"><![CDATA[2023.07.14(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소프라노 마혜선 리싸이틀 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57251</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57251"/>
+        <updated>2023-07-13T02:27:58.131Z</updated>
+        <content type="html"><![CDATA[2023.07.14(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[안산] 뮤지컬 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57250</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57250"/>
+        <updated>2023-07-13T02:27:58.133Z</updated>
+        <content type="html"><![CDATA[2023.07.18(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 청주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57249</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57239"/>
         <updated>2023-07-11T10:06:27.778Z</updated>
         <content type="html"><![CDATA[2023.07.12(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영임 “50주년” 소리 孝 대공연​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57238</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57238"/>
-        <updated>2023-07-11T10:06:27.778Z</updated>
-        <content type="html"><![CDATA[2023.07.18(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2023) 신데렐라 - 부산 신세계 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57237</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57237"/>
-        <updated>2023-07-11T08:12:04.117Z</updated>
-        <content type="html"><![CDATA[2023.07.13(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누가 내 머리에 똥 쌌어 - 김해 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57236</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57236"/>
-        <updated>2023-07-11T08:12:04.118Z</updated>
-        <content type="html"><![CDATA[2023.07.17(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[책먹는여우 - 구리 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57235</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57235"/>
-        <updated>2023-07-11T08:12:04.125Z</updated>
-        <content type="html"><![CDATA[2023.07.17(월) 00:00]]></content>
     </entry>
 </feed>
