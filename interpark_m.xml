@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 22:05:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 02:31:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 뮤지컬 〈신의 손가락〉 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47778</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47778</guid>
+            <pubDate>Mon, 17 Jul 2023 02:29:05 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.20
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23006287_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[〈2023 청춘만발〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47776</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47776</guid>
+            <pubDate>Mon, 17 Jul 2023 02:29:05 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.18
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23009659_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[디즈니 인 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47775</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47775</guid>
+            <pubDate>Mon, 17 Jul 2023 02:29:05 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.18
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0003525_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2023 쇼퀸 TOP7 전국투어 콘서트 - 광주 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47773</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2023.08.01
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023071312454645.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 쇼퀸 TOP7 전국투어 콘서트 - 대구 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47766</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47766</guid>
-            <pubDate>Fri, 14 Jul 2023 12:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.01
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023071312414828.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 쇼퀸 TOP7 전국투어 콘서트 - 서울 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47765</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47765</guid>
-            <pubDate>Fri, 14 Jul 2023 12:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023071312061178.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 쇼퀸 TOP7 전국투어 콘서트 - 인천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47764</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47764</guid>
-            <pubDate>Fri, 14 Jul 2023 12:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.01
-                                    <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023071311490234.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
