@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-07-19T06:10:37.767Z</updated>
+    <updated>2023-07-19T09:06:55.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 INFINITE CONCERT 〈COMEBACK AGAIN〉 추가 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7538</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7538"/>
+        <updated>2023-07-17T09:05:21.861Z</updated>
+        <content type="html"><![CDATA[2023.07.19(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023－24 엠씨더맥스 이수 콘서트 ‘기행문’－대전 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7545</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7545"/>
+        <updated>2023-07-19T09:03:14.762Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023－24 엠씨더맥스 이수 콘서트 ‘기행문’－울산 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7544</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7544"/>
+        <updated>2023-07-19T09:03:14.766Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023－24 엠씨더맥스 이수 콘서트 ‘기행문’－부산 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7543</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7543"/>
+        <updated>2023-07-19T09:03:14.770Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DAY OFF：연우＆시소 콘서트 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7542</id>
@@ -53,26 +81,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7535"/>
         <updated>2023-07-17T07:02:58.215Z</updated>
         <content type="html"><![CDATA[2023.08.01(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마치（MRCH）단독 콘서트 ‘Festival！’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7534</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7534"/>
-        <updated>2023-07-17T07:02:58.217Z</updated>
-        <content type="html"><![CDATA[2023.07.24(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이글루베이 단독콘서트 ‘구르는 달 어귀에서’：CMYK LIVE 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7533</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7533"/>
-        <updated>2023-07-17T07:02:58.225Z</updated>
-        <content type="html"><![CDATA[2023.07.21(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 이도현 팬미팅：시작 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7532</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7532"/>
-        <updated>2023-07-16T03:26:56.240Z</updated>
-        <content type="html"><![CDATA[2023.07.18(화) 20:00]]></content>
     </entry>
 </feed>
