@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 07:04:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 08:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 쇼퀸 TOP7 전국투어 콘서트 - 수원 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47858</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47858</guid>
+            <pubDate>Fri, 21 Jul 2023 08:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.02
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023071917530666.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[안드라스 쉬프 리사이틀］│ 2023 경기피아노페스티벌 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47857</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2023.07.26
                                     <span>13:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23004834_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[신카이 마코토 영화음악 <앙앙코르 굿바이 콘서트> Master Piece 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47848</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47848</guid>
-            <pubDate>Fri, 21 Jul 2023 07:03:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.25
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023071813105682.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
