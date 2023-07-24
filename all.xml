@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 23:06:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 00:35:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/14/202307/03/hw1aitgjjgzo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[로열 콘세르트헤바우 오케스트라 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57318</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57318</guid>
+            <pubDate>Mon, 24 Jul 2023 00:34:46 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.07.26(수) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] Jazz & 국악 With 웅산 - 군산 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/57315</link>
             <guid>http://www.ticketlink.co.kr/help/notice/57315</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.07.25(화) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 아동 뮤지컬 <삼양동화 - 헨젤과 새엄마, 거울을 깬 왕비> 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57300</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57300</guid>
-            <pubDate>Thu, 20 Jul 2023 02:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.07.24(월) 05:00]]></content:encoded>
+            <title><![CDATA[로열 콘세르트헤바우 오케스트라 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57318</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57318</guid>
+            <pubDate>Mon, 24 Jul 2023 00:34:54 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.26(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] Jazz & 국악 With 웅산 - 군산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/57301</guid>
             <pubDate>Thu, 20 Jul 2023 02:02:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.25(화) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 아동 뮤지컬 <삼양동화 - 헨젤과 새엄마, 거울을 깬 왕비> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57300</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57300</guid>
-            <pubDate>Thu, 20 Jul 2023 02:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.24(월) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원

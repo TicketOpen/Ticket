@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-07-23T23:06:03.497Z</updated>
+    <updated>2023-07-24T00:35:00.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로열 콘세르트헤바우 오케스트라 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57318</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57318"/>
+        <updated>2023-07-24T00:34:46.725Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.26(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] Jazz & 국악 With 웅산 - 군산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57315</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57301"/>
         <updated>2023-07-20T02:02:40.159Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.25(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 아동 뮤지컬 <삼양동화 - 헨젤과 새엄마, 거울을 깬 왕비> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57300</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57300"/>
-        <updated>2023-07-20T02:02:40.162Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.24(월) 05:00]]></content>
     </entry>
 </feed>
