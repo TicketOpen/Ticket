@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 20:05:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 02:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,18 +78,18 @@
             <content:encoded><![CDATA[2023.07.24(월) 12:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2023 김창완밴드 전국투어<개구쟁이> - 광주 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47879&amp;groupno=47879&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47879&amp;groupno=47879&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 25 Jul 2023 02:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[23.07.27(목)&nbsp;13:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[트로트 뮤지컬 〈흥놀부뎐〉 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47878&amp;groupno=47878&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47878&amp;groupno=47878&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 24 Jul 2023 09:03:37 GMT</pubDate>
             <content:encoded><![CDATA[23.07.27(목)&nbsp;00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[매직랜드매직벌룬쇼 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47877&amp;groupno=47877&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47877&amp;groupno=47877&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 24 Jul 2023 07:02:57 GMT</pubDate>
-            <content:encoded><![CDATA[23.07.27(목)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[라포엠 콘서트 〈쥬떼뷰(Je te veux)〉 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -819,6 +819,15 @@
             <pubDate>Fri, 16 Jun 2023 06:10:52 GMT</pubDate>
             <content:encoded><![CDATA[07월 31일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230703_222/ppORs_1688386784119Gjgu9_JPEG/1688386784088.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											오페라 <라 트라비아타> (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Tue, 25 Jul 2023 02:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[09월 23일(토) 15:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230711_10/7ulAL_1689051765906bfeN2_PNG/1689051765823.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
