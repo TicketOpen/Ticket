@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 20:05:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 22:04:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -81,41 +81,35 @@
             <title><![CDATA[undefined (인터파크 티켓)]]></title>
             <link>https://TicketOpen.github.io/ticket/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket/all.xml</guid>
-            <pubDate>Wed, 26 Jul 2023 20:02:38 GMT</pubDate>
+            <pubDate>Wed, 26 Jul 2023 22:02:46 GMT</pubDate>
             <content:encoded><![CDATA[<td>쇼핑 서비스</td>
-                  <td>2023-07-27 01:00~07:00 AM (KST)</td>]]></content:encoded>
+                  <td>2023-07-27 01:00~08:00 AM (KST)</td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (인터파크 티켓)]]></title>
             <link>https://TicketOpen.github.io/ticket/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket/all.xml</guid>
-            <pubDate>Wed, 26 Jul 2023 20:02:38 GMT</pubDate>
+            <pubDate>Wed, 26 Jul 2023 22:02:47 GMT</pubDate>
             <content:encoded><![CDATA[<td>도서 서비스</td>
-                  <td>2023-07-27 01:00~07:00 AM (KST)</td>]]></content:encoded>
+                  <td>2023-07-27 01:00~08:00 AM (KST)</td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (인터파크 티켓)]]></title>
             <link>https://TicketOpen.github.io/ticket/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket/all.xml</guid>
-            <pubDate>Wed, 26 Jul 2023 20:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[<td>티켓 서비스</td>
-                  <td>2023-07-27 01:00~07:00 AM (KST)</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[undefined (인터파크 티켓)]]></title>
-            <link>https://TicketOpen.github.io/ticket/all.xml</link>
-            <guid>https://TicketOpen.github.io/ticket/all.xml</guid>
-            <pubDate>Wed, 26 Jul 2023 20:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[<td>투어 서비스</td>
-                  <td>2023-07-27 01:00~07:00 AM (KST)</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[undefined (인터파크 티켓)]]></title>
-            <link>https://TicketOpen.github.io/ticket/all.xml</link>
-            <guid>https://TicketOpen.github.io/ticket/all.xml</guid>
-            <pubDate>Wed, 26 Jul 2023 20:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[<td>글로벌 서비스</td>
-                  <td>2023-07-27 01:00~07:00 AM (KST)</td>]]></content:encoded>
+            <pubDate>Wed, 26 Jul 2023 22:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[<!--
+                  <td>티켓 서비스</td>
+                  <td>2023-07-27 01:00~07:00 AM (KST)</td>
+                </tr>
+                <tr>
+                  <td>투어 서비스</td>
+                  <td>2023-07-27 01:00~07:00 AM (KST)</td>
+                </tr>
+                <tr>
+-->
+                  <td>글로벌 서비스</td>
+                  <td>2023-07-27 01:00~08:00 AM (KST)</td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버페이 시스템 작업에 따른 결제 서비스 중단 안내(7/27, 7/28) (예스24 티켓)]]></title>
