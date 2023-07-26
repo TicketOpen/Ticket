@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-07-26T08:15:47.200Z</updated>
+    <updated>2023-07-26T12:16:49.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[nov（노브）단독 공연 ‘I am nov’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7572</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7572"/>
+        <updated>2023-07-26T12:14:07.493Z</updated>
+        <content type="html"><![CDATA[2023.08.02(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 한탄강 지오 페스티벌 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7571</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7571"/>
+        <updated>2023-07-26T12:14:07.500Z</updated>
+        <content type="html"><![CDATA[2023.07.28(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TONE STUDIO LIVE 〈서온（SEOOWN）〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7570</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7563"/>
         <updated>2023-07-25T09:03:25.351Z</updated>
         <content type="html"><![CDATA[2023.08.01(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밀코메다 7회 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7562</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7562"/>
-        <updated>2023-07-25T09:03:25.365Z</updated>
-        <content type="html"><![CDATA[2023.07.25(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[분리수거밴드 단독콘서트 “친절하지않아” 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7561</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7561"/>
-        <updated>2023-07-25T09:03:25.371Z</updated>
-        <content type="html"><![CDATA[2023.07.25(화) 20:00]]></content>
     </entry>
 </feed>
