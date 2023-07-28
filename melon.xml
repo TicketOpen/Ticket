@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-07-28T08:09:10.065Z</updated>
+    <updated>2023-07-28T09:04:50.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정아로 단독 콘서트 ‘마음의 날씨’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7588</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7588"/>
+        <updated>2023-07-28T09:02:27.827Z</updated>
+        <content type="html"><![CDATA[2023.08.02(수) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[누군가의 플레이리스트 Track．63 109（일공구）단독콘서트 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7587</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7587"/>
+        <updated>2023-07-28T09:02:27.828Z</updated>
+        <content type="html"><![CDATA[2023.07.31(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프롬 10주년 기념 단독 콘서트 〈OUR SEASON〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7586</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7586"/>
+        <updated>2023-07-28T09:02:27.834Z</updated>
+        <content type="html"><![CDATA[2023.08.07(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 지누 여름 팬미팅 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7585</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7585"/>
+        <updated>2023-07-28T09:02:27.851Z</updated>
+        <content type="html"><![CDATA[2023.07.31(월) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제61회 라이브 클럽 데이－일반 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7584</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7584"/>
+        <updated>2023-07-28T09:02:27.852Z</updated>
+        <content type="html"><![CDATA[2023.07.31(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몬스타엑스（MONSTA X）공식팬클럽 ‘MONBEBE’ 8기 모집 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7583</id>
@@ -39,40 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7579"/>
         <updated>2023-07-27T10:02:35.636Z</updated>
         <content type="html"><![CDATA[2023.07.27(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나만 알고싶은 인디 Ep．33 SHUYA（슈야）단독콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7578</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7578"/>
-        <updated>2023-07-27T10:02:35.646Z</updated>
-        <content type="html"><![CDATA[2023.07.31(월) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양반들 기획공연 “흥 興 HEUNG！” 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7577</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7577"/>
-        <updated>2023-07-27T07:02:09.816Z</updated>
-        <content type="html"><![CDATA[2023.07.31(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W24＆WENDY：Rock n Roll is Back 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7576</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7576"/>
-        <updated>2023-07-27T07:02:09.819Z</updated>
-        <content type="html"><![CDATA[2023.08.03(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌6 OUR SUMMER［케니더킹 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7575</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7575"/>
-        <updated>2023-07-27T07:02:09.820Z</updated>
-        <content type="html"><![CDATA[2023.08.03(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌6 OUR SUMMER［더 베인 8주년 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7574</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7574"/>
-        <updated>2023-07-27T07:02:09.827Z</updated>
-        <content type="html"><![CDATA[2023.08.02(수) 20:00]]></content>
     </entry>
 </feed>

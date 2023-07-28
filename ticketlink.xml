@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-07-28T08:09:10.057Z</updated>
+    <updated>2023-07-28T09:04:50.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유쾌한​ 코미디연극 '행복총량의법칙' 「대구」 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57358</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57358"/>
+        <updated>2023-07-28T09:04:33.586Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.01(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[캐리tv 액티비티 뮤지컬 시즌1 <점프점프> - 강릉​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57357</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57344"/>
         <updated>2023-07-26T07:06:02.414Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.28(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 울산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57343</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57343"/>
-        <updated>2023-07-26T06:10:01.142Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.01(화) 05:00]]></content>
     </entry>
 </feed>
