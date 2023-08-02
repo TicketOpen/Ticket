@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-08-01T18:08:11.869Z</updated>
+    <updated>2023-08-02T01:59:13.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <전천당 vs 흑화당> - 인천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57377</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57377"/>
+        <updated>2023-08-02T01:58:54.363Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.04(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 브레드이발소 시즌2 <내 꿈을 찾아서> - 부산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57375</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57362"/>
         <updated>2023-07-30T23:04:02.432Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.31(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[틀려도 괜찮아 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57361</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57361"/>
-        <updated>2023-07-28T11:04:43.494Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.02(수) 00:00]]></content>
     </entry>
 </feed>
