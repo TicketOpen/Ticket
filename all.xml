@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 07:04:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 08:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,7 +78,7 @@
             <content:encoded><![CDATA[2023.08.03(목) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[부천문화재단 판타지아극장 어린이공연 티켓오픈 안내 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <title><![CDATA[부천문화재단 판타지아극장 어린이공연 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47998&amp;groupno=47998&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47998&amp;groupno=47998&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 03 Aug 2023 07:02:15 GMT</pubDate>
@@ -434,6 +434,13 @@
             <content:encoded><![CDATA[2023.07.31(월) 14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[에곤 쉴레, 클래식을 만나다 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13339&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13339&amp;order=1</guid>
+            <pubDate>Thu, 03 Aug 2023 08:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[2023-08-09(수) 14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈구텐버그〉 2차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13338&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13338&amp;order=1</guid>
@@ -497,13 +504,6 @@
             <content:encoded><![CDATA[2023-08-09(수) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Young K Solo Concert 〈Letters with notes〉티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13329&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13329&amp;order=1</guid>
-            <pubDate>Wed, 02 Aug 2023 04:04:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023-08-14(월) 20:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[그랜드 민트 페스티벌 2023 : Special Night 티켓오픈 안내 N (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1115</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1115</guid>
@@ -512,7 +512,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/15/202308/02/izo6m4y27ziw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[그랜드 민트 페스티벌 2023 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <title><![CDATA[그랜드 민트 페스티벌 2023 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1114</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1114</guid>
             <pubDate>Wed, 02 Aug 2023 23:05:48 GMT</pubDate>
@@ -584,6 +584,48 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/57/202307/13/avhq1hselbbc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 2023 제 14회 부산마루국제음악제 앙상블콘서트 VII 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57402</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57402</guid>
+            <pubDate>Thu, 03 Aug 2023 08:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.07(월) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 2023 제 14회 부산마루국제음악제 앙상블콘서트 VI 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57401</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57401</guid>
+            <pubDate>Thu, 03 Aug 2023 08:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.07(월) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 2023 제 14회 부산마루국제음악제 앙상블콘서트 III  티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57400</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57400</guid>
+            <pubDate>Thu, 03 Aug 2023 08:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.07(월) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 2023 제 14회 부산마루국제음악제 메인콘서트 III 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57399</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57399</guid>
+            <pubDate>Thu, 03 Aug 2023 08:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.07(월) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 2023 제 14회 부산마루국제음악제 메인콘서트 II 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57398</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57398</guid>
+            <pubDate>Thu, 03 Aug 2023 08:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.07(월) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 2023 제 14회 부산마루국제음악제 <개막공연> 메인콘서트 Ⅰ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57397</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57397</guid>
+            <pubDate>Thu, 03 Aug 2023 08:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.07(월) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 23년 광주시립창극단 제59회 정기공연 창극 ‘23 별주부전 - 수궁 어벤저스’ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/57396</link>
             <guid>http://www.ticketlink.co.kr/help/notice/57396</guid>
@@ -647,46 +689,46 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.08.03(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 울산광역시학생교육문화회관 기획공연 - 월드뮤직그룹 공명 <음악이 춤을 추다>​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57383</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57383</guid>
-            <pubDate>Thu, 03 Aug 2023 06:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.08(화) 01:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 2023 제 14회 부산마루국제음악제 앙상블콘서트 VII 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57402</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57402</guid>
+            <pubDate>Thu, 03 Aug 2023 08:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.07(월) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]장한나 & 미샤 마이스키 with 디토 오케스트라 - 경주​​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57382</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57382</guid>
-            <pubDate>Wed, 02 Aug 2023 06:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.08(화) 01:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 2023 제 14회 부산마루국제음악제 앙상블콘서트 VI 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57401</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57401</guid>
+            <pubDate>Thu, 03 Aug 2023 08:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.07(월) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]봉산문화회관 기획 <봉포유 무브스테이지Ⅱ - 종묘제례 '일무'>​​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57381</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57381</guid>
-            <pubDate>Wed, 02 Aug 2023 05:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.08(화) 01:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 2023 제 14회 부산마루국제음악제 앙상블콘서트 III  티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57400</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57400</guid>
+            <pubDate>Thu, 03 Aug 2023 08:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.07(월) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <사칠> 1차​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57380</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57380</guid>
-            <pubDate>Wed, 02 Aug 2023 05:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.07(월) 02:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 2023 제 14회 부산마루국제음악제 메인콘서트 III 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57399</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57399</guid>
+            <pubDate>Thu, 03 Aug 2023 08:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.07(월) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 고양 추가 좌석 오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57379</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57379</guid>
-            <pubDate>Wed, 02 Aug 2023 05:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.03(목) 07:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 2023 제 14회 부산마루국제음악제 메인콘서트 II 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57398</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57398</guid>
+            <pubDate>Thu, 03 Aug 2023 08:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.07(월) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <삼총사> 1차 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57378</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57378</guid>
-            <pubDate>Wed, 02 Aug 2023 05:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.09(수) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 2023 제 14회 부산마루국제음악제 <개막공연> 메인콘서트 Ⅰ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57397</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57397</guid>
+            <pubDate>Thu, 03 Aug 2023 08:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.07(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 23년 광주시립창극단 제59회 정기공연 창극 ‘23 별주부전 - 수궁 어벤저스’ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -750,48 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/57384</guid>
             <pubDate>Wed, 02 Aug 2023 09:06:52 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.03(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 울산광역시학생교육문화회관 기획공연 - 월드뮤직그룹 공명 <음악이 춤을 추다>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57383</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57383</guid>
-            <pubDate>Thu, 03 Aug 2023 06:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.08(화) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]장한나 & 미샤 마이스키 with 디토 오케스트라 - 경주​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57382</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57382</guid>
-            <pubDate>Wed, 02 Aug 2023 06:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.08(화) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]봉산문화회관 기획 <봉포유 무브스테이지Ⅱ - 종묘제례 '일무'>​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57381</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57381</guid>
-            <pubDate>Wed, 02 Aug 2023 05:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.08(화) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <사칠> 1차​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57380</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57380</guid>
-            <pubDate>Wed, 02 Aug 2023 05:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.07(월) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 고양 추가 좌석 오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57379</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57379</guid>
-            <pubDate>Wed, 02 Aug 2023 05:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.03(목) 07:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <삼총사> 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57378</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57378</guid>
-            <pubDate>Wed, 02 Aug 2023 05:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.09(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
