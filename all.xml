@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 12:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 15:04:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023080212174320.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[에곤 쉴레, 클래식을 만나다 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13339</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13339</guid>
+            <pubDate>Thu, 03 Aug 2023 15:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.09(수) 14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈구텐버그〉 2차 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13338</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13338</guid>
@@ -425,13 +432,6 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13320</guid>
             <pubDate>Thu, 03 Aug 2023 02:03:10 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.02(수) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[창원] 2023 전통공연예술 우수작품 재공연 지원사업 ‘윤회매십전(輪回梅十纏)’ 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13319</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13319</guid>
-            <pubDate>Thu, 03 Aug 2023 02:03:10 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.31(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[에곤 쉴레, 클래식을 만나다 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
