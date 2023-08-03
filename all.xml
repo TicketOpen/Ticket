@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 18:06:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 20:05:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,13 +204,40 @@
             <content:encoded><![CDATA[23.08.07(월)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2023 경기인디뮤직페스티벌 - inmufe 2023 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47995</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47995</guid>
-            <pubDate>Thu, 03 Aug 2023 05:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.18
+            <title><![CDATA[2023 CassCool Festival 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48000</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48000</guid>
+            <pubDate>Thu, 03 Aug 2023 20:03:01 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.07
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023080110244048.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부천문화재단 판타지아극장 어린이공연 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47998</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47998</guid>
+            <pubDate>Thu, 03 Aug 2023 20:03:01 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.07
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230803015420.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈구텐버그〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47997</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47997</guid>
+            <pubDate>Thu, 03 Aug 2023 20:03:01 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23008679_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 뮤지컬 <쇼맨_어느 독재자의 네 번째 대역배우> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47996</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47996</guid>
+            <pubDate>Thu, 03 Aug 2023 20:03:01 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.09
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230803020225.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈프리다〉 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -265,33 +292,6 @@
             <content:encoded><![CDATA[2023.08.11
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그랜드 민트 페스티벌 2023 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47987</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47987</guid>
-            <pubDate>Thu, 03 Aug 2023 05:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.09
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023080215251093.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그랜드 민트 페스티벌 2023 : Special Night 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47986</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47986</guid>
-            <pubDate>Thu, 03 Aug 2023 05:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.09
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023080215242019.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <레미제라블> 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47984</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=47984</guid>
-            <pubDate>Thu, 03 Aug 2023 05:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.09
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023080212174320.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에곤 쉴레, 클래식을 만나다 티켓오픈 안내 (예스24 티켓)]]></title>
