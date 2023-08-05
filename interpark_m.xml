@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Aug 2023 09:04:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Aug 2023 13:06:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈라스트 세션〉 추가티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48021</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48021</guid>
+            <pubDate>Sat, 05 Aug 2023 13:04:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23007040_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈더 픽션〉 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48020</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48020</guid>
+            <pubDate>Sat, 05 Aug 2023 13:04:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.09
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23006429_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2023 임준서 팬미팅 “WISHLAND” 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48019</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2023.08.09
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023080321233455.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 최현우 Answer - 안산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48010</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48010</guid>
-            <pubDate>Fri, 04 Aug 2023 06:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023080118315192.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈오즈〉 마지막 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48009</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48009</guid>
-            <pubDate>Fri, 04 Aug 2023 06:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.11
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23007189_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
