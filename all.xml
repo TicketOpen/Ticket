@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Aug 2023 01:53:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Aug 2023 04:05:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -512,7 +512,7 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/44/202308/04/v9cwqvs6o7lm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[#SSAP CONCERT [KCM X 펀치 X 윤딴딴] 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <title><![CDATA[#SSAP CONCERT [KCM X 펀치 X 윤딴딴] 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1116</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1116</guid>
             <pubDate>Fri, 04 Aug 2023 03:05:46 GMT</pubDate>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/34/202307/19/n3ulgkg1x9sz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 니엘 팬미팅 - WHERE'S NIEL?  a.k.a BIRTHDAY PARTY ​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57414</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57414</guid>
+            <pubDate>Sat, 05 Aug 2023 04:04:54 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.08(화) 11:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[제1회 대한민국 국제뮤지컬콩쿠르 <결선>​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/57413</link>
             <guid>http://www.ticketlink.co.kr/help/notice/57413</guid>
@@ -647,13 +654,6 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.08.09(수) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[t_[단독판매]​2023 이세계 페스티벌 2차​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57404</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57404</guid>
-            <pubDate>Fri, 04 Aug 2023 11:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.08(화) 09:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[단독판매] 2023 제 14회 부산마루국제음악제 앙상블콘서트 VII 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/57402</link>
             <guid>http://www.ticketlink.co.kr/help/notice/57402</guid>
@@ -687,6 +687,13 @@
             <guid>http://www.ticketlink.co.kr/help/notice/57398</guid>
             <pubDate>Thu, 03 Aug 2023 08:11:29 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2023.08.07(월) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 니엘 팬미팅 - WHERE'S NIEL?  a.k.a BIRTHDAY PARTY ​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57414</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57414</guid>
+            <pubDate>Sat, 05 Aug 2023 04:05:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.08(화) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제1회 대한민국 국제뮤지컬콩쿠르 <결선>​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -750,13 +757,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/57405</guid>
             <pubDate>Thu, 03 Aug 2023 12:13:39 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.09(수) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[t_[단독판매]​2023 이세계 페스티벌 2차​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57404</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57404</guid>
-            <pubDate>Fri, 04 Aug 2023 11:04:47 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.08(화) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 2023 제 14회 부산마루국제음악제 앙상블콘서트 VII 티켓오픈 안내 (티켓링크 모바일)]]></title>
