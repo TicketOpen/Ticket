@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 03:06:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 04:06:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023080417301157.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13358</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13358</guid>
+            <pubDate>Wed, 09 Aug 2023 04:05:54 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.11(금) 14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[요요 마 첼로 리사이틀 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13356</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13356</guid>
@@ -422,13 +429,6 @@
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13337</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13337</guid>
-            <pubDate>Fri, 04 Aug 2023 13:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.07(월) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13336</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13336</guid>
             <pubDate>Fri, 04 Aug 2023 13:09:38 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.07(월) 14:00]]></content:encoded>
         </item>
@@ -583,6 +583,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/09/202307/21/50u2ziyvavyr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 박수예 바이올린 리사이틀 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57436</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57436</guid>
+            <pubDate>Wed, 09 Aug 2023 04:06:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.10(목) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 노래에 담다 - 수성아트피아 솔로이스츠 (대구) 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57435</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57435</guid>
+            <pubDate>Wed, 09 Aug 2023 04:06:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.10(목) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가족라이브 뮤지컬 <신데렐라> - 수원​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/57434</link>
             <guid>http://www.ticketlink.co.kr/help/notice/57434</guid>
@@ -674,18 +688,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.08.10(목) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 2023시즌 <최강야구> 4번째 직관 DAY 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57420</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57420</guid>
-            <pubDate>Tue, 08 Aug 2023 01:57:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.07]]></content:encoded>
+            <title><![CDATA[[단독판매] 박수예 바이올린 리사이틀 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57436</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57436</guid>
+            <pubDate>Wed, 09 Aug 2023 04:06:37 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.10(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엘사의 생일파티 - 원주​ ​티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57419</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57419</guid>
-            <pubDate>Mon, 07 Aug 2023 10:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.10(목) 00:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 노래에 담다 - 수성아트피아 솔로이스츠 (대구) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57435</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57435</guid>
+            <pubDate>Wed, 09 Aug 2023 04:06:37 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.10(목) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족라이브 뮤지컬 <신데렐라> - 수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -776,20 +790,6 @@
             <link>http://m.ticketlink.co.kr/help/notice/57421</link>
             <guid>http://m.ticketlink.co.kr/help/notice/57421</guid>
             <pubDate>Tue, 08 Aug 2023 00:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.10(목) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 2023시즌 <최강야구> 4번째 직관 DAY 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57420</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57420</guid>
-            <pubDate>Tue, 08 Aug 2023 01:57:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/help/notice/57420" class="info_wrap"><strong class="label">스포츠</strong><h3 class="tit"><b>[단독판매]</b> 2023시즌 &lt;최강야구&gt; 4번째 직관 DAY 티켓오픈 안내</h3></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엘사의 생일파티 - 원주​ ​티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57419</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57419</guid>
-            <pubDate>Mon, 07 Aug 2023 10:05:35 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.10(목) 00:00]]></content:encoded>
         </item>
         <item>
