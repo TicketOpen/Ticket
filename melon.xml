@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-08-08T23:05:35.595Z</updated>
+    <updated>2023-08-09T03:06:25.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The House of Eternity 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7624</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7624"/>
+        <updated>2023-08-09T03:03:16.346Z</updated>
+        <content type="html"><![CDATA[2023.08.10(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌6 My Universe［루루 단독 콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7623</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7623"/>
+        <updated>2023-08-09T03:03:16.352Z</updated>
+        <content type="html"><![CDATA[2023.08.17(목) 19:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 IN 라이브클럽［서정 단독 콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7622</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7622"/>
+        <updated>2023-08-09T03:03:16.354Z</updated>
+        <content type="html"><![CDATA[2023.08.16(수) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스니커즈 언박스드 서울：Studio to Street 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7621</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7621"/>
+        <updated>2023-08-09T03:03:16.356Z</updated>
+        <content type="html"><![CDATA[2023.08.09(수) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해리 포터와 불의 잔™ 인 콘서트 얼리버드 2차 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7620</id>
@@ -46,33 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7615"/>
         <updated>2023-08-06T12:08:47.717Z</updated>
         <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수잔 단독 콘서트［水：정화의 시간］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7613</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7613"/>
-        <updated>2023-08-06T12:08:47.720Z</updated>
-        <content type="html"><![CDATA[2023.08.08(화) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈구텐버그〉 2차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7612</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7612"/>
-        <updated>2023-08-06T12:08:47.727Z</updated>
-        <content type="html"><![CDATA[2023.08.08(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s begun EP．4 예빛－‘조금 멀지 않은 그곳에’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7611</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7611"/>
-        <updated>2023-08-06T12:08:47.730Z</updated>
-        <content type="html"><![CDATA[2023.08.10(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌6 THE MASTER［이상민 단독 콘서트 ‘Dansweetme’］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7610</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7610"/>
-        <updated>2023-08-06T12:08:47.748Z</updated>
-        <content type="html"><![CDATA[2023.08.10(목) 20:00]]></content>
     </entry>
 </feed>
