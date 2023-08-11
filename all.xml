@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 03:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 04:06:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -581,6 +581,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/09/202307/21/50u2ziyvavyr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Someday Festival 2023 - 얼리버드​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57451</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57451</guid>
+            <pubDate>Fri, 11 Aug 2023 04:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.11(금) 09:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[​2023 베스트셀러 라이브 가족뮤지컬<누가 내 머리에 똥쌌어?> - 구미​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/57450</link>
             <guid>http://www.ticketlink.co.kr/help/notice/57450</guid>
@@ -679,11 +686,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.08.10(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 노래에 담다 - 수성아트피아 솔로이스츠 (대구) 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57435</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57435</guid>
-            <pubDate>Wed, 09 Aug 2023 04:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.10(목) 05:00]]></content:encoded>
+            <title><![CDATA[Someday Festival 2023 - 얼리버드​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57451</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57451</guid>
+            <pubDate>Fri, 11 Aug 2023 04:06:35 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.11(금) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​2023 베스트셀러 라이브 가족뮤지컬<누가 내 머리에 똥쌌어?> - 구미​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -780,13 +787,6 @@
             <title><![CDATA[[단독판매] 박수예 바이올린 리사이틀 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/57436</link>
             <guid>http://m.ticketlink.co.kr/help/notice/57436</guid>
-            <pubDate>Wed, 09 Aug 2023 23:06:10 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.10(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 노래에 담다 - 수성아트피아 솔로이스츠 (대구) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57435</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57435</guid>
             <pubDate>Wed, 09 Aug 2023 23:06:10 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.10(목) 05:00]]></content:encoded>
         </item>
