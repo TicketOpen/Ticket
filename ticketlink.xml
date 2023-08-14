@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-08-13T23:05:13.461Z</updated>
+    <updated>2023-08-14T01:41:52.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [포커스] 스탠딩 에그 콘서트 ‘Romantic Holiday’ - 광주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57459</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57459"/>
+        <updated>2023-08-14T01:41:36.810Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.17(목) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  신명근 1st Concert 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57458</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57458"/>
+        <updated>2023-08-14T01:41:36.813Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.17(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​마리아킴 X 베니 베넥 III (대구)​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57457</id>
@@ -94,20 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/57445</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57445"/>
         <updated>2023-08-10T09:05:29.549Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.16(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <22년 2개월> 2차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57444</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57444"/>
-        <updated>2023-08-10T09:05:29.559Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.14(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​봉산문화회관 기획 <목 짧은 기린 지피> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57443</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57443"/>
-        <updated>2023-08-10T09:05:29.562Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.16(수) 01:00]]></content>
     </entry>
 </feed>
