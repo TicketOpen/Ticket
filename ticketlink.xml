@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-08-16T02:14:31.830Z</updated>
+    <updated>2023-08-16T04:07:04.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립합창단 기획연주회Ⅴ ‘가족’ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57478</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57478"/>
+        <updated>2023-08-16T04:06:37.252Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.17(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 대구치맥페스티벌 프리미엄 사전예약존 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57477</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57477"/>
+        <updated>2023-08-16T04:06:37.255Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.17(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 「고정관념을 넘어서 BEYOND Stereotype 」/ 동양고주파 - 광주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57476</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57476"/>
+        <updated>2023-08-16T04:06:37.260Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.18(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프린세스 스쿨 - 광양 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57474</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57461"/>
         <updated>2023-08-14T05:05:11.724Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.21(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]Say U Fan Vol.1 미모리 스즈코 팬미팅​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57460</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57460"/>
-        <updated>2023-08-14T03:05:20.453Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.18(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [포커스] 스탠딩 에그 콘서트 ‘Romantic Holiday’ - 광주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57459</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57459"/>
-        <updated>2023-08-14T01:41:36.810Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.17(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  신명근 1st Concert 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57458</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57458"/>
-        <updated>2023-08-14T01:41:36.813Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.17(목) 05:00]]></content>
     </entry>
 </feed>
