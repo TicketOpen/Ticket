@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 11:05:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 12:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23011495_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13378</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13378</guid>
+            <pubDate>Wed, 16 Aug 2023 12:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.21(월) 10:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2023~24 최현우 Answer 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13377</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13377</guid>
@@ -424,12 +431,6 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13356</guid>
             <pubDate>Mon, 14 Aug 2023 21:04:33 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.11(금) 16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(8/6, 8/13, 8/20, 8/21) (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13355</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13355</guid>
-            <pubDate>Mon, 14 Aug 2023 21:04:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Novelbright 내한공연 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
