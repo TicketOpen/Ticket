@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 17:05:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 18:06:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,6 +204,15 @@
             <content:encoded><![CDATA[23.08.18(금)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈산타와 빈양말〉 - 우리금융아트홀 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48143</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48143</guid>
+            <pubDate>Wed, 16 Aug 2023 18:04:29 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.04
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23010563_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 알쏭달쏭 캐치! 티니핑〈신비한 상자를 열어라!〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48142</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48142</guid>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2023.08.18
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/19/19018229_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[류수정 앵콜콘서트〈Archive of Emotions in September〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48133</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48133</guid>
-            <pubDate>Wed, 16 Aug 2023 06:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.17
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23011495_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
