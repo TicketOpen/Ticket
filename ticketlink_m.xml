@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-08-17T22:05:23.491Z</updated>
+    <updated>2023-08-18T01:40:59.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<지브리 WITH 샌드아트 IN 부산> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57498</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57498"/>
+        <updated>2023-08-18T01:40:51.701Z</updated>
+        <content type="html"><![CDATA[2023.08.21(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2023 광주사운드파크페스티벌​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57497</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57497"/>
+        <updated>2023-08-18T01:40:51.701Z</updated>
+        <content type="html"><![CDATA[2023.08.18(금) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 앤서니브라운 가족뮤지컬 <우리아빠가최고야> - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57496</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57496"/>
+        <updated>2023-08-18T01:40:51.703Z</updated>
+        <content type="html"><![CDATA[2023.08.21(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프린세스 스쿨 - 칠곡군 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57495</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57495"/>
+        <updated>2023-08-18T01:40:51.705Z</updated>
+        <content type="html"><![CDATA[2023.08.21(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 라이브 가족뮤지컬 <브레멘음악대> - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57494</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57482"/>
         <updated>2023-08-16T10:05:52.738Z</updated>
         <content type="html"><![CDATA[2023.08.17(목) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​앙상블 멜로디 브리앙의 <가장 아름다운 노래> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57481</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57481"/>
-        <updated>2023-08-16T10:05:52.744Z</updated>
-        <content type="html"><![CDATA[2023.08.17(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 소옥대로 <음유시인 II> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57480</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57480"/>
-        <updated>2023-08-16T10:05:52.747Z</updated>
-        <content type="html"><![CDATA[2023.08.24(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 평화누리 피크닉 페스티벌 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57479</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57479"/>
-        <updated>2023-08-16T10:05:52.761Z</updated>
-        <content type="html"><![CDATA[2023.08.23(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립합창단 기획연주회Ⅴ ‘가족’ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57478</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57478"/>
-        <updated>2023-08-16T04:06:50.785Z</updated>
-        <content type="html"><![CDATA[2023.08.17(목) 01:00]]></content>
     </entry>
 </feed>

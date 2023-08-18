@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-08-17T22:05:23.579Z</updated>
+    <updated>2023-08-18T01:40:59.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동물 없는 동물원展 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7656</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7656"/>
+        <updated>2023-08-18T01:37:26.447Z</updated>
+        <content type="html"><![CDATA[2023.08.18(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나만 알고싶은 인디 Ep．34 종연 단독콘서트 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7655</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7646"/>
         <updated>2023-08-16T00:24:43.860Z</updated>
         <content type="html"><![CDATA[2023.08.16(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벤치위레오 일곱 번째 단독 공연 〈초록 주의보〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7645</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7645"/>
-        <updated>2023-08-14T11:01:53.468Z</updated>
-        <content type="html"><![CDATA[2023.08.17(목) 20:00]]></content>
     </entry>
 </feed>
