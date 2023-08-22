@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 08:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 11:05:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7660</guid>
             <pubDate>Sat, 19 Aug 2023 17:02:25 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.21(월) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[싱포골드 라이브 2023 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48204&amp;groupno=48204&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48204&amp;groupno=48204&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 22 Aug 2023 11:02:39 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.24(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[캐리tv 쇼뮤지컬 〈캐리와 슈퍼걸스〉  - 서울 앵콜 (인터파크 티켓)]]></title>
@@ -197,101 +204,94 @@
             <content:encoded><![CDATA[23.08.25(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2023 류원정 팬콘서트 한가위맞이 <잔치> (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48185&amp;groupno=48185&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48185&amp;groupno=48185&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 21 Aug 2023 05:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.28(월)&nbsp;13:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 〈슈퍼스타 뽀로로 드림콘서트〉 시즌2 미오픈석 추가 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48189</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48189</guid>
-            <pubDate>Mon, 21 Aug 2023 11:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.22
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23011463_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 임준서 팬미팅 “WISHLAND” - 서울 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48188</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48188</guid>
-            <pubDate>Mon, 21 Aug 2023 11:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.23
-                                    <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023082114443733.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모다 탱고 트리오 내한공연 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48187</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48187</guid>
-            <pubDate>Mon, 21 Aug 2023 11:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23011726_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[경기인디뮤직페스티벌 2023 - inmufe 2023 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48186</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48186</guid>
-            <pubDate>Mon, 21 Aug 2023 11:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230821015626.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 류원정 팬콘서트 한가위맞이 <잔치> (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48185</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48185</guid>
-            <pubDate>Mon, 21 Aug 2023 11:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.28
-                                    <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230821031349.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[n.SSign Global Official Fanclub COSMO 1기 추가 모집 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48184</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48184</guid>
-            <pubDate>Mon, 21 Aug 2023 11:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.21
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023081822453269.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 장윤정 라이브 콘서트 - 수원 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48183</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48183</guid>
-            <pubDate>Mon, 21 Aug 2023 11:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.23
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023080916441825.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈블랙메리포핀스〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48182</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48182</guid>
-            <pubDate>Mon, 21 Aug 2023 11:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023082023181024.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jazz de Ananti (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48180</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48180</guid>
-            <pubDate>Mon, 21 Aug 2023 11:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.23
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023081710453114.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[〈미스터트롯2〉 전국투어 - 서울앵콜 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48179</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48179</guid>
-            <pubDate>Mon, 21 Aug 2023 11:03:58 GMT</pubDate>
+            <title><![CDATA[싱포골드 라이브 2023 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48204</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48204</guid>
+            <pubDate>Tue, 22 Aug 2023 11:02:59 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.24
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023081718163262.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23011764_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[캐리tv 쇼뮤지컬 〈캐리와 슈퍼걸스〉  - 서울 앵콜 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48203</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48203</guid>
+            <pubDate>Tue, 22 Aug 2023 11:02:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.24
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230822045550.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 공유생 프로젝트 리:바운드 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48202</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48202</guid>
+            <pubDate>Tue, 22 Aug 2023 11:02:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.22
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023082123561484.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈그날들〉 10주년 기념 공연 - 대구 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48201</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48201</guid>
+            <pubDate>Tue, 22 Aug 2023 11:02:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.28
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023082211094406.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재즈 온 메이플스토리 - 김해 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48200</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48200</guid>
+            <pubDate>Tue, 22 Aug 2023 11:02:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.29
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023082113243447.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재즈 온 메이플스토리 - 대구 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48199</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48199</guid>
+            <pubDate>Tue, 22 Aug 2023 11:02:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.29
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023082113223442.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재즈 온 메이플스토리 - 울산 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48198</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48198</guid>
+            <pubDate>Tue, 22 Aug 2023 11:02:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.29
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023082113173688.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재즈 온 메이플스토리 - 고양 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48197</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48197</guid>
+            <pubDate>Tue, 22 Aug 2023 11:02:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.29
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023082113293759.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재즈 온 메이플스토리 - 서울(10.9) (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48196</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48196</guid>
+            <pubDate>Tue, 22 Aug 2023 11:02:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.29
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023082113290981.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재즈 온 메이플스토리 - 서울(10.1) (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48195</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48195</guid>
+            <pubDate>Tue, 22 Aug 2023 11:02:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.29
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023082113280198.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈구텐버그〉 싱어롱 찍먹 데이 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/19/202308/02/1tifsalu5vir.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 박정국 피아노 독주회 - 대구​ ​​​티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57524</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57524</guid>
+            <pubDate>Tue, 22 Aug 2023 11:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.23(수) 04:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매]제 33기 TBC 가요아카데미 (선착순 자유석 예매) ​​​티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/57523</link>
             <guid>http://www.ticketlink.co.kr/help/notice/57523</guid>
@@ -623,6 +630,13 @@
             <guid>http://www.ticketlink.co.kr/help/notice/57515</guid>
             <pubDate>Mon, 21 Aug 2023 00:28:26 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2023.08.24(목) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  ​[전통연희극] 환생전 - 울산​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57514</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57514</guid>
+            <pubDate>Tue, 22 Aug 2023 11:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.30(수) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​[단독판매]  홍지민과 함께하는 판타스틱쇼 - 시즌2​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -674,18 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.08.23(수) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  ​바람이 멈춘 마을 - 동해​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57506</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57506</guid>
-            <pubDate>Sat, 19 Aug 2023 04:04:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.23(수) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] Korean Breath : 만파(萬波) - 원주​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57505</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57505</guid>
-            <pubDate>Fri, 18 Aug 2023 14:04:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.21(월) 01:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 박정국 피아노 독주회 - 대구​ ​​​티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57524</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57524</guid>
+            <pubDate>Tue, 22 Aug 2023 11:04:57 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.23(수) 04:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]제 33기 TBC 가요아카데미 (선착순 자유석 예매) ​​​티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -728,6 +735,13 @@
             <guid>http://m.ticketlink.co.kr/help/notice/57515</guid>
             <pubDate>Mon, 21 Aug 2023 00:28:34 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.24(목) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  ​[전통연희극] 환생전 - 울산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57514</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57514</guid>
+            <pubDate>Tue, 22 Aug 2023 11:04:57 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.30(수) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​[단독판매]  홍지민과 함께하는 판타스틱쇼 - 시즌2​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -777,20 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/57507</guid>
             <pubDate>Sat, 19 Aug 2023 04:04:50 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.23(수) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  ​바람이 멈춘 마을 - 동해​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57506</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57506</guid>
-            <pubDate>Sat, 19 Aug 2023 04:04:50 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.23(수) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] Korean Breath : 만파(萬波) - 원주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57505</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57505</guid>
-            <pubDate>Fri, 18 Aug 2023 14:05:11 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.21(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
