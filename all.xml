@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 15:06:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 16:05:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,26 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023082113280198.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[THE GREATEST : 전율 정동하X소향 - 청주] 공연 취소 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13402</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13402</guid>
+            <pubDate>Tue, 22 Aug 2023 16:04:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈그날들〉 10주년 기념 공연 - 대구 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13401</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13401</guid>
+            <pubDate>Tue, 22 Aug 2023 16:04:38 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.28(월) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈비더슈탄트〉 1차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13400</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13400</guid>
+            <pubDate>Tue, 22 Aug 2023 16:04:38 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.28(월) 14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈구텐버그〉 싱어롱 찍먹 데이 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13399</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13399</guid>
@@ -411,27 +431,6 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13383</guid>
             <pubDate>Tue, 22 Aug 2023 03:04:23 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.23(수) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈오페라의 유령〉 서울 4차 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13382</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13382</guid>
-            <pubDate>Tue, 22 Aug 2023 03:04:23 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.24(목) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13381</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13381</guid>
-            <pubDate>Tue, 22 Aug 2023 03:04:23 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.31(목) 18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈렛미플라이〉 1차 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13380</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13380</guid>
-            <pubDate>Tue, 22 Aug 2023 03:04:23 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.22(화) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[THE GREATEST : 전율 정동하X소향 - 청주] 공연 취소 안내 (예스24 티켓 모바일)]]></title>
