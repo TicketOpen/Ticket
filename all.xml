@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 23:06:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 00:28:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7671</guid>
             <pubDate>Wed, 23 Aug 2023 04:03:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.30(수) 19:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 <안녕 자두야 - 내 이름은 최자두> - 부산 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48219&amp;groupno=48219&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48219&amp;groupno=48219&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 24 Aug 2023 00:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.28(월)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023-24 엠씨더맥스 이수 콘서트 ‘기행문’ - 전주 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -195,13 +202,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48202&amp;groupno=48202&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 22 Aug 2023 08:08:18 GMT</pubDate>
             <content:encoded><![CDATA[23.08.22(화)&nbsp;16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈그날들〉 10주년 기념 공연 - 대구 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48201&amp;groupno=48201&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48201&amp;groupno=48201&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 22 Aug 2023 08:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.28(월)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023-24 엠씨더맥스 이수 콘서트 ‘기행문’ - 전주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -582,6 +582,27 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/19/202308/02/1tifsalu5vir.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[누가 내 머리에 똥 쌌어 - 당진 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57531</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57531</guid>
+            <pubDate>Thu, 24 Aug 2023 00:27:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.29(화) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <알사탕> - 과천​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57530</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57530</guid>
+            <pubDate>Thu, 24 Aug 2023 00:27:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.29(화) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <알사탕> - 성남​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57529</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57529</guid>
+            <pubDate>Thu, 24 Aug 2023 00:27:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.29(화) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매]오버워치 리그 동부 서머 스테이지 넉아웃 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/57528</link>
             <guid>http://www.ticketlink.co.kr/help/notice/57528</guid>
@@ -645,6 +666,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.08.23(수) 01:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[단독판매] ​2023 김창옥 토크콘서트 시즌3 -창원​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57519</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57519</guid>
+            <pubDate>Thu, 24 Aug 2023 00:27:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.25(금) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 공감각적 클래식 콘서트 < Playlist : Untitled, 가을 > 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/57517</link>
             <guid>http://www.ticketlink.co.kr/help/notice/57517</guid>
@@ -659,32 +687,25 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.08.23(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[<미스터트롯2> 전국투어 콘서트 - 앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57515</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57515</guid>
-            <pubDate>Mon, 21 Aug 2023 00:28:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.24(목) 05:00]]></content:encoded>
+            <title><![CDATA[누가 내 머리에 똥 쌌어 - 당진 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57531</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57531</guid>
+            <pubDate>Thu, 24 Aug 2023 00:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.29(화) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  ​[전통연희극] 환생전 - 울산​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57514</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57514</guid>
-            <pubDate>Tue, 22 Aug 2023 11:04:47 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.30(수) 01:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <알사탕> - 과천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57530</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57530</guid>
+            <pubDate>Thu, 24 Aug 2023 00:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.29(화) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​[단독판매]  홍지민과 함께하는 판타스틱쇼 - 시즌2​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57513</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57513</guid>
-            <pubDate>Sat, 19 Aug 2023 04:04:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.23(수) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​시릴 말메달 해게 & 치에틸 물레리드 (세종시)​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57512</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57512</guid>
-            <pubDate>Sat, 19 Aug 2023 04:04:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.23(수) 01:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <알사탕> - 성남​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57529</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57529</guid>
+            <pubDate>Thu, 24 Aug 2023 00:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.29(화) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]오버워치 리그 동부 서머 스테이지 넉아웃 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -750,6 +771,13 @@
             <content:encoded><![CDATA[2023.08.23(수) 01:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[단독판매] ​2023 김창옥 토크콘서트 시즌3 -창원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57519</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57519</guid>
+            <pubDate>Thu, 24 Aug 2023 00:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.25(금) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 공감각적 클래식 콘서트 < Playlist : Untitled, 가을 > 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/57517</link>
             <guid>http://m.ticketlink.co.kr/help/notice/57517</guid>
@@ -762,34 +790,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/57516</guid>
             <pubDate>Mon, 21 Aug 2023 00:28:34 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.23(수) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<미스터트롯2> 전국투어 콘서트 - 앵콜​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57515</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57515</guid>
-            <pubDate>Mon, 21 Aug 2023 00:28:34 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.24(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  ​[전통연희극] 환생전 - 울산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57514</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57514</guid>
-            <pubDate>Tue, 22 Aug 2023 11:04:57 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.30(수) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​[단독판매]  홍지민과 함께하는 판타스틱쇼 - 시즌2​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57513</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57513</guid>
-            <pubDate>Sat, 19 Aug 2023 04:04:50 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.23(수) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​시릴 말메달 해게 & 치에틸 물레리드 (세종시)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57512</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57512</guid>
-            <pubDate>Sat, 19 Aug 2023 04:04:50 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.23(수) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
