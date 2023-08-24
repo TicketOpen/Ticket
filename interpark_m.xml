@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 08:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 11:04:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈구텐버그〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48236</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48236</guid>
+            <pubDate>Thu, 24 Aug 2023 11:02:58 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23008679_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2023-24 엠씨더맥스 이수 콘서트 ‘기행문’ - 대전]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48235</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48235</guid>
+            <pubDate>Thu, 24 Aug 2023 11:02:58 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023082414210595.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈칠칠〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48234</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2023.09.04
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230824101751.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엄마의 레시피]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48224</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48224</guid>
-            <pubDate>Thu, 24 Aug 2023 06:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.24
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23011191_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <알사탕> - 성남]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48223</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48223</guid>
-            <pubDate>Thu, 24 Aug 2023 02:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.29
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023082214061593.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
