@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 07:04:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 08:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -837,7 +837,7 @@
         </item>
         <item>
             <title><![CDATA[후원
-											연극 헤르츠클란 녹화 중계_9월 11일(월) (네이버 공연)]]></title>
+											연극 헤르츠클란_CAST: 김경수 장은아 강찬 (네이버 공연)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
             <pubDate>Thu, 24 Aug 2023 07:04:09 GMT</pubDate>
@@ -855,7 +855,7 @@
         </item>
         <item>
             <title><![CDATA[후원
-											연극 헤르츠클란 녹화 중계_9월 18일(월) (네이버 공연)]]></title>
+											연극 헤르츠클란_CAST: 조풍래, 손유동, 허영손, 안창용 (네이버 공연)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
             <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
             <pubDate>Thu, 24 Aug 2023 07:04:09 GMT</pubDate>
@@ -870,6 +870,15 @@
             <pubDate>Tue, 25 Jul 2023 02:17:35 GMT</pubDate>
             <content:encoded><![CDATA[09월 23일(토) 15:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230711_10/7ulAL_1689051765906bfeN2_PNG/1689051765823.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											연극 헤르츠클란_CAST: 성연, 최호승, 서보성, 오정택 (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
+            <pubDate>Thu, 24 Aug 2023 07:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[09월 25일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_64/vcaR1_1692760718381ugvf1_JPEG/1692760718359.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
