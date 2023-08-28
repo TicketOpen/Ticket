@@ -4,9 +4,72 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 11:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 12:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 YNR VS ALL]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48261</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48261</guid>
+            <pubDate>Mon, 28 Aug 2023 12:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.04
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230828043255.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바리톤 김기훈 리사이틀]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48260</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48260</guid>
+            <pubDate>Mon, 28 Aug 2023 12:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.01
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023082518270305.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정동하 단독 콘서트[OFF THE RECORD]]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48259</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48259</guid>
+            <pubDate>Mon, 28 Aug 2023 12:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.01
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023082518270101.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 이재원 팬미팅 〈메모리 : 우리가 함께한 27년〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48258</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48258</guid>
+            <pubDate>Mon, 28 Aug 2023 12:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.31
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230828034721.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 장윤정 라이브 콘서트 - 대구]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48256</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48256</guid>
+            <pubDate>Mon, 28 Aug 2023 12:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.31
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023082110034844.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 SF9 FAN-CON ONE DAY PROJECT OF9 -unlock FANDORA- in Seoul]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48255</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48255</guid>
+            <pubDate>Mon, 28 Aug 2023 12:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.05
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230828011942.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈곤 투모로우〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48254</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48254</guid>
+            <pubDate>Mon, 28 Aug 2023 12:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.30
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23008578_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[안송은 댄스 프로젝트 [NAKED]]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48253</link>
@@ -33,69 +96,6 @@
             <content:encoded><![CDATA[2023.08.31
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023082514131490.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 부평아트센터 브런치콘서트 〈클래식으로 떠나는 여행〉 10월 - 인천]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48249</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48249</guid>
-            <pubDate>Mon, 28 Aug 2023 03:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23010978_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈진숙아사랑한다〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48248</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48248</guid>
-            <pubDate>Mon, 28 Aug 2023 03:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.30
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023082414412077.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모나코-몬테카를로 발레단 〈로미오와 줄리엣〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48247</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48247</guid>
-            <pubDate>Mon, 28 Aug 2023 03:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.30
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 CHEN's B DAY [Love Words]]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48246</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48246</guid>
-            <pubDate>Sat, 26 Aug 2023 11:02:43 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.07
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230825060224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬<룰렛>]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48245</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48245</guid>
-            <pubDate>Sat, 26 Aug 2023 11:02:43 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.30
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023082314220366.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BAE173 First BAEcation]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48244</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48244</guid>
-            <pubDate>Sat, 26 Aug 2023 11:02:43 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.04
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230825033544.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 오케스트라 라움 실내악 시리즈 Ⅰ : Autumn Breeze]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48243</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48243</guid>
-            <pubDate>Sat, 26 Aug 2023 11:02:43 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.30
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023082210073916.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
