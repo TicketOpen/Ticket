@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 00:31:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 01:43:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[［부산］라 보엠 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7689</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7689</guid>
+            <pubDate>Tue, 29 Aug 2023 01:40:31 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.30(수) 16:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[한로로 1st 단독콘서트 ‘이상비행’ 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7688</link>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7680</guid>
             <pubDate>Sun, 27 Aug 2023 09:01:58 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.24(목) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023－24 엠씨더맥스 이수 콘서트 ‘기행문’－대구 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7679</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7679</guid>
-            <pubDate>Sun, 27 Aug 2023 09:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 이재원 팬미팅 〈메모리 : 우리가 함께한 27년〉 (인터파크 티켓)]]></title>
@@ -155,6 +155,13 @@
             <content:encoded><![CDATA[23.08.31(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈킴즈〉 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48263&amp;groupno=48263&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48263&amp;groupno=48263&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 29 Aug 2023 01:40:44 GMT</pubDate>
+            <content:encoded><![CDATA[23.08.30(수)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2023 부평아트센터 브런치콘서트 〈클래식으로 떠나는 여행〉 10월 -.. (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48249&amp;groupno=48249&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48249&amp;groupno=48249&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[23.09.04(월)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2023 오케스트라 라움 실내악 시리즈 Ⅰ : Autumn Breeze (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48243&amp;groupno=48243&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48243&amp;groupno=48243&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 25 Aug 2023 06:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[23.08.30(수)&nbsp;15:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈킴즈〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48263</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48263</guid>
+            <pubDate>Tue, 29 Aug 2023 01:41:01 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.30
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23011045_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2023 YNR VS ALL (인터파크 티켓 모바일)]]></title>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2023.09.05
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23004838_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈여신님이 보고 계셔〉 10th Anniversary - 대전 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48251</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48251</guid>
-            <pubDate>Mon, 28 Aug 2023 03:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.31
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023082514131490.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈왓 이프〉 4차 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/29/202308/04/mcp7tqctpbxv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 2023년 하반기 창덕궁 달빛기행 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57551</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57551</guid>
+            <pubDate>Tue, 29 Aug 2023 01:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.29(화) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매]  [광주시립교향악단] GSO 오티움  콘서트 Ⅳ ‘Comedia vs Tragedia’ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/57550</link>
             <guid>http://www.ticketlink.co.kr/help/notice/57550</guid>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.09.01(금) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​코리안팝스오케스트라 Again, The Amazing Orchestra Series​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57536</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57536</guid>
-            <pubDate>Thu, 24 Aug 2023 11:04:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.08.25(금) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 2023년 하반기 창덕궁 달빛기행 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57551</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57551</guid>
+            <pubDate>Tue, 29 Aug 2023 01:43:03 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.29(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]  [광주시립교향악단] GSO 오티움  콘서트 Ⅳ ‘Comedia vs Tragedia’ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -784,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/57537</guid>
             <pubDate>Fri, 25 Aug 2023 03:05:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.01(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​코리안팝스오케스트라 Again, The Amazing Orchestra Series​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57536</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57536</guid>
-            <pubDate>Thu, 24 Aug 2023 11:04:50 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.25(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
