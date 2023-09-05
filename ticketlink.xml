@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-09-05T12:13:02.442Z</updated>
+    <updated>2023-09-05T14:05:39.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 <버블버블쇼> - 대구​​​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57615</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57615"/>
+        <updated>2023-09-05T14:05:25.674Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.06(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023 가족어린이공연 <공룡애니멀쇼> - 광주​​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57614</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57601"/>
         <updated>2023-09-05T03:05:53.385Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.08(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <타오르는 어둠 속에서> 2차​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57600</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57600"/>
-        <updated>2023-09-04T07:05:03.839Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.07(목) 07:00]]></content>
     </entry>
 </feed>
