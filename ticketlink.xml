@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-09-11T08:12:44.439Z</updated>
+    <updated>2023-09-11T09:06:51.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 라이브 가족뮤지컬<헨젤과그레텔> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57653</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57653"/>
+        <updated>2023-09-11T09:06:29.330Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.12(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023 낙동강 캠핑 & 뮤직 페스타 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57652</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57639"/>
         <updated>2023-09-08T07:05:45.226Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.15(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <문스토리> 2차​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57638</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57638"/>
-        <updated>2023-09-08T07:05:45.232Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.15(금) 02:00]]></content>
     </entry>
 </feed>
