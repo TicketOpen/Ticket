@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 17:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 19:04:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,15 +24,6 @@
             <content:encoded><![CDATA[2023.09.20
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023091413004348.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시무용단 신작 <엘리자베스 기덕>]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48496</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48496</guid>
-            <pubDate>Thu, 14 Sep 2023 09:02:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.14
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0003342_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2023 플라시도 도밍고 내한공연]]></title>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2023.09.19
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023091323390111.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈위윌락유〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48488</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48488</guid>
+            <pubDate>Thu, 14 Sep 2023 19:02:43 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.20
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23011687_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
