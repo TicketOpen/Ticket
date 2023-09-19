@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 10:05:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 14:05:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,6 +218,24 @@
             <content:encoded><![CDATA[23.09.18(월)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[아카데미아 델라눈치아타 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48566</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48566</guid>
+            <pubDate>Tue, 19 Sep 2023 14:03:10 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.22
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈사칠〉 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48564</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48564</guid>
+            <pubDate>Tue, 19 Sep 2023 14:03:10 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.25
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23010047_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈후크〉 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48563</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48563</guid>
@@ -288,24 +306,6 @@
             <content:encoded><![CDATA[2023.09.21
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23013225_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 장윤정 라이브 콘서트 - 부산 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48554</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48554</guid>
-            <pubDate>Tue, 19 Sep 2023 06:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.22
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023091813225763.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 ACI송년음악회 〈KBS교향악단 ＆ 피에타리 잉키넨 “합창” 교향곡〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48553</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48553</guid>
-            <pubDate>Tue, 19 Sep 2023 06:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23013242_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
