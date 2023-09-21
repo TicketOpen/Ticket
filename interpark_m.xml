@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 08:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 11:04:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[청소년극] [Tank ; 0-24]]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48593</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48593</guid>
+            <pubDate>Thu, 21 Sep 2023 11:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.26
+                                    <span>17:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023092017010154.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈비더슈탄트〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48592</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48592</guid>
+            <pubDate>Thu, 21 Sep 2023 11:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23011864_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈 JUMP 점프 〉 - 고양]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48591</link>
@@ -62,7 +80,7 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23013331_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2023 이은결 더 일루션 마스터피스 티켓오픈 안내]]></title>
+            <title><![CDATA[2023 이은결 더 일루션 마스터피스]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48584</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48584</guid>
             <pubDate>Thu, 21 Sep 2023 07:03:39 GMT</pubDate>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2023.09.25
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023092016422057.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송가인 with 바라지 - 대전]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48582</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48582</guid>
-            <pubDate>Thu, 21 Sep 2023 07:03:39 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.22
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23013489_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이은결 [더 일루션 - 마스터피스] - 전주]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48581</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48581</guid>
-            <pubDate>Thu, 21 Sep 2023 07:03:39 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.22
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23013544_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
