@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 02:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 03:04:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 사유하는 극장]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48619</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48619</guid>
+            <pubDate>Mon, 25 Sep 2023 03:03:09 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023092217280206.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 양양 라구나비치 뮤직 페스티벌]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48618</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48618</guid>
+            <pubDate>Mon, 25 Sep 2023 03:03:09 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.27
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023092510370444.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023라이브가족뮤지컬 〈산타와루돌프〉-용인]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48616</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2023.09.26
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023092016464862.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 장사익소리판 사람이 사람을 만나 - 광주]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48607</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48607</guid>
-            <pubDate>Fri, 22 Sep 2023 10:03:21 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.05
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23013372_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈급식걸즈 - 뿌슝빠슝 깨져버린 우정〉 - 대전]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48606</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48606</guid>
-            <pubDate>Fri, 22 Sep 2023 10:03:21 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.27
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23013677_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
