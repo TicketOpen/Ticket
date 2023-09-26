@@ -4,11 +4,47 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 07:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 09:04:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[AKMU 2023 CONCERT ［AKMUTOPIA]]]></title>
+            <title><![CDATA[40 단독공연 〈다시 듣는 편지〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48645</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48645</guid>
+            <pubDate>Tue, 26 Sep 2023 09:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.04
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23013795_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈옆집사람〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48643</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48643</guid>
+            <pubDate>Tue, 26 Sep 2023 09:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.27
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23009643_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 카더가든 콘서트 [Harmony]]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48642</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48642</guid>
+            <pubDate>Tue, 26 Sep 2023 09:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.05
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023092515002745.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈이토록 보통의〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48641</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48641</guid>
+            <pubDate>Tue, 26 Sep 2023 09:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.05
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23009608_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[AKMU 2023 CONCERT [AKMUTOPIA]]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48640</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48640</guid>
             <pubDate>Tue, 26 Sep 2023 05:02:52 GMT</pubDate>
@@ -50,7 +86,7 @@
             <pubDate>Tue, 26 Sep 2023 05:02:52 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.04
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023092510242543.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23013668_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[이은결 [ 더 일루션 - 마스터피스 ] - 고양]]></title>
@@ -60,42 +96,6 @@
             <content:encoded><![CDATA[2023.10.04
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023092220415529.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2Z(투지) 단독공연]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48633</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48633</guid>
-            <pubDate>Tue, 26 Sep 2023 05:02:52 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.04
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023092216001459.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[〈미술관 옆 공연장〉 - 그림에 음악과 향기를 더하다]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48631</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48631</guid>
-            <pubDate>Tue, 26 Sep 2023 05:02:52 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.26
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0003609_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤직드라마 당신만이]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48630</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48630</guid>
-            <pubDate>Mon, 25 Sep 2023 23:03:43 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.04
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005476_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈킴즈〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48627</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48627</guid>
-            <pubDate>Mon, 25 Sep 2023 12:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.27
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23011045_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
