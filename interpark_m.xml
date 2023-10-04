@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 23:06:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 00:29:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피아니스트 임동혁 초청 〈라흐마니노프3 VS 브람스4〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48667</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48667</guid>
+            <pubDate>Wed, 04 Oct 2023 00:27:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.13
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023092014244188.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023~24 김창완밴드 전국투어 〈개구쟁이〉 - 경주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48666</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48666</guid>
+            <pubDate>Wed, 04 Oct 2023 00:27:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.06
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023092615304932.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김두루미 vol.03.]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48665</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2023.10.04
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023092619161062.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 하이라이트 팬콘 [명탐정 하이라이트] - 네 개의 그림자와 하나의 빛]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48657</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48657</guid>
-            <pubDate>Wed, 27 Sep 2023 13:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.23
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20230927104007.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어른이 뮤지컬 <난쟁이들>]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48656</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48656</guid>
-            <pubDate>Wed, 27 Sep 2023 13:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.06
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023092613572726.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
