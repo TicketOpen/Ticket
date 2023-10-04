@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-10-04T06:12:25.607Z</updated>
+    <updated>2023-10-04T07:05:39.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7830"/>
         <updated>2023-10-04T06:08:56.797Z</updated>
         <content type="html"><![CDATA[2023.10.05(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈몬테크리스토〉 1차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7829</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7829"/>
+        <updated>2023-10-04T07:02:17.676Z</updated>
+        <content type="html"><![CDATA[2023.10.12(목) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈벤허〉 마지막 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7820"/>
         <updated>2023-10-04T06:08:56.842Z</updated>
         <content type="html"><![CDATA[2023.10.04(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLITZERS FAN－CON［A to z］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7819</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7819"/>
-        <updated>2023-10-04T06:08:56.847Z</updated>
-        <content type="html"><![CDATA[2023.10.06(금) 13:00]]></content>
     </entry>
 </feed>
