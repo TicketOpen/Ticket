@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 21:03:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 22:05:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -299,6 +299,75 @@
             <content:encoded><![CDATA[2023.10.12
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20231005121801.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부산] 2023 노을 연말 투어 콘서트 〈노을이 내린 밤〉 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13577&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13577&amp;order=1</guid>
+            <pubDate>Thu, 05 Oct 2023 22:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023-10-11(수) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[서울] 2023 노을 연말 투어 콘서트 〈노을이 내린 밤〉 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13576&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13576&amp;order=1</guid>
+            <pubDate>Thu, 05 Oct 2023 22:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023-10-11(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[변영진 세계 VOL.1 연극 <청천장단> 본 공연 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13575&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13575&amp;order=1</guid>
+            <pubDate>Thu, 05 Oct 2023 22:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023-10-06(금) 13:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 DONGHAE B DAY PARTY [donghaE.Love.Forever] 좌석 추가 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13574&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13574&amp;order=1</guid>
+            <pubDate>Thu, 05 Oct 2023 22:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023-10-10(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뮤지컬 더데빌:에덴] 마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13573&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13573&amp;order=1</guid>
+            <pubDate>Thu, 05 Oct 2023 22:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023-10-11(수) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 〈안녕 자두야 - 내 이름은 최자두〉 - 구미 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13572&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13572&amp;order=1</guid>
+            <pubDate>Thu, 05 Oct 2023 22:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023-10-10(화) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 양양 라구나비치 뮤직 페스티벌 공연 취소 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13571&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13571&amp;order=1</guid>
+            <pubDate>Thu, 05 Oct 2023 22:04:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2023 변진섭 전국투어 콘서트 : 변천사 - 서울 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13570&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13570&amp;order=1</guid>
+            <pubDate>Thu, 05 Oct 2023 22:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023-10-12(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈오페라의 유령〉 서울 마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13569&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13569&amp;order=1</guid>
+            <pubDate>Thu, 05 Oct 2023 22:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023-10-12(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[대전] 뮤지컬 〈김종욱 찾기〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13568&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13568&amp;order=1</guid>
+            <pubDate>Thu, 05 Oct 2023 22:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023-10-06(금) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023선셋뮤직페스티벌 티켓오픈 안내 N (위메프 공연티켓)]]></title>
