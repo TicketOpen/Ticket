@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 07:05:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 08:07:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -602,6 +602,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.10.10(화) 02:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2023 대한민국 대중문화예술상​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57836</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57836</guid>
+            <pubDate>Sat, 07 Oct 2023 08:06:54 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.10.10(화) 11:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 2023 라이브 가족뮤지컬 <정글북> - 안양 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/57835</link>
             <guid>http://www.ticketlink.co.kr/help/notice/57835</guid>
@@ -693,18 +700,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.10.06(금) 08:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​2023년 가족뮤지컬 <겨울이야기> - 강릉​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57822</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57822</guid>
-            <pubDate>Thu, 05 Oct 2023 08:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.10.06(금) 00:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2023 조항조 그리고 진성 (브로맨스 콘서트)​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/57837</link>
             <guid>http://m.ticketlink.co.kr/help/notice/57837</guid>
             <pubDate>Sat, 07 Oct 2023 07:05:14 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.10(화) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 대한민국 대중문화예술상​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57836</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57836</guid>
+            <pubDate>Sat, 07 Oct 2023 08:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.10(화) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 2023 라이브 가족뮤지컬 <정글북> - 안양 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -796,13 +803,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/57823</guid>
             <pubDate>Thu, 05 Oct 2023 08:13:22 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.06(금) 08:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​2023년 가족뮤지컬 <겨울이야기> - 강릉​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57822</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57822</guid>
-            <pubDate>Thu, 05 Oct 2023 08:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.06(금) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
