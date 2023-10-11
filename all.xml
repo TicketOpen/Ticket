@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 01:43:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 02:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 CJ X BERKLEE MUSIC CONCERT－Feel the Rhythm and Blues［2023 CJ X 버클리 뮤직 콘서트］티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7870</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7870</guid>
+            <pubDate>Wed, 11 Oct 2023 02:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.12(목) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[힙합보부상 PAVE DA WAVE 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7869</link>
@@ -71,13 +78,6 @@
             <content:encoded><![CDATA[2023.10.11(수) 13:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[구구콘서트（강민정，김예지，김희란 졸업공연）티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7859</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7859</guid>
-            <pubDate>Fri, 06 Oct 2023 19:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.06(금) 20:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2023 god's MASTERPIECE (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=48680&amp;groupno=48680&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=48680&amp;groupno=48680&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -97,6 +97,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=48351&amp;groupno=48351&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 25 Sep 2023 00:27:23 GMT</pubDate>
             <content:encoded><![CDATA[23.10.19(목)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈튜링머신〉 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48768&amp;groupno=48768&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48768&amp;groupno=48768&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 11 Oct 2023 02:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.12(목)&nbsp;13:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 김필 콘서트 〈LIFE〉 (인터파크 티켓)]]></title>
@@ -188,13 +195,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48747&amp;groupno=48747&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 10 Oct 2023 07:02:30 GMT</pubDate>
             <content:encoded><![CDATA[23.10.19(목)&nbsp;18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈안테모사〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48746&amp;groupno=48746&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48746&amp;groupno=48746&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 10 Oct 2023 07:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.13(금)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쇼뮤지컬 와일드 와일드 <애프터파티> (인터파크 티켓)]]></title>
@@ -610,6 +610,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.10.11(수) 03:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 신비아파트 <붉은 눈의 저주> - 서울앵콜​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57855</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57855</guid>
+            <pubDate>Wed, 11 Oct 2023 02:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.10.18(수) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2023 어린이 서커스 마술쇼 - 부평​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/57854</link>
             <guid>http://www.ticketlink.co.kr/help/notice/57854</guid>
@@ -701,18 +708,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.10.13(금) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[프린세스 스쿨 -예천-​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57841</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57841</guid>
-            <pubDate>Mon, 09 Oct 2023 06:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.10.10(화) 01:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[부산] 2023 카즈미 타테이시 트리오 내한공연 -지브리, 재즈를 만나다-​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/57856</link>
             <guid>http://m.ticketlink.co.kr/help/notice/57856</guid>
             <pubDate>Wed, 11 Oct 2023 01:43:35 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.11(수) 03:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 신비아파트 <붉은 눈의 저주> - 서울앵콜​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57855</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57855</guid>
+            <pubDate>Wed, 11 Oct 2023 02:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.18(수) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 어린이 서커스 마술쇼 - 부평​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -804,13 +811,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/57842</guid>
             <pubDate>Tue, 10 Oct 2023 03:06:45 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.13(금) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[프린세스 스쿨 -예천-​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57841</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57841</guid>
-            <pubDate>Mon, 09 Oct 2023 06:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.10(화) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <인사이드 윌리엄> 생중계 (네이버 공연)]]></title>
