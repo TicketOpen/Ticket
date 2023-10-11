@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 00:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 01:43:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,7 +285,7 @@
             <pubDate>Tue, 10 Oct 2023 21:02:45 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.16
                                     <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20231010030737.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20231011074420.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈리진 : 빛의 여인〉 (인터파크 티켓 모바일)]]></title>
@@ -603,6 +603,27 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/51/202309/25/k5szlkd6mjfa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[부산] 2023 카즈미 타테이시 트리오 내한공연 -지브리, 재즈를 만나다-​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57856</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57856</guid>
+            <pubDate>Wed, 11 Oct 2023 01:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.10.11(수) 03:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 어린이 서커스 마술쇼 - 부평​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57854</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57854</guid>
+            <pubDate>Wed, 11 Oct 2023 01:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.10.13(금) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023년 가족뮤지컬 <겨울이야기> - 광주​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57853</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57853</guid>
+            <pubDate>Wed, 11 Oct 2023 01:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.10.13(금) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 브레드이발소 시즌2 <내 꿈을 찾아서> - 인천 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/57852</link>
             <guid>http://www.ticketlink.co.kr/help/notice/57852</guid>
@@ -687,25 +708,25 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.10.10(화) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] [11시 음악산책] 올 댓 러브7 ‘쇼팽과 리스트’ (광주) 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57840</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57840</guid>
-            <pubDate>Mon, 09 Oct 2023 05:05:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.10.11(수) 02:00]]></content:encoded>
+            <title><![CDATA[[부산] 2023 카즈미 타테이시 트리오 내한공연 -지브리, 재즈를 만나다-​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57856</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57856</guid>
+            <pubDate>Wed, 11 Oct 2023 01:43:35 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.11(수) 03:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[천안] 2023 카즈미 타테이시 트리오 내한공연 -지브리, 재즈를 만나다-​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57839</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57839</guid>
-            <pubDate>Sun, 08 Oct 2023 14:05:38 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.10.10(화) 03:00]]></content:encoded>
+            <title><![CDATA[2023 어린이 서커스 마술쇼 - 부평​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57854</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57854</guid>
+            <pubDate>Wed, 11 Oct 2023 01:43:35 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.13(금) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 광주시립오페라단 제14회 정기공연 콘체르탄테 <토스카>​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57838</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57838</guid>
-            <pubDate>Sun, 08 Oct 2023 13:06:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.10.10(화) 04:00]]></content:encoded>
+            <title><![CDATA[2023년 가족뮤지컬 <겨울이야기> - 광주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57853</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57853</guid>
+            <pubDate>Wed, 11 Oct 2023 01:43:35 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.13(금) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 브레드이발소 시즌2 <내 꿈을 찾아서> - 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -790,27 +811,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/57841</guid>
             <pubDate>Mon, 09 Oct 2023 06:12:17 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.10(화) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] [11시 음악산책] 올 댓 러브7 ‘쇼팽과 리스트’ (광주) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57840</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57840</guid>
-            <pubDate>Mon, 09 Oct 2023 05:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.11(수) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[천안] 2023 카즈미 타테이시 트리오 내한공연 -지브리, 재즈를 만나다-​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57839</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57839</guid>
-            <pubDate>Sun, 08 Oct 2023 14:05:52 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.10(화) 03:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 광주시립오페라단 제14회 정기공연 콘체르탄테 <토스카>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57838</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57838</guid>
-            <pubDate>Sun, 08 Oct 2023 13:06:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.10(화) 04:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <인사이드 윌리엄> 생중계 (네이버 공연)]]></title>
