@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 11:05:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 12:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -515,6 +515,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/56/202309/27/ceeb71fq6frl.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] Liyuu Fanmeeting in Seoul 2023 「안녕 Seoul！」​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57871</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57871</guid>
+            <pubDate>Thu, 12 Oct 2023 12:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.10.20(금) 11:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[한국 창작 오페라 페스티벌 (서울시 민간축제 선정작품)​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/57870</link>
             <guid>http://www.ticketlink.co.kr/help/notice/57870</guid>
@@ -613,11 +620,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.10.12(목) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[부산] 2023 카즈미 타테이시 트리오 내한공연 -지브리, 재즈를 만나다-​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57856</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57856</guid>
-            <pubDate>Wed, 11 Oct 2023 01:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.10.11(수) 03:00]]></content:encoded>
+            <title><![CDATA[[단독판매] Liyuu Fanmeeting in Seoul 2023 「안녕 Seoul！」​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57871</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57871</guid>
+            <pubDate>Thu, 12 Oct 2023 12:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.20(금) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국 창작 오페라 페스티벌 (서울시 민간축제 선정작품)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -716,13 +723,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/57857</guid>
             <pubDate>Wed, 11 Oct 2023 03:07:41 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.12(목) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[부산] 2023 카즈미 타테이시 트리오 내한공연 -지브리, 재즈를 만나다-​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57856</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57856</guid>
-            <pubDate>Wed, 11 Oct 2023 01:43:35 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.11(수) 03:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <인사이드 윌리엄> 생중계 (네이버 공연)]]></title>
