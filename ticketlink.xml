@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-10-11T22:05:28.778Z</updated>
+    <updated>2023-10-12T00:28:14.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 집을 떠나며 - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57864</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57864"/>
+        <updated>2023-10-12T00:27:58.344Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.16(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  가족 명품 오페라 <사랑의 묘약>​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57863</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57850"/>
         <updated>2023-10-10T07:04:15.857Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.12(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립발레단 제135회 정기공연 [Giselle] 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57849</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57849"/>
-        <updated>2023-10-10T04:05:46.553Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.11(수) 05:00]]></content>
     </entry>
 </feed>
