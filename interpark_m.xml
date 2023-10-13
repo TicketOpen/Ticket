@@ -1,8 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://mticket.interpark.com/Notice/</id>
-    <title>인터파크 티켓 모바일</title>
-    <updated>2023-10-13T08:11:51.734Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>인터파크 티켓 모바일</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 13 Oct 2023 09:04:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈비더슈탄트〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48813</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48813</guid>
+            <pubDate>Fri, 13 Oct 2023 09:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23011864_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 Wave to Earth 단독공연 [flaws and all, Seoul]]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48812</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48812</guid>
+            <pubDate>Fri, 13 Oct 2023 09:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.17
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023101217493679.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[THE GREATEST : 전율 정동하X소향]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48811</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48811</guid>
+            <pubDate>Fri, 13 Oct 2023 09:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.19
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20231013032306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 〈안녕 자두야 - 내 이름은 최자두〉 - 인천]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48810</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48810</guid>
+            <pubDate>Fri, 13 Oct 2023 09:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.17
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023101215590242.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈엘리펀트 송〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48809</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48809</guid>
+            <pubDate>Fri, 13 Oct 2023 09:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.20
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20231013020908.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AKMU 2023~2024 CONCERT TOUR IN 창원 [AKMUTOPIA]]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48808</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48808</guid>
+            <pubDate>Fri, 13 Oct 2023 09:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.18
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20231013032139.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AKMU 2023~2024 CONCERT TOUR IN 광주 [AKMUTOPIA]]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48807</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48807</guid>
+            <pubDate>Fri, 13 Oct 2023 09:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.18
+                                    <span>17:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20231013032046.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AKMU 2023~2024 CONCERT TOUR IN 부산 [AKMUTOPIA]]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48806</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48806</guid>
+            <pubDate>Fri, 13 Oct 2023 09:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.18
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20231013032020.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 M 송년시리즈 발레 <호두까기 인형>]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48805</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48805</guid>
+            <pubDate>Fri, 13 Oct 2023 09:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.20
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023101114492512.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <빨래> - 대전]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48804</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48804</guid>
+            <pubDate>Fri, 13 Oct 2023 09:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.17
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23015074_p.gif" length="0" type="image/gif"/>
+        </item>
+    </channel>
+</rss>
