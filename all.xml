@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 03:05:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 04:07:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,6 +218,60 @@
             <content:encoded><![CDATA[23.10.13(금)&nbsp;00:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2023 김장훈 연말 콘서트 '종합선물세트' (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48821</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48821</guid>
+            <pubDate>Mon, 16 Oct 2023 04:06:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023101316524988.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[〈미스터트롯2〉 TOP7 콘서트 - 인천 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48820</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48820</guid>
+            <pubDate>Mon, 16 Oct 2023 04:06:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.23
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20231016120251.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금난새의 크리스마스 선물 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48819</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48819</guid>
+            <pubDate>Mon, 16 Oct 2023 04:06:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.17
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헬로카봇 뮤지컬 시즌7 〈웰컴 투 파라다이스〉 - 광주 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48818</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48818</guid>
+            <pubDate>Mon, 16 Oct 2023 04:06:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023101311063149.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<미스터트롯2> TOP7 콘서트 - 진주 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48817</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48817</guid>
+            <pubDate>Mon, 16 Oct 2023 04:06:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.23
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023101311300240.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEW 뮤지컬 번개맨 <전설의 시작> - 고양 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48816</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48816</guid>
+            <pubDate>Mon, 16 Oct 2023 04:06:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.18
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023101309503665.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리연극만들기 30주년 기념 공연, 연극<밥풀> (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48815</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48815</guid>
@@ -254,58 +308,18 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023101217493679.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[THE GREATEST : 전율 정동하X소향 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48811</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48811</guid>
-            <pubDate>Fri, 13 Oct 2023 09:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.19
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20231013032306.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13629</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13629</guid>
+            <pubDate>Mon, 16 Oct 2023 04:06:27 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.30(월) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2023.10.26(목) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 〈안녕 자두야 - 내 이름은 최자두〉 - 인천 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48810</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48810</guid>
-            <pubDate>Fri, 13 Oct 2023 09:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.17
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023101215590242.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈엘리펀트 송〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48809</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48809</guid>
-            <pubDate>Fri, 13 Oct 2023 09:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.20
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20231013020908.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AKMU 2023~2024 CONCERT TOUR IN 창원 [AKMUTOPIA] (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48808</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48808</guid>
-            <pubDate>Fri, 13 Oct 2023 09:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.18
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20231013032139.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AKMU 2023~2024 CONCERT TOUR IN 광주 [AKMUTOPIA] (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48807</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48807</guid>
-            <pubDate>Fri, 13 Oct 2023 09:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.18
-                                    <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20231013032046.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AKMU 2023~2024 CONCERT TOUR IN 부산 [AKMUTOPIA] (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48806</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48806</guid>
-            <pubDate>Fri, 13 Oct 2023 09:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.18
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20231013032020.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[광주] 헬로카봇 뮤지컬 시즌7 〈웰컴 투 파라다이스〉 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13628</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13628</guid>
+            <pubDate>Mon, 16 Oct 2023 04:06:27 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.19(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈비더슈탄트〉 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -432,20 +446,6 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13609</guid>
             <pubDate>Sat, 14 Oct 2023 18:05:45 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.13(금) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[부산] 뮤지컬 〈시스터 액트〉 추가 회차 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13608</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13608</guid>
-            <pubDate>Sat, 14 Oct 2023 18:05:45 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.13(금) 16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈칠칠〉 4차 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13607</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13607</guid>
-            <pubDate>Sat, 14 Oct 2023 18:05:45 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.16(월) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NCT 127 3RD TOUR ‘NEO CITY : SEOUL - THE UNITY’ 오픈 안내 (예스24 티켓 모바일)]]></title>
