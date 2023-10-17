@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 06:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 07:06:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -598,6 +598,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/59/202309/27/1kfbygfggg9n.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매]박경리문학상 축하공연 - 원주​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57913</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57913</guid>
+            <pubDate>Tue, 17 Oct 2023 07:06:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.10.23(월) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <22년 2개월> 마지막​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/57912</link>
             <guid>http://www.ticketlink.co.kr/help/notice/57912</guid>
@@ -696,11 +703,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.10.17(화) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​2023 금난새의 크리스마스 선물​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57898</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57898</guid>
-            <pubDate>Mon, 16 Oct 2023 03:05:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.10.17(화) 07:00]]></content:encoded>
+            <title><![CDATA[[단독판매]박경리문학상 축하공연 - 원주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57913</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57913</guid>
+            <pubDate>Tue, 17 Oct 2023 07:06:46 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.23(월) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <22년 2개월> 마지막​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -799,13 +806,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/57899</guid>
             <pubDate>Mon, 16 Oct 2023 03:05:12 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.17(화) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​2023 금난새의 크리스마스 선물​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57898</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57898</guid>
-            <pubDate>Mon, 16 Oct 2023 03:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.17(화) 07:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[웰컴K-스테이지] 2회차 <뮤직드라마 당신만이> (네이버 공연)]]></title>
