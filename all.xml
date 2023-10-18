@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 10:06:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 11:04:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -315,6 +315,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023101217493679.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2023 TWICE FANMEETING〈ONCE AGAIN〉추가 좌석 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13647</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13647</guid>
+            <pubDate>Wed, 18 Oct 2023 11:03:55 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.19(목) 20:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[손열음의 커튼콜 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13646</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13646</guid>
@@ -448,11 +455,11 @@
             <content:encoded><![CDATA[2023.10.19(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈비더슈탄트〉 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13627</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13627</guid>
-            <pubDate>Wed, 18 Oct 2023 03:04:31 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.19(목) 14:00]]></content:encoded>
+            <title><![CDATA[2023 TWICE FANMEETING〈ONCE AGAIN〉추가 좌석 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13647&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13647&amp;order=1</guid>
+            <pubDate>Wed, 18 Oct 2023 11:04:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023-10-19(목) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[손열음의 커튼콜 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -516,13 +523,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13638&amp;order=1</guid>
             <pubDate>Tue, 17 Oct 2023 02:18:11 GMT</pubDate>
             <content:encoded><![CDATA[2023-10-18(수) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[낭만바리케이트 작품 낭독회 〈작곡열전〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13637&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13637&amp;order=1</guid>
-            <pubDate>Tue, 17 Oct 2023 04:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[2023-10-19(목) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈맥베스〉 티켓오픈 안내 N (위메프 공연티켓)]]></title>
