@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-10-23T10:06:42.568Z</updated>
+    <updated>2023-10-23T11:04:15.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KIM BYUNGJOO 1st FAN CONCERT：Serendipity 앵콜 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7935</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7935"/>
+        <updated>2023-10-23T11:01:55.210Z</updated>
+        <content type="html"><![CDATA[2023.10.25(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임세모 겨울 단독 공연 〈2023 올해도 잘 살았다！〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7934</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7934"/>
         <updated>2023-10-23T09:03:12.491Z</updated>
         <content type="html"><![CDATA[2023.10.27(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 김민성 단독 콘서트 〈Bygones〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7933</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7933"/>
+        <updated>2023-10-23T11:01:55.219Z</updated>
+        <content type="html"><![CDATA[2023.10.24(화) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이번 정류장은－EP．1 김준서 티켓 오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7922"/>
         <updated>2023-10-20T04:06:00.876Z</updated>
         <content type="html"><![CDATA[2023.10.24(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에픽하이 20주년 콘서트 추가 회차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7921</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7921"/>
-        <updated>2023-10-20T05:02:21.929Z</updated>
-        <content type="html"><![CDATA[2023.10.27(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[92914 LIVE IN SEOUL－92914 연말 콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7920</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7920"/>
-        <updated>2023-10-20T05:02:21.938Z</updated>
-        <content type="html"><![CDATA[2023.10.27(금) 14:00]]></content>
     </entry>
 </feed>
