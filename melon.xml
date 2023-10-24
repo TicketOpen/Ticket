@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-10-24T09:05:13.003Z</updated>
+    <updated>2023-10-24T10:07:09.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 잭킹콩 연말 콘서트［Haven］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7940</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7940"/>
+        <updated>2023-10-24T10:03:18.621Z</updated>
+        <content type="html"><![CDATA[2023.10.30(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우재 1st Showcase 〈Sing together，with everybody we‘ve loved〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7938</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7928"/>
         <updated>2023-10-23T13:09:50.403Z</updated>
         <content type="html"><![CDATA[2023.10.27(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[live SUM 2023：D82，9001，OAH！티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7926</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7926"/>
-        <updated>2023-10-23T13:09:50.405Z</updated>
-        <content type="html"><![CDATA[2023.10.26(목) 20:00]]></content>
     </entry>
 </feed>
