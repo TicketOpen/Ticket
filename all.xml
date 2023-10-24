@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 06:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 07:05:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -90,6 +90,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=48352&amp;groupno=48352&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 12 Oct 2023 00:25:04 GMT</pubDate>
             <content:encoded><![CDATA[23.11.02(목)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈이런 밤, 들 가운데서〉 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48939&amp;groupno=48939&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48939&amp;groupno=48939&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 24 Oct 2023 07:02:43 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.02(목)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 백지영 전국투어 콘서트 〈BAEK SPACE〉 - 수원 (인터파크 티켓)]]></title>
@@ -202,13 +209,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48921&amp;groupno=48921&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 23 Oct 2023 05:02:20 GMT</pubDate>
             <content:encoded><![CDATA[23.10.31(화)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 < 급식걸즈 - 뿌슝빠슝 깨져버린 우정 > - 대구 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48920&amp;groupno=48920&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48920&amp;groupno=48920&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 23 Oct 2023 05:02:20 GMT</pubDate>
-            <content:encoded><![CDATA[23.10.24(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 연극만원(滿員)Ⅵ〈우리읍내〉 (인터파크 티켓)]]></title>
@@ -869,27 +869,27 @@
         <item>
             <title><![CDATA[후원
 											뮤지컬 <안나, 차이코프스키> : 김경수, 최수진, 임병근, 정재환, 송상훈, 조은진, 곽나윤, 홍기범 (네이버 공연)]]></title>
-            <link>https://tv.naver.com/l/141293</link>
-            <guid>https://tv.naver.com/l/141293</guid>
-            <pubDate>Mon, 23 Oct 2023 03:05:12 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
+            <pubDate>Tue, 24 Oct 2023 07:05:52 GMT</pubDate>
             <content:encoded><![CDATA[11월 06일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_274/bVR6r_1697790188948auvvR_JPEG/1697790188922.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <안나, 차이코프스키> : 박규원, 최서연, 안재영, 김지온, 송상훈, 손지원, 곽나윤, 홍기범 (네이버 공연)]]></title>
-            <link>https://tv.naver.com/l/141288</link>
-            <guid>https://tv.naver.com/l/141288</guid>
-            <pubDate>Mon, 23 Oct 2023 16:08:23 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
+            <pubDate>Tue, 24 Oct 2023 07:05:52 GMT</pubDate>
             <content:encoded><![CDATA[11월 13일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_274/bVR6r_1697790188948auvvR_JPEG/1697790188922.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
 											뮤지컬 <안나, 차이코프스키> : 에녹, 김소향, 테이, 김리현, 송상훈, 조은진, 손지원, 홍기범 (네이버 공연)]]></title>
-            <link>https://tv.naver.com/l/141290</link>
-            <guid>https://tv.naver.com/l/141290</guid>
-            <pubDate>Mon, 23 Oct 2023 18:05:43 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
+            <pubDate>Tue, 24 Oct 2023 07:05:52 GMT</pubDate>
             <content:encoded><![CDATA[11월 20일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_274/bVR6r_1697790188948auvvR_JPEG/1697790188922.jpg" length="0" type="image/jpg"/>
         </item>
