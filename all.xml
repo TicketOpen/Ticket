@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 01:43:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 02:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -597,6 +597,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/13/202310/04/afdtzyqokugx.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 무용, 상상(想像)-상상하는 우리춤 Ⅱ (목포) 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57968</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57968</guid>
+            <pubDate>Wed, 25 Oct 2023 02:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.10.26(목) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <스토리오브마이라이프> 2차​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/57967</link>
             <guid>http://www.ticketlink.co.kr/help/notice/57967</guid>
@@ -695,11 +702,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.10.24(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2023년 가족뮤지컬 <피노키오> - 안동​​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57953</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57953</guid>
-            <pubDate>Mon, 23 Oct 2023 01:44:09 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.10.27(금) 00:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 무용, 상상(想像)-상상하는 우리춤 Ⅱ (목포) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57968</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57968</guid>
+            <pubDate>Wed, 25 Oct 2023 02:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.26(목) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <스토리오브마이라이프> 2차​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -798,13 +805,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/57954</guid>
             <pubDate>Mon, 23 Oct 2023 05:04:20 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.24(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023년 가족뮤지컬 <피노키오> - 안동​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57953</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57953</guid>
-            <pubDate>Mon, 23 Oct 2023 01:44:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.27(금) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[웰컴K-스테이지] 마지막 6회차 <매직 드로잉 쇼 두들팝> (네이버 공연)]]></title>
