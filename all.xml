@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 05:06:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 06:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -90,6 +90,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=48352&amp;groupno=48352&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 12 Oct 2023 00:25:04 GMT</pubDate>
             <content:encoded><![CDATA[23.11.02(목)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 Music Festival “Ride the Beat” - 얼리버드 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48973&amp;groupno=48973&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48973&amp;groupno=48973&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 27 Oct 2023 06:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[23.10.31(화)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[AKMU 2023~2024 CONCERT TOUR IN 수원 [AKMUTOPIA] (인터파크 티켓)]]></title>
@@ -211,13 +218,6 @@
             <content:encoded><![CDATA[23.10.26(목)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈몬테크리스토〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48950&amp;groupno=48950&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48950&amp;groupno=48950&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 26 Oct 2023 02:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.02(목)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[매직드로잉 가족극 〈두들팝〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48959</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=48959</guid>
@@ -308,6 +308,27 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023102416011615.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대구] 신구쇼 - 니들이 트롯을 알아? 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13678</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13678</guid>
+            <pubDate>Fri, 27 Oct 2023 06:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.30(월) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13677</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13677</guid>
+            <pubDate>Fri, 27 Oct 2023 06:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.03(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13676</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13676</guid>
+            <pubDate>Fri, 27 Oct 2023 06:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.03(금) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2023.11.01(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13675</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13675</guid>
@@ -320,6 +341,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13674</guid>
             <pubDate>Fri, 27 Oct 2023 03:04:11 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.31(화) 12:00<a class="noti-btn-pop" presaletit1="아티스트 선예매" presaletit2="" presaletime1="2023.10.30(월) 12:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13673</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13673</guid>
+            <pubDate>Fri, 27 Oct 2023 06:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.02(목) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2023.10.31(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
@@ -419,32 +447,11 @@
             <content:encoded><![CDATA[2023.10.26(목) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2023 연극 <친정엄마와 2박 3일> - 수원 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13658</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13658</guid>
-            <pubDate>Thu, 26 Oct 2023 04:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.26(목) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13657</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13657</guid>
-            <pubDate>Thu, 26 Oct 2023 04:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.23(월) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13656</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13656</guid>
-            <pubDate>Thu, 26 Oct 2023 04:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.24(화) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[창작가무극 〈꾿빠이, 이상〉 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13655</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13655</guid>
-            <pubDate>Thu, 26 Oct 2023 04:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.25(수) 14:00]]></content:encoded>
+            <title><![CDATA[[대구] 신구쇼 - 니들이 트롯을 알아? 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13678&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13678&amp;order=1</guid>
+            <pubDate>Fri, 27 Oct 2023 06:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[2023-10-30(월) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Loossemble 1st FAN-CON [Make a voyage] Online Live Streaming 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -510,18 +517,11 @@
             <content:encoded><![CDATA[2023-10-27(금) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[여원 1st FAN CONCERT 〈행복 소통 창구〉 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13668&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13668&amp;order=1</guid>
-            <pubDate>Thu, 26 Oct 2023 13:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023-10-31(화) 18:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[WINTER WONDERLAND - 류수정 티켓오픈 안내 N (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1163</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1163</guid>
             <pubDate>Fri, 27 Oct 2023 05:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.02(목) 14:00]]></content:encoded>
+            <content:encoded><![CDATA[2023.11.03(금) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/42/202310/27/dkzvesvy5qhs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -595,6 +595,13 @@
             <pubDate>Thu, 26 Oct 2023 13:11:46 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.05(목) 17:30]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/14/202310/05/prsijugnn4pc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[공지]삼성증권 전산작업으로 인한 결제서비스 일시중단 안내(10/29) (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/57981</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/57981</guid>
+            <pubDate>Fri, 27 Oct 2023 06:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.27]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 Music Festival “Ride the Beat” - 얼리버드​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -695,11 +702,11 @@
             <content:encoded><![CDATA[2023.10.24]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[음악낭독극 <흔들리며 피는 꽃 : 도라지 꽃> - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/57964</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/57964</guid>
-            <pubDate>Tue, 24 Oct 2023 06:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.10.25(수) 01:00]]></content:encoded>
+            <title><![CDATA[[공지]삼성증권 전산작업으로 인한 결제서비스 일시중단 안내(10/29) (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/57981</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/57981</guid>
+            <pubDate>Fri, 27 Oct 2023 06:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/help/notice/57981" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b>삼성증권 전산작업으로 인한 결제서비스 일시중단 안내(10/29)</h3></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 Music Festival “Ride the Beat” - 얼리버드​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -798,13 +805,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/57965</guid>
             <pubDate>Tue, 24 Oct 2023 06:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/help/notice/57965" class="info_wrap"><strong class="label">스포츠</strong><h3 class="tit"><b>[단독판매]</b> 2023시즌 &lt;최강야구&gt; 5번째 직관 DAY 티켓오픈 안내</h3></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[음악낭독극 <흔들리며 피는 꽃 : 도라지 꽃> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/57964</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/57964</guid>
-            <pubDate>Tue, 24 Oct 2023 06:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.25(수) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬<타오르는 어둠 속에서> 공연 실황 생중계 (네이버 공연)]]></title>
