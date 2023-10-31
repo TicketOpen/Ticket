@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 06:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 07:05:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -90,6 +90,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=48352&amp;groupno=48352&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 12 Oct 2023 00:25:04 GMT</pubDate>
             <content:encoded><![CDATA[23.11.02(목)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[헥토파이낸셜] 서버 작업으로 인한 순단발생 공지 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49002&amp;groupno=49002&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49002&amp;groupno=49002&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 31 Oct 2023 07:03:19 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈엘리펀트 송〉 (인터파크 티켓)]]></title>
@@ -181,13 +188,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48987&amp;groupno=48987&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 30 Oct 2023 08:09:28 GMT</pubDate>
             <content:encoded><![CDATA[23.11.03(금)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 나윤권 콘서트 〈겨울, 부산, 그리고 나〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48984&amp;groupno=48984&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48984&amp;groupno=48984&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 30 Oct 2023 08:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.08(수)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈아가사 AGATHA〉 10th Anniversary (인터파크 티켓)]]></title>
@@ -306,6 +306,13 @@
             <content:encoded><![CDATA[2023.11.03
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023102521595502.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13684</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13684</guid>
+            <pubDate>Tue, 31 Oct 2023 07:04:42 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.06(월) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <엘리펀트 송> 2차 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -441,11 +448,11 @@
             <content:encoded><![CDATA[2023.10.27(금) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈렛미플라이〉 4차 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13663</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13663</guid>
-            <pubDate>Mon, 30 Oct 2023 14:03:21 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.26(목) 16:00]]></content:encoded>
+            <title><![CDATA[어른이 뮤지컬 〈난쟁이들〉 혜공 전관 - 그래이공 DAY 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13684&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13684&amp;order=1</guid>
+            <pubDate>Tue, 31 Oct 2023 07:04:52 GMT</pubDate>
+            <content:encoded><![CDATA[2023-11-06(월) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <엘리펀트 송> 2차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -509,13 +516,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13674&amp;order=1</guid>
             <pubDate>Mon, 30 Oct 2023 13:11:44 GMT</pubDate>
             <content:encoded><![CDATA[2023-10-31(화) 12:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[THE BOYZ 2ND WORLD TOUR : ZENERATION - ENCORE 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13673&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13673&amp;order=1</guid>
-            <pubDate>Mon, 30 Oct 2023 13:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[2023-11-02(목) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈렌트〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
