@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2023-10-31T07:05:28.779Z</updated>
+    <updated>2023-10-31T09:07:05.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -20,7 +20,14 @@
         <content type="html"><![CDATA[23.11.02(목)&nbsp;20:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[헥토파이낸셜] 서버 작업으로 인한 순단발생 공지 안내]]></title>
+        <title type="html"><![CDATA[뮤지컬 〈시스터 액트〉]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49003&amp;groupno=49003&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49003&amp;groupno=49003&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-10-31T09:03:52.003Z</updated>
+        <content type="html"><![CDATA[23.11.07(화)&nbsp;14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[헥토파이낸셜] 서버 작업에 따른 업무 중단 안내(2023.11.07)]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49002&amp;groupno=49002&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49002&amp;groupno=49002&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-10-31T07:03:19.044Z</updated>
@@ -116,13 +123,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48987&amp;groupno=48987&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-10-30T08:09:28.978Z</updated>
         <content type="html"><![CDATA[23.11.03(금)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈아가사 AGATHA〉 10th Anniversary]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48985&amp;groupno=48985&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48985&amp;groupno=48985&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-10-30T08:09:29.005Z</updated>
-        <content type="html"><![CDATA[23.11.03(금)&nbsp;15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뽀로로 20주년 스페셜 싱어롱 매직쇼 〈슈퍼스타 뽀로로 드림콘서트..]]></title>
