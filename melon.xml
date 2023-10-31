@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-10-31T02:18:06.739Z</updated>
+    <updated>2023-10-31T03:06:49.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 엔분의일：Dreamers 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7973</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7973"/>
+        <updated>2023-10-31T03:03:17.876Z</updated>
+        <content type="html"><![CDATA[2023.11.07(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카코포니 단독공연［DIPUC］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7972</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7964"/>
         <updated>2023-10-31T00:27:01.095Z</updated>
         <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DISCO with 87dance 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=7963</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=7963"/>
-        <updated>2023-10-31T00:27:01.100Z</updated>
-        <content type="html"><![CDATA[2023.11.01(수) 18:00]]></content>
     </entry>
 </feed>
