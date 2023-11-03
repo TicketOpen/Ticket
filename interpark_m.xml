@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 09:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 10:03:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 변진섭 전국투어 콘서트 : 변천사 - 수원]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49060</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49060</guid>
+            <pubDate>Fri, 03 Nov 2023 10:02:46 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.09
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023110316110892.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤져스 라이브]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49058</link>
@@ -35,6 +44,15 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023110117591844.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유다빈밴드 단독 콘서트 '우리의 밤 -  언제나 그랬듯이 함께 있을 거야']]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49055</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49055</guid>
+            <pubDate>Fri, 03 Nov 2023 10:02:46 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.10
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023110218343587.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[크리스마스 콘서트 유키 구라모토와 친구들]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49054</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49054</guid>
@@ -42,6 +60,24 @@
             <content:encoded><![CDATA[2023.11.09
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023110115065800.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화가시리즈 - 뮤지컬 〈에곤 실레〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49053</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49053</guid>
+            <pubDate>Fri, 03 Nov 2023 10:02:46 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.10
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23014946_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[화가시리즈 - 뮤지컬 〈모딜리아니〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49052</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49052</guid>
+            <pubDate>Fri, 03 Nov 2023 10:02:46 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.09
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23014456_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2023-24 이무진 전국투어 콘서트 [별책부록] - 서울]]></title>
@@ -60,42 +96,6 @@
             <content:encoded><![CDATA[2023.11.07
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23016026_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023-24 이무진 전국투어 콘서트 [별책부록] - 부산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49049</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49049</guid>
-            <pubDate>Fri, 03 Nov 2023 08:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20231103020750.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NTX 1st Album [ODD HOUR] 발매 기념 : NTX FAN CONCERT]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49048</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49048</guid>
-            <pubDate>Fri, 03 Nov 2023 08:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.07
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023102714295381.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백형훈,기세중,임정모의 뮤지컬콘서트 - [백세모의 Playlist]]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49047</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49047</guid>
-            <pubDate>Fri, 03 Nov 2023 08:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.09
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20231103114516.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈그날들〉 10주년 기념 공연 - 고양]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49046</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49046</guid>
-            <pubDate>Fri, 03 Nov 2023 08:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.10
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023103114420538.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
