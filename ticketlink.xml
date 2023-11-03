@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-11-03T06:11:55.034Z</updated>
+    <updated>2023-11-03T08:08:53.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <그날들> - 고양 ​티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[2024 김창옥 토크콘서트 시즌3 - 인천​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58018</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58018"/>
+        <updated>2023-11-03T08:08:39.576Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.07(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <그날들> 10주년 기념 공연 - 고양 ​티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58016</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58016"/>
         <updated>2023-11-03T06:11:38.947Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.07(화) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.10(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크리스마스 콘서트 유키 구라모토와 친구들 ​티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58001"/>
         <updated>2023-11-01T03:07:28.816Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.07(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] FC PRO FESTIVAL 2023 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58000</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58000"/>
-        <updated>2023-11-01T03:07:28.816Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.02(목) 05:00]]></content>
     </entry>
 </feed>
