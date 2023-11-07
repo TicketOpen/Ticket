@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 01:44:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 02:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,18 +204,18 @@
             <content:encoded><![CDATA[23.11.09(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 김창옥 토크콘서트 시즌3 - 인천 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49057&amp;groupno=49057&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49057&amp;groupno=49057&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 03 Nov 2023 08:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.07(화)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[이벤져스 라이브 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49058&amp;groupno=49058&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49058&amp;groupno=49058&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 03 Nov 2023 08:07:52 GMT</pubDate>
             <content:encoded><![CDATA[23.11.07(화)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비밀의 화원 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49076&amp;groupno=49076&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49076&amp;groupno=49076&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 07 Nov 2023 02:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[23.11.03(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2023<2024] 나상현씨밴드 어워즈 (인터파크 티켓 모바일)]]></title>
@@ -598,6 +598,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/12/202310/18/iws68cgwgyey.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 번개맨 <전설의 시작> - 마지막 서울앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58040</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58040</guid>
+            <pubDate>Tue, 07 Nov 2023 02:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.11.15(수) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 2023 더 트롯라이브- 광주 (김용임/신유) 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/58039</link>
             <guid>http://www.ticketlink.co.kr/help/notice/58039</guid>
@@ -696,11 +703,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.11.09(목) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[틀려도 괜찮아 - 부산​​​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58024</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58024</guid>
-            <pubDate>Mon, 06 Nov 2023 00:28:07 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.11.06(월) 00:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 번개맨 <전설의 시작> - 마지막 서울앵콜​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58040</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58040</guid>
+            <pubDate>Tue, 07 Nov 2023 02:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.15(수) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 2023 더 트롯라이브- 광주 (김용임/신유) 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -801,13 +808,6 @@
             <content:encoded><![CDATA[2023.11.09(목) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[틀려도 괜찮아 - 부산​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58024</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58024</guid>
-            <pubDate>Mon, 06 Nov 2023 00:28:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.06(월) 00:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <렌트> 시츠프로브 녹화 중계 (네이버 공연)]]></title>
             <link>https://tv.naver.com/l/142090</link>
             <guid>https://tv.naver.com/l/142090</guid>
@@ -832,6 +832,15 @@
             <pubDate>Tue, 24 Oct 2023 07:05:52 GMT</pubDate>
             <content:encoded><![CDATA[11월 20일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_274/bVR6r_1697790188948auvvR_JPEG/1697790188922.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬<아가사> 11/26(일) 공연 실황 녹화 중계(2021ver.) (네이버 공연)]]></title>
+            <link>https://tv.naver.com/l/141277</link>
+            <guid>https://tv.naver.com/l/141277</guid>
+            <pubDate>Tue, 07 Nov 2023 02:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[11월 26일(일) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_148/Kfuoi_16977769477291GueI_JPEG/1697776947696.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
