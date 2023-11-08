@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 05:07:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 07:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,6 +308,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023110610100630.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13718</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13718</guid>
+            <pubDate>Wed, 08 Nov 2023 07:02:55 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.13(월) 14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가족뮤지컬 〈고고다이노 - 고고킹의 귀환〉 - 양산 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13717</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13717</guid>
@@ -438,13 +445,6 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13698</guid>
             <pubDate>Sat, 04 Nov 2023 22:03:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.09(목) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023~24 최현우 Answer 추가 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13697</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13697</guid>
-            <pubDate>Sat, 04 Nov 2023 22:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.07(화) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대전앵콜] 2023-24 김창옥 토크콘서트 시즌3 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -597,6 +597,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/12/202310/18/iws68cgwgyey.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 대구시립극단 제56회 정기공연 -1 연극 <여기가 집이다>​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58047</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58047</guid>
+            <pubDate>Wed, 08 Nov 2023 07:03:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.11.09(목) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[브랜든리 심포니 OST 콘서트 - 전주 (CAST 유준상,옥주현,김지우,기세중)​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/58046</link>
             <guid>http://www.ticketlink.co.kr/help/notice/58046</guid>
@@ -695,11 +702,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.11.09(목) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[루돌프와 산타할아버지 - 양천​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58032</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58032</guid>
-            <pubDate>Mon, 06 Nov 2023 10:05:07 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.11.09(목) 00:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 대구시립극단 제56회 정기공연 -1 연극 <여기가 집이다>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58047</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58047</guid>
+            <pubDate>Wed, 08 Nov 2023 07:03:34 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.09(목) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[브랜든리 심포니 OST 콘서트 - 전주 (CAST 유준상,옥주현,김지우,기세중)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -798,13 +805,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/58033</guid>
             <pubDate>Mon, 06 Nov 2023 10:05:16 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.09(목) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[루돌프와 산타할아버지 - 양천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58032</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58032</guid>
-            <pubDate>Mon, 06 Nov 2023 10:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.09(목) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
