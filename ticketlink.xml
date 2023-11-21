@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-11-21T07:03:55.619Z</updated>
+    <updated>2023-11-21T10:07:18.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공감각적 클래식 콘서트 < Playlist : Untitled, 겨울 >​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58135</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58135"/>
+        <updated>2023-11-21T10:07:04.166Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.22(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마리아킴 & 김대호 Two For Christmas (세종시) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58134</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58134"/>
+        <updated>2023-11-21T10:07:04.166Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.24(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마리아킴 & 김대호 Two For Christmas (서울) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58133</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58133"/>
+        <updated>2023-11-21T10:07:04.171Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.24(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 원주문화재단 기획공연Ⅵ 뮤지컬 〈빨래〉 - 원주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58132</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58119"/>
         <updated>2023-11-17T01:47:42.766Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.21(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <결투> 1차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58118</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58118"/>
-        <updated>2023-11-16T08:09:20.081Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.20(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 그들만 아는 공소시효 - 동해​​​​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58117</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58117"/>
-        <updated>2023-11-16T06:10:07.275Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.22(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <포쉬> 앙코르​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58116</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58116"/>
-        <updated>2023-11-16T06:10:07.288Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.20(월) 02:00]]></content>
     </entry>
 </feed>
