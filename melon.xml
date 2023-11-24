@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-11-24T00:28:24.734Z</updated>
+    <updated>2023-11-24T03:04:53.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8122"/>
         <updated>2023-11-23T08:08:08.157Z</updated>
         <content type="html"><![CDATA[2023.11.28(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christmas is you 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8121</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8121"/>
+        <updated>2023-11-24T03:02:30.739Z</updated>
+        <content type="html"><![CDATA[2023.11.27(월) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈볼륨업〉 3차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8120</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8120"/>
+        <updated>2023-11-24T03:02:30.739Z</updated>
+        <content type="html"><![CDATA[2023.11.27(월) 12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬배우 이해준 첫 번째 팬미팅 〈곁－해〉 티켓 오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8113"/>
         <updated>2023-11-22T12:10:20.929Z</updated>
         <content type="html"><![CDATA[2023.11.24(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 다시 크리스마스 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8112</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8112"/>
-        <updated>2023-11-22T09:03:09.054Z</updated>
-        <content type="html"><![CDATA[2023.11.23(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박종민 단독 공연 〈종민 투어 vol．1〉 in 서울 추가 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8111</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8111"/>
-        <updated>2023-11-22T06:08:31.435Z</updated>
-        <content type="html"><![CDATA[2023.11.28(화) 18:00]]></content>
     </entry>
 </feed>
