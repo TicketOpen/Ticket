@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 06:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 08:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,13 @@
             <content:encoded><![CDATA[2023.11.28(화) 18:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2023 문종업 콘서트 [SOMEthing comes up] in seoul (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49351&amp;groupno=49351&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49351&amp;groupno=49351&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 28 Nov 2023 08:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.05(화)&nbsp;19:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[로맨틱팩토리 콘서트 - SONG CAMP 2023 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49349&amp;groupno=49349&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49349&amp;groupno=49349&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -146,13 +153,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49341&amp;groupno=49341&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 27 Nov 2023 23:01:39 GMT</pubDate>
             <content:encoded><![CDATA[23.12.01(금)&nbsp;09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 라이브 가족뮤지컬 〈신데렐라〉 - 울산 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49332&amp;groupno=49332&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49332&amp;groupno=49332&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 27 Nov 2023 08:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[23.11.30(목)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[헬로카봇 뮤지컬 시즌7 <웰컴 투 파라다이스> - 안산 (인터파크 티켓)]]></title>
@@ -294,6 +294,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23017471_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[나노의 미리 메리크리스마스 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13786</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13786</guid>
+            <pubDate>Tue, 28 Nov 2023 08:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.29(수) 20:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈드라이 플라워〉 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13785</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13785</guid>
@@ -427,11 +434,11 @@
             <content:encoded><![CDATA[2023.11.27(월) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[부산앵콜] 헬로카봇 뮤지컬 시즌7 〈웰컴 투 파라다이스〉 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13765</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13765</guid>
-            <pubDate>Thu, 23 Nov 2023 01:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.27(월) 14:00]]></content:encoded>
+            <title><![CDATA[나노의 미리 메리크리스마스 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13786&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13786&amp;order=1</guid>
+            <pubDate>Tue, 28 Nov 2023 08:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[2023-11-29(수) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈드라이 플라워〉 마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -495,13 +502,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13776&amp;order=1</guid>
             <pubDate>Mon, 27 Nov 2023 05:03:07 GMT</pubDate>
             <content:encoded><![CDATA[2023-11-30(목) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈결투〉 2차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13775&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13775&amp;order=1</guid>
-            <pubDate>Mon, 27 Nov 2023 05:03:07 GMT</pubDate>
-            <content:encoded><![CDATA[2023-12-04(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 카즈미 타테이시 트리오 내한공연 - 지브리, 재즈를 만나다 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -822,6 +822,24 @@
         </item>
         <item>
             <title><![CDATA[후원
+											뮤지컬 <와일드 그레이> 1차 중계 12/5(화) 오후 8시 (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
+            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
+            <pubDate>Tue, 28 Nov 2023 08:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[12월 05일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_119/ktH2U_1700225329204J06RL_JPEG/1700225329180.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											연극 헤르츠클란 녹화 중계_12월 7일(목) (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
+            <pubDate>Tue, 28 Nov 2023 08:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[12월 07일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_170/DTtO6_1701052219729dMB7q_JPEG/1701052219692.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											뮤지컬 <배니싱> 12/8 20:00 녹화중계 (네이버 공연)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
             <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
@@ -840,39 +858,30 @@
         </item>
         <item>
             <title><![CDATA[후원
+											뮤지컬 <와일드 그레이> 2차 중계 12/12(화) 오후 8시 (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/newpro</link>
+            <guid>https://patron.naver.com/ntv/c/intro/newpro</guid>
+            <pubDate>Tue, 28 Nov 2023 08:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[12월 12일(화) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_199/47ejR_1700104181122gbbBK_JPEG/1700104181090.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											연극 헤르츠클란 녹화 중계_12월 14일(목) (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/mbzcompany</link>
+            <guid>https://patron.naver.com/ntv/c/intro/mbzcompany</guid>
+            <pubDate>Tue, 28 Nov 2023 08:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[12월 14일(목) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_131/vjTF3_1701052555726jO0HA_JPEG/1701052555693.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
 											뮤지컬 <사의찬미> 12/15 20:00 녹화중계 (네이버 공연)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
             <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
             <pubDate>Mon, 20 Nov 2023 06:10:39 GMT</pubDate>
             <content:encoded><![CDATA[12월 15일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231117_37/66H2C_1700191671976iiVAQ_JPEG/1700191671958.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <루드윅:베토벤 더 피아노> 4차 중계 12/18(월) 20시 (네이버 공연)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
-            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
-            <pubDate>Fri, 24 Nov 2023 05:04:26 GMT</pubDate>
-            <content:encoded><![CDATA[12월 18일(월) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231121_54/vxKnV_1700559922323x1JK4_JPEG/1700559922302.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <사의찬미> 12/22 20:00 녹화중계 (네이버 공연)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
-            <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
-            <pubDate>Mon, 20 Nov 2023 06:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[12월 22일(금) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_122/fTgIm_1700191706725A1LQh_JPEG/1700191706713.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <사의찬미> 12/29 20:00 녹화중계 (네이버 공연)]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/neo2021</link>
-            <guid>https://patron.naver.com/ntv/c/intro/neo2021</guid>
-            <pubDate>Mon, 20 Nov 2023 06:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[12월 29일(금) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_214/cya7U_1700191734495tyvtE_JPEG/1700191734467.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
