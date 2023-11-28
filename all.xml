@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 08:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 09:04:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/46/202311/14/hxavrzpfckne.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 2023-2024 이솔로몬 전국 투어 콘서트 <겨울병> 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58187</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58187</guid>
+            <pubDate>Tue, 28 Nov 2023 09:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.12.01(금) 07:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2024 라이브 가족뮤지컬 <아기돼지삼형제〉 - 부산 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/58186</link>
             <guid>http://www.ticketlink.co.kr/help/notice/58186</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.11.29(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엘사의 생일파티 - 용산 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58171</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58171</guid>
-            <pubDate>Mon, 27 Nov 2023 05:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.11.29(수) 00:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 2023-2024 이솔로몬 전국 투어 콘서트 <겨울병> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58187</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58187</guid>
+            <pubDate>Tue, 28 Nov 2023 09:04:37 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.01(금) 07:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 라이브 가족뮤지컬 <아기돼지삼형제〉 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -783,13 +790,6 @@
             <title><![CDATA[틀려도 괜찮아 - 청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/58172</link>
             <guid>http://m.ticketlink.co.kr/help/notice/58172</guid>
-            <pubDate>Mon, 27 Nov 2023 05:03:33 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.29(수) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엘사의 생일파티 - 용산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58171</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58171</guid>
             <pubDate>Mon, 27 Nov 2023 05:03:33 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.29(수) 00:00]]></content:encoded>
         </item>
