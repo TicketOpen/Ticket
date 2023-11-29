@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-11-29T06:10:33.259Z</updated>
+    <updated>2023-11-29T08:10:37.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -39,6 +39,20 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58194"/>
         <updated>2023-11-29T06:10:22.292Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.01(금) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 앤서니브라운 가족뮤지컬 <우리아빠가최고야> - 안양 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58193</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58193"/>
+        <updated>2023-11-29T08:10:26.027Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.30(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 라이브가족뮤지컬 <피터팬> - 청주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58192</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58192"/>
+        <updated>2023-11-29T08:10:26.028Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.30(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 라이브 가족뮤지컬 <신데렐라> - 울산​​ 티켓오픈 안내]]></title>
@@ -94,20 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/58184</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58184"/>
         <updated>2023-11-28T06:09:35.447Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.29(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프린세스 스쿨 - 평택 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58183</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58183"/>
-        <updated>2023-11-28T05:04:27.226Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.29(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 아이레 앙상블 정기연주회 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58182</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58182"/>
-        <updated>2023-11-28T05:04:27.226Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.29(수) 01:00]]></content>
     </entry>
 </feed>
