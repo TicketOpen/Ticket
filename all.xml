@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 00:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 02:28:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,20 @@
             <content:encoded><![CDATA[2023.11.28(화) 10:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[히사이시 조 영화음악 콘서트 2024_서울 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49398&amp;groupno=49398&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49398&amp;groupno=49398&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 01 Dec 2023 02:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.08(금)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신년음악회 〈필하모닉 앙상블〉 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49379&amp;groupno=49379&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49379&amp;groupno=49379&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 01 Dec 2023 02:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[23.12.06(수)&nbsp;15:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2024 BF FAN CONCERT [ ALL DAY PARTY ] (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49382&amp;groupno=49382&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49382&amp;groupno=49382&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -146,20 +160,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49374&amp;groupno=49374&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 30 Nov 2023 09:01:55 GMT</pubDate>
             <content:encoded><![CDATA[23.12.07(목)&nbsp;16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[〈2023 코요태스티벌:순정만남〉 - 부산 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49369&amp;groupno=49369&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49369&amp;groupno=49369&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 30 Nov 2023 05:01:54 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.07(목)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 번개맨 〈전설의 시작〉 - 김해 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49368&amp;groupno=49368&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49368&amp;groupno=49368&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 30 Nov 2023 05:01:54 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.01(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈엄마까투리는 슈퍼맘〉 - 인천 (인터파크 티켓)]]></title>
@@ -504,7 +504,15 @@
             <content:encoded><![CDATA[2023-12-06(수) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[다섯 단독 콘서트 〈오랜만입니다섯〉 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <title><![CDATA[뮤지컬 〈은하철도의 밤〉 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <link>https://ticket.wemakeprice.com/opennotice/1181</link>
+            <guid>https://ticket.wemakeprice.com/opennotice/1181</guid>
+            <pubDate>Fri, 01 Dec 2023 02:27:58 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.04(월) 00:00]]></content:encoded>
+            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/53/202312/01/dxwyzqhilzlv.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다섯 단독 콘서트 〈오랜만입니다섯〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1180</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1180</guid>
             <pubDate>Thu, 30 Nov 2023 09:03:31 GMT</pubDate>
@@ -574,14 +582,6 @@
             <pubDate>Fri, 17 Nov 2023 06:09:58 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.20(월) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/35/202311/17/qrb594sy0wwi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 World DJ Festival 티켓오픈 안내 (위메프 공연티켓)]]></title>
-            <link>https://ticket.wemakeprice.com/opennotice/1171</link>
-            <guid>https://ticket.wemakeprice.com/opennotice/1171</guid>
-            <pubDate>Fri, 17 Nov 2023 02:22:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.27(월) 18:00]]></content:encoded>
-            <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/37/202311/17/sarnznckown2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2024년 특선가족뮤지컬 <호두까기인형> - 목포​​ 티켓오픈 안내 (티켓링크)]]></title>
