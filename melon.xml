@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-12-07T08:11:19.507Z</updated>
+    <updated>2023-12-07T13:11:39.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 BEST CHOI’s MINHO FAN－CON 〈Multi－Chase〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8171</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8171"/>
+        <updated>2023-12-07T13:09:44.937Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 Lee－start 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8170</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8170"/>
+        <updated>2023-12-07T13:09:44.940Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제16회 서울재즈페스티벌 2024 블라인드 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8169</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8161"/>
         <updated>2023-12-05T10:03:17.703Z</updated>
         <content type="html"><![CDATA[2023.12.12(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 정우 단독 공연 〈클라우드 쿠쿠 랜드〉	티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8160</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8160"/>
-        <updated>2023-12-05T10:03:17.704Z</updated>
-        <content type="html"><![CDATA[2023.12.07(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[까치산 연말 단독 공연 〈까치까치 연말은〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8159</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8159"/>
-        <updated>2023-12-05T06:08:27.483Z</updated>
-        <content type="html"><![CDATA[2023.12.08(금) 18:00]]></content>
     </entry>
 </feed>
