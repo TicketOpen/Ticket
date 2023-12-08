@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-12-08T02:23:53.720Z</updated>
+    <updated>2023-12-08T03:06:57.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화노 단독 콘서트 “우리의 날은 또 저물어 가겠죠”：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8173</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8173"/>
+        <updated>2023-12-08T03:05:03.507Z</updated>
+        <content type="html"><![CDATA[2023.12.15(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ado THE FIRST WORLD TOUR ‘Wish’ 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8172</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8163"/>
         <updated>2023-12-05T13:09:38.282Z</updated>
         <content type="html"><![CDATA[2023.12.06(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SANTA CREZL IS COMING TO TOWN 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8162</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8162"/>
-        <updated>2023-12-05T10:03:17.702Z</updated>
-        <content type="html"><![CDATA[2023.12.07(목) 20:00]]></content>
     </entry>
 </feed>
