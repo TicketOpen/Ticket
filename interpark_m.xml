@@ -4,63 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 14:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 16:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연극 에테르]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49449</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49449</guid>
-            <pubDate>Fri, 08 Dec 2023 19:01:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.11
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23018046_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2024_이천]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49444</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49444</guid>
-            <pubDate>Fri, 08 Dec 2023 19:01:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.11
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23017981_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2024_포항]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49440</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49440</guid>
-            <pubDate>Fri, 08 Dec 2023 19:01:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.11
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23017980_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023년 송가인 전국투어 콘서트-광주]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49427</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49427</guid>
-            <pubDate>Fri, 08 Dec 2023 19:01:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.11
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23018013_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈스모크〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49426</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49426</guid>
-            <pubDate>Fri, 08 Dec 2023 19:01:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.11
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23013928_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[The First Music Festival]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49433</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49433</guid>
-            <pubDate>Fri, 08 Dec 2023 19:01:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.11
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23018022_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[2024 가족마술콘서트 〈매직오브아트시즌2〉 - 대구]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49443</link>
@@ -68,7 +14,16 @@
             <pubDate>Fri, 08 Dec 2023 19:01:51 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.12
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023120614081401.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23017992_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 에테르]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49449</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49449</guid>
+            <pubDate>Fri, 08 Dec 2023 19:01:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.12
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23018046_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈로보카폴리 - 잡아라! 황금트로피!〉 - 부산]]></title>
@@ -77,7 +32,7 @@
             <pubDate>Fri, 08 Dec 2023 19:01:51 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.12
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023120615070600.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23017979_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲]]></title>
@@ -89,6 +44,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007404_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 더데빌：파우스트]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49435</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49435</guid>
+            <pubDate>Mon, 11 Dec 2023 16:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.12
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23015352_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈은하철도의 밤〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49425</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49425</guid>
@@ -96,6 +60,42 @@
             <content:encoded><![CDATA[2023.12.12
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23016812_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 조명섭 ‘달밤 음악회’ 시즌2 - 원주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49454</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49454</guid>
+            <pubDate>Mon, 11 Dec 2023 16:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.12
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23017986_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Christian Kuria 내한공연]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49476</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49476</guid>
+            <pubDate>Mon, 11 Dec 2023 16:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.12
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고은성 콘서트 My Favorite Things 앙코르]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49469</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49469</guid>
+            <pubDate>Mon, 11 Dec 2023 16:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23018093_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 뮤지컬 노트르담 드 파리 - 한국어버전]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49461</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49461</guid>
+            <pubDate>Mon, 11 Dec 2023 16:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0003677_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
