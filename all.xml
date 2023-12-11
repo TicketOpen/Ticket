@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 20:04:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 00:31:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/21/202311/23/d5zjd53fi6cp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 신비아파트 <붉은 눈의 저주> - 제주​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58258</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58258</guid>
+            <pubDate>Mon, 11 Dec 2023 00:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2023.12.13(수) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[누가 내머리에 똥 쌌어 - 평택남부​​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/58257</link>
             <guid>http://www.ticketlink.co.kr/help/notice/58257</guid>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.12.12(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 익산​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58242</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58242</guid>
-            <pubDate>Wed, 06 Dec 2023 10:03:33 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.12.12(화) 05:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 신비아파트 <붉은 눈의 저주> - 제주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58258</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58258</guid>
+            <pubDate>Mon, 11 Dec 2023 00:30:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.13(수) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[누가 내머리에 똥 쌌어 - 평택남부​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -782,13 +789,6 @@
             <title><![CDATA[라푼젤 - 이천​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/58243</link>
             <guid>http://m.ticketlink.co.kr/help/notice/58243</guid>
-            <pubDate>Wed, 06 Dec 2023 10:03:39 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.12(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 익산​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58242</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58242</guid>
             <pubDate>Wed, 06 Dec 2023 10:03:39 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.12(화) 05:00]]></content:encoded>
         </item>
