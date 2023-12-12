@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 23:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 02:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,15 +17,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23017992_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 에테르]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49449</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49449</guid>
-            <pubDate>Fri, 08 Dec 2023 19:01:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.12
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23018046_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[가족뮤지컬 〈로보카폴리 - 잡아라! 황금트로피!〉 - 부산]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49453</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49453</guid>
@@ -33,6 +24,15 @@
             <content:encoded><![CDATA[2023.12.12
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23017979_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 에테르]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49449</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49449</guid>
+            <pubDate>Fri, 08 Dec 2023 19:01:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.12
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23018046_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲]]></title>
