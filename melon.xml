@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-12-12T04:09:42.266Z</updated>
+    <updated>2023-12-12T10:03:48.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 장재훈 연초 공연：Happy Old Year 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8187</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8187"/>
+        <updated>2023-12-12T10:02:39.791Z</updated>
+        <content type="html"><![CDATA[2023.12.13(수) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wh3n 단독 공연 “New bornxoxo 2024” 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8186</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8186"/>
+        <updated>2023-12-12T10:02:39.791Z</updated>
+        <content type="html"><![CDATA[2023.12.14(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈컴프롬어웨이〉 4차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8184</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8184"/>
+        <updated>2023-12-12T10:02:39.795Z</updated>
+        <content type="html"><![CDATA[2023.12.14(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[루미너스 뮤직 스테이지 vol．1 문빛x소각소각 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8183</id>
@@ -18,6 +39,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8182"/>
         <updated>2023-12-12T03:07:20.411Z</updated>
         <content type="html"><![CDATA[2023.12.18(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈레베카〉 10주년 기념 공연 앙코르 2차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8181</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8181"/>
+        <updated>2023-12-12T10:02:39.812Z</updated>
+        <content type="html"><![CDATA[2023.12.19(화) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 ONEUS FAN CONCERT ‘지구와 달 사이 Pt．2’ 티켓 오픈 안내]]></title>
@@ -46,33 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8177"/>
         <updated>2023-12-08T09:02:27.189Z</updated>
         <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대카드 Curated 91 THAMA 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8176</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8176"/>
-        <updated>2023-12-08T07:02:24.256Z</updated>
-        <content type="html"><![CDATA[2023.12.11(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈알앤제이（R＆J）〉 1차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8175</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8175"/>
-        <updated>2023-12-08T05:02:09.946Z</updated>
-        <content type="html"><![CDATA[2023.12.13(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY 공식 팬클럽 ‘LUVITY’ 4기 모집 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8174</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8174"/>
-        <updated>2023-12-08T05:02:09.952Z</updated>
-        <content type="html"><![CDATA[2023.12.11(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화노 단독 콘서트 “우리의 날은 또 저물어 가겠죠”：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8173</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8173"/>
-        <updated>2023-12-08T03:05:03.507Z</updated>
-        <content type="html"><![CDATA[2023.12.15(금) 20:00]]></content>
     </entry>
 </feed>
