@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-12-15T05:04:39.236Z</updated>
+    <updated>2023-12-15T06:11:03.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rosie（로지）티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8206</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8206"/>
+        <updated>2023-12-15T06:08:57.125Z</updated>
+        <content type="html"><![CDATA[2023.12.29(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신설희 〈우리는 모두 누군가의 꿈이었지〉 앨범 발매기념 단독공연 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8205</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8196"/>
         <updated>2023-12-14T12:10:32.482Z</updated>
         <content type="html"><![CDATA[2023.12.15(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이범재：범피뮤직 콘서트 〈겨울엔，범피매직〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8195</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8195"/>
-        <updated>2023-12-14T12:10:32.483Z</updated>
-        <content type="html"><![CDATA[2023.12.15(금) 14:00]]></content>
     </entry>
 </feed>
