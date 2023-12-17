@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 09:03:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 10:03:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,6 +231,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23012017_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[우주로 간 스킨답서스 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49523</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49523</guid>
+            <pubDate>Sun, 17 Dec 2023 10:02:06 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.18
+                                    <span>13:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈홀연했던 사나이〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49514</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49514</guid>
@@ -274,15 +283,6 @@
             <content:encoded><![CDATA[2023.12.19
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23015320_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[헬로카봇 뮤지컬 시즌7 〈웰컴 투 파라다이스〉 - 안양 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49504</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49504</guid>
-            <pubDate>Sat, 16 Dec 2023 01:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.19
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023121117310011.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 뮤지컬 〈키키의 경계성 인격장애 다이어리〉 (인터파크 티켓 모바일)]]></title>
