@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-12-18T05:04:30.147Z</updated>
+    <updated>2023-12-18T07:03:30.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퍼플키스（PURPLE KISS）FAN CONCERT 〈FESTA〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8214</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8214"/>
+        <updated>2023-12-18T07:01:23.908Z</updated>
+        <content type="html"><![CDATA[2023.12.20(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 JUST B 1st Fanmeeting 〈READY，BURN！〉 in SEOUL 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8213</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8202"/>
         <updated>2023-12-15T04:07:41.562Z</updated>
         <content type="html"><![CDATA[2023.12.20(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크랙샷 단독 콘서트 ‘We are Crackshot’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8201</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8201"/>
-        <updated>2023-12-15T04:07:41.563Z</updated>
-        <content type="html"><![CDATA[2023.12.21(목) 20:00]]></content>
     </entry>
 </feed>
