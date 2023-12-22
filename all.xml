@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 08:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 09:04:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8224</guid>
             <pubDate>Wed, 20 Dec 2023 04:02:27 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.21(목) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 Loco Concert 'ALL I NEED' (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49609&amp;groupno=49609&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49609&amp;groupno=49609&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 22 Dec 2023 09:02:50 GMT</pubDate>
+            <content:encoded><![CDATA[24.01.05(금)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 김필 앵콜 콘서트 〈LIFE〉 (인터파크 티켓)]]></title>
@@ -188,13 +195,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49601&amp;groupno=49601&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 21 Dec 2023 07:01:36 GMT</pubDate>
             <content:encoded><![CDATA[23.12.27(수)&nbsp;15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈로보카폴리 - 잡아라! 황금트로피!〉 - 안산 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49594&amp;groupno=49594&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49594&amp;groupno=49594&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 21 Dec 2023 02:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[23.12.27(수)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지브리&히사이시 조 : 디 오케스트라 (인터파크 티켓)]]></title>
