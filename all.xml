@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Dec 2023 04:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 09:04:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -605,6 +605,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.12.28(목) 04:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <결투> 4차​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58385</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58385</guid>
+            <pubDate>Mon, 25 Dec 2023 09:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.02(화) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가족뮤지컬 〈꼬마버스 타요 - 용감한 구조대 레스큐 타요〉 – 수원​​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/58384</link>
             <guid>http://www.ticketlink.co.kr/help/notice/58384</guid>
@@ -682,13 +689,6 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2023.12.22(금) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​봄날음악회​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58373</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58373</guid>
-            <pubDate>Wed, 20 Dec 2023 08:05:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2023.12.21(목) 02:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2024년 특선가족뮤지컬 <백설공주> - 상주 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/58388</link>
             <guid>http://m.ticketlink.co.kr/help/notice/58388</guid>
@@ -708,6 +708,13 @@
             <guid>http://m.ticketlink.co.kr/help/notice/58386</guid>
             <pubDate>Mon, 25 Dec 2023 00:30:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.28(목) 04:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <결투> 4차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58385</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58385</guid>
+            <pubDate>Mon, 25 Dec 2023 09:04:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.02(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈꼬마버스 타요 - 용감한 구조대 레스큐 타요〉 – 수원​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/58374</guid>
             <pubDate>Wed, 20 Dec 2023 10:04:24 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.22(금) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​봄날음악회​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58373</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58373</guid>
-            <pubDate>Wed, 20 Dec 2023 08:05:16 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.21(목) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
