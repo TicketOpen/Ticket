@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 01:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 02:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23018594_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[극단 미인 〈아들에게(부제 : 미옥 앨리스 현)〉 - 2023 창작산실 올해의신작 연극]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49633</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49633</guid>
-            <pubDate>Wed, 27 Dec 2023 20:01:52 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.28
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023122716324943.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[양인모 & 루체른 페스티벌 스트링스]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49612</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49612</guid>
@@ -60,6 +51,15 @@
             <content:encoded><![CDATA[2023.12.28
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23014423_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[극단 미인 〈아들에게(부제 : 미옥 앨리스 현)〉 - 2023 창작산실 올해의신작 연극]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49633</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49633</guid>
+            <pubDate>Wed, 27 Dec 2023 20:01:52 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.28
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023122716324943.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피지컬 시어터 〈네이처 오브 포겟팅〉 2023]]></title>
