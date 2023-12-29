@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 09:03:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 11:02:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23013512_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈행복을 찾아서〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49603</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49603</guid>
-            <pubDate>Thu, 28 Dec 2023 16:04:22 GMT</pubDate>
+            <title><![CDATA[뮤직드라마 〈망원동 브라더스〉 - 대학로]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49644</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49644</guid>
+            <pubDate>Fri, 29 Dec 2023 11:01:50 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.29
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23016307_p.gif" length="0" type="image/gif"/>
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23017298_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
