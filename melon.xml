@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2023-12-28T23:04:17.303Z</updated>
+    <updated>2023-12-29T02:15:28.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈알앤제이（R＆J）〉 2차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8246</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8246"/>
+        <updated>2023-12-29T02:13:26.991Z</updated>
+        <content type="html"><![CDATA[2024.01.04(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헤이맨（HeyMen）단독콘서트 〈HEEEY NEW YEAR〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8244</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8235"/>
         <updated>2023-12-26T03:02:21.780Z</updated>
         <content type="html"><![CDATA[2024.01.02(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YAHO！티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8234</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8234"/>
-        <updated>2023-12-23T11:01:43.092Z</updated>
-        <content type="html"><![CDATA[2024.01.06(토) 18:00]]></content>
     </entry>
 </feed>
