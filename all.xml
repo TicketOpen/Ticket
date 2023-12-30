@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Dec 2023 11:03:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 14:03:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ㅈㅂㅈ 평일소공연 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8250</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8250</guid>
+            <pubDate>Sat, 30 Dec 2023 14:01:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.01(월) 20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[싱어송라이터 손예지 첫 단독공연 〈안녕〉 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8249</link>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8238</guid>
             <pubDate>Wed, 27 Dec 2023 03:06:10 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.29(금) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정아로 단독 콘서트 ‘오래，봄’：롤링 29주년 기념 공연 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8237</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8237</guid>
-            <pubDate>Wed, 27 Dec 2023 03:06:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.03(수) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 〈슈퍼스타 뽀로로 드림콘서트.. (인터파크 티켓)]]></title>
