@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Dec 2023 22:03:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 23:03:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23013928_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[ 2024 Theatre 이문세 ] - 서울]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49540</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49540</guid>
-            <pubDate>Sat, 30 Dec 2023 06:06:35 GMT</pubDate>
+            <title><![CDATA[박진수 무반주 바이올린 리사이틀 - Bach to Bartok]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49650</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49650</guid>
+            <pubDate>Sat, 30 Dec 2023 23:02:27 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.03
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023121416114159.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2023122618283981.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
