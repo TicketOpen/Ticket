@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-01-03T10:05:02.739Z</updated>
+    <updated>2024-01-03T12:12:01.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 강전한 단독 공연 “무채색” 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8255</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8255"/>
+        <updated>2024-01-03T12:10:05.942Z</updated>
+        <content type="html"><![CDATA[2024.01.05(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WOODZ World Tour ‘OO－LI’ FINALE 추가 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8254</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8245"/>
         <updated>2023-12-29T08:07:52.066Z</updated>
         <content type="html"><![CDATA[2024.01.05(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헤이맨（HeyMen）단독콘서트 〈HEEEY NEW YEAR〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8244</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8244"/>
-        <updated>2023-12-28T09:02:34.131Z</updated>
-        <content type="html"><![CDATA[2024.01.04(목) 18:00]]></content>
     </entry>
 </feed>
