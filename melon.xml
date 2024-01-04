@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-01-04T02:21:57.253Z</updated>
+    <updated>2024-01-04T08:10:30.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈마리 앙투아네트〉 10주년 기념공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8257</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8257"/>
+        <updated>2024-01-04T08:08:28.691Z</updated>
+        <content type="html"><![CDATA[2024.01.11(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 강전한 단독 공연 “무채색” 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8255</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8246"/>
         <updated>2023-12-29T02:13:26.991Z</updated>
         <content type="html"><![CDATA[2024.01.04(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈컴프롬어웨이〉 5차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8245</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8245"/>
-        <updated>2023-12-29T08:07:52.066Z</updated>
-        <content type="html"><![CDATA[2024.01.05(금) 14:00]]></content>
     </entry>
 </feed>
