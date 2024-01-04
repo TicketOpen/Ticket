@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-01-04T09:04:12.453Z</updated>
+    <updated>2024-01-04T10:04:16.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8257"/>
         <updated>2024-01-04T08:08:28.691Z</updated>
         <content type="html"><![CDATA[2024.01.11(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Listen Again－싱어게인3 참가자들의 콘서트 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8256</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8256"/>
+        <updated>2024-01-04T10:02:21.642Z</updated>
+        <content type="html"><![CDATA[2024.01.04(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 강전한 단독 공연 “무채색” 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8248"/>
         <updated>2024-01-02T03:03:03.837Z</updated>
         <content type="html"><![CDATA[2024.01.02(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈알앤제이（R＆J）〉 2차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8246</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8246"/>
-        <updated>2023-12-29T02:13:26.991Z</updated>
-        <content type="html"><![CDATA[2024.01.04(목) 14:00]]></content>
     </entry>
 </feed>
