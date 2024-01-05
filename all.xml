@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 01:47:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 02:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,20 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8248</guid>
             <pubDate>Tue, 02 Jan 2024 03:03:03 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.02(화) 12:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 대구 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49730&amp;groupno=49730&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49730&amp;groupno=49730&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 05 Jan 2024 02:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[24.01.10(수)&nbsp;13:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 부산 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49729&amp;groupno=49729&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49729&amp;groupno=49729&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 05 Jan 2024 02:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[24.01.10(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈알사탕〉 - 부산 (인터파크 티켓)]]></title>
@@ -181,20 +195,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49704&amp;groupno=49704&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 04 Jan 2024 08:08:38 GMT</pubDate>
             <content:encoded><![CDATA[24.01.11(목)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[피지컬 시어터 〈네이처 오브 포겟팅〉 2023 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49702&amp;groupno=49702&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49702&amp;groupno=49702&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 04 Jan 2024 08:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[24.01.05(금)&nbsp;15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈이기동 체육관〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49701&amp;groupno=49701&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49701&amp;groupno=49701&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 04 Jan 2024 02:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[24.01.09(화)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[대한민국뮤지컬페스티벌 - 제8회 한국뮤지컬어워즈 (인터파크 티켓)]]></title>
@@ -584,6 +584,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202312/15/p92gb8y9nrjp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 부산 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58464</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58464</guid>
+            <pubDate>Fri, 05 Jan 2024 02:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.10(수) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​김정민 전국투어 콘서트 : LIVE STAR - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58463</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58463</guid>
+            <pubDate>Fri, 05 Jan 2024 02:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.10(수) 04:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[​우리 아빠가 최고야 - 광명​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/58462</link>
             <guid>http://www.ticketlink.co.kr/help/notice/58462</guid>
@@ -675,18 +689,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.01.05(금) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 어린이 서커스 마술쇼 - 여주 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58449</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58449</guid>
-            <pubDate>Thu, 04 Jan 2024 02:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.05(금) 00:00]]></content:encoded>
+            <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 부산 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58464</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58464</guid>
+            <pubDate>Fri, 05 Jan 2024 02:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.10(수) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 어린이 뮤지컬 바다탐험대 옥토넛3 <바다넘어육지까지> - 평택 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58448</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58448</guid>
-            <pubDate>Thu, 04 Jan 2024 02:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.05(금) 05:00]]></content:encoded>
+            <title><![CDATA[​김정민 전국투어 콘서트 : LIVE STAR - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58463</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58463</guid>
+            <pubDate>Fri, 05 Jan 2024 02:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.10(수) 04:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​우리 아빠가 최고야 - 광명​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -778,20 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/58450</guid>
             <pubDate>Thu, 04 Jan 2024 22:03:31 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.05(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 어린이 서커스 마술쇼 - 여주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58449</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58449</guid>
-            <pubDate>Thu, 04 Jan 2024 22:03:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.05(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 어린이 뮤지컬 바다탐험대 옥토넛3 <바다넘어육지까지> - 평택 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58448</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58448</guid>
-            <pubDate>Thu, 04 Jan 2024 22:03:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.05(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
