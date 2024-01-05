@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-05T05:04:47.036Z</updated>
+    <updated>2024-01-05T06:11:02.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 고고킹의 귀환> - 구리​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58471</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58471"/>
+        <updated>2024-01-05T06:10:52.538Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.10(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이스토리마술쇼 - 화성누림]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58470</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58470"/>
+        <updated>2024-01-05T06:10:52.538Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.11(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 일 테노레 (IL TENORE)​ 마지막​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58469</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58469"/>
+        <updated>2024-01-05T06:10:52.540Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.11(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사카모토 류이치 트리뷰트 콘서트 (RYUICHI SAKAMOTO TRIBUTE CONCERT) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58467</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58467"/>
+        <updated>2024-01-05T06:10:52.543Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.16(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 ViViD CONCERT #2 <설레는 그날> 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58466</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58466"/>
+        <updated>2024-01-05T06:10:52.545Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.11(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 ViViD CONCERT #1 <설레는 그날> 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58465</id>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58456"/>
         <updated>2024-01-05T01:47:34.463Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.09(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 번개맨 <전설의 시작> - 부천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58455</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58455"/>
-        <updated>2024-01-05T01:47:34.464Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.08(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <마리 앙투아네트> 10주년 기념공연 1차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58454</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58454"/>
-        <updated>2024-01-04T08:10:19.330Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.11(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<대한민국뮤지컬페스티벌 - 제8회 한국뮤지컬어워즈> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58453</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58453"/>
-        <updated>2024-01-04T08:10:19.331Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.08(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브 가족뮤지컬 <아기돼지삼형제> - 울산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58452</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58452"/>
-        <updated>2024-01-04T08:10:19.332Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.08(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공지] 시스템 임시점검(1/5 02:00 ~ 08:00)으로 인한 서비스 일시 중단 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58451</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58451"/>
-        <updated>2024-01-04T08:10:19.332Z</updated>
-        <content type="html"><![CDATA[2024.01.04]]></content>
     </entry>
 </feed>
