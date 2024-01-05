@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-01-05T02:22:48.961Z</updated>
+    <updated>2024-01-05T05:04:47.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 빅마마 20주년 앵콜 콘서트［ACT 20］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8259</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8259"/>
+        <updated>2024-01-05T05:02:27.478Z</updated>
+        <content type="html"><![CDATA[2024.01.10(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고갱 단독 콘서트 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8258</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8258"/>
+        <updated>2024-01-05T05:02:27.478Z</updated>
+        <content type="html"><![CDATA[2024.01.06(토) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈마리 앙투아네트〉 10주년 기념공연 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8257</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8250"/>
         <updated>2023-12-30T14:01:39.590Z</updated>
         <content type="html"><![CDATA[2024.01.01(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어송라이터 손예지 첫 단독공연 〈안녕〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8249</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8249"/>
-        <updated>2023-12-29T08:07:52.061Z</updated>
-        <content type="html"><![CDATA[2024.01.03(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈볼륨업〉 4차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8248</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8248"/>
-        <updated>2024-01-02T03:03:03.837Z</updated>
-        <content type="html"><![CDATA[2024.01.02(화) 12:00]]></content>
     </entry>
 </feed>
