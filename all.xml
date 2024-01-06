@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Jan 2024 04:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jan 2024 06:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202312/15/p92gb8y9nrjp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미녀와 야수 - 부천​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58474</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58474</guid>
+            <pubDate>Sat, 06 Jan 2024 06:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.09(화) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[어린이 베스트셀러뮤지컬 <누가 내 머리에똥 쌌어?> - 서울 양천구​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/58473</link>
             <guid>http://www.ticketlink.co.kr/help/notice/58473</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.01.10(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​틀려도 괜찮아 - 광명 ​티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58459</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58459</guid>
-            <pubDate>Fri, 05 Jan 2024 01:47:34 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.10(수) 00:00]]></content:encoded>
+            <title><![CDATA[미녀와 야수 - 부천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58474</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58474</guid>
+            <pubDate>Sat, 06 Jan 2024 06:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.09(화) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어린이 베스트셀러뮤지컬 <누가 내 머리에똥 쌌어?> - 서울 양천구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -783,13 +790,6 @@
             <title><![CDATA[​알라딘과 자스민공주 - 순천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/58460</link>
             <guid>http://m.ticketlink.co.kr/help/notice/58460</guid>
-            <pubDate>Fri, 05 Jan 2024 01:47:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.10(수) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​틀려도 괜찮아 - 광명 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58459</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58459</guid>
             <pubDate>Fri, 05 Jan 2024 01:47:40 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.10(수) 00:00]]></content:encoded>
         </item>
