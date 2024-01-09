@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-01-09T04:10:13.009Z</updated>
+    <updated>2024-01-09T06:10:52.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈몬테크리스토〉 마지막 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8280</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8280"/>
+        <updated>2024-01-09T06:08:29.924Z</updated>
+        <content type="html"><![CDATA[2024.01.17(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 백현 팬미팅 〈과자파티〉－서울 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8276</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8276"/>
+        <updated>2024-01-09T06:08:29.924Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 백현 팬미팅 〈과자파티〉－광주 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8275</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8275"/>
+        <updated>2024-01-09T06:08:29.924Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 백현 팬미팅 〈과자파티〉－부산 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8274</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8274"/>
+        <updated>2024-01-09T06:08:29.931Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[써클차트 뮤직 어워즈 2023 취소석 및 특별석 추가 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8273</id>
@@ -46,33 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8268"/>
         <updated>2024-01-08T12:10:31.091Z</updated>
         <content type="html"><![CDATA[2024.01.10(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9 단독콘서트 ‘고고학써클 2024 신년회’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8267</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8267"/>
-        <updated>2024-01-08T12:10:31.092Z</updated>
-        <content type="html"><![CDATA[2024.01.10(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY 공식 팬클럽 ‘LUVITY’ 4기 추가모집 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8266</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8266"/>
-        <updated>2024-01-08T06:08:45.667Z</updated>
-        <content type="html"><![CDATA[2024.01.11(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 디즈니 프린세스 콘서트 브로드웨이팀 내한공연 〈Disney Princess－The Concert〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8265</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8265"/>
-        <updated>2024-01-08T03:05:02.569Z</updated>
-        <content type="html"><![CDATA[2024.01.12(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제16회 서울재즈페스티벌 2024 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8264</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8264"/>
-        <updated>2024-01-08T03:05:02.571Z</updated>
-        <content type="html"><![CDATA[2024.01.09(화) 12:00]]></content>
     </entry>
 </feed>
