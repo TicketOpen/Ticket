@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-01-09T10:04:35.176Z</updated>
+    <updated>2024-01-09T12:12:21.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -18,6 +18,27 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8280"/>
         <updated>2024-01-09T06:08:29.924Z</updated>
         <content type="html"><![CDATA[2024.01.17(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 꽃감이 CONCERT：Twenty 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8279</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8279"/>
+        <updated>2024-01-09T12:10:16.795Z</updated>
+        <content type="html"><![CDATA[2024.01.11(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 태터 팬사인회 〈TOGETTER：함께할태영？〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8278</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8278"/>
+        <updated>2024-01-09T12:10:16.797Z</updated>
+        <content type="html"><![CDATA[2024.01.10(수) 21:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 태터 팬미팅 〈TOGETTER：함께할태영？〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8277</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8277"/>
+        <updated>2024-01-09T12:10:16.799Z</updated>
+        <content type="html"><![CDATA[2024.01.10(수) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 백현 팬미팅 〈과자파티〉－서울 티켓 오픈 안내]]></title>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8272"/>
         <updated>2024-01-09T04:08:01.493Z</updated>
         <content type="html"><![CDATA[2024.01.11(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[펜텐 단독 콘서트 ‘Rekindling of the Youth’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8271</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8271"/>
-        <updated>2024-01-09T03:05:17.888Z</updated>
-        <content type="html"><![CDATA[2024.01.15(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG아트센터 서울 2024년 기획공연 시즌 CoMPAS 24 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8270</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8270"/>
-        <updated>2024-01-09T03:05:17.888Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 LEE BYEONG CHAN FAN MEETING Yellow Re：born 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8269</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8269"/>
-        <updated>2024-01-09T03:05:17.902Z</updated>
-        <content type="html"><![CDATA[2024.01.09(화) 20:00]]></content>
     </entry>
 </feed>
