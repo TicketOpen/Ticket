@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 03:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 04:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,15 +53,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000298_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 부산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49729</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49729</guid>
-            <pubDate>Tue, 09 Jan 2024 18:02:59 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.10
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000309_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[연극 〈TEDDY DADDY RUN(테디 대디 런)〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49731</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49731</guid>
@@ -80,13 +71,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000075_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[밴드 소란 콘서트 〈고백하기 직전〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49775</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49775</guid>
+            <title><![CDATA[[ 2024 Theatre 이문세 ] - 광주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49541</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49541</guid>
+            <pubDate>Wed, 10 Jan 2024 04:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.10
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000176_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 부산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49729</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49729</guid>
             <pubDate>Tue, 09 Jan 2024 18:02:59 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.10
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000108_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000309_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 신곡발매기념 나미애콘서트]]></title>
