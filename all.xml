@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 12:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 13:10:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,6 +204,15 @@
             <content:encoded><![CDATA[24.01.10(수)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2024 딜라이트 서울(2024 delight Seoul) (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=967</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=967</guid>
+            <pubDate>Thu, 11 Jan 2024 13:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.11
+                                    <span>00:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000303_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 〈빵빵 이야기 속으로〉 - 포항 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49770</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49770</guid>
@@ -265,15 +274,6 @@
             <content:encoded><![CDATA[2024.01.11
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000250_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 푸에르자부르타 웨이라 인 서울［2023 FUEZA BRUTA WAYRA IN SEOUL］ (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49753</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49753</guid>
-            <pubDate>Wed, 10 Jan 2024 15:03:02 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.11
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23015194_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[김창완밴드 콘서트 - 부천 (인터파크 티켓 모바일)]]></title>
