@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-11T00:30:44.015Z</updated>
+    <updated>2024-01-11T02:24:39.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최형배 마술사의 < MAGIC MOON > - 고양 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58519</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58519"/>
+        <updated>2024-01-11T02:24:33.840Z</updated>
+        <content type="html"><![CDATA[2024.01.12(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 마법천자문 <한자 마법 대모험> - 고양​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58518</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58518"/>
+        <updated>2024-01-11T02:24:33.841Z</updated>
+        <content type="html"><![CDATA[2024.01.15(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(2024) 햇님달님 <떡 하나 주면 안잡아먹지> - 부산 신세계​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58517</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58517"/>
+        <updated>2024-01-11T02:24:33.841Z</updated>
+        <content type="html"><![CDATA[2024.01.15(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <메리셸리> 3차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58516</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58516"/>
+        <updated>2024-01-11T02:24:33.841Z</updated>
+        <content type="html"><![CDATA[2024.01.18(목) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 경주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58515</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58504"/>
         <updated>2024-01-10T06:10:24.848Z</updated>
         <content type="html"><![CDATA[2024.01.11(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 최현우 Answer - 대전​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58503</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58503"/>
-        <updated>2024-01-10T05:03:45.433Z</updated>
-        <content type="html"><![CDATA[2024.01.12(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58502</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58502"/>
-        <updated>2024-01-10T05:03:45.436Z</updated>
-        <content type="html"><![CDATA[2024.01.15(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정수민 쇼케이스 'song about YOU' 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58501</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58501"/>
-        <updated>2024-01-10T05:03:45.438Z</updated>
-        <content type="html"><![CDATA[2024.01.12(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 수원​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58500</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58500"/>
-        <updated>2024-01-10T00:31:15.888Z</updated>
-        <content type="html"><![CDATA[2024.01.12(금) 00:00]]></content>
     </entry>
 </feed>
