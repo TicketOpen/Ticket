@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 05:04:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 06:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 오리엔째이션 〈채보훈〉 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8289</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8289</guid>
+            <pubDate>Thu, 11 Jan 2024 06:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.17(수) 20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2024 김동현 팬미팅 시작 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8287</link>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8277</guid>
             <pubDate>Tue, 09 Jan 2024 12:10:16 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.10(수) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 백현 팬미팅 〈과자파티〉－서울 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8276</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8276</guid>
-            <pubDate>Tue, 09 Jan 2024 06:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈겨울나그네〉 (인터파크 티켓)]]></title>
@@ -141,13 +141,6 @@
             <content:encoded><![CDATA[24.01.16(화)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마술사 최형배의 〈오리지널 과학마술콘서트 시즌1〉-청주 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49799&amp;groupno=49799&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49799&amp;groupno=49799&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 10 Jan 2024 09:02:58 GMT</pubDate>
-            <content:encoded><![CDATA[24.01.16(화)&nbsp;09:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[THE GREATEST : 전율 정동하X소향 - 경주 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49814&amp;groupno=49814&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49814&amp;groupno=49814&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -181,6 +174,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49802&amp;groupno=49802&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 10 Jan 2024 06:08:45 GMT</pubDate>
             <content:encoded><![CDATA[24.01.15(월)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AWESOME 팝소프라노 한아름 콘서트 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49817&amp;groupno=49817&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49817&amp;groupno=49817&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 11 Jan 2024 06:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[24.01.12(금)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 가족어린이공연 〈버블버블쇼〉 - 수원 (인터파크 티켓)]]></title>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/20/202312/15/p92gb8y9nrjp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2024 라이브 가족뮤지컬<라푼젤> - 부산​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58522</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58522</guid>
+            <pubDate>Thu, 11 Jan 2024 06:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.12(금) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[프린세스 스쿨 - 진주 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/58521</link>
             <guid>http://www.ticketlink.co.kr/help/notice/58521</guid>
@@ -610,13 +617,6 @@
             <guid>http://www.ticketlink.co.kr/help/notice/58518</guid>
             <pubDate>Thu, 11 Jan 2024 02:24:26 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2024.01.15(월) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(2024) 햇님달님 <떡 하나 주면 안잡아먹지> - 부산 신세계​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58517</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58517</guid>
-            <pubDate>Thu, 11 Jan 2024 02:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.15(월) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <메리셸리> 3차​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -689,6 +689,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.01.12(금) 00:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2024 라이브 가족뮤지컬<라푼젤> - 부산​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58522</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58522</guid>
+            <pubDate>Thu, 11 Jan 2024 06:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.12(금) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[프린세스 스쿨 - 진주 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/58521</link>
             <guid>http://m.ticketlink.co.kr/help/notice/58521</guid>
@@ -715,13 +722,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/58518</guid>
             <pubDate>Thu, 11 Jan 2024 02:24:33 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.15(월) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(2024) 햇님달님 <떡 하나 주면 안잡아먹지> - 부산 신세계​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58517</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58517</guid>
-            <pubDate>Thu, 11 Jan 2024 02:24:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.15(월) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <메리셸리> 3차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
