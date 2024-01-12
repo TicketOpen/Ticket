@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-01-12T09:04:19.120Z</updated>
+    <updated>2024-01-12T11:03:51.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 24K＋ FAN CONCERT：TO FOR YOU 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8298</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8298"/>
+        <updated>2024-01-12T11:01:46.107Z</updated>
+        <content type="html"><![CDATA[2024.01.15(월) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ado THE FIRST WORLD TOUR ‘Wish’ 추가 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8297</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8297"/>
+        <updated>2024-01-12T11:01:46.108Z</updated>
+        <content type="html"><![CDATA[2024.01.18(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스프링스 단독콘서트_입춘［두번째 봄］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8296</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8296"/>
+        <updated>2024-01-12T11:01:46.108Z</updated>
+        <content type="html"><![CDATA[2024.01.19(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 RO WOON FAN MEETING ‘보통의 하루’ 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8294</id>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8287"/>
         <updated>2024-01-11T02:22:28.549Z</updated>
         <content type="html"><![CDATA[2024.01.11(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈레베카〉 10주년 기념 공연 앙코르 마지막 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8285</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8285"/>
-        <updated>2024-01-10T06:08:36.355Z</updated>
-        <content type="html"><![CDATA[2024.01.18(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colors 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8284</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8284"/>
-        <updated>2024-01-10T06:08:36.358Z</updated>
-        <content type="html"><![CDATA[2024.01.17(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변하은 단독 콘서트 ‘The Fool’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8283</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8283"/>
-        <updated>2024-01-10T03:06:20.270Z</updated>
-        <content type="html"><![CDATA[2024.01.16(화) 20:00]]></content>
     </entry>
 </feed>
