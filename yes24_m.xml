@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-15T04:09:05.284Z</updated>
+    <updated>2024-01-15T06:11:32.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[울산] 연극 고도를 기다리며 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13926&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13926&amp;order=1"/>
+        <updated>2024-01-15T06:11:02.070Z</updated>
+        <content type="html"><![CDATA[2024-01-22(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<막심 벤게로프 바이올린 리사이틀> 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13925&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13925&amp;order=1"/>
+        <updated>2024-01-15T06:11:02.070Z</updated>
+        <content type="html"><![CDATA[2024-01-18(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인 하우스 아티스트 첼리스트 한재민 <무반주 첼로 리사이틀> 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13924&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13924&amp;order=1"/>
+        <updated>2024-01-15T06:11:02.077Z</updated>
+        <content type="html"><![CDATA[2024-01-18(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈결투〉 마지막 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13923&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13923&amp;order=1"/>
+        <updated>2024-01-15T06:11:02.077Z</updated>
+        <content type="html"><![CDATA[2024-01-22(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OHM PAWAT 1st SOLO FANMEETING IN KOREA 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13922&amp;order=1</id>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13917&amp;order=1"/>
         <updated>2024-01-12T05:04:23.631Z</updated>
         <content type="html"><![CDATA[2024-01-17(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬〈고고다이노 - 고고킹의 귀환〉- 성남 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13916&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13916&amp;order=1"/>
-        <updated>2024-01-12T05:04:23.634Z</updated>
-        <content type="html"><![CDATA[2024-01-17(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[paris match 내한공연(paris match Live in Seoul) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13915&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13915&amp;order=1"/>
-        <updated>2024-01-11T08:10:08.099Z</updated>
-        <content type="html"><![CDATA[2024-01-18(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리그 오브 레전드 : 뮤직 유니버스 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13914&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13914&amp;order=1"/>
-        <updated>2024-01-11T02:24:12.000Z</updated>
-        <content type="html"><![CDATA[2024-01-12(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 실황 DVD 판매 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13913&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13913&amp;order=1"/>
-        <updated>2024-01-11T05:04:25.272Z</updated>
-        <content type="html"><![CDATA[2024-01-12(금) 14:00]]></content>
     </entry>
 </feed>
