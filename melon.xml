@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-01-15T06:11:32.038Z</updated>
+    <updated>2024-01-15T10:07:33.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시황 단독 공연 “도화” 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8306</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8306"/>
+        <updated>2024-01-15T10:06:26.799Z</updated>
+        <content type="html"><![CDATA[2024.01.17(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GAZAEBAL UN/Readable Sound 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8305</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8294"/>
         <updated>2024-01-12T05:02:46.754Z</updated>
         <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노브레인 단독 콘서트 ‘노래부인’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8293</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8293"/>
-        <updated>2024-01-12T05:02:46.759Z</updated>
-        <content type="html"><![CDATA[2024.01.18(목) 20:00]]></content>
     </entry>
 </feed>
