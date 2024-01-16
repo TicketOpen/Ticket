@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-01-16T07:04:28.646Z</updated>
+    <updated>2024-01-16T11:04:10.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앤씨아의 우리의 네 번째 계절 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8313</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8313"/>
+        <updated>2024-01-16T11:01:56.325Z</updated>
+        <content type="html"><![CDATA[2024.01.18(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스티x라울 더블 콘서트 ‘띠동갑’ 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8311</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8303"/>
         <updated>2024-01-15T04:07:56.812Z</updated>
         <content type="html"><![CDATA[2024.01.22(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIKI 단독 공연 ‘나의 우울에게’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8301</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8301"/>
-        <updated>2024-01-14T11:01:46.672Z</updated>
-        <content type="html"><![CDATA[2024.01.19(금) 20:00]]></content>
     </entry>
 </feed>
