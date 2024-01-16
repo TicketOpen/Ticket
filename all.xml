@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 20:06:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 22:02:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,22 +204,13 @@
             <content:encoded><![CDATA[24.01.22(월)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 라이브가족뮤지컬 〈이상한나라의앨리스〉 - 인천 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49858</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49858</guid>
+            <title><![CDATA[2024 가족어린이공연 〈버블버블쇼〉 - 대전 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49821</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49821</guid>
             <pubDate>Tue, 16 Jan 2024 17:02:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.17
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000676_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[(2024) 어린이 버블 매직쇼 - 부산 신세계 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49845</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49845</guid>
-            <pubDate>Tue, 16 Jan 2024 17:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.17
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000694_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000639_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 김창완밴드 전국투어 〈개구쟁이〉 - 성남 (인터파크 티켓 모바일)]]></title>
@@ -231,13 +222,31 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000697_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 가족어린이공연 〈버블버블쇼〉 - 대전 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49821</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49821</guid>
+            <title><![CDATA[(2024) 어린이 버블 매직쇼 - 부산 신세계 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49845</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49845</guid>
             <pubDate>Tue, 16 Jan 2024 17:02:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.17
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000639_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000694_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 라이브가족뮤지컬 〈이상한나라의앨리스〉 - 인천 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49858</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49858</guid>
+            <pubDate>Tue, 16 Jan 2024 17:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.17
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000676_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 〈고고다이노 - 고고킹의 귀환〉 - 성남 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49843</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49843</guid>
+            <pubDate>Tue, 16 Jan 2024 17:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.17
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000785_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈고고다이노 - 고고킹의 귀환〉 - 부산 (인터파크 티켓 모바일)]]></title>
@@ -258,15 +267,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23014423_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 〈고고다이노 - 고고킹의 귀환〉 - 성남 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49843</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49843</guid>
-            <pubDate>Tue, 16 Jan 2024 17:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.17
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000785_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[톤앤뮤직 페스티벌 2024 - 블라인드티켓 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49822</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49822</guid>
@@ -276,13 +276,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000310_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2024_성남 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49795</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49795</guid>
-            <pubDate>Tue, 16 Jan 2024 17:02:24 GMT</pubDate>
+            <title><![CDATA[2024 김창옥 토크콘서트 시즌4 - 용인 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49838</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49838</guid>
+            <pubDate>Tue, 16 Jan 2024 22:02:03 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.17
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000698_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000720_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[히사이시 조 영화음악 콘서트 2024_청주 (인터파크 티켓 모바일)]]></title>
