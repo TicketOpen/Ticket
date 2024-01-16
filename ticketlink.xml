@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-16T05:03:47.328Z</updated>
+    <updated>2024-01-16T06:11:14.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 라이브 가족뮤지컬 <피터팬> - 울산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58568</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58568"/>
+        <updated>2024-01-16T06:10:57.249Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.18(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(2024) 어린이 버블 매직쇼 - 부산 신세계​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58567</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58554"/>
         <updated>2024-01-15T06:11:18.670Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.18(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <결투> 마지막​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58553</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58553"/>
-        <updated>2024-01-15T06:11:18.672Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.22(월) 05:00]]></content>
     </entry>
 </feed>
