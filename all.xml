@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 06:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 07:04:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8301</guid>
             <pubDate>Sun, 14 Jan 2024 11:01:46 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.19(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈거미여인의 키스〉 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49878&amp;groupno=49878&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49878&amp;groupno=49878&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 16 Jan 2024 07:02:37 GMT</pubDate>
+            <content:encoded><![CDATA[24.01.22(월)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈비클래스〉 프리뷰 (인터파크 티켓)]]></title>
@@ -174,13 +181,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49860&amp;groupno=49860&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 15 Jan 2024 06:09:35 GMT</pubDate>
             <content:encoded><![CDATA[24.01.31(수)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[［2024 Theatre 이문세］ - 부산 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49859&amp;groupno=49859&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49859&amp;groupno=49859&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 15 Jan 2024 06:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[24.01.24(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[비보쇼 오리지널 2024 (인터파크 티켓)]]></title>
@@ -584,6 +584,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/33/202312/18/p09nnu8kprq5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 하모나이즈 콘서트 < The Show Choir > with 정선아&브래드 리틀 - 경주 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58570</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58570</guid>
+            <pubDate>Tue, 16 Jan 2024 07:04:15 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.22(월) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 라이브가족뮤지컬 <이상한나라의앨리스> - 인천 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58569</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58569</guid>
+            <pubDate>Tue, 16 Jan 2024 07:04:15 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.17(수) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2024 라이브 가족뮤지컬 <피터팬> - 울산 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/58568</link>
             <guid>http://www.ticketlink.co.kr/help/notice/58568</guid>
@@ -675,18 +689,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.01.17(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[<막심 벤게로프 바이올린 리사이틀>​​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58555</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58555</guid>
-            <pubDate>Mon, 15 Jan 2024 06:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.18(목) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 하모나이즈 콘서트 < The Show Choir > with 정선아&브래드 리틀 - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58570</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58570</guid>
+            <pubDate>Tue, 16 Jan 2024 07:04:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.22(월) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인 하우스 아티스트 첼리스트 한재민 <무반주 첼로 리사이틀>​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58554</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58554</guid>
-            <pubDate>Mon, 15 Jan 2024 06:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.18(목) 05:00]]></content:encoded>
+            <title><![CDATA[2024 라이브가족뮤지컬 <이상한나라의앨리스> - 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58569</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58569</guid>
+            <pubDate>Tue, 16 Jan 2024 07:04:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.17(수) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 라이브 가족뮤지컬 <피터팬> - 울산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -778,20 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/58556</guid>
             <pubDate>Mon, 15 Jan 2024 10:07:26 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.17(수) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<막심 벤게로프 바이올린 리사이틀>​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58555</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58555</guid>
-            <pubDate>Mon, 15 Jan 2024 06:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.18(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인 하우스 아티스트 첼리스트 한재민 <무반주 첼로 리사이틀>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58554</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58554</guid>
-            <pubDate>Mon, 15 Jan 2024 06:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.18(목) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
