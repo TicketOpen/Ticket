@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-01-17T11:04:09.351Z</updated>
+    <updated>2024-01-17T12:12:29.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 딥앤댑 팬미팅 〈제1회 녹색어머니회 모집 공고：우리 이제 GREEN LIGHT？〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8317</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8317"/>
+        <updated>2024-01-17T12:10:31.140Z</updated>
+        <content type="html"><![CDATA[2024.01.19(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우물 단독 콘서트 ‘봄은 몇 번이고 돌아오니까’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8314</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8305"/>
         <updated>2024-01-15T04:07:56.809Z</updated>
         <content type="html"><![CDATA[2024.01.18(목) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weird Strangers＃00 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8304</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8304"/>
-        <updated>2024-01-15T04:07:56.809Z</updated>
-        <content type="html"><![CDATA[2024.01.19(금) 20:00]]></content>
     </entry>
 </feed>
