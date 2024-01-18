@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-01-17T22:03:38.847Z</updated>
+    <updated>2024-01-18T01:48:26.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <디어 에반 핸슨> 오프닝위크 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13933</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13933"/>
+        <updated>2024-01-18T01:47:50.505Z</updated>
+        <content type="html"><![CDATA[2024.01.25(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤직 드라마 <장막을 걷어라> 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13932</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13914</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13914"/>
         <updated>2024-01-15T12:12:35.523Z</updated>
-        <content type="html"><![CDATA[2024.01.12(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [이토록 보통의] 실황 DVD 판매 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13913</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13913"/>
-        <updated>2024-01-15T12:12:35.525Z</updated>
         <content type="html"><![CDATA[2024.01.12(금) 14:00]]></content>
     </entry>
 </feed>

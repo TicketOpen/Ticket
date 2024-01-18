@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-17T22:03:38.852Z</updated>
+    <updated>2024-01-18T01:48:26.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손열음 스베틀린 루세브 듀오 리사이틀​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58583</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58583"/>
+        <updated>2024-01-18T01:48:13.543Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.19(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  티나게 놀자! (Teenager)-군산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58581</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58581"/>
+        <updated>2024-01-18T01:48:13.548Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.19(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 트롬본 앙상블 세븐포지션 제 3회 정기연주회 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58580</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58580"/>
+        <updated>2024-01-18T01:48:13.548Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.18(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <꼬마버스 타요 - 용감한 구조대 레스큐 타요> - 제주​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58579</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58568"/>
         <updated>2024-01-16T06:10:57.249Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.18(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2024) 어린이 버블 매직쇼 - 부산 신세계​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58567</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58567"/>
-        <updated>2024-01-16T05:03:31.970Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.17(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극<비클래스> 프리뷰​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58566</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58566"/>
-        <updated>2024-01-16T05:03:31.972Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.18(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​골든걸스 콘서트 - 창원​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58565</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58565"/>
-        <updated>2024-01-16T02:24:22.900Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.17(수) 05:00]]></content>
     </entry>
 </feed>
