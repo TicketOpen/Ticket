@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-01-18T03:04:20.366Z</updated>
+    <updated>2024-01-18T05:04:10.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 IU H．E．R．WORLD TOUR CONCERT IN SEOUL 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8318</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8318"/>
+        <updated>2024-01-18T05:02:17.170Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 딥앤댑 팬미팅 〈제1회 녹색어머니회 모집 공고：우리 이제 GREEN LIGHT？〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8317</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8317"/>
         <updated>2024-01-17T12:10:31.140Z</updated>
         <content type="html"><![CDATA[2024.01.19(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈레베카〉 10주년 기념공연 앙코르－광주 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8316</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8316"/>
+        <updated>2024-01-18T05:02:17.172Z</updated>
+        <content type="html"><![CDATA[2024.01.23(화) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈레베카〉 10주년 기념공연 앙코르－성남 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8315</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8315"/>
+        <updated>2024-01-18T05:02:17.172Z</updated>
+        <content type="html"><![CDATA[2024.01.23(화) 16:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우물 단독 콘서트 ‘봄은 몇 번이고 돌아오니까’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
@@ -25,6 +46,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8313"/>
         <updated>2024-01-16T11:01:56.325Z</updated>
         <content type="html"><![CDATA[2024.01.18(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈레베카〉 10주년 기념공연 앙코르－부산 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8312</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8312"/>
+        <updated>2024-01-18T05:02:17.180Z</updated>
+        <content type="html"><![CDATA[2024.01.23(화) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스티x라울 더블 콘서트 ‘띠동갑’ 티켓 오픈 안내]]></title>
@@ -46,33 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8309"/>
         <updated>2024-01-16T05:01:33.820Z</updated>
         <content type="html"><![CDATA[2024.01.18(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그래쓰 단독 콘서트 ‘Dear，green’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8308</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8308"/>
-        <updated>2024-01-15T11:01:34.693Z</updated>
-        <content type="html"><![CDATA[2024.01.22(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유희도 팬미팅［OV엔터 신입사원 간담회］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8307</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8307"/>
-        <updated>2024-01-15T11:01:34.694Z</updated>
-        <content type="html"><![CDATA[2024.01.17(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시황 단독 공연 “도화” 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8306</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8306"/>
-        <updated>2024-01-15T10:06:26.799Z</updated>
-        <content type="html"><![CDATA[2024.01.17(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GAZAEBAL UN/Readable Sound 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8305</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8305"/>
-        <updated>2024-01-15T04:07:56.809Z</updated>
-        <content type="html"><![CDATA[2024.01.18(목) 13:00]]></content>
     </entry>
 </feed>
