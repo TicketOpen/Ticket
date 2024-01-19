@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 06:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 07:03:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/19/19018229_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 [더데빌:파우스트] 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13948</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13948</guid>
+            <pubDate>Fri, 19 Jan 2024 07:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.25(목) 11:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[화가시리즈 - 뮤지컬 〈에곤 실레〉 5차 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13947</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13947</guid>
@@ -350,7 +357,7 @@
             <content:encoded><![CDATA[2024.01.26(금) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[대구] 2024 YB TOUR [LIGHTS：INFINITY] 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <title><![CDATA[[대구] 2024 YB TOUR LIGHTS ; INFINITY 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13939</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13939</guid>
             <pubDate>Thu, 18 Jan 2024 09:03:44 GMT</pubDate>
@@ -427,11 +434,11 @@
             <content:encoded><![CDATA[2024.01.24(수) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13927</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13927</guid>
-            <pubDate>Tue, 16 Jan 2024 05:03:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.23(화) 18:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 [더데빌:파우스트] 마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13948&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13948&amp;order=1</guid>
+            <pubDate>Fri, 19 Jan 2024 07:03:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024-01-25(목) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[화가시리즈 - 뮤지컬 〈에곤 실레〉 5차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -490,18 +497,11 @@
             <content:encoded><![CDATA[2024-01-26(금) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[대구] 2024 YB TOUR [LIGHTS：INFINITY] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <title><![CDATA[[대구] 2024 YB TOUR LIGHTS ; INFINITY 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13939&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13939&amp;order=1</guid>
             <pubDate>Thu, 18 Jan 2024 09:03:53 GMT</pubDate>
             <content:encoded><![CDATA[2024-01-22(월) 18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[광주] 뮤지컬 [레베카] 10주년 기념 공연 앙코르 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13938&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13938&amp;order=1</guid>
-            <pubDate>Thu, 18 Jan 2024 05:03:47 GMT</pubDate>
-            <content:encoded><![CDATA[2024-01-23(화) 17:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블루스프링페스티벌 2024 얼리버드 티켓오픈 안내 N (위메프 공연티켓)]]></title>
@@ -584,6 +584,34 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/07/202312/19/pantdwrxgisw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세종문화회관 <2024 세종시즌> 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58606</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58606</guid>
+            <pubDate>Fri, 19 Jan 2024 07:03:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.24(수) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[꼬마버스타요 - 용감한 구조대 레스큐 타요 (서울 용산아트홀)​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58605</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58605</guid>
+            <pubDate>Fri, 19 Jan 2024 07:03:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.22(월) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  ​어린이마술쇼 - 전주​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58604</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58604</guid>
+            <pubDate>Fri, 19 Jan 2024 07:03:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.23(화) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[70만 관객을 웃고울린 명품연극<염쟁이 유씨>제주​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58603</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58603</guid>
+            <pubDate>Fri, 19 Jan 2024 07:03:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.24(수) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[알라딘과 자스민공주 - 대전​​​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/58601</link>
             <guid>http://www.ticketlink.co.kr/help/notice/58601</guid>
@@ -661,32 +689,32 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.01.22(월) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 <어린이마술쇼> - 울산 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58590</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58590</guid>
-            <pubDate>Thu, 18 Jan 2024 07:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.22(월) 00:00]]></content:encoded>
+            <title><![CDATA[세종문화회관 <2024 세종시즌> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58606</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58606</guid>
+            <pubDate>Fri, 19 Jan 2024 07:03:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.24(수) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 2024 라이브 가족뮤지컬 <피터팬> - 서울 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58589</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58589</guid>
-            <pubDate>Thu, 18 Jan 2024 07:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.19(금) 08:00]]></content:encoded>
+            <title><![CDATA[꼬마버스타요 - 용감한 구조대 레스큐 타요 (서울 용산아트홀)​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58605</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58605</guid>
+            <pubDate>Fri, 19 Jan 2024 07:03:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.22(월) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 가족마술콘서트 <매직오브아트시즌2> -고양 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58588</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58588</guid>
-            <pubDate>Thu, 18 Jan 2024 07:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.22(월) 00:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  ​어린이마술쇼 - 전주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58604</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58604</guid>
+            <pubDate>Fri, 19 Jan 2024 07:03:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.23(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[안양] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58587</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58587</guid>
-            <pubDate>Thu, 18 Jan 2024 05:03:59 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.22(월) 02:00]]></content:encoded>
+            <title><![CDATA[70만 관객을 웃고울린 명품연극<염쟁이 유씨>제주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58603</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58603</guid>
+            <pubDate>Fri, 19 Jan 2024 07:03:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.24(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[알라딘과 자스민공주 - 대전​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -764,34 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/58591</guid>
             <pubDate>Thu, 18 Jan 2024 07:03:44 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.22(월) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 <어린이마술쇼> - 울산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58590</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58590</guid>
-            <pubDate>Thu, 18 Jan 2024 07:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.22(월) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 2024 라이브 가족뮤지컬 <피터팬> - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58589</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58589</guid>
-            <pubDate>Thu, 18 Jan 2024 07:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.19(금) 08:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 가족마술콘서트 <매직오브아트시즌2> -고양 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58588</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58588</guid>
-            <pubDate>Thu, 18 Jan 2024 07:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.22(월) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[안양] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58587</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58587</guid>
-            <pubDate>Thu, 18 Jan 2024 05:04:05 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.22(월) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
