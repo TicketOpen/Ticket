@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 05:03:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 06:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8313</guid>
             <pubDate>Tue, 16 Jan 2024 11:01:56 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.18(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 뮤지컬 노트르담 드 파리 - 한국어버전 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49928&amp;groupno=49928&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49928&amp;groupno=49928&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 19 Jan 2024 06:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[24.01.23(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈오즈〉 (인터파크 티켓)]]></title>
@@ -188,13 +195,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49908&amp;groupno=49908&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 18 Jan 2024 03:02:24 GMT</pubDate>
             <content:encoded><![CDATA[24.01.17(수)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[JUST DANCE 14주년 콘서트 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49907&amp;groupno=49907&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49907&amp;groupno=49907&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 18 Jan 2024 02:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[24.02.13(화)&nbsp;19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[그림읽어주는베토벤 THE CONCERT 〈플란다스의개〉－부산 (인터파크 티켓)]]></title>
@@ -584,6 +584,27 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/07/202312/19/pantdwrxgisw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[알라딘과 자스민공주 - 대전​​​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58601</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58601</guid>
+            <pubDate>Fri, 19 Jan 2024 06:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.24(수) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[알라딘과 자스민공주 - 중랑​​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58600</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58600</guid>
+            <pubDate>Fri, 19 Jan 2024 06:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.24(수) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[알라딘과 자스민공주 - 해운대​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58599</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58599</guid>
+            <pubDate>Fri, 19 Jan 2024 06:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.23(화) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[알라딘과 자스민공주 - 목포​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/58598</link>
             <guid>http://www.ticketlink.co.kr/help/notice/58598</guid>
@@ -668,25 +689,25 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.01.22(월) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[부산] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58586</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58586</guid>
-            <pubDate>Thu, 18 Jan 2024 05:03:59 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.22(월) 02:00]]></content:encoded>
+            <title><![CDATA[알라딘과 자스민공주 - 대전​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58601</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58601</guid>
+            <pubDate>Fri, 19 Jan 2024 06:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.24(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 골든걸스 콘서트 [성남]​​​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58585</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58585</guid>
-            <pubDate>Thu, 18 Jan 2024 05:03:59 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.19(금) 08:00]]></content:encoded>
+            <title><![CDATA[알라딘과 자스민공주 - 중랑​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58600</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58600</guid>
+            <pubDate>Fri, 19 Jan 2024 06:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.24(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] ​골든걸스 콘서트 [고양]​​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58584</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58584</guid>
-            <pubDate>Thu, 18 Jan 2024 05:03:59 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.19(금) 05:00]]></content:encoded>
+            <title><![CDATA[알라딘과 자스민공주 - 해운대​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58599</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58599</guid>
+            <pubDate>Fri, 19 Jan 2024 06:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.23(화) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[알라딘과 자스민공주 - 목포​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -771,27 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/58587</guid>
             <pubDate>Thu, 18 Jan 2024 05:04:05 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.22(월) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[부산] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58586</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58586</guid>
-            <pubDate>Thu, 18 Jan 2024 05:04:05 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.22(월) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 골든걸스 콘서트 [성남]​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58585</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58585</guid>
-            <pubDate>Thu, 18 Jan 2024 05:04:05 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.19(금) 08:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] ​골든걸스 콘서트 [고양]​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58584</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58584</guid>
-            <pubDate>Thu, 18 Jan 2024 05:04:05 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.19(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
