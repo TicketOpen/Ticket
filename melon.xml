@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-01-19T02:24:51.574Z</updated>
+    <updated>2024-01-19T04:10:06.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌7 My Universe［길라 단독 콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8323</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8323"/>
+        <updated>2024-01-19T04:07:47.872Z</updated>
+        <content type="html"><![CDATA[2024.01.26(금) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[oceanfromtheblue Live ＠Rolling Hall：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8322</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8322"/>
+        <updated>2024-01-19T04:07:47.872Z</updated>
+        <content type="html"><![CDATA[2024.01.25(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 맢동산 팬 콘서트［BACKSTAGE］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8321</id>
@@ -59,20 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8313</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8313"/>
         <updated>2024-01-16T11:01:56.325Z</updated>
-        <content type="html"><![CDATA[2024.01.18(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈레베카〉 10주년 기념공연 앙코르－부산 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8312</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8312"/>
-        <updated>2024-01-18T05:02:17.180Z</updated>
-        <content type="html"><![CDATA[2024.01.23(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스티x라울 더블 콘서트 ‘띠동갑’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8311</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8311"/>
-        <updated>2024-01-16T05:01:33.816Z</updated>
         <content type="html"><![CDATA[2024.01.18(목) 20:00]]></content>
     </entry>
 </feed>

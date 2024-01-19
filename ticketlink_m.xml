@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-19T02:24:51.562Z</updated>
+    <updated>2024-01-19T04:10:06.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엘사의 생일파티 - 익산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58597</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58597"/>
+        <updated>2024-01-19T04:09:59.345Z</updated>
+        <content type="html"><![CDATA[2024.01.23(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[누가 내 머리에 똥 쌌어 - 화성누림​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58596</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58596"/>
+        <updated>2024-01-19T04:09:59.357Z</updated>
+        <content type="html"><![CDATA[2024.01.24(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​Symphony Of The Drama​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58595</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58595"/>
+        <updated>2024-01-19T04:09:59.357Z</updated>
+        <content type="html"><![CDATA[2024.01.23(화) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 골든걸스 콘서트 [대구]​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58594</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58583"/>
         <updated>2024-01-18T01:48:19.754Z</updated>
         <content type="html"><![CDATA[2024.01.19(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​마술사 최형배의 오리지널 과학마술콘서트 공룡편 - 울산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58582</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58582"/>
-        <updated>2024-01-18T07:03:44.502Z</updated>
-        <content type="html"><![CDATA[2024.01.19(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  티나게 놀자! (Teenager)-군산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58581</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58581"/>
-        <updated>2024-01-18T01:48:19.756Z</updated>
-        <content type="html"><![CDATA[2024.01.25(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 트롬본 앙상블 세븐포지션 제 3회 정기연주회 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58580</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58580"/>
-        <updated>2024-01-18T01:48:19.757Z</updated>
-        <content type="html"><![CDATA[2024.01.18(목) 01:00]]></content>
     </entry>
 </feed>
