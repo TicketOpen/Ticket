@@ -4,18 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Jan 2024 15:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 16:03:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2024 〈어린이마술쇼〉 - 울산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49885</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49885</guid>
-            <pubDate>Fri, 19 Jan 2024 16:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.22
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000962_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[2024 가족마술콘서트 〈매직오브아트시즌2〉 - 고양]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49893</link>
@@ -26,13 +17,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000964_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[부산] 뮤지컬 캐치! 티니핑 〈두근두근 싱어롱 콘서트!〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49913</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49913</guid>
+            <title><![CDATA[2024 〈어린이마술쇼〉 - 울산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49885</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49885</guid>
             <pubDate>Fri, 19 Jan 2024 16:05:53 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.22
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000954_p.gif" length="0" type="image/gif"/>
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000962_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[안양] 뮤지컬 캐치!티니핑 〈두근두근 싱어롱 콘서트!〉]]></title>
@@ -42,6 +33,15 @@
             <content:encoded><![CDATA[2024.01.22
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000969_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[부산] 뮤지컬 캐치! 티니핑 〈두근두근 싱어롱 콘서트!〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49913</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49913</guid>
+            <pubDate>Fri, 19 Jan 2024 16:05:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.22
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000954_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈거미여인의 키스〉]]></title>
