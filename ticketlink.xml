@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-22T07:04:19.545Z</updated>
+    <updated>2024-01-22T08:11:21.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주예술의전당 2024 포시즌] 안네 소피 무터 바이올린 리사이틀 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58619</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58619"/>
+        <updated>2024-01-22T08:11:10.322Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.07(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알라딘과 자스민공주 - 원주​​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58618</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58605"/>
         <updated>2024-01-19T07:03:36.086Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.22(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​어린이마술쇼 - 전주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58604</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58604"/>
-        <updated>2024-01-19T07:03:36.087Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.23(화) 05:00]]></content>
     </entry>
 </feed>
