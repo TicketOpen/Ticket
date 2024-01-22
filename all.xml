@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 08:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 10:06:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍승민 첫 단독 콘서트 〈TAKE OFF〉 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8330</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8330</guid>
+            <pubDate>Mon, 22 Jan 2024 10:04:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.24(수) 18:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[BAND DALDAM concert 〈신사〉 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8328</link>
@@ -71,11 +78,11 @@
             <content:encoded><![CDATA[2024.01.19(금) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈레베카〉 10주년 기념공연 앙코르－광주 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8316</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8316</guid>
-            <pubDate>Thu, 18 Jan 2024 05:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.23(화) 17:00]]></content:encoded>
+            <title><![CDATA[D’s ROAD in SEOUL (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49947&amp;groupno=49947&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49947&amp;groupno=49947&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 22 Jan 2024 10:04:50 GMT</pubDate>
+            <content:encoded><![CDATA[24.02.07(수)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 연극 〈친정엄마와 2박3일〉 - 안산 (인터파크 티켓)]]></title>
@@ -188,13 +195,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49935&amp;groupno=49935&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 22 Jan 2024 05:01:42 GMT</pubDate>
             <content:encoded><![CDATA[24.01.24(수)&nbsp;09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[두드림페스티벌 2024 Ch.두드림 다큐&드라마 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49930&amp;groupno=49930&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49930&amp;groupno=49930&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 22 Jan 2024 05:01:42 GMT</pubDate>
-            <content:encoded><![CDATA[24.01.23(화)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 〈슈퍼스타 뽀로로 드림콘서트.. (인터파크 티켓)]]></title>
@@ -796,9 +796,9 @@
         <item>
             <title><![CDATA[후원
 											뮤지컬 <레드북> 02월 05일 19:00 녹화 중계 (네이버 공연)]]></title>
-            <link>https://tv.naver.com/l/146786</link>
-            <guid>https://tv.naver.com/l/146786</guid>
-            <pubDate>Mon, 22 Jan 2024 05:03:27 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/ateod</link>
+            <guid>https://patron.naver.com/ntv/c/intro/ateod</guid>
+            <pubDate>Mon, 22 Jan 2024 10:06:46 GMT</pubDate>
             <content:encoded><![CDATA[02월 05일(월) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240122_172/qwb1E_1705884278037vTfwW_JPEG/1705884278012.jpg" length="0" type="image/jpg"/>
         </item>
