@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-23T04:09:55.904Z</updated>
+    <updated>2024-01-23T06:11:00.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2024 계성초등학교 오케스트라 제1회 정기연주회​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58625</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58625"/>
+        <updated>2024-01-23T06:10:55.053Z</updated>
+        <content type="html"><![CDATA[2024.01.24(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 스타크래프트 츠캄옥션 결승전 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58624</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58624"/>
+        <updated>2024-01-23T06:10:55.054Z</updated>
+        <content type="html"><![CDATA[2024.01.24(수) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 인천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58623</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58623"/>
+        <updated>2024-01-23T06:10:55.054Z</updated>
+        <content type="html"><![CDATA[2024.01.24(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 가족마술콘서트 <매직오브아트시즌2> - 광주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58622</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58611"/>
         <updated>2024-01-22T05:03:22.316Z</updated>
         <content type="html"><![CDATA[2024.01.24(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​[광주예술의전당 2024 포시즌] 글로벌 K-뮤지컬 <마리 퀴리> 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58610</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58610"/>
-        <updated>2024-01-22T05:03:22.319Z</updated>
-        <content type="html"><![CDATA[2024.01.25(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브가족뮤지컬 <피터팬> - 안양 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58609</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58609"/>
-        <updated>2024-01-22T05:03:22.319Z</updated>
-        <content type="html"><![CDATA[2024.01.23(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신데렐라 - 인천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58608</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58608"/>
-        <updated>2024-01-19T09:04:26.679Z</updated>
-        <content type="html"><![CDATA[2024.01.22(월) 01:00]]></content>
     </entry>
 </feed>
