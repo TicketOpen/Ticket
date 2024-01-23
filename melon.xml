@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-01-23T07:03:34.981Z</updated>
+    <updated>2024-01-23T10:05:18.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MUSIC DRIVE with FRankly 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8332</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8332"/>
+        <updated>2024-01-23T10:03:25.529Z</updated>
+        <content type="html"><![CDATA[2024.01.26(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍승민 첫 단독 콘서트 〈TAKE OFF〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8330</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8318"/>
         <updated>2024-01-18T05:02:17.170Z</updated>
         <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 딥앤댑 팬미팅 〈제1회 녹색어머니회 모집 공고：우리 이제 GREEN LIGHT？〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8317</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8317"/>
-        <updated>2024-01-17T12:10:31.140Z</updated>
-        <content type="html"><![CDATA[2024.01.19(금) 20:00]]></content>
     </entry>
 </feed>
