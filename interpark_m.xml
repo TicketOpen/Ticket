@@ -1,8 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://mticket.interpark.com/Notice/</id>
-    <title>인터파크 티켓 모바일</title>
-    <updated>2024-01-24T21:02:48.462Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>인터파크 티켓 모바일</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 24 Jan 2024 22:02:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 가족마술콘서트 〈매직오브아트시즌2〉 - 광주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49940</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49940</guid>
+            <pubDate>Wed, 24 Jan 2024 22:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.25
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001137_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[최형배 마술사의 〈MAGIC MOON〉 - 창원]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49939</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49939</guid>
+            <pubDate>Wed, 24 Jan 2024 22:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.25
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001154_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 앤서니브라운 가족뮤지컬 〈돼지책〉 - 고양]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49938</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49938</guid>
+            <pubDate>Wed, 24 Jan 2024 22:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.25
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001147_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 〈슈퍼스타 뽀로로 드림콘서트〉 시즌 2 - 용인]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49941</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49941</guid>
+            <pubDate>Wed, 24 Jan 2024 22:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.25
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001054_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 더데빌：파우스트]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49929</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49929</guid>
+            <pubDate>Wed, 24 Jan 2024 22:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.25
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23015352_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[숨무용학원 예술 무용제]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49931</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49931</guid>
+            <pubDate>Wed, 24 Jan 2024 22:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.25
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001216_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈JUMP 점프〉 - 부산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49932</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49932</guid>
+            <pubDate>Wed, 24 Jan 2024 22:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001081_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈디어 에반 핸슨〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49903</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49903</guid>
+            <pubDate>Wed, 24 Jan 2024 22:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001044_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 뮤지컬 〈키키의 경계성 인격장애 다이어리〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49902</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49902</guid>
+            <pubDate>Wed, 24 Jan 2024 22:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23018293_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[판소리 그림자 인형극 〈서천꽃밭 이야기〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49949</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49949</guid>
+            <pubDate>Wed, 24 Jan 2024 22:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.25
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001018_p.gif" length="0" type="image/gif"/>
+        </item>
+    </channel>
+</rss>
