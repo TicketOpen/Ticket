@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 23:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 00:31:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[［ 신년특별기획 ］ 워너브라더스 100주년 특별전]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=971</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=971</guid>
+            <pubDate>Wed, 24 Jan 2024 00:30:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.24
+                                    <span>00:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000809_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[두드림페스티벌 2024 깐돌이와 친구들]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49935</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2024.01.24
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001014_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2024_안산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49899</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49899</guid>
-            <pubDate>Tue, 23 Jan 2024 23:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.24
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001099_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
