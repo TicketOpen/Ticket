@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-01-24T02:25:52.383Z</updated>
+    <updated>2024-01-24T03:07:45.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌7［김승주 단독 콘서트 “가짜열혈멸종프로젝트”］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8335</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8335"/>
+        <updated>2024-01-24T03:05:42.075Z</updated>
+        <content type="html"><![CDATA[2024.01.31(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌7 My Universe［Woshi（우시）단독 콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8334</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8334"/>
+        <updated>2024-01-24T03:05:42.078Z</updated>
+        <content type="html"><![CDATA[2024.01.31(수) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YB LIGHTS；Prologue 롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8333</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8333"/>
+        <updated>2024-01-24T03:05:42.084Z</updated>
+        <content type="html"><![CDATA[2024.01.30(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MUSIC DRIVE with FRankly 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8332</id>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8322"/>
         <updated>2024-01-19T04:07:47.872Z</updated>
         <content type="html"><![CDATA[2024.01.25(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 맢동산 팬 콘서트［BACKSTAGE］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8321</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8321"/>
-        <updated>2024-01-18T13:09:22.181Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 딥앤댑 애프터 밋업 토크 〈제1회 녹색어머니회 모집 공고：우리 이제 GREEN LIGHT？〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8320</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8320"/>
-        <updated>2024-01-18T13:09:22.183Z</updated>
-        <content type="html"><![CDATA[2024.01.19(금) 21:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 IU H．E．R．WORLD TOUR CONCERT IN SEOUL 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8318</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8318"/>
-        <updated>2024-01-18T05:02:17.170Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
     </entry>
 </feed>
