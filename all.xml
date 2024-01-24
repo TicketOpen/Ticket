@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 01:53:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 02:25:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001014_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 [클럽 드바이] 쇼케이스 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13958</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13958</guid>
+            <pubDate>Wed, 24 Jan 2024 02:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.26(금) 16:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[성남] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13957</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13957</guid>
@@ -427,11 +434,11 @@
             <content:encoded><![CDATA[2024.01.22(월) 18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[광주] 뮤지컬 [레베카] 10주년 기념 공연 앙코르 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13938</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13938</guid>
-            <pubDate>Thu, 18 Jan 2024 05:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.23(화) 17:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 [클럽 드바이] 쇼케이스 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13958&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13958&amp;order=1</guid>
+            <pubDate>Wed, 24 Jan 2024 02:25:29 GMT</pubDate>
+            <content:encoded><![CDATA[2024-01-26(금) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[성남] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -495,13 +502,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13949&amp;order=1</guid>
             <pubDate>Mon, 22 Jan 2024 05:03:04 GMT</pubDate>
             <content:encoded><![CDATA[2024-01-24(수) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [더데빌:파우스트] 마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13948&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13948&amp;order=1</guid>
-            <pubDate>Fri, 19 Jan 2024 07:03:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024-01-25(목) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[세종문화회관 〈2024 세종시즌〉 티켓오픈 안내 (위메프 공연티켓)]]></title>
