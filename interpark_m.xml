@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 03:07:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 10:03:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,31 +71,31 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001122_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[［2024 Theatre 이문세］ - 부산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49859</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49859</guid>
-            <pubDate>Tue, 23 Jan 2024 23:02:30 GMT</pubDate>
+            <title><![CDATA[화가시리즈 - 뮤지컬 〈에곤 실레〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49917</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49917</guid>
+            <pubDate>Wed, 24 Jan 2024 10:02:56 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.24
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001055_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23014946_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2024_인천]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49906</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49906</guid>
-            <pubDate>Tue, 23 Jan 2024 23:02:30 GMT</pubDate>
+            <title><![CDATA[히사이시 조 영화음악 콘서트 2024_안산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49899</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49899</guid>
+            <pubDate>Wed, 24 Jan 2024 10:02:56 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.24
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001005_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001099_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 〈급식걸즈 - 뿌슝빠슝 깨져버린 우정〉 - 인천]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49905</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49905</guid>
-            <pubDate>Tue, 23 Jan 2024 23:02:30 GMT</pubDate>
+            <title><![CDATA[창작가무극 〈다윈 영의 악의 기원〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49891</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49891</guid>
+            <pubDate>Wed, 24 Jan 2024 10:02:56 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.24
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001014_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000633_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
