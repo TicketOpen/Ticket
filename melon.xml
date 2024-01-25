@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-01-25T04:09:44.026Z</updated>
+    <updated>2024-01-25T06:10:43.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 TAEYONG CONCERT 〈TY TRACK〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8342</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8342"/>
+        <updated>2024-01-25T06:08:47.196Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈레베카〉 10주년 기념공연 앙코르－울산 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8341</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8341"/>
+        <updated>2024-01-25T06:08:47.200Z</updated>
+        <content type="html"><![CDATA[2024.02.02(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈레베카〉 10주년 기념공연 앙코르－전주 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8340</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8340"/>
+        <updated>2024-01-25T06:08:47.213Z</updated>
+        <content type="html"><![CDATA[2024.01.30(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 대구힙합페스티벌 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8339</id>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8333"/>
         <updated>2024-01-24T03:05:42.084Z</updated>
         <content type="html"><![CDATA[2024.01.30(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MUSIC DRIVE with FRankly 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8332</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8332"/>
-        <updated>2024-01-23T10:03:25.529Z</updated>
-        <content type="html"><![CDATA[2024.01.26(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍승민 첫 단독 콘서트 〈TAKE OFF〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8330</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8330"/>
-        <updated>2024-01-22T10:04:42.063Z</updated>
-        <content type="html"><![CDATA[2024.01.24(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BAND DALDAM concert 〈신사〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8328</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8328"/>
-        <updated>2024-01-22T05:01:34.911Z</updated>
-        <content type="html"><![CDATA[2024.01.26(금) 20:00]]></content>
     </entry>
 </feed>
