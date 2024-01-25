@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 11:03:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 15:05:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/50/202312/20/lcj5ng9oci9v.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가족뮤지컬 <우리 아빠가 최고야> - 남양주 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58649</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58649</guid>
+            <pubDate>Thu, 25 Jan 2024 15:05:17 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.29(월) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[마술사 최형배의 오리지널과학마술콘서트 시즌1 - 인천 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/58648</link>
             <guid>http://www.ticketlink.co.kr/help/notice/58648</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.01.31(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 가족 연형극 <소녀 순이> - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58633</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58633</guid>
-            <pubDate>Wed, 24 Jan 2024 01:53:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.26(금) 01:00]]></content:encoded>
+            <title><![CDATA[가족뮤지컬 <우리 아빠가 최고야> - 남양주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58649</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58649</guid>
+            <pubDate>Thu, 25 Jan 2024 15:05:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.29(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마술사 최형배의 오리지널과학마술콘서트 시즌1 - 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/58634</guid>
             <pubDate>Wed, 24 Jan 2024 01:53:23 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.31(수) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 가족 연형극 <소녀 순이> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58633</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58633</guid>
-            <pubDate>Wed, 24 Jan 2024 01:53:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.26(금) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
