@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-01-26T03:05:18.885Z</updated>
+    <updated>2024-01-26T05:04:15.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 루미너스 뮤직 스테이지 페스타［신현희］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8348</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8348"/>
+        <updated>2024-01-26T05:02:19.535Z</updated>
+        <content type="html"><![CDATA[2024.01.29(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 루미너스 뮤직 스테이지 페스타［나기철x최인경］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8347</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8338"/>
         <updated>2024-01-24T10:02:35.249Z</updated>
         <content type="html"><![CDATA[2024.01.29(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈헤드윅〉 1차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8337</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8337"/>
-        <updated>2024-01-24T10:02:35.250Z</updated>
-        <content type="html"><![CDATA[2024.01.31(수) 14:00]]></content>
     </entry>
 </feed>
