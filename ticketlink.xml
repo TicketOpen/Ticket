@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-26T08:09:52.569Z</updated>
+    <updated>2024-01-26T09:04:27.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <엄마까투리는 슈퍼맘> - 양산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58655</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58655"/>
+        <updated>2024-01-26T09:04:15.635Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.31(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <우리 아빠가 최고야> - 김포​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58654</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58641"/>
         <updated>2024-01-25T01:54:37.715Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.29(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 iKON FAN CONCERT : CURTAIN-CALL​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58640</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58640"/>
-        <updated>2024-01-24T10:03:31.382Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.01(목) 11:00]]></content>
     </entry>
 </feed>
