@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-01-26T00:29:05.179Z</updated>
+    <updated>2024-01-26T03:05:18.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 루미너스 뮤직 스테이지 페스타［나기철x최인경］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8347</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8347"/>
+        <updated>2024-01-26T03:03:21.556Z</updated>
+        <content type="html"><![CDATA[2024.01.29(월) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VROMANCE 1ST CONCERT［VROMANCE의 작업실：＃처음］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8346</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8346"/>
+        <updated>2024-01-26T03:03:21.557Z</updated>
+        <content type="html"><![CDATA[2024.01.29(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 아이디얼스 단독 콘서트 〈SPACE STATION〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8345</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8345"/>
+        <updated>2024-01-26T03:03:21.557Z</updated>
+        <content type="html"><![CDATA[2024.01.30(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[슈야，라디오파라다이스，마리슈 기획 공연 〈찐새해〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8343</id>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8337"/>
         <updated>2024-01-24T10:02:35.250Z</updated>
         <content type="html"><![CDATA[2024.01.31(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weird Strangers＃00 추가 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8336</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8336"/>
-        <updated>2024-01-24T10:02:35.251Z</updated>
-        <content type="html"><![CDATA[2024.01.26(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌7［김승주 단독 콘서트 “가짜열혈멸종프로젝트”］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8335</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8335"/>
-        <updated>2024-01-24T03:05:42.075Z</updated>
-        <content type="html"><![CDATA[2024.01.31(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌7 My Universe［Woshi（우시）단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8334</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8334"/>
-        <updated>2024-01-24T03:05:42.078Z</updated>
-        <content type="html"><![CDATA[2024.01.31(수) 19:00]]></content>
     </entry>
 </feed>
