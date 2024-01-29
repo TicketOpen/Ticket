@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-01-29T01:41:16.303Z</updated>
+    <updated>2024-01-29T03:04:57.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[낭만의 도시 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8352</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8352"/>
+        <updated>2024-01-29T03:02:57.030Z</updated>
+        <content type="html"><![CDATA[2024.01.30(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 OMEGA X CONCERT in SEOUL 〈 ISLAND：FINALLY WE LANDED 〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8351</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8342"/>
         <updated>2024-01-25T06:08:47.196Z</updated>
         <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈레베카〉 10주년 기념공연 앙코르－울산 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8341</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8341"/>
-        <updated>2024-01-25T06:08:47.200Z</updated>
-        <content type="html"><![CDATA[2024.02.02(금) 14:00]]></content>
     </entry>
 </feed>
