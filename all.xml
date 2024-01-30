@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 10:04:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 13:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/42/202312/26/inezyobavx1z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 광주시립교향악단 체임버 시리즈 II​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58680</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58680</guid>
+            <pubDate>Tue, 30 Jan 2024 13:03:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.31(수) 08:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[공지] 시스템 임시점검(2/1 01:00 ~ 03:00)으로 인한 서비스 일시 중단 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/58679</link>
             <guid>http://www.ticketlink.co.kr/help/notice/58679</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.02.01(목) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[EBS 친구들이 뭉쳤다! 이벤져스 라이브! - 이천​​ 티켓오픈 안내​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58662</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58662</guid>
-            <pubDate>Tue, 30 Jan 2024 10:04:24 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.31(수) 00:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 광주시립교향악단 체임버 시리즈 II​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58680</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58680</guid>
+            <pubDate>Tue, 30 Jan 2024 13:03:17 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.31(수) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공지] 시스템 임시점검(2/1 01:00 ~ 03:00)으로 인한 서비스 일시 중단 안내 (티켓링크 모바일)]]></title>
@@ -787,13 +794,6 @@
             <content:encoded><![CDATA[2024.02.01(목) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[EBS 친구들이 뭉쳤다! 이벤져스 라이브! - 이천​​ 티켓오픈 안내​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58662</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58662</guid>
-            <pubDate>Tue, 30 Jan 2024 10:04:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.31(수) 00:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[후원
 											뮤지컬 <레드북> 02월 05일 19:00 녹화 중계 (네이버 공연)]]></title>
             <link>https://patron.naver.com/ntv/c/intro/ateod</link>
@@ -810,6 +810,15 @@
             <pubDate>Tue, 23 Jan 2024 07:03:34 GMT</pubDate>
             <content:encoded><![CDATA[02월 19일(월) 19:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240116_209/fL94y_1705386340231tVyNA_JPEG/1705386340211.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											오페라 <알제리의 이탈리아 여인> (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/koreanationalopera</link>
+            <guid>https://patron.naver.com/ntv/c/intro/koreanationalopera</guid>
+            <pubDate>Tue, 30 Jan 2024 13:03:22 GMT</pubDate>
+            <content:encoded><![CDATA[02월 24일(토) 15:00]]></content:encoded>
+            <enclosure url="https://g-grafolio.pstatic.net/20240130_281/1706616836893sgwS6_JPEG/880X495_TV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
