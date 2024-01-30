@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-01-30T05:02:40.547Z</updated>
+    <updated>2024-01-30T06:09:42.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WOOSEOK 1ST FANMEETING ‘불멍：BULMUNG’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8359</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8359"/>
+        <updated>2024-01-30T06:08:33.446Z</updated>
+        <content type="html"><![CDATA[2024.02.02(금) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[초승 단독 콘서트 〈vase：아끼는 꽃병을 내어드립니다〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8358</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8358"/>
+        <updated>2024-01-30T06:08:33.446Z</updated>
+        <content type="html"><![CDATA[2024.02.05(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제16회 서울재즈페스티벌 2024 1일권 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8357</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8349"/>
         <updated>2024-01-26T06:08:12.704Z</updated>
         <content type="html"><![CDATA[2024.01.29(월) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 루미너스 뮤직 스테이지 페스타［신현희］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8348</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8348"/>
-        <updated>2024-01-26T05:02:19.535Z</updated>
-        <content type="html"><![CDATA[2024.01.29(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 루미너스 뮤직 스테이지 페스타［나기철x최인경］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8347</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8347"/>
-        <updated>2024-01-26T03:03:21.556Z</updated>
-        <content type="html"><![CDATA[2024.01.29(월) 12:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-01-30T05:02:40.493Z</updated>
+    <updated>2024-01-30T06:09:42.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[광주] 베스트셀러 어린이 뮤지컬[콧구멍을 후비면] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13977&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13977&amp;order=1"/>
+        <updated>2024-01-30T06:09:11.227Z</updated>
+        <content type="html"><![CDATA[2024-02-01(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fortena concert  ‘Empire in Busan’ 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13976&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13968&amp;order=1"/>
         <updated>2024-01-29T01:40:52.160Z</updated>
         <content type="html"><![CDATA[2024-02-05(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 3월 토요콘서트 모던록 특집 [짙은 봄：ZITTEN] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13967&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13967&amp;order=1"/>
-        <updated>2024-01-29T01:40:52.161Z</updated>
-        <content type="html"><![CDATA[2024-02-02(금) 14:00]]></content>
     </entry>
 </feed>

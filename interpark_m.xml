@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 05:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 06:09:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,15 +26,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000907_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 〈꼬마버스 타요 - 용감한 구조대 레스큐 타요〉 - 부산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49950</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49950</guid>
-            <pubDate>Mon, 29 Jan 2024 19:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.30
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001123_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[가족뮤지컬 *또봇* 대도시의 영웅들]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49834</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49834</guid>
@@ -42,6 +33,15 @@
             <content:encoded><![CDATA[2024.01.30
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001352_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 〈꼬마버스 타요 - 용감한 구조대 레스큐 타요〉 - 부산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49950</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49950</guid>
+            <pubDate>Mon, 29 Jan 2024 19:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.30
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001123_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈너를 위한 글자〉]]></title>
@@ -71,6 +71,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001362_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[고도를 기다리며]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49993</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49993</guid>
+            <pubDate>Tue, 30 Jan 2024 06:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.30
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001319_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[연극〈알앤제이(R＆J)〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49990</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49990</guid>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2024.01.30
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001272_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈급식걸즈 - 뿌슝빠슝 깨져버린 우정〉 - 제주]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50009</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50009</guid>
-            <pubDate>Tue, 30 Jan 2024 05:01:55 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.30
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001233_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
