@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 06:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 07:04:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/42/202312/26/inezyobavx1z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[공지] 시스템 임시점검(2/1 01:00 ~ 03:00)으로 인한 서비스 일시 중단 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58679</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58679</guid>
+            <pubDate>Tue, 30 Jan 2024 07:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.30]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <메리셸리> 4차​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/58678</link>
             <guid>http://www.ticketlink.co.kr/help/notice/58678</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.02.01(목) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[EBS 친구들이 뭉쳤다! 이벤져스 라이브! - 이천​​ 티켓오픈 안내​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58662</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58662</guid>
-            <pubDate>Mon, 29 Jan 2024 05:03:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.01.31(수) 00:00]]></content:encoded>
+            <title><![CDATA[[공지] 시스템 임시점검(2/1 01:00 ~ 03:00)으로 인한 서비스 일시 중단 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58679</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58679</guid>
+            <pubDate>Tue, 30 Jan 2024 07:04:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/help/notice/58679" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b> 시스템 임시점검(2/1 01:00 ~ 03:00)으로 인한 서비스 일시 중단 안내</h3></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <메리셸리> 4차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/58663</guid>
             <pubDate>Mon, 29 Jan 2024 05:04:00 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.01(목) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[EBS 친구들이 뭉쳤다! 이벤져스 라이브! - 이천​​ 티켓오픈 안내​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58662</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58662</guid>
-            <pubDate>Mon, 29 Jan 2024 05:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.31(수) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
