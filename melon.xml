@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-01-30T02:15:05.171Z</updated>
+    <updated>2024-01-30T03:05:24.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제16회 서울재즈페스티벌 2024 1일권 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8357</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8357"/>
+        <updated>2024-01-30T03:03:18.367Z</updated>
+        <content type="html"><![CDATA[2024.02.06(화) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 쿠모 팬미팅［쿠사리 먹방］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8356</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8347"/>
         <updated>2024-01-26T03:03:21.556Z</updated>
         <content type="html"><![CDATA[2024.01.29(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VROMANCE 1ST CONCERT［VROMANCE의 작업실：＃처음］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8346</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8346"/>
-        <updated>2024-01-26T03:03:21.557Z</updated>
-        <content type="html"><![CDATA[2024.01.29(월) 20:00]]></content>
     </entry>
 </feed>
