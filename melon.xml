@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-01-31T10:04:00.167Z</updated>
+    <updated>2024-01-31T11:03:52.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더 글로우 2024（THE GLOW 2024）티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8361</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8361"/>
+        <updated>2024-01-31T11:01:48.773Z</updated>
+        <content type="html"><![CDATA[2024.02.15(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌7 My Universe［정우 단독 콘서트］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8360</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8351"/>
         <updated>2024-01-26T10:02:20.412Z</updated>
         <content type="html"><![CDATA[2024.01.31(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈알앤제이（R＆J）〉 3차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8350</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8350"/>
-        <updated>2024-01-26T06:08:12.701Z</updated>
-        <content type="html"><![CDATA[2024.01.30(화) 14:00]]></content>
     </entry>
 </feed>
