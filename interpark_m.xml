@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 04:10:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 07:02:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,24 +35,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001354_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈아트〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49975</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49975</guid>
-            <pubDate>Tue, 30 Jan 2024 16:03:47 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.31
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000651_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[폴리팝(두들팝ver.2) - 부산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50007</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50007</guid>
-            <pubDate>Tue, 30 Jan 2024 16:03:47 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.31
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23015335_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[가족뮤지컬 〈엄마까투리는 슈퍼맘〉 - 양산]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49994</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49994</guid>
@@ -71,13 +53,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001408_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[먼데이키즈 콘서트 'The Real Voice'  - 창원]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50019</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50019</guid>
+            <title><![CDATA[연극 〈아트〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49975</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=49975</guid>
             <pubDate>Tue, 30 Jan 2024 16:03:47 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.31
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001468_p.gif" length="0" type="image/gif"/>
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000651_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[폴리팝(두들팝ver.2) - 부산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50007</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50007</guid>
+            <pubDate>Tue, 30 Jan 2024 16:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.31
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23015335_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[THE GREATEST : 전율 정동하X소향 - 고양]]></title>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2024.01.31
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001431_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[프라이부르크 바로크 오케스트라 <마태 수난곡>]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50022</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50022</guid>
+            <pubDate>Wed, 31 Jan 2024 07:02:07 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.31
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001280_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
