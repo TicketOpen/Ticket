@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-02-01T05:04:51.048Z</updated>
+    <updated>2024-02-01T07:03:32.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문별 1st Full Album［Starlit of Muse］특별전 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8368</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8368"/>
+        <updated>2024-02-01T07:01:23.131Z</updated>
+        <content type="html"><![CDATA[2024.02.02(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IVE 공식 팬클럽 ‘DIVE’ 3기 모집 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8367</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8359"/>
         <updated>2024-01-30T06:08:33.446Z</updated>
         <content type="html"><![CDATA[2024.02.02(금) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초승 단독 콘서트 〈vase：아끼는 꽃병을 내어드립니다〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8358</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8358"/>
-        <updated>2024-01-30T06:08:33.446Z</updated>
-        <content type="html"><![CDATA[2024.02.05(월) 20:00]]></content>
     </entry>
 </feed>
