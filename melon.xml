@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-02-01T01:45:01.401Z</updated>
+    <updated>2024-02-01T04:11:05.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이츠 단독 콘서트 〈영화〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8365</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8365"/>
+        <updated>2024-02-01T04:09:09.220Z</updated>
+        <content type="html"><![CDATA[2024.02.07(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바투（Batu）정규 앨범 〈순환의 깊이〉 쇼케이스 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8364</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8364"/>
+        <updated>2024-02-01T04:09:09.220Z</updated>
+        <content type="html"><![CDATA[2024.02.02(금) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌7 My Universe［임세모 단독 콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8363</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8363"/>
+        <updated>2024-02-01T04:09:09.221Z</updated>
+        <content type="html"><![CDATA[2024.02.08(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해서웨이 단독 콘서트 “Hathaw9y ETERNITY”：롤링홀 29주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8362</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8362"/>
+        <updated>2024-02-01T04:09:09.221Z</updated>
+        <content type="html"><![CDATA[2024.02.06(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더 글로우 2024（THE GLOW 2024）티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8361</id>
@@ -46,33 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8356"/>
         <updated>2024-01-29T09:03:18.251Z</updated>
         <content type="html"><![CDATA[2024.01.30(화) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［KAI INTO THE WORLD］2024 WORLD TOUR RECITAL－JAPAN 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8355</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8355"/>
-        <updated>2024-01-29T09:03:18.254Z</updated>
-        <content type="html"><![CDATA[2024.01.31(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈그레이트 코멧〉 오프닝위크 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8354</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8354"/>
-        <updated>2024-01-29T05:02:09.683Z</updated>
-        <content type="html"><![CDATA[2024.02.02(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낭만의 도시 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8352</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8352"/>
-        <updated>2024-01-29T03:02:57.030Z</updated>
-        <content type="html"><![CDATA[2024.01.30(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 OMEGA X CONCERT in SEOUL 〈 ISLAND：FINALLY WE LANDED 〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8351</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8351"/>
-        <updated>2024-01-26T10:02:20.412Z</updated>
-        <content type="html"><![CDATA[2024.01.31(수) 20:00]]></content>
     </entry>
 </feed>
