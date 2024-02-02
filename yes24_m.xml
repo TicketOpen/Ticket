@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-02T03:04:57.756Z</updated>
+    <updated>2024-02-02T05:04:54.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 뮤지컬 [광염 소나타] 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13995&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13995&amp;order=1"/>
+        <updated>2024-02-02T05:04:17.543Z</updated>
+        <content type="html"><![CDATA[2024-02-15(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정홍일 팬미팅 [두 번째 이야기：고백] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13994&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13994&amp;order=1"/>
+        <updated>2024-02-02T05:04:17.546Z</updated>
+        <content type="html"><![CDATA[2024-02-06(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화가시리즈 - 뮤지컬 〈에곤 실레〉 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13993&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13993&amp;order=1"/>
+        <updated>2024-02-02T05:04:17.547Z</updated>
+        <content type="html"><![CDATA[2024-02-08(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화가시리즈 - 뮤지컬 〈모딜리아니〉 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13992&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13992&amp;order=1"/>
+        <updated>2024-02-02T05:04:17.554Z</updated>
+        <content type="html"><![CDATA[2024-02-07(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <이카이노 바이크> 2차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13991&amp;order=1</id>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13985&amp;order=1"/>
         <updated>2024-01-31T11:03:25.129Z</updated>
         <content type="html"><![CDATA[2024-02-15(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2024 YB TOUR LIGHTS ; INFINITY 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13984&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13984&amp;order=1"/>
-        <updated>2024-01-31T10:03:30.683Z</updated>
-        <content type="html"><![CDATA[2024-02-07(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 2024 YB TOUR LIGHTS ; INFINITY 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13983&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13983&amp;order=1"/>
-        <updated>2024-01-31T10:03:30.687Z</updated>
-        <content type="html"><![CDATA[2024-02-06(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매직 미디어쇼 〈폴리팝(두들팝ver.2)-부산〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13982&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13982&amp;order=1"/>
-        <updated>2024-01-31T08:08:42.966Z</updated>
-        <content type="html"><![CDATA[2024-02-01(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[얼리버드] 힙노시스：롱 플레잉 스토리 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13981&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=13981&amp;order=1"/>
-        <updated>2024-01-31T08:08:42.966Z</updated>
-        <content type="html"><![CDATA[2024-02-01(목) 09:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-02-02T03:04:57.756Z</updated>
+    <updated>2024-02-02T05:04:54.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 뮤지컬 [광염 소나타] 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13995</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13995"/>
+        <updated>2024-02-02T05:04:07.553Z</updated>
+        <content type="html"><![CDATA[2024.02.15(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13994</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13994"/>
+        <updated>2024-02-02T05:04:07.553Z</updated>
+        <content type="html"><![CDATA[2024.02.06(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화가시리즈 - 뮤지컬 〈에곤 실레〉 마지막 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13993</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13993"/>
+        <updated>2024-02-02T05:04:07.554Z</updated>
+        <content type="html"><![CDATA[2024.02.08(목) 15:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2024.02.08(목) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화가시리즈 - 뮤지컬 〈모딜리아니〉 마지막 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13992</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13992"/>
+        <updated>2024-02-02T05:04:07.556Z</updated>
+        <content type="html"><![CDATA[2024.02.07(수) 14:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2024.02.07(수) 10:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13991</id>
@@ -116,33 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13975"/>
         <updated>2024-01-30T03:04:47.632Z</updated>
         <content type="html"><![CDATA[2024.02.05(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈이프아이월유〉 프리뷰 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13974</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13974"/>
-        <updated>2024-01-30T02:14:35.732Z</updated>
-        <content type="html"><![CDATA[2024.02.06(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13973</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13973"/>
-        <updated>2024-01-30T03:04:47.642Z</updated>
-        <content type="html"><![CDATA[2024.02.05(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프라이부르크 바로크 오케스트라 <마태 수난곡> 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13972</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13972"/>
-        <updated>2024-01-29T08:09:41.763Z</updated>
-        <content type="html"><![CDATA[2024.01.31(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13971</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=13971"/>
-        <updated>2024-01-29T05:03:33.322Z</updated>
-        <content type="html"><![CDATA[2024.02.05(월) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.01.31(수) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
