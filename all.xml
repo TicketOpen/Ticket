@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Feb 2024 12:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 14:03:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,15 +204,6 @@
             <content:encoded><![CDATA[24.02.07(수)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 〈빵빵 이야기 속으로〉 - 대전 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50055</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50055</guid>
-            <pubDate>Sat, 03 Feb 2024 01:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.05
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001571_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 〈빵빵 이야기 속으로〉 - 창원 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50056</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50056</guid>
@@ -220,6 +211,15 @@
             <content:encoded><![CDATA[2024.02.05
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001581_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 〈빵빵 이야기 속으로〉 - 대전 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50055</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50055</guid>
+            <pubDate>Sat, 03 Feb 2024 01:36:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.05
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001571_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[지브리&히사이시 조 : 디 오케스트라 - 대전 (인터파크 티켓 모바일)]]></title>
@@ -249,15 +249,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001567_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 싱어게인3 TOP10 전국투어 - 창원 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50050</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50050</guid>
-            <pubDate>Sat, 03 Feb 2024 01:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.05
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001524_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[THE GREATEST : 전율 정동하X소향 - 진주 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50054</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50054</guid>
@@ -267,13 +258,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001597_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 경록절 X 개러지첫돌 기획공연 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50069</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50069</guid>
+            <title><![CDATA[2024 싱어게인3 TOP10 전국투어 - 창원 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50050</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50050</guid>
             <pubDate>Sat, 03 Feb 2024 01:36:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.05
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001635_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001524_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[손민수 Curated 14 김상윤 (인터파크 티켓 모바일)]]></title>
@@ -285,13 +276,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001634_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[포르테나 콘서트 ‘Empire in Daegu’ (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50028</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50028</guid>
-            <pubDate>Sat, 03 Feb 2024 06:06:37 GMT</pubDate>
+            <title><![CDATA[2024 경록절 X 개러지첫돌 기획공연 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50069</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50069</guid>
+            <pubDate>Sat, 03 Feb 2024 01:36:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.05
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001635_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 싱어게인3 TOP10 전국투어 - 인천 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50049</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50049</guid>
+            <pubDate>Sat, 03 Feb 2024 14:02:23 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.05
                                     <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024012911031372.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001531_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
