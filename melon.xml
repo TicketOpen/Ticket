@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-02-05T04:09:44.677Z</updated>
+    <updated>2024-02-05T05:04:20.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 IVE 2nd FANMEETING 〈MAGAZINE IVE〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8383</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8383"/>
+        <updated>2024-02-05T05:02:13.449Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RYEOWOOK’S AGIT CONCERT：In The Green 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8382</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8382"/>
+        <updated>2024-02-05T05:02:13.449Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROCK SPRING 2024－나른한 봄날의 신나는 Rock Party－티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8381</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8373"/>
         <updated>2024-02-04T18:02:51.297Z</updated>
         <content type="html"><![CDATA[2024.02.06(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아디오스오디오발매예정곡선공개와동시에현장에서제목투표를여러분의손으로：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8371</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8371"/>
-        <updated>2024-02-04T18:02:51.297Z</updated>
-        <content type="html"><![CDATA[2024.02.07(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤딴딴 10주년 전시 속 공연 〈딴딴한 하루＃7〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8370</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8370"/>
-        <updated>2024-02-04T18:02:51.299Z</updated>
-        <content type="html"><![CDATA[2024.02.05(월) 20:00]]></content>
     </entry>
 </feed>
