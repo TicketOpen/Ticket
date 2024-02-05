@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-02-04T22:04:25.167Z</updated>
+    <updated>2024-02-05T03:09:56.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ROCK SPRING 2024－나른한 봄날의 신나는 Rock Party－티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8381</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8381"/>
+        <updated>2024-02-05T03:08:03.589Z</updated>
+        <content type="html"><![CDATA[2024.02.13(화) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문상훈 에세이 “내가 한 말을 내가 오해하지 않기로 함” 사운드 낭독회 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8380</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8380"/>
+        <updated>2024-02-05T03:08:03.589Z</updated>
+        <content type="html"><![CDATA[2024.02.05(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[103번째 로맨틱파티 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8379</id>
@@ -20,7 +34,7 @@
         <content type="html"><![CDATA[2024.02.05(월) 10:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PAIR PLAY：Vol．8－모스크바서핑클럽x코토바 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[PAIR PLAY：Vol．8 모스크바서핑클럽x코토바 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8376</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8376"/>
         <updated>2024-02-04T18:02:51.292Z</updated>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8370"/>
         <updated>2024-02-04T18:02:51.299Z</updated>
         <content type="html"><![CDATA[2024.02.05(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오왠의 ‘어떤 이야기를 들려드릴까요？’ Ep．1 정예원 x 임세모 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8369</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8369"/>
-        <updated>2024-02-04T18:02:51.302Z</updated>
-        <content type="html"><![CDATA[2024.02.02(금) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문별 1st Full Album［Starlit of Muse］특별전 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8368</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8368"/>
-        <updated>2024-02-04T18:02:51.306Z</updated>
-        <content type="html"><![CDATA[2024.02.02(금) 20:00]]></content>
     </entry>
 </feed>
