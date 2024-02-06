@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 00:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 01:39:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,31 +71,31 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001593_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 뮤지컬 노트르담 드 파리 한국어버전 - 부산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50068</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50068</guid>
-            <pubDate>Mon, 05 Feb 2024 17:02:22 GMT</pubDate>
+            <title><![CDATA[연극 <고도를 기다리며> - 대구]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50037</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50037</guid>
+            <pubDate>Tue, 06 Feb 2024 01:38:34 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.06
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001587_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001525_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[슈투트가르트 〈페가소스 스트링 콰르텟〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50057</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50057</guid>
-            <pubDate>Mon, 05 Feb 2024 17:02:22 GMT</pubDate>
+            <title><![CDATA[뮤지컬 드라큘라 (Dracula：The Musical) - 대전]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50016</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50016</guid>
+            <pubDate>Tue, 06 Feb 2024 01:38:34 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.06
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001385_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001348_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 YB TOUR LIGHTS ; INFINITY - 창원]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50046</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50046</guid>
-            <pubDate>Mon, 05 Feb 2024 17:02:22 GMT</pubDate>
+            <title><![CDATA[대구콘서트하우스 2024 기획공연]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50006</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50006</guid>
+            <pubDate>Tue, 06 Feb 2024 01:38:34 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.06
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001369_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001497_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
