@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-02-06T05:04:26.131Z</updated>
+    <updated>2024-02-06T08:10:52.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2024 김창옥 토크콘서트 시즌4 - 전주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58719</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58719"/>
+        <updated>2024-02-06T08:10:46.404Z</updated>
+        <content type="html"><![CDATA[2024.02.08(목) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 2am Concert "One Take" – 부산​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58718</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[2024.02.08(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 오빠시대 전국투어 콘서트 <다시, 젊은 그대로> - 대구​​ 티켓오픈 안]]></title>
+        <title type="html"><![CDATA[[단독판매] 오빠시대 전국투어 콘서트 <다시, 젊은 그대로> - 대구​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58716</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58716"/>
         <updated>2024-02-06T05:04:18.471Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58705"/>
         <updated>2024-02-02T10:04:22.608Z</updated>
         <content type="html"><![CDATA[2024.02.06(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영원한 시간 속에(CHRONOSTASIS) - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58704</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58704"/>
-        <updated>2024-02-02T10:04:22.610Z</updated>
-        <content type="html"><![CDATA[2024.02.07(수) 01:00]]></content>
     </entry>
 </feed>
