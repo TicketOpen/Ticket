@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-02-07T01:38:45.358Z</updated>
+    <updated>2024-02-07T02:14:26.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8397"/>
         <updated>2024-02-07T01:37:35.354Z</updated>
         <content type="html"><![CDATA[2024.02.15(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 케니 지（Kenny G）월드투어 내한공연－서울 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8392</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8392"/>
+        <updated>2024-02-07T02:12:32.298Z</updated>
+        <content type="html"><![CDATA[2024.02.14(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 케니 지（Kenny G）월드투어 내한공연－부산 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8391</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8391"/>
+        <updated>2024-02-07T02:12:32.300Z</updated>
+        <content type="html"><![CDATA[2024.02.14(수) 15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지영훈 단독 공연 티켓 오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8383"/>
         <updated>2024-02-07T01:37:35.372Z</updated>
         <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RYEOWOOK’S AGIT CONCERT：In The Green 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8382</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8382"/>
-        <updated>2024-02-07T01:37:35.372Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROCK SPRING 2024－나른한 봄날의 신나는 Rock Party－티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8381</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8381"/>
-        <updated>2024-02-07T01:37:35.383Z</updated>
-        <content type="html"><![CDATA[2024.02.13(화) 18:00]]></content>
     </entry>
 </feed>
