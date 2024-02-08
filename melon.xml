@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-02-08T08:10:26.739Z</updated>
+    <updated>2024-02-08T09:04:33.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 김범수 콘서트 〈여행，The Original〉 부산 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8405</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8405"/>
+        <updated>2024-02-08T09:02:36.840Z</updated>
+        <content type="html"><![CDATA[2024.02.16(금) 17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아일 전국투어 〈HERE I’ll AM〉－서울, 부산, 춘천 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8404</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8404"/>
+        <updated>2024-02-08T09:02:36.844Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 김주댕 Concert 〈Santa－Fe〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8403</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8403"/>
+        <updated>2024-02-08T09:02:36.847Z</updated>
+        <content type="html"><![CDATA[2024.02.19(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 BAEKHYUN ASIA TOUR 〈Lonsdaleite〉 in SEOUL 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8402</id>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8396"/>
         <updated>2024-02-08T02:13:01.895Z</updated>
         <content type="html"><![CDATA[2024.03.18(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌7 Our Universe［향 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8395</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8395"/>
-        <updated>2024-02-08T02:13:01.897Z</updated>
-        <content type="html"><![CDATA[2024.02.14(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thank You 추승엽 Thank You 악퉁 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8394</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8394"/>
-        <updated>2024-02-08T02:13:01.909Z</updated>
-        <content type="html"><![CDATA[2024.02.08(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김마리 단독 콘서트 “I Got U！”：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8393</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8393"/>
-        <updated>2024-02-08T02:13:01.910Z</updated>
-        <content type="html"><![CDATA[2024.02.13(화) 20:00]]></content>
     </entry>
 </feed>
