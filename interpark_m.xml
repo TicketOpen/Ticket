@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Feb 2024 02:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Feb 2024 05:03:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,15 +44,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001902_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈낭만별곡〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50117</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50117</guid>
-            <pubDate>Fri, 09 Feb 2024 16:02:45 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.13
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001917_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2024 송가인 전국투어 콘서트 “가인(佳人)의 선물” - 인천]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50108</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50108</guid>
@@ -62,13 +53,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001538_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 라비던스 x 크레즐 〈 SUDDENLY FESTIVAL 〉 - 창원]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50143</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50143</guid>
+            <title><![CDATA[뮤지컬 〈낭만별곡〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50117</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50117</guid>
             <pubDate>Fri, 09 Feb 2024 16:02:45 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.13
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001954_p.gif" length="0" type="image/gif"/>
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001917_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 헤이즈 x 유라 〈 SUDDENLY FESTIVAL 〉 - 창원]]></title>
@@ -78,6 +69,15 @@
             <content:encoded><![CDATA[2024.02.13
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001856_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 라비던스 x 크레즐 〈 SUDDENLY FESTIVAL 〉 - 창원]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50143</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50143</guid>
+            <pubDate>Fri, 09 Feb 2024 16:02:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.13
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001954_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[쇼뮤지컬 와일드 와일드 〈애프터파티〉]]></title>
