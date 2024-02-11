@@ -2,21 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-02-11T08:07:16.380Z</updated>
+    <updated>2024-02-11T10:04:11.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  DSAC 시즌 콘서트 <인디 스테이션 : 김사월X한로로> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58745</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58745"/>
-        <updated>2024-02-11T08:07:10.726Z</updated>
-        <content type="html"><![CDATA[2024.02.16(금) 05:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[​2024 변진섭 전국투어 콘서트 : 변천사 - 의정부​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58744</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58744"/>
-        <updated>2024-02-11T08:07:10.726Z</updated>
+        <updated>2024-02-11T08:07:10.723Z</updated>
         <content type="html"><![CDATA[2024.02.14(수) 02:00]]></content>
     </entry>
     <entry>
@@ -109,5 +102,12 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58731"/>
         <updated>2024-02-07T11:03:38.875Z</updated>
         <content type="html"><![CDATA[2024.02.08(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바딤 네셀로브스키 솔로 피아노 Odesa (대구) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58730</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58730"/>
+        <updated>2024-02-11T10:04:06.350Z</updated>
+        <content type="html"><![CDATA[2024.02.14(수) 01:00]]></content>
     </entry>
 </feed>
