@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-02-15T03:04:34.402Z</updated>
+    <updated>2024-02-15T05:04:29.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[음율 1ST FAN－CON ‘눈 맞춤’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8421</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8421"/>
+        <updated>2024-02-15T05:02:31.932Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌7［Lacuna（라쿠나）단독 콘서트 “라쿠나 1교시”］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8420</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8420"/>
+        <updated>2024-02-15T05:02:31.932Z</updated>
+        <content type="html"><![CDATA[2024.02.22(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잠비나이 단독 콘서트 ‘Contrast’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8419</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8419"/>
+        <updated>2024-02-15T05:02:31.932Z</updated>
+        <content type="html"><![CDATA[2024.02.21(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이은결 〈MAGIC＆ILLUSION〉－부산 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8418</id>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8411"/>
         <updated>2024-02-15T01:39:35.204Z</updated>
         <content type="html"><![CDATA[2024.02.16(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제63회 라이브 클럽 데이－일반 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8409</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8409"/>
-        <updated>2024-02-15T01:39:35.206Z</updated>
-        <content type="html"><![CDATA[2024.02.14(수) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루미너스 뮤직 스테이지 vol．5 연정x화아 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8408</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8408"/>
-        <updated>2024-02-15T01:39:35.208Z</updated>
-        <content type="html"><![CDATA[2024.02.15(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스웨덴세탁소 단독 콘서트 ‘푸른동경’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8407</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8407"/>
-        <updated>2024-02-15T01:39:35.210Z</updated>
-        <content type="html"><![CDATA[2024.02.19(월) 20:00]]></content>
     </entry>
 </feed>
