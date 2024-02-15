@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-15T01:41:29.086Z</updated>
+    <updated>2024-02-15T03:04:34.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 가족버블콘서트 〈일루젼버블쇼 시즌2〉 - 안양 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14045&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14045&amp;order=1"/>
+        <updated>2024-02-15T03:04:10.100Z</updated>
+        <content type="html"><![CDATA[2024-02-19(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 이은결 〈MAGIC & ILLUSION〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14044&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14044&amp;order=1"/>
+        <updated>2024-02-15T03:04:10.101Z</updated>
+        <content type="html"><![CDATA[2024-02-23(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 헬로카봇 뮤지컬 시즌7 [웰컴 투 파라다이스] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14043&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14036&amp;order=1"/>
         <updated>2024-02-14T07:03:40.647Z</updated>
         <content type="html"><![CDATA[2024-02-16(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eill 내한공연(eill BLUE ROSE SHOW 2024 in SEOUL) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14035&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14035&amp;order=1"/>
-        <updated>2024-02-14T07:03:40.648Z</updated>
-        <content type="html"><![CDATA[2024-02-19(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [디아길레프] 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14034&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14034&amp;order=1"/>
-        <updated>2024-02-14T07:03:40.650Z</updated>
-        <content type="html"><![CDATA[2024-02-19(월) 14:00]]></content>
     </entry>
 </feed>
