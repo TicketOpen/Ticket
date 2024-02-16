@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-02-16T02:15:33.814Z</updated>
+    <updated>2024-02-16T04:08:15.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [파가니니] 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14055&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14055&amp;order=1"/>
+        <updated>2024-02-16T04:07:36.000Z</updated>
+        <content type="html"><![CDATA[2024-02-29(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [파가니니] 프리뷰 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14054&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14054&amp;order=1"/>
+        <updated>2024-02-16T04:07:36.000Z</updated>
+        <content type="html"><![CDATA[2024-02-22(목) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[양산] 가족뮤지컬 [꼬마버스 타요 - 용감한 구조대 레스큐 타요] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14053&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14053&amp;order=1"/>
+        <updated>2024-02-16T04:07:36.002Z</updated>
+        <content type="html"><![CDATA[2024-02-22(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매직 미디어쇼 <폴리팝(두들팝ver.2)-부산> 4월 티켓오픈]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14052&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14045&amp;order=1"/>
         <updated>2024-02-15T03:04:10.100Z</updated>
         <content type="html"><![CDATA[2024-02-19(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 이은결 〈MAGIC & ILLUSION〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14044&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14044&amp;order=1"/>
-        <updated>2024-02-15T03:04:10.101Z</updated>
-        <content type="html"><![CDATA[2024-02-23(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 헬로카봇 뮤지컬 시즌7 [웰컴 투 파라다이스] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14043&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14043&amp;order=1"/>
-        <updated>2024-02-15T01:41:04.494Z</updated>
-        <content type="html"><![CDATA[2024-02-19(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전주] 2024 YB TOUR LIGHTS ; INFINITY 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14042&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14042&amp;order=1"/>
-        <updated>2024-02-14T09:03:42.024Z</updated>
-        <content type="html"><![CDATA[2024-02-22(목) 14:00]]></content>
     </entry>
 </feed>
