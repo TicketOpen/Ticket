@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-02-16T06:10:17.349Z</updated>
+    <updated>2024-02-16T08:09:43.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[공지] KB증권 전산작업으로 인한 결제서비스 일시중단 안내(02/18)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58791</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58791"/>
+        <updated>2024-02-16T08:09:27.798Z</updated>
+        <content type="html"><![CDATA[2024.02.16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공지] 저축은행중앙회 전산작업으로 인한 결제서비스 일시중단 안내(02/17)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58790</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58790"/>
+        <updated>2024-02-16T08:09:27.799Z</updated>
+        <content type="html"><![CDATA[2024.02.16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] PMPS 2024 SEASON 0 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58789</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58789"/>
+        <updated>2024-02-16T08:09:27.801Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.19(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <고양이 해결사 깜냥 - 편의점을 환하게 밝혀라> - 창원 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58788</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58777"/>
         <updated>2024-02-15T08:10:27.425Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.16(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 봄맞이 음악회 - 삼척​ ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58776</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58776"/>
-        <updated>2024-02-15T07:04:04.029Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.21(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 수성아트피아 마티네 Mini Album : track 12. 테너 김세일 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58775</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58775"/>
-        <updated>2024-02-15T05:04:17.405Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.22(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 수성아트피아 마티네 Mini Album : track 11. 아벨 콰르텟 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58774</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58774"/>
-        <updated>2024-02-15T05:04:17.406Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.22(목) 05:00]]></content>
     </entry>
 </feed>
