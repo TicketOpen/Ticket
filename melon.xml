@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-02-19T07:03:34.859Z</updated>
+    <updated>2024-02-19T10:04:38.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sequence ＃4 My Wonderland：디에이드 단독 콘서트 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8438</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8438"/>
+        <updated>2024-02-19T10:02:44.708Z</updated>
+        <content type="html"><![CDATA[2024.02.20(화) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DMZ 피스트레인 뮤직 페스티벌 2024 블라인드 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8436</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8426"/>
         <updated>2024-02-18T18:03:32.066Z</updated>
         <content type="html"><![CDATA[2024.02.22(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HIPHOPPLAYA FESTIVAL 2024 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8425</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8425"/>
-        <updated>2024-02-18T18:03:32.066Z</updated>
-        <content type="html"><![CDATA[2024.02.22(목) 19:00]]></content>
     </entry>
 </feed>
