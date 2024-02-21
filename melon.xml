@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-02-20T23:03:39.310Z</updated>
+    <updated>2024-02-21T03:06:31.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TONE STUDIO LIVE 〈안다영（AHN DAYOUNG）〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8445</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8445"/>
+        <updated>2024-02-21T03:04:21.584Z</updated>
+        <content type="html"><![CDATA[2024.02.23(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 TAEYONG CONCERT 〈TY TRACK〉 시야제한석 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8444</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8433"/>
         <updated>2024-02-20T22:01:42.574Z</updated>
         <content type="html"><![CDATA[2024.02.23(금) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 Seungho Fanconcert：A New Start 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8432</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8432"/>
-        <updated>2024-02-20T22:01:42.575Z</updated>
-        <content type="html"><![CDATA[2024.02.19(월) 19:00]]></content>
     </entry>
 </feed>
