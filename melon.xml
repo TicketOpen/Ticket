@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-02-21T10:06:02.366Z</updated>
+    <updated>2024-02-21T12:12:51.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 1MILLION FAN CONCERT：1 FOR YOU 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8448</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8448"/>
+        <updated>2024-02-21T12:10:42.750Z</updated>
+        <content type="html"><![CDATA[2024.02.23(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다양성＆Mood 밴드 콘서트 〈My Wish〉 추가 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8447</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8436"/>
         <updated>2024-02-20T22:01:42.571Z</updated>
         <content type="html"><![CDATA[2024.02.22(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예빈나다 단독 콘서트 ‘Stay with me’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8434</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8434"/>
-        <updated>2024-02-20T22:01:42.572Z</updated>
-        <content type="html"><![CDATA[2024.02.23(금) 20:00]]></content>
     </entry>
 </feed>
