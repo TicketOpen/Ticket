@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-02-21T06:10:28.005Z</updated>
+    <updated>2024-02-21T08:10:37.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 우리의 봄날 (레이어스 클래식 in 군산)​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58835</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58835"/>
+        <updated>2024-02-21T08:10:24.415Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.23(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리엄마 최고! - 서울​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58834</id>
@@ -18,6 +25,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58833"/>
         <updated>2024-02-21T06:10:17.227Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.26(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FC 모바일 - 명가의 탄생​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58832</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58832"/>
+        <updated>2024-02-21T08:10:24.415Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.22(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김영임의 소리 ‘효’ 대공연 - 성남​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58821"/>
         <updated>2024-02-20T09:04:18.363Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.22(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 경산시립교향악단 제5회 정기연주회 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58820</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58820"/>
-        <updated>2024-02-20T09:04:18.363Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.05(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​지브리 페스티벌​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58819</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58819"/>
-        <updated>2024-02-20T09:04:18.363Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.22(목) 07:00]]></content>
     </entry>
 </feed>
