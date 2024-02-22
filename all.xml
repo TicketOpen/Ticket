@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 01:40:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 02:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/37/202401/25/vhb4xjgzeees.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[공지] 여행 서비스 점검 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58838</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58838</guid>
+            <pubDate>Thu, 22 Feb 2024 02:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.22]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가족뮤지컬 마법여우 주비 “반딧불을 구하라” - 여주 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/58836</link>
             <guid>http://www.ticketlink.co.kr/help/notice/58836</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.02.22(목) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 2024 WDG 발로란트 챌린저스 코리아 STAGE 1​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58822</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58822</guid>
-            <pubDate>Tue, 20 Feb 2024 09:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.02.21(수) 08:00]]></content:encoded>
+            <title><![CDATA[[공지] 여행 서비스 점검 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58838</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58838</guid>
+            <pubDate>Thu, 22 Feb 2024 02:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/help/notice/58838" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b> 여행 서비스 점검 안내 </h3></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 마법여우 주비 “반딧불을 구하라” - 여주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/58823</guid>
             <pubDate>Tue, 20 Feb 2024 09:04:26 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.22(목) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 2024 WDG 발로란트 챌린저스 코리아 STAGE 1​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58822</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58822</guid>
-            <pubDate>Tue, 20 Feb 2024 09:04:26 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.21(수) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
