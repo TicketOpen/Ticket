@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-02-22T02:14:53.264Z</updated>
+    <updated>2024-02-22T08:10:07.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <누가 내 머리에 똥 쌌어?> - 양산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58840</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58840"/>
+        <updated>2024-02-22T08:09:56.344Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.26(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 안성​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58839</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58839"/>
+        <updated>2024-02-22T08:09:56.345Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.27(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공지] 여행 서비스 점검 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58838</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58838"/>
         <updated>2024-02-22T02:14:41.462Z</updated>
         <content type="html"><![CDATA[2024.02.22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 김창옥 토크콘서트 시즌 4 - 김해​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58837</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58837"/>
+        <updated>2024-02-22T08:09:56.348Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.27(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 마법여우 주비 “반딧불을 구하라” - 여주 티켓오픈 안내]]></title>
@@ -48,11 +69,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.22(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김영임의 소리 ‘효’ 대공연 - 성남​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[오픈일시변경] 김영임의 소리 ‘효’ 대공연 - 성남​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58831</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58831"/>
         <updated>2024-02-21T06:10:17.227Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.27(화) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.07(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 일 테노레 (IL TENORE) 1차 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58826"/>
         <updated>2024-02-21T03:06:16.744Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.23(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  이찬구와 함께하는 푸치니 오페라 <라보엠> - 대구​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58825</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58825"/>
-        <updated>2024-02-21T03:06:16.748Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.26(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 어린이마술쇼 - 목포​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58824</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58824"/>
-        <updated>2024-02-21T03:06:16.750Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.27(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라푼젤 - 화성누림​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58823</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58823"/>
-        <updated>2024-02-20T10:04:03.887Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.22(목) 00:00]]></content>
     </entry>
 </feed>
