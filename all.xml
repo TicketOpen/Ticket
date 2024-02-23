@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 20:04:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 00:28:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8443</guid>
             <pubDate>Thu, 22 Feb 2024 20:02:19 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.23(금) 19:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[최고다 호기심딱지 뮤지컬 <딱지원정대> - 김해 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50348&amp;groupno=50348&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50348&amp;groupno=50348&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 23 Feb 2024 00:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[24.02.26(월)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[78AVENUE] 78LIVE - JUNNY(주니) (인터파크 티켓)]]></title>
@@ -188,13 +195,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50349&amp;groupno=50349&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 22 Feb 2024 00:27:05 GMT</pubDate>
             <content:encoded><![CDATA[24.02.26(월)&nbsp;09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 앤서니브라운 가족뮤지컬 〈우리아빠가 최고야〉 - 부산 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50346&amp;groupno=50346&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50346&amp;groupno=50346&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 21 Feb 2024 10:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[24.02.27(화)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지브리 디즈니 마블 OST 어린이날 〈성남〉콘서트 (인터파크 티켓)]]></title>
@@ -584,6 +584,34 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/37/202401/25/vhb4xjgzeees.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매]  젊은 예술가 리사이틀 시리즈 <피아니스트 윤유정> - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58846</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58846</guid>
+            <pubDate>Fri, 23 Feb 2024 00:28:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.02.27(화) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  해설이 있는 음악회 <웨이브라스> - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58845</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58845</guid>
+            <pubDate>Fri, 23 Feb 2024 00:28:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.02.27(화) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  2024 수성아트피아 렉쳐시리즈 <정호승의 작업노트> - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58844</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58844</guid>
+            <pubDate>Fri, 23 Feb 2024 00:28:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.02.27(화) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  ​2024 수성아트피아 키즈클래식​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58843</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58843</guid>
+            <pubDate>Fri, 23 Feb 2024 00:28:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.02.27(화) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[대전] 싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기> 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/58841</link>
             <guid>http://www.ticketlink.co.kr/help/notice/58841</guid>
@@ -661,32 +689,32 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.03.07(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​뮤지컬 일 테노레 (IL TENORE) 1차 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58830</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58830</guid>
-            <pubDate>Wed, 21 Feb 2024 06:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.02.26(월) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  젊은 예술가 리사이틀 시리즈 <피아니스트 윤유정> - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58846</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58846</guid>
+            <pubDate>Fri, 23 Feb 2024 00:28:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.27(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 제15회 대구꽃박람회 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58829</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58829</guid>
-            <pubDate>Wed, 21 Feb 2024 03:06:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.02.22(목) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  해설이 있는 음악회 <웨이브라스> - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58845</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58845</guid>
+            <pubDate>Fri, 23 Feb 2024 00:28:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.27(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 안양 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58828</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58828</guid>
-            <pubDate>Wed, 21 Feb 2024 03:06:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.02.23(금) 00:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  2024 수성아트피아 렉쳐시리즈 <정호승의 작업노트> - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58844</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58844</guid>
+            <pubDate>Fri, 23 Feb 2024 00:28:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.27(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 번개맨 <전설의 시작> - 대전앵콜 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58827</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58827</guid>
-            <pubDate>Wed, 21 Feb 2024 03:06:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.02.23(금) 00:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  ​2024 수성아트피아 키즈클래식​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58843</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58843</guid>
+            <pubDate>Fri, 23 Feb 2024 00:28:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.27(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대전] 싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기> 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -764,34 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/58831</guid>
             <pubDate>Wed, 21 Feb 2024 06:10:23 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.07(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​뮤지컬 일 테노레 (IL TENORE) 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58830</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58830</guid>
-            <pubDate>Wed, 21 Feb 2024 06:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.26(월) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 제15회 대구꽃박람회 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58829</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58829</guid>
-            <pubDate>Wed, 21 Feb 2024 03:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.22(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 안양 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58828</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58828</guid>
-            <pubDate>Wed, 21 Feb 2024 03:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.23(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 번개맨 <전설의 시작> - 대전앵콜 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58827</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58827</guid>
-            <pubDate>Wed, 21 Feb 2024 03:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.23(금) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
