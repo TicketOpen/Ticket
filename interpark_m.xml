@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 10:03:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 11:03:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000310_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 YB TOUR LIGHTS ; INFINITY - 용인]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50310</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50310</guid>
-            <pubDate>Fri, 23 Feb 2024 07:02:11 GMT</pubDate>
+            <title><![CDATA[이은결 〈MAGIC ＆ ILLUSION〉 - 부산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50242</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50242</guid>
+            <pubDate>Fri, 23 Feb 2024 11:02:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.23
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002651_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002336_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
