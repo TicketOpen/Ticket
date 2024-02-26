@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-02-26T04:10:03.418Z</updated>
+    <updated>2024-02-26T05:04:32.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 EXO FAN MEETING：ONE 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8466</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8466"/>
+        <updated>2024-02-26T05:02:38.065Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DRINK DANCE AND LOVE ALL：효도앤베이스 X 까데호 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8464</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8452"/>
         <updated>2024-02-25T21:02:04.332Z</updated>
         <content type="html"><![CDATA[2024.02.23(금) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 IU H．E．R．WORLD TOUR CONCERT IN SEOUL 시야제한석 유애나 6기 대상 추가 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8451</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8451"/>
-        <updated>2024-02-25T21:02:04.341Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
     </entry>
 </feed>
