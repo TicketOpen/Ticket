@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-02-27T23:03:37.934Z</updated>
+    <updated>2024-02-28T00:27:54.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프렙 내한공연 PREP LIVE IN SEOUL 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8471</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8471"/>
+        <updated>2024-02-28T00:25:59.225Z</updated>
+        <content type="html"><![CDATA[2024.03.06(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 SEVENUS 1ST FANMEETING－SPRING CANVAS 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8470</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8460"/>
         <updated>2024-02-27T23:02:30.062Z</updated>
         <content type="html"><![CDATA[2024.02.27(화) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권서경 팬콘서트 〈Fly High〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8458</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8458"/>
-        <updated>2024-02-27T23:02:30.063Z</updated>
-        <content type="html"><![CDATA[2024.02.27(화) 14:00]]></content>
     </entry>
 </feed>
