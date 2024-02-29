@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-02-29T09:03:22.063Z</updated>
+    <updated>2024-02-29T11:04:26.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 마네퀸 앵콜 팬미팅：Queen Meeting in Busan 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8483</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8483"/>
+        <updated>2024-02-29T11:01:57.886Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[둥절2024［우리사이의 육하원칙］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8482</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8482"/>
+        <updated>2024-02-29T11:01:57.895Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티카콘（TIKACON）：블루파프리카 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8481</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8481"/>
+        <updated>2024-02-29T11:01:57.898Z</updated>
+        <content type="html"><![CDATA[2024.03.04(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IVE 공식 팬클럽 ‘DIVE’ 3기 추가모집 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8479</id>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8473"/>
         <updated>2024-02-29T07:02:13.418Z</updated>
         <content type="html"><![CDATA[2024.03.06(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프렙 내한공연 PREP LIVE IN SEOUL 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8471</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8471"/>
-        <updated>2024-02-29T07:02:13.420Z</updated>
-        <content type="html"><![CDATA[2024.03.06(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 SEVENUS 1ST FANMEETING－SPRING CANVAS 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8470</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8470"/>
-        <updated>2024-02-29T07:02:13.422Z</updated>
-        <content type="html"><![CDATA[2024.02.29(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 KT＆G 상상실현 페스티벌 오피셜 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8469</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8469"/>
-        <updated>2024-02-29T07:02:13.423Z</updated>
-        <content type="html"><![CDATA[2024.03.06(수) 18:00]]></content>
     </entry>
 </feed>
