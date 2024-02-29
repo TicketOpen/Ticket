@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-02-29T06:10:23.761Z</updated>
+    <updated>2024-02-29T07:03:19.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58902"/>
         <updated>2024-02-29T05:03:33.000Z</updated>
         <content type="html"><![CDATA[2024.02.29(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크레디아 클래식 클럽 2024 - 헌정​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58901</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58901"/>
+        <updated>2024-02-29T07:03:12.702Z</updated>
+        <content type="html"><![CDATA[2024.03.06(수) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 금호영아티스트콘서트​​ 티켓오픈 안내]]></title>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/58890</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58890"/>
         <updated>2024-02-28T02:15:58.353Z</updated>
-        <content type="html"><![CDATA[2024.03.05(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꿈꾸는 안데르센​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58889</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58889"/>
-        <updated>2024-02-28T02:15:58.355Z</updated>
         <content type="html"><![CDATA[2024.03.05(화) 00:00]]></content>
     </entry>
 </feed>

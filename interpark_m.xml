@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 06:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 07:03:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,24 +44,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002834_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[광주] 뮤지컬 캐치! 티니핑 〈두근두근 싱어롱 콘서트!〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50422</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50422</guid>
-            <pubDate>Thu, 29 Feb 2024 05:02:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.29
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002794_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <뱀프X헌터 : 울부짖어라! 피닉스 포포!!>]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50420</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50420</guid>
-            <pubDate>Thu, 29 Feb 2024 05:02:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.29
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002867_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 드라큘라 (Dracula：The Musical) - 부산]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50433</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50433</guid>
@@ -86,16 +68,34 @@
             <pubDate>Thu, 29 Feb 2024 05:02:52 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.29
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002793_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈오즈〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50385</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50385</guid>
-            <pubDate>Thu, 29 Feb 2024 05:02:52 GMT</pubDate>
+            <title><![CDATA[<미스트롯3> 전국투어 콘서트 - 서울]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50403</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50403</guid>
+            <pubDate>Thu, 29 Feb 2024 07:02:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.29
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001224_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002890_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[플레이 뮤지컬 〈핑크퐁과 아기상어의 무지개 구출 작전〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50402</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50402</guid>
+            <pubDate>Thu, 29 Feb 2024 07:02:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002524_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[커튼]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50375</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50375</guid>
+            <pubDate>Thu, 29 Feb 2024 07:02:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002769_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
