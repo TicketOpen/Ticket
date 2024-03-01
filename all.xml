@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Mar 2024 10:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Mar 2024 13:04:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이지형 단독공연 ‘봄에 만나（SEE YOU IN THE SPRING）’ 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8484</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8484</guid>
+            <pubDate>Fri, 01 Mar 2024 13:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.05(화) 20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2024 마네퀸 앵콜 팬미팅：Queen Meeting in Busan 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8483</link>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8474</guid>
             <pubDate>Fri, 01 Mar 2024 03:09:26 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.05(화) 16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[맥거핀 단독 콘서트 ‘Storm In A Teacup’：롤링 29주년 기념 공연 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8473</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8473</guid>
-            <pubDate>Fri, 01 Mar 2024 03:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.06(수) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <친정엄마> 대구 (인터파크 티켓)]]></title>
