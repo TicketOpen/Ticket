@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-03-03T01:42:33.002Z</updated>
+    <updated>2024-03-03T03:04:19.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌7 My Universe［전기뱀장어 단독 콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8485</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8485"/>
+        <updated>2024-03-03T03:02:26.923Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이지형 단독공연 ‘봄에 만나（SEE YOU IN THE SPRING）’ 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8484</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8475"/>
         <updated>2024-03-02T23:01:29.967Z</updated>
         <content type="html"><![CDATA[2024.03.05(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈마리 앙투아네트〉 10주년 기념공연 3차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8474</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8474"/>
-        <updated>2024-03-02T23:01:29.969Z</updated>
-        <content type="html"><![CDATA[2024.03.05(화) 16:00]]></content>
     </entry>
 </feed>
