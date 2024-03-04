@@ -1,56 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>네이버 공연</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 21:03:42 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <해적> 3월 11일(월) 오후 7시 실황 녹화 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
-            <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
-            <pubDate>Mon, 04 Mar 2024 21:03:42 GMT</pubDate>
-            <content:encoded><![CDATA[03월 11일(월) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240116_201/nFs4P_1705387363557AVkrt_JPEG/1705387363542.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <미오 프라텔로> 3월 18일(월) 오후 7시 녹화 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
-            <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
-            <pubDate>Mon, 04 Mar 2024 21:03:42 GMT</pubDate>
-            <content:encoded><![CDATA[03월 18일(월) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240207_109/sRX85_1707289881382gOA5l_JPEG/1707289881367.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <미오 프라텔로> 3월 25일(월) 오후 7시 녹화 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
-            <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
-            <pubDate>Mon, 04 Mar 2024 21:03:42 GMT</pubDate>
-            <content:encoded><![CDATA[03월 25일(월) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240207_20/AVXLS_1707290271629hcftQ_JPEG/1707290271609.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <미오 프라텔로> 4월 1일(월) 오후 7시 녹화 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
-            <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
-            <pubDate>Mon, 04 Mar 2024 21:03:42 GMT</pubDate>
-            <content:encoded><![CDATA[04월 01일(월) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240207_45/67rvB_1707290921494a6Lu8_JPEG/1707290921475.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후원
-											뮤지컬 <미오 프라텔로> 4월 8일(월) 오후 7시 녹화 중계]]></title>
-            <link>https://patron.naver.com/ntv/c/intro/kontentzplanning</link>
-            <guid>https://patron.naver.com/ntv/c/intro/kontentzplanning</guid>
-            <pubDate>Mon, 04 Mar 2024 21:03:42 GMT</pubDate>
-            <content:encoded><![CDATA[04월 08일(월) 19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240207_232/iLPL3_1707291041602vO1xR_JPEG/1707291041588.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://m.ticketlink.co.kr/help/notice</id>
+    <title>티켓링크 모바일</title>
+    <updated>2024-03-04T22:04:15.162Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[얼리버드] 스튜디오 지브리 애니메이션의 거장 타카하타 이사오전 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58932</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58932"/>
+        <updated>2024-03-04T22:04:08.903Z</updated>
+        <content type="html"><![CDATA[2024.03.06(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] XIA 2024 ENCORE CONCERT Chapter 1 : Recreation 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58931</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58931"/>
+        <updated>2024-03-04T22:04:08.903Z</updated>
+        <content type="html"><![CDATA[2024.03.18(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​[광주시립교향악단] 383회 정기연주회 ‘교향악축제 프리뷰; Babi Yar’​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58930</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58930"/>
+        <updated>2024-03-04T22:04:08.903Z</updated>
+        <content type="html"><![CDATA[2024.03.06(수) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 최현우 Answer - 전주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58929</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58929"/>
+        <updated>2024-03-04T22:04:08.903Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] UNMIXED : LOWELL STRAIGHT 1st CONCERT 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58928</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58928"/>
+        <updated>2024-03-04T22:04:08.903Z</updated>
+        <content type="html"><![CDATA[2024.03.06(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 마법여우 주비 “반딧불을 구하라” - 충남 당진​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58927</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58927"/>
+        <updated>2024-03-04T22:04:08.919Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 마법여우 주비 “반딧불을 구하라” - 서울 성북​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58926</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58926"/>
+        <updated>2024-03-04T22:04:08.919Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 마법여우 주비 “반딧불을 구하라” - 서울 강동​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58925</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58925"/>
+        <updated>2024-03-04T22:04:08.919Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 마법여우 주비 “반딧불을 구하라” - 인천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58924</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58924"/>
+        <updated>2024-03-04T22:04:08.919Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 마법여우 주비 “반딧불을 구하라” - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58923</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58923"/>
+        <updated>2024-03-04T22:04:08.919Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 마법여우 주비 “반딧불을 구하라” - 파주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58922</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58922"/>
+        <updated>2024-03-04T22:04:08.919Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 마법여우 주비 “반딧불을 구하라” - 부산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58921</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58921"/>
+        <updated>2024-03-04T22:04:08.919Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 어쿠스틱카페 내한공연 with 스튜디오 지브리 - 세종 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58920</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58920"/>
+        <updated>2024-03-04T22:04:08.925Z</updated>
+        <content type="html"><![CDATA[2024.03.06(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 어쿠스틱카페 내한공연 with 스튜디오 지브리 - 서울 연세대 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58919</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58919"/>
+        <updated>2024-03-04T22:04:08.927Z</updated>
+        <content type="html"><![CDATA[2024.03.06(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 어쿠스틱카페 내한공연 with 스튜디오 지브리 - 과천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58918</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58918"/>
+        <updated>2024-03-04T22:04:08.931Z</updated>
+        <content type="html"><![CDATA[2024.03.06(수) 02:00]]></content>
+    </entry>
+</feed>

@@ -1,78 +1,148 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
-    <title>예스24 티켓 모바일</title>
-    <updated>2024-03-04T21:03:42.986Z</updated>
+    <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
+    <title>예스24 티켓</title>
+    <updated>2024-03-04T22:04:15.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
         <title type="html"><![CDATA[[청주] 2024 라이브가족뮤지컬[백설공주] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14118&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14118&amp;order=1"/>
-        <updated>2024-03-04T21:03:20.010Z</updated>
-        <content type="html"><![CDATA[2024-03-04(월) 18:00]]></content>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14118</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14118"/>
+        <updated>2024-03-04T22:03:34.956Z</updated>
+        <content type="html"><![CDATA[2024.03.04(월) 18:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 SEASON TEAM 노지훈 in SEOUL 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14117&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14117&amp;order=1"/>
-        <updated>2024-03-04T21:03:20.010Z</updated>
-        <content type="html"><![CDATA[2024-03-07(목) 10:00]]></content>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14117</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14117"/>
+        <updated>2024-03-04T22:03:34.960Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[성수] 뮤지컬 [친구의 전설] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14116&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14116&amp;order=1"/>
-        <updated>2024-03-04T21:03:20.014Z</updated>
-        <content type="html"><![CDATA[2024-03-08(금) 11:00]]></content>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14116</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14116"/>
+        <updated>2024-03-04T22:03:34.972Z</updated>
+        <content type="html"><![CDATA[2024.03.08(금) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬[호두까기인형] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14115&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14115&amp;order=1"/>
-        <updated>2024-03-04T21:03:20.017Z</updated>
-        <content type="html"><![CDATA[2024-03-04(월) 09:00]]></content>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14115</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14115"/>
+        <updated>2024-03-04T22:03:34.973Z</updated>
+        <content type="html"><![CDATA[2024.03.04(월) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[수원] 2024 라이브 가족뮤지컬[아기돼지삼형제] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14114&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14114&amp;order=1"/>
-        <updated>2024-03-04T21:03:20.018Z</updated>
-        <content type="html"><![CDATA[2024-03-04(월) 09:00]]></content>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14114</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14114"/>
+        <updated>2024-03-04T22:03:34.977Z</updated>
+        <content type="html"><![CDATA[2024.03.04(월) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 <바스커빌 : 셜록홈즈 미스터리> 1차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14113&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14113&amp;order=1"/>
-        <updated>2024-03-04T21:03:20.019Z</updated>
-        <content type="html"><![CDATA[2024-03-06(수) 14:00]]></content>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14113</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14113"/>
+        <updated>2024-03-04T22:03:34.979Z</updated>
+        <content type="html"><![CDATA[2024.03.06(수) 14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TeamY FAN MEETING in Seoul (presented by KOE) 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14112&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14112&amp;order=1"/>
-        <updated>2024-03-04T21:03:20.021Z</updated>
-        <content type="html"><![CDATA[2024-03-04(월) 18:00]]></content>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14112</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14112"/>
+        <updated>2024-03-04T22:03:34.981Z</updated>
+        <content type="html"><![CDATA[2024.03.04(월) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <디어 에반 핸슨> 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14111&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14111&amp;order=1"/>
-        <updated>2024-03-04T21:03:20.022Z</updated>
-        <content type="html"><![CDATA[2024-03-06(수) 11:00]]></content>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14111</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14111"/>
+        <updated>2024-03-04T22:03:34.982Z</updated>
+        <content type="html"><![CDATA[2024.03.06(수) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[의정부] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14110&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14110&amp;order=1"/>
-        <updated>2024-03-04T21:03:20.023Z</updated>
-        <content type="html"><![CDATA[2024-03-05(화) 10:00]]></content>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14110</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14110"/>
+        <updated>2024-03-04T22:03:34.984Z</updated>
+        <content type="html"><![CDATA[2024.03.05(화) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 <아트> 혜공 전관 - 그래이공 DAY 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14109&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14109&amp;order=1"/>
-        <updated>2024-03-04T21:03:20.025Z</updated>
-        <content type="html"><![CDATA[2024-03-06(수) 12:00]]></content>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14109</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14109"/>
+        <updated>2024-03-04T22:03:34.985Z</updated>
+        <content type="html"><![CDATA[2024.03.06(수) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <마리 퀴리> 김해 공연 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14108</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14108"/>
+        <updated>2024-03-04T22:03:34.987Z</updated>
+        <content type="html"><![CDATA[2024.03.06(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 연극 <친정엄마와 2박3일> - 이천 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14106</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14106"/>
+        <updated>2024-03-04T22:03:34.989Z</updated>
+        <content type="html"><![CDATA[2024.03.04(월) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 연극 <친정엄마와 2박3일> - 춘천 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14105</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14105"/>
+        <updated>2024-03-04T22:03:34.990Z</updated>
+        <content type="html"><![CDATA[2024.03.04(월) 16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬〈엄마까투리는 슈퍼맘〉- 대전 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14104</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14104"/>
+        <updated>2024-03-04T22:03:34.992Z</updated>
+        <content type="html"><![CDATA[2024.03.05(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [여기, 피화당] 마지막 티켓 오픈]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14103</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14103"/>
+        <updated>2024-03-04T22:03:34.995Z</updated>
+        <content type="html"><![CDATA[2024.03.06(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <스쿨 오브 락> 월드투어-부산 3/6(수) 14시 티켓오픈!]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14102</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14102"/>
+        <updated>2024-03-04T22:03:34.999Z</updated>
+        <content type="html"><![CDATA[2024.03.06(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극〈실종법칙〉1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14101</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14101"/>
+        <updated>2024-03-04T22:03:35.001Z</updated>
+        <content type="html"><![CDATA[2024.02.29(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14100</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14100"/>
+        <updated>2024-03-04T22:03:35.004Z</updated>
+        <content type="html"><![CDATA[2024.03.05(화) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14099</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14099"/>
+        <updated>2024-03-04T22:03:35.014Z</updated>
+        <content type="html"><![CDATA[2024.03.05(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 뮤지컬 캐치! 티니핑 〈두근두근 싱어롱 콘서트!〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14098</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14098"/>
+        <updated>2024-03-04T22:03:35.015Z</updated>
+        <content type="html"><![CDATA[2024.02.29(목) 15:00]]></content>
     </entry>
 </feed>
