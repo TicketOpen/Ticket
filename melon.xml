@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-03-04T05:41:48.506Z</updated>
+    <updated>2024-03-04T09:26:10.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Blue is Rock－DALDAM X DASUTT 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8493</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8493"/>
+        <updated>2024-03-04T09:24:09.081Z</updated>
+        <content type="html"><![CDATA[2024.03.08(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 CRAVITY FAN－CON 〈LUVITY GAMES〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8491</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8482"/>
         <updated>2024-03-04T05:40:32.268Z</updated>
         <content type="html"><![CDATA[2024.03.07(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티카콘（TIKACON）：블루파프리카 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8481</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8481"/>
-        <updated>2024-03-04T05:40:32.270Z</updated>
-        <content type="html"><![CDATA[2024.03.04(월) 20:00]]></content>
     </entry>
 </feed>
