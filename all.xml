@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 10:04:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 12:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8489</guid>
             <pubDate>Tue, 05 Mar 2024 10:02:27 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.11(월) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SEVENTEEN TOUR 'FOLLOW' AGAIN TO INCHEON (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=50286&amp;groupno=50286&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=50286&amp;groupno=50286&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 05 Mar 2024 12:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[24.03.08(금)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 ［넓은 하늘 무지개를 보면 내 마음은 춤춘다］ - 대구 (인터파크 티켓)]]></title>
@@ -204,54 +211,9 @@
             <content:encoded><![CDATA[24.03.06(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮌헨 소년 합창단 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50419</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50419</guid>
-            <pubDate>Tue, 05 Mar 2024 02:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.05
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024022617352119.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 앤서니브라운 가족뮤지컬 〈우리아빠가 최고야〉 - 군포 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50426</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50426</guid>
-            <pubDate>Tue, 05 Mar 2024 02:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.05
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024022715325718.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 마법천자문 〈한자 마법 대모험〉 - 대구 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50430</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50430</guid>
-            <pubDate>Tue, 05 Mar 2024 02:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.05
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024022715091248.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬〈엄마까투리는 슈퍼맘〉-대전 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50432</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50432</guid>
-            <pubDate>Tue, 05 Mar 2024 02:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.05
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024022718141865.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮌헨 소년 합창단 내한공연 - 목포 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50476</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50476</guid>
-            <pubDate>Tue, 05 Mar 2024 02:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.05
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮌헨 소년 합창단 내한공연 - 순천 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50477</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50477</guid>
+            <title><![CDATA[뮌헨 소년 합창단 내한공연 - 대구 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50479</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50479</guid>
             <pubDate>Tue, 05 Mar 2024 02:13:19 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.05
                                     <span>09:00</span>]]></content:encoded>
@@ -267,31 +229,76 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮌헨 소년 합창단 내한공연 - 대구 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50479</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50479</guid>
+            <title><![CDATA[뮌헨 소년 합창단 내한공연 - 순천 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50477</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50477</guid>
             <pubDate>Tue, 05 Mar 2024 02:13:19 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.05
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[경산] 뮤지컬 캐치!티니핑 <두근두근 싱어롱 콘서트!> (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50435</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50435</guid>
+            <title><![CDATA[뮌헨 소년 합창단 내한공연 - 목포 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50476</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50476</guid>
             <pubDate>Tue, 05 Mar 2024 02:13:19 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.05
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24003094_p.gif" length="0" type="image/gif"/>
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈웨스턴 스토리〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50446</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50446</guid>
+            <title><![CDATA[가족뮤지컬〈엄마까투리는 슈퍼맘〉-대전 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50432</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50432</guid>
             <pubDate>Tue, 05 Mar 2024 02:13:19 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.05
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024022718141865.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 마법천자문 〈한자 마법 대모험〉 - 대구 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50430</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50430</guid>
+            <pubDate>Tue, 05 Mar 2024 02:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.05
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024022715091248.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 앤서니브라운 가족뮤지컬 〈우리아빠가 최고야〉 - 군포 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50426</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50426</guid>
+            <pubDate>Tue, 05 Mar 2024 02:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.05
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024022715325718.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮌헨 소년 합창단 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50419</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50419</guid>
+            <pubDate>Tue, 05 Mar 2024 02:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.05
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024022617352119.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 번개맨 <전설의 시작> 어린이날 특별 서울 공연 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50411</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50411</guid>
+            <pubDate>Tue, 05 Mar 2024 12:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.05
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002031_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024022314503061.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다니엘 호 내한 공연 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50297</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50297</guid>
+            <pubDate>Tue, 05 Mar 2024 12:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.05
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024021616092306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
@@ -582,6 +589,34 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/58/202401/30/6wqzz8d6r529.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 당진​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58949</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58949</guid>
+            <pubDate>Tue, 05 Mar 2024 12:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.03.11(월) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오리지널 과학마술콘서트 -원주​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58948</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58948</guid>
+            <pubDate>Tue, 05 Mar 2024 12:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.03.07(목) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[책먹는여우 - 평택북부​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58947</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58947</guid>
+            <pubDate>Tue, 05 Mar 2024 12:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.03.07(목) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아기돼지삼형제 - 서울양천​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/58946</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/58946</guid>
+            <pubDate>Tue, 05 Mar 2024 12:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.03.07(목) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] <2024강원특별자치도립무용단 앵콜 기획공연 “무의무아”>-춘천​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/58945</link>
             <guid>http://www.ticketlink.co.kr/help/notice/58945</guid>
@@ -659,32 +694,32 @@
             <content:encoded><![CDATA[2024.03.05]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카펠라엘스 제3회 정기 연주회​​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58933</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58933</guid>
-            <pubDate>Tue, 05 Mar 2024 02:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.03.05(화) 02:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 당진​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58949</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58949</guid>
+            <pubDate>Tue, 05 Mar 2024 12:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.11(월) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[얼리버드] 스튜디오 지브리 애니메이션의 거장 타카하타 이사오전 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58932</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58932</guid>
-            <pubDate>Mon, 04 Mar 2024 21:03:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.03.06(수) 05:00]]></content:encoded>
+            <title><![CDATA[오리지널 과학마술콘서트 -원주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58948</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58948</guid>
+            <pubDate>Tue, 05 Mar 2024 12:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.07(목) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] XIA 2024 ENCORE CONCERT Chapter 1 : Recreation 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58931</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58931</guid>
-            <pubDate>Mon, 04 Mar 2024 21:03:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.03.18(월) 11:00]]></content:encoded>
+            <title><![CDATA[책먹는여우 - 평택북부​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58947</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58947</guid>
+            <pubDate>Tue, 05 Mar 2024 12:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.07(목) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  ​[광주시립교향악단] 383회 정기연주회 ‘교향악축제 프리뷰; Babi Yar’​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/58930</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/58930</guid>
-            <pubDate>Mon, 04 Mar 2024 21:03:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.03.06(수) 08:00]]></content:encoded>
+            <title><![CDATA[아기돼지삼형제 - 서울양천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/58946</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/58946</guid>
+            <pubDate>Tue, 05 Mar 2024 12:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.07(목) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] <2024강원특별자치도립무용단 앵콜 기획공연 “무의무아”>-춘천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -762,34 +797,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/58934</guid>
             <pubDate>Tue, 05 Mar 2024 02:14:06 GMT</pubDate>
             <content:encoded><![CDATA[<a href="/help/notice/58934" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit">[공지] 우리은행 전산 작업으로 인한 가상계좌 서비스 일시중단 안내(03/10)</h3></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카펠라엘스 제3회 정기 연주회​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58933</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58933</guid>
-            <pubDate>Tue, 05 Mar 2024 02:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.05(화) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[얼리버드] 스튜디오 지브리 애니메이션의 거장 타카하타 이사오전 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58932</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58932</guid>
-            <pubDate>Mon, 04 Mar 2024 21:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.06(수) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] XIA 2024 ENCORE CONCERT Chapter 1 : Recreation 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58931</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58931</guid>
-            <pubDate>Mon, 04 Mar 2024 21:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.18(월) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  ​[광주시립교향악단] 383회 정기연주회 ‘교향악축제 프리뷰; Babi Yar’​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/58930</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/58930</guid>
-            <pubDate>Mon, 04 Mar 2024 21:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.06(수) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
