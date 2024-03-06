@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-03-06T09:05:28.556Z</updated>
+    <updated>2024-03-06T14:04:01.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피싱걸스 ‘VISIBLE WORLD’ 발매 기념 단독 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8504</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8504"/>
+        <updated>2024-03-06T14:01:45.422Z</updated>
+        <content type="html"><![CDATA[2024.03.08(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mr．Freak’s Lab：Sweet Escape 사전 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8503</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8503"/>
         <updated>2024-03-06T09:03:36.470Z</updated>
         <content type="html"><![CDATA[2024.03.07(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HAPPY JOO WON DAY：해피 주원 데이 2차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8502</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8502"/>
+        <updated>2024-03-06T14:01:45.429Z</updated>
+        <content type="html"><![CDATA[2024.03.11(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[406호 프로젝트 정기공연［406DAY］티켓 오픈 안내]]></title>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8493"/>
         <updated>2024-03-06T09:03:36.481Z</updated>
         <content type="html"><![CDATA[2024.03.08(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 CRAVITY FAN－CON 〈LUVITY GAMES〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8491</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8491"/>
-        <updated>2024-03-06T09:03:36.483Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈헤드윅〉 3차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8490</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8490"/>
-        <updated>2024-03-06T09:03:36.485Z</updated>
-        <content type="html"><![CDATA[2024.03.07(목) 14:00]]></content>
     </entry>
 </feed>
