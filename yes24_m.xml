@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-07T03:03:54.070Z</updated>
+    <updated>2024-03-07T04:07:56.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[용인] 2024 라이브가족뮤지컬 〈피터팬〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14128&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14128&amp;order=1"/>
+        <updated>2024-03-07T04:07:27.081Z</updated>
+        <content type="html"><![CDATA[2024-03-07(목) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[하남] 뮤지컬 [친구의 전설] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14127&amp;order=1</id>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14118&amp;order=1"/>
         <updated>2024-03-04T22:03:42.504Z</updated>
         <content type="html"><![CDATA[2024-03-04(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 SEASON TEAM 노지훈 in SEOUL 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14117&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14117&amp;order=1"/>
-        <updated>2024-03-04T22:03:42.504Z</updated>
-        <content type="html"><![CDATA[2024-03-07(목) 10:00]]></content>
     </entry>
 </feed>
