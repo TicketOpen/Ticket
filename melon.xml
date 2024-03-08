@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-03-08T07:04:07.813Z</updated>
+    <updated>2024-03-08T09:04:31.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블루스프링페스티벌 2024 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8511</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8511"/>
+        <updated>2024-03-08T09:02:25.595Z</updated>
+        <content type="html"><![CDATA[2024.03.12(화) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 RIIZE FAN－CON ‘RIIZING DAY’ in SEOUL 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8509</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8499"/>
         <updated>2024-03-08T06:07:52.036Z</updated>
         <content type="html"><![CDATA[2024.03.08(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준형 스탠딩 단독공연：Spring Up！－3월에는 환희를 주세요 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8498</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8498"/>
-        <updated>2024-03-08T06:07:52.037Z</updated>
-        <content type="html"><![CDATA[2024.03.12(화) 19:00]]></content>
     </entry>
 </feed>
