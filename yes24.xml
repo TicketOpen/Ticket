@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-10T23:03:21.737Z</updated>
+    <updated>2024-03-11T01:41:05.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14139</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14139"/>
+        <updated>2024-03-11T01:40:33.431Z</updated>
+        <content type="html"><![CDATA[2024.03.13(수) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정명훈＆도쿄 필하모닉 오케스트라 (협연:조성진) 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14138</id>
@@ -135,12 +142,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14120</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14120"/>
         <updated>2024-03-05T07:03:04.656Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14119</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14119"/>
-        <updated>2024-03-05T01:39:42.294Z</updated>
-        <content type="html"><![CDATA[2024.03.20(수) 14:00]]></content>
     </entry>
 </feed>
