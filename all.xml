@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 09:03:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 10:05:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8505</guid>
             <pubDate>Sat, 09 Mar 2024 22:01:52 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.14(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[황영웅 서울콘서트 <봄날의 고백> (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=50546&amp;groupno=50546&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=50546&amp;groupno=50546&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 11 Mar 2024 10:02:51 GMT</pubDate>
+            <content:encoded><![CDATA[24.03.11(월)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 <로보카폴리 - 잡아라! 황금트로피!> - 전주 (인터파크 티켓)]]></title>
