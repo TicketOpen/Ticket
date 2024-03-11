@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-03-11T10:05:50.101Z</updated>
+    <updated>2024-03-11T15:04:18.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MIGHT GET LOUD vol．2（마잇겟라우드 볼륨2）티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8518</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8518"/>
+        <updated>2024-03-11T15:02:09.828Z</updated>
+        <content type="html"><![CDATA[2024.03.15(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 DO HANSE FAN SIGN EVENT：Rock SEpirit 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8517</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[스텔라장 단독 콘서트 〈Interstellar Festival 2024〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8507</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8507"/>
-        <updated>2024-03-09T22:01:50.578Z</updated>
-        <content type="html"><![CDATA[2024.03.14(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FRankly 단독 콘서트 ‘우리의 사이는？’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8505</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8505"/>
         <updated>2024-03-09T22:01:50.578Z</updated>
         <content type="html"><![CDATA[2024.03.14(목) 20:00]]></content>
     </entry>
