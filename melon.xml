@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-03-11T04:08:33.408Z</updated>
+    <updated>2024-03-11T06:09:39.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈알앤제이（R＆J）〉 5차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8514</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8514"/>
+        <updated>2024-03-11T06:08:32.110Z</updated>
+        <content type="html"><![CDATA[2024.03.14(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브로큰발렌타인 단독 콘서트［One shot is not enough］：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8513</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8503"/>
         <updated>2024-03-09T22:01:50.580Z</updated>
         <content type="html"><![CDATA[2024.03.07(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HAPPY JOO WON DAY：해피 주원 데이 2차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8502</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8502"/>
-        <updated>2024-03-09T22:01:50.582Z</updated>
-        <content type="html"><![CDATA[2024.03.11(월) 20:00]]></content>
     </entry>
 </feed>
