@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-03-11T08:11:01.344Z</updated>
+    <updated>2024-03-11T09:03:57.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 DO HANSE FAN SIGN EVENT：Rock SEpirit 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8517</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8517"/>
+        <updated>2024-03-11T09:01:54.647Z</updated>
+        <content type="html"><![CDATA[2024.03.14(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 DO HANSE FAN MEETING：Rock SEpirit 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8516</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8516"/>
+        <updated>2024-03-11T09:01:54.647Z</updated>
+        <content type="html"><![CDATA[2024.03.14(목) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈알앤제이（R＆J）〉 5차 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8514</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8505"/>
         <updated>2024-03-09T22:01:50.578Z</updated>
         <content type="html"><![CDATA[2024.03.14(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피싱걸스 ‘VISIBLE WORLD’ 발매 기념 단독 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8504</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8504"/>
-        <updated>2024-03-09T22:01:50.579Z</updated>
-        <content type="html"><![CDATA[2024.03.08(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mr．Freak’s Lab：Sweet Escape 사전 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8503</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8503"/>
-        <updated>2024-03-09T22:01:50.580Z</updated>
-        <content type="html"><![CDATA[2024.03.07(목) 14:00]]></content>
     </entry>
 </feed>
