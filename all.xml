@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 10:04:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 11:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8513</guid>
             <pubDate>Tue, 12 Mar 2024 10:03:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.18(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[황영웅 수원콘서트 <봄날의 고백> (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=50551&amp;groupno=50551&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=50551&amp;groupno=50551&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 12 Mar 2024 11:01:48 GMT</pubDate>
+            <content:encoded><![CDATA[24.03.12(화)&nbsp;13:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 네미시스 라이브 콘서트 ‘어느 봄날’ (인터파크 티켓)]]></title>
