@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 08:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 09:03:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,6 +224,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20240306032852.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[용인] 2024 가족마술콘서트 〈매직오브아트시즌2〉티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14150</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14150</guid>
+            <pubDate>Tue, 12 Mar 2024 09:02:52 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.13(수) 09:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14149</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14149</guid>
@@ -356,11 +363,11 @@
             <content:encoded><![CDATA[2024.02.23(금) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 〈넓은 하늘의 무지개를 보면 내 마음은 춤춘다〉 추가 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14129</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14129</guid>
-            <pubDate>Thu, 07 Mar 2024 05:02:57 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.13(수) 14:00]]></content:encoded>
+            <title><![CDATA[[용인] 2024 가족마술콘서트 〈매직오브아트시즌2〉티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14150&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14150&amp;order=1</guid>
+            <pubDate>Tue, 12 Mar 2024 09:03:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024-03-13(수) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[은혁의 86F 404호 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -423,13 +430,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14140&amp;order=1</guid>
             <pubDate>Mon, 11 Mar 2024 06:09:07 GMT</pubDate>
             <content:encoded><![CDATA[2024-03-13(수) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 이신혁 1st Fanmeeting [It’s Gonna Be] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14139&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14139&amp;order=1</guid>
-            <pubDate>Mon, 11 Mar 2024 01:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[2024-03-13(수) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블루스프링페스티벌 2024 티켓오픈 안내 (위메프 공연티켓)]]></title>
