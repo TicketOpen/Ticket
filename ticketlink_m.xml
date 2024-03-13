@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-12T23:08:08.298Z</updated>
+    <updated>2024-03-13T01:43:15.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인형극 미운아기오리 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59000</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59000"/>
+        <updated>2024-03-13T01:43:09.625Z</updated>
+        <content type="html"><![CDATA[2024.03.14(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인형극 혹부리영감 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58999</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58999"/>
+        <updated>2024-03-13T01:43:09.628Z</updated>
+        <content type="html"><![CDATA[2024.03.14(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  모차르트 vs 베토벤 - 울산​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58998</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58986"/>
         <updated>2024-03-12T05:09:04.148Z</updated>
         <content type="html"><![CDATA[2024.03.18(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈이상한 과자 가게 전천당〉 - 천옥원, 소원과자 대결전 - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58985</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58985"/>
-        <updated>2024-03-12T05:09:04.149Z</updated>
-        <content type="html"><![CDATA[2024.03.14(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 신비아파트 <붉은 눈의 저주> - 대전앵콜​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58984</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58984"/>
-        <updated>2024-03-12T00:28:07.566Z</updated>
-        <content type="html"><![CDATA[2024.03.14(목) 00:00]]></content>
     </entry>
 </feed>
