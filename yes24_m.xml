@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-13T06:10:45.755Z</updated>
+    <updated>2024-03-13T09:03:52.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[김해] 2024 [어린이마술쇼] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14155&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14155&amp;order=1"/>
+        <updated>2024-03-13T09:03:24.199Z</updated>
+        <content type="html"><![CDATA[2024-03-14(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stray Kids 4TH FANMEETING ‘SKZ’S MAGIC SCHOOL’시야제한석 추가 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14154&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14154&amp;order=1"/>
+        <updated>2024-03-13T09:03:24.201Z</updated>
+        <content type="html"><![CDATA[2024-03-14(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ELEPHANT GYM - The "World" Tour in Seoul 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14153&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14153&amp;order=1"/>
+        <updated>2024-03-13T09:03:24.203Z</updated>
+        <content type="html"><![CDATA[2024-03-18(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 2024 뮤지컬 노트르담 드 파리 한국어버전 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14152&amp;order=1</id>
@@ -52,26 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14146&amp;order=1"/>
         <updated>2024-03-12T03:03:43.872Z</updated>
         <content type="html"><![CDATA[2024-03-15(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xdinary Heroes 공식 팬클럽 Villains 1기 추가 모집안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14145&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14145&amp;order=1"/>
-        <updated>2024-03-12T04:09:28.389Z</updated>
-        <content type="html"><![CDATA[2024-03-13(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정명훈 & 도쿄필하모닉 내한공연 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14144&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14144&amp;order=1"/>
-        <updated>2024-03-11T06:09:07.675Z</updated>
-        <content type="html"><![CDATA[2024-03-14(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 연극 <친정엄마와 2박3일> - 진주 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14143&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14143&amp;order=1"/>
-        <updated>2024-03-11T06:09:07.675Z</updated>
-        <content type="html"><![CDATA[2024-03-14(목) 14:00]]></content>
     </entry>
 </feed>

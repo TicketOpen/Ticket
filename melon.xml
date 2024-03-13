@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-03-13T06:10:45.750Z</updated>
+    <updated>2024-03-13T09:03:52.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[만동 단독공연 〈 Pai，Moon，Everything 〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8531</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8531"/>
+        <updated>2024-03-13T09:01:50.980Z</updated>
+        <content type="html"><![CDATA[2024.03.18(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CREZL 1st CONCERT ‘BACKSTAGE：Rough’－Daegu 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8530</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8522"/>
         <updated>2024-03-13T05:02:22.891Z</updated>
         <content type="html"><![CDATA[2024.03.19(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바닐레어 첫 정규 앨범 ‘Smoking with the Angel’ 쇼케이스 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8521</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8521"/>
-        <updated>2024-03-13T05:02:22.892Z</updated>
-        <content type="html"><![CDATA[2024.03.13(수) 20:00]]></content>
     </entry>
 </feed>
