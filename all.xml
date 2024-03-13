@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 09:03:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 11:04:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24003407_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[[김해] 2024 가족어린이공연 [버블버블쇼] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14156</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14156</guid>
+            <pubDate>Wed, 13 Mar 2024 11:03:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.14(목) 09:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[김해] 2024 [어린이마술쇼] 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14155</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14155</guid>
@@ -426,11 +433,11 @@
             <content:encoded><![CDATA[2024.03.12(화) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[인천] 2024 라이브가족뮤지컬[브레멘음악대] 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14135</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14135</guid>
-            <pubDate>Fri, 08 Mar 2024 09:03:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.13(수) 09:00]]></content:encoded>
+            <title><![CDATA[[김해] 2024 가족어린이공연 [버블버블쇼] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14156&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14156&amp;order=1</guid>
+            <pubDate>Wed, 13 Mar 2024 11:03:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024-03-14(목) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[김해] 2024 [어린이마술쇼] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -493,13 +500,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14147&amp;order=1</guid>
             <pubDate>Tue, 12 Mar 2024 03:03:43 GMT</pubDate>
             <content:encoded><![CDATA[2024-03-19(화) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <이프아이월유> 관객콜 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14146&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14146&amp;order=1</guid>
-            <pubDate>Tue, 12 Mar 2024 03:03:43 GMT</pubDate>
-            <content:encoded><![CDATA[2024-03-15(금) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블루스프링페스티벌 2024 티켓오픈 안내 (위메프 공연티켓)]]></title>
