@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 04:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 05:03:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,7 +50,7 @@
             <pubDate>Wed, 13 Mar 2024 15:02:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.14
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20240314120848.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <달 샤베트> - 인천]]></title>
@@ -80,15 +80,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002834_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 힉엣눙크! 뮤직 페스티벌 - 세종솔로이스츠 ＆ Four Concertmasters]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50619</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50619</guid>
-            <pubDate>Wed, 13 Mar 2024 15:02:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.14
-                                    <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24003321_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[황영웅 창원콘서트 <봄날의 고백>]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50553</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50553</guid>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2024.03.14
                                     <span>13:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024030611085297.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 힉엣눙크! 뮤직 페스티벌]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50608</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50608</guid>
+            <pubDate>Thu, 14 Mar 2024 05:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.14
+                                    <span>13:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024030816164228.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
