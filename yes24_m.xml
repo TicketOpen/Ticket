@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-15T07:02:57.666Z</updated>
+    <updated>2024-03-15T09:04:44.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[JUSTJERK ACADEMY] JERKDEMY SHOWCASE 2024 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14165&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14165&amp;order=1"/>
+        <updated>2024-03-15T09:04:13.296Z</updated>
+        <content type="html"><![CDATA[2024-03-18(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DAY6 CONCERT〈Welcome to the Show〉티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14164&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14155&amp;order=1"/>
         <updated>2024-03-13T09:03:24.199Z</updated>
         <content type="html"><![CDATA[2024-03-14(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stray Kids 4TH FANMEETING ‘SKZ’S MAGIC SCHOOL’시야제한석 추가 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14154&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14154&amp;order=1"/>
-        <updated>2024-03-13T09:03:24.201Z</updated>
-        <content type="html"><![CDATA[2024-03-14(목) 20:00]]></content>
     </entry>
 </feed>
