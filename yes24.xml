@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-15T04:10:27.590Z</updated>
+    <updated>2024-03-15T06:10:34.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 서울예술단 창작가무극 〈천 개의 파랑〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14163</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14163"/>
+        <updated>2024-03-15T06:10:00.662Z</updated>
+        <content type="html"><![CDATA[2024.03.27(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[청주] 2024 라이브가족뮤지컬〈신데렐라〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14162</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14162"/>
         <updated>2024-03-15T03:04:20.552Z</updated>
         <content type="html"><![CDATA[2024.03.18(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14161</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14161"/>
+        <updated>2024-03-15T06:10:00.675Z</updated>
+        <content type="html"><![CDATA[2024.03.21(목) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2024 가족라이브뮤지컬 〈겨울이야기〉 티켓오픈 안내]]></title>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14143"/>
         <updated>2024-03-11T06:09:00.129Z</updated>
         <content type="html"><![CDATA[2024.03.14(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 2024 라이브가족뮤지컬 〈이상한나라의앨리스〉티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14141</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14141"/>
-        <updated>2024-03-11T04:07:52.686Z</updated>
-        <content type="html"><![CDATA[2024.03.13(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세종] 2024 뮤지컬 노트르담 드 파리 한국어버전 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14140</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14140"/>
-        <updated>2024-03-11T06:09:00.133Z</updated>
-        <content type="html"><![CDATA[2024.03.13(수) 14:00]]></content>
     </entry>
 </feed>
