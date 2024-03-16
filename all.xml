@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Mar 2024 12:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 13:04:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -512,6 +512,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/45/202402/19/akivgs0fzfnz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[공지] 시스템 임시점검(3/17 01:00 ~ 07:00)으로 인한 서비스 일시 중단 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59029</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59029</guid>
+            <pubDate>Sat, 16 Mar 2024 13:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.16]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가야금 명인 이지영 초청연주회 <화천월지> - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59028</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59028</guid>
@@ -610,11 +617,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.03.19(화) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[최백호 - 부산에 가면​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59014</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59014</guid>
-            <pubDate>Thu, 14 Mar 2024 07:08:37 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.03.21(목) 01:00]]></content:encoded>
+            <title><![CDATA[[공지] 시스템 임시점검(3/17 01:00 ~ 07:00)으로 인한 서비스 일시 중단 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59029</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59029</guid>
+            <pubDate>Sat, 16 Mar 2024 13:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/help/notice/59029" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b> 시스템 임시점검(3/17 01:00 ~ 07:00)으로 인한 서비스 일시 중단 안내</h3></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가야금 명인 이지영 초청연주회 <화천월지> - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -713,13 +720,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59015</guid>
             <pubDate>Thu, 14 Mar 2024 09:04:34 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.19(화) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최백호 - 부산에 가면​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59014</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59014</guid>
-            <pubDate>Thu, 14 Mar 2024 07:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.21(목) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
