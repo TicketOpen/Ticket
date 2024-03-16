@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Mar 2024 02:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 07:04:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001122_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[[수원] 2024 가족매직쇼 〈매직사이언스콘서트〉 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14168</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14168</guid>
+            <pubDate>Sat, 16 Mar 2024 07:03:44 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.18(월) 09:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(3/9, 3/10, 3/16, 3/17, 3/18, 3/23) (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14167</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14167</guid>
@@ -425,11 +432,11 @@
             <content:encoded><![CDATA[2024.03.19(화) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <이프아이월유> 관객콜 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14146</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14146</guid>
-            <pubDate>Tue, 12 Mar 2024 03:03:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.15(금) 14:00]]></content:encoded>
+            <title><![CDATA[[수원] 2024 가족매직쇼 〈매직사이언스콘서트〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14168&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14168&amp;order=1</guid>
+            <pubDate>Sat, 16 Mar 2024 07:03:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024-03-18(월) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[JUSTJERK ACADEMY] JERKDEMY SHOWCASE 2024 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -495,14 +502,7 @@
             <content:encoded><![CDATA[2024-03-14(목) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[김해] 2024 [어린이마술쇼] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14155&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14155&amp;order=1</guid>
-            <pubDate>Wed, 13 Mar 2024 09:03:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024-03-14(목) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스튜디오 지브리 애니메이션의 거장 타카하타 이사오전 - 얼리버드 티켓오픈 안내 N (위메프 공연티켓)]]></title>
+            <title><![CDATA[스튜디오 지브리 애니메이션의 거장 타카하타 이사오전 - 얼리버드 티켓오픈 안내 (위메프 공연티켓)]]></title>
             <link>https://ticket.wemakeprice.com/opennotice/1218</link>
             <guid>https://ticket.wemakeprice.com/opennotice/1218</guid>
             <pubDate>Fri, 15 Mar 2024 07:02:32 GMT</pubDate>

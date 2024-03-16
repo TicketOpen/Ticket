@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-16T02:14:17.284Z</updated>
+    <updated>2024-03-16T07:04:30.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[수원] 2024 가족매직쇼 〈매직사이언스콘서트〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14168&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14168&amp;order=1"/>
+        <updated>2024-03-16T07:03:53.424Z</updated>
+        <content type="html"><![CDATA[2024-03-18(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[JUSTJERK ACADEMY] JERKDEMY SHOWCASE 2024 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14165&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14156&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14156&amp;order=1"/>
         <updated>2024-03-13T11:03:46.161Z</updated>
-        <content type="html"><![CDATA[2024-03-14(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김해] 2024 [어린이마술쇼] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14155&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14155&amp;order=1"/>
-        <updated>2024-03-13T09:03:24.199Z</updated>
         <content type="html"><![CDATA[2024-03-14(목) 09:00]]></content>
     </entry>
 </feed>
