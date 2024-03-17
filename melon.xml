@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-03-17T10:04:09.636Z</updated>
+    <updated>2024-03-17T12:11:58.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아일 전국투어 〈HERE I’ll AM〉 서울앵콜 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8544</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8544"/>
+        <updated>2024-03-17T12:09:40.859Z</updated>
+        <content type="html"><![CDATA[2024.03.19(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 타임캡슐 슈퍼콘서트 전국투어 in 인천 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8543</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8534"/>
         <updated>2024-03-17T03:02:03.092Z</updated>
         <content type="html"><![CDATA[2024.03.21(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［얼리버드］스튜디오 지브리 애니메이션의 거장 타카하타 이사오전 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8533</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8533"/>
-        <updated>2024-03-17T03:02:03.093Z</updated>
-        <content type="html"><![CDATA[2024.03.19(화) 10:00]]></content>
     </entry>
 </feed>
