@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-03-18T10:06:06.926Z</updated>
+    <updated>2024-03-18T11:03:34.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[포크라노스 〈Perfect Strangers〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8550</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8550"/>
+        <updated>2024-03-18T11:01:43.061Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오왠의 ‘어떤 이야기를 들려드릴까요？’ Ep．2 109，Maji 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8548</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8537"/>
         <updated>2024-03-18T00:28:18.799Z</updated>
         <content type="html"><![CDATA[2024.03.21(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 잭킹콩 정규 2집 쇼케이스［Apophenia］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8536</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8536"/>
-        <updated>2024-03-18T00:28:18.801Z</updated>
-        <content type="html"><![CDATA[2024.03.19(화) 20:00]]></content>
     </entry>
 </feed>
