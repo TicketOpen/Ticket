@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-20T01:40:31.352Z</updated>
+    <updated>2024-03-20T03:05:57.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[여수] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14186</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14186"/>
+        <updated>2024-03-20T03:05:21.521Z</updated>
+        <content type="html"><![CDATA[2024.03.22(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈이프아이월유〉 2차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14185</id>
@@ -136,12 +143,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14167</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14167"/>
         <updated>2024-03-19T12:11:50.228Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DURDN 1st Asia Tour ＂Komorebi＂ 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14166</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14166"/>
-        <updated>2024-03-19T12:11:50.230Z</updated>
-        <content type="html"><![CDATA[2024.03.18(월) 18:00]]></content>
     </entry>
 </feed>
