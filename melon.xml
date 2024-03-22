@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-03-22T08:11:20.327Z</updated>
+    <updated>2024-03-22T09:04:23.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원피스 인 콘서트：We Are！티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8569</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8569"/>
+        <updated>2024-03-22T09:02:29.633Z</updated>
+        <content type="html"><![CDATA[2024.04.01(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 P1Harmony LIVE TOUR［P1ustage H：UTOP1A］IN SEOUL 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8567</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8558"/>
         <updated>2024-03-21T23:03:18.234Z</updated>
         <content type="html"><![CDATA[2024.03.28(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍석민 정규앨범 발매 기념 단독 콘서트 “내 노래” 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8557</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8557"/>
-        <updated>2024-03-21T23:03:18.237Z</updated>
-        <content type="html"><![CDATA[2024.03.22(금) 20:00]]></content>
     </entry>
 </feed>
