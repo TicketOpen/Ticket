@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-22T00:29:02.728Z</updated>
+    <updated>2024-03-22T01:39:49.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[매직 미디어쇼 <폴리팝(두들팝ver.2)-부산> 5월 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14200&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14200&amp;order=1"/>
+        <updated>2024-03-22T01:39:15.425Z</updated>
+        <content type="html"><![CDATA[2024-03-28(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2024 가족어린이공연 〈공룡애니멀쇼〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14199&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14191&amp;order=1"/>
         <updated>2024-03-21T01:41:44.965Z</updated>
         <content type="html"><![CDATA[2024-03-26(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [난설] 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14190&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14190&amp;order=1"/>
-        <updated>2024-03-21T07:03:10.737Z</updated>
-        <content type="html"><![CDATA[2024-03-26(화) 15:00]]></content>
     </entry>
 </feed>

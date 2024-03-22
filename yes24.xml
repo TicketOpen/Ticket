@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-22T00:29:02.727Z</updated>
+    <updated>2024-03-22T01:39:49.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[매직 미디어쇼 <폴리팝(두들팝ver.2)-부산> 5월 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14200</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14200"/>
+        <updated>2024-03-22T01:39:06.975Z</updated>
+        <content type="html"><![CDATA[2024.03.28(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2024 가족어린이공연 〈공룡애니멀쇼〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14199</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14181"/>
         <updated>2024-03-20T12:11:25.553Z</updated>
         <content type="html"><![CDATA[2024.03.22(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2024 이미자 노래인생 65주년 기념 음악회 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14180</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14180"/>
-        <updated>2024-03-20T12:11:25.557Z</updated>
-        <content type="html"><![CDATA[2024.03.22(금) 14:00]]></content>
     </entry>
 </feed>
