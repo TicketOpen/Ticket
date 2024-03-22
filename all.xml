@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 01:39:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 02:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8550</guid>
             <pubDate>Thu, 21 Mar 2024 23:03:18 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[2024 발레축제] 유니버설발레단 <더 발레리나> (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50772&amp;groupno=50772&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50772&amp;groupno=50772&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 22 Mar 2024 02:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[24.03.28(목)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 선셋뮤직페스티벌 - 시흥 (인터파크 티켓)]]></title>
@@ -188,13 +195,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50751&amp;groupno=50751&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 20 Mar 2024 09:04:58 GMT</pubDate>
             <content:encoded><![CDATA[24.03.27(수)&nbsp;19:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[PEAK FESTIVAL 2024 얼리버드 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50750&amp;groupno=50750&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50750&amp;groupno=50750&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 20 Mar 2024 09:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[24.03.21(목)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <지옥에서> (인터파크 티켓)]]></title>
