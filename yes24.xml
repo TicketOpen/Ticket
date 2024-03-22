@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-21T23:05:14.762Z</updated>
+    <updated>2024-03-22T00:29:02.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2024 가족어린이공연 〈공룡애니멀쇼〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14199</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14199"/>
+        <updated>2024-03-22T00:28:18.390Z</updated>
+        <content type="html"><![CDATA[2024.03.26(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14198</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14180"/>
         <updated>2024-03-20T12:11:25.557Z</updated>
         <content type="html"><![CDATA[2024.03.22(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈지옥에서〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14179</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14179"/>
-        <updated>2024-03-20T12:11:25.562Z</updated>
-        <content type="html"><![CDATA[2024.03.21(목) 14:00]]></content>
     </entry>
 </feed>
