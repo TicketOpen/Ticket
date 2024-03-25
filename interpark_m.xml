@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 11:07:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 12:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,24 +17,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23018446_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[미스터트롯2 진선미 콘서트 [트롯트립] - 성남]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50734</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50734</guid>
-            <pubDate>Fri, 22 Mar 2024 17:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20240320100000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈초선의원〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50722</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50722</guid>
-            <pubDate>Fri, 22 Mar 2024 17:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000251_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2024 B-day PARTY - IRENE  [IRENE in WONDERLAND]]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50708</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50708</guid>
@@ -42,15 +24,6 @@
             <content:encoded><![CDATA[2024.03.25
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24003947_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 Drama Poem 낭만을 찾아서]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50779</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50779</guid>
-            <pubDate>Fri, 22 Mar 2024 17:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024032213030124.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손태진 ＆ 에녹 디너콘서트]]></title>
@@ -62,13 +35,49 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024031914585059.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미스터트롯2 진선미 콘서트 [트롯트립] - 성남]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50734</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50734</guid>
+            <pubDate>Fri, 22 Mar 2024 17:02:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24004572_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈초선의원〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50722</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50722</guid>
+            <pubDate>Fri, 22 Mar 2024 17:02:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000251_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 Drama Poem 낭만을 찾아서]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50779</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50779</guid>
+            <pubDate>Fri, 22 Mar 2024 17:02:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24004360_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[어쿠스틱 신드롬]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50797</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50797</guid>
+            <pubDate>Mon, 25 Mar 2024 12:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.25
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024032114220840.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미스터트롯2 진선미 콘서트 [트롯트립] - 대구]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50732</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50732</guid>
             <pubDate>Fri, 22 Mar 2024 17:02:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.25
                                     <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024031917534898.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24004588_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[미스터트롯2 진선미 콘서트 [트롯트립] - 춘천]]></title>
@@ -77,7 +86,7 @@
             <pubDate>Fri, 22 Mar 2024 17:02:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.25
                                     <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024031917201621.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24004353_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[미스터트롯2 진선미 콘서트 [트롯트립] - 부산]]></title>
@@ -86,16 +95,7 @@
             <pubDate>Fri, 22 Mar 2024 17:02:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.25
                                     <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20240320041454.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[S2O Korea 2024 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50747</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50747</guid>
-            <pubDate>Fri, 22 Mar 2024 17:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.25
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20240320034555.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24004593_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

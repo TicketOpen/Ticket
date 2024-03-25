@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-25T11:07:05.402Z</updated>
+    <updated>2024-03-25T12:11:19.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 라이브 가족뮤지컬 〈미녀와야수〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14209&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14209&amp;order=1"/>
+        <updated>2024-03-25T12:10:47.558Z</updated>
+        <content type="html"><![CDATA[2024-03-26(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 dori first concert ‘CINEMA’ 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14208&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14208&amp;order=1"/>
+        <updated>2024-03-25T12:10:47.558Z</updated>
+        <content type="html"><![CDATA[2024-03-27(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전시 리얼뱅크시[REAL BANKSY] - 슈퍼얼리버드 오픈 안내[한정수량판매]]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14207&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14200&amp;order=1"/>
         <updated>2024-03-22T01:39:15.425Z</updated>
         <content type="html"><![CDATA[2024-03-28(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 2024 가족어린이공연 〈공룡애니멀쇼〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14199&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14199&amp;order=1"/>
-        <updated>2024-03-22T00:28:26.850Z</updated>
-        <content type="html"><![CDATA[2024-03-26(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[King Gnu Asia Tour ‘THE GREATEST UNKNOWN’ in Seoul 추가 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14198&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14198&amp;order=1"/>
-        <updated>2024-03-21T09:04:36.865Z</updated>
-        <content type="html"><![CDATA[2024-03-26(화) 18:00]]></content>
     </entry>
 </feed>
