@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-03-26T07:03:56.454Z</updated>
+    <updated>2024-03-26T08:10:14.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 스카 페스티벌－창원 〈Back to the 90’s Fever〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8576</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8576"/>
+        <updated>2024-03-26T08:08:13.445Z</updated>
+        <content type="html"><![CDATA[2024.04.04(목) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 RIIZE FAN－CON ‘RIIZING DAY’ in SEOUL 추가 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8575</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8565"/>
         <updated>2024-03-26T07:01:45.502Z</updated>
         <content type="html"><![CDATA[2024.03.27(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌피노스 in 서울 with Quartet Velato 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8564</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8564"/>
-        <updated>2024-03-26T07:01:45.504Z</updated>
-        <content type="html"><![CDATA[2024.03.26(화) 14:00]]></content>
     </entry>
 </feed>
