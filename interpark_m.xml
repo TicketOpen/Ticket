@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Mar 2024 12:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2024 13:03:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,6 +71,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23015335_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[창작 뮤지컬 ［파과］]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50748</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50748</guid>
+            <pubDate>Mon, 25 Mar 2024 19:01:55 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.26
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000645_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[2024 김창옥 토크콘서트 시즌4 - 목포]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50756</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50756</guid>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2024.03.26
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24004612_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[창작 뮤지컬 ［파과］]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50748</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50748</guid>
-            <pubDate>Mon, 25 Mar 2024 19:01:55 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.26
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000645_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
