@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-27T05:09:35.961Z</updated>
+    <updated>2024-03-27T06:10:14.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[시스템 점검으로 인한 서비스 일시 중지 안내(03/31)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14223</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14223"/>
+        <updated>2024-03-27T06:09:41.455Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 아람누리 마티네 콘서트<모닝 플레이리스트Ⅰ- 지휘자 김광현의 봄, 깨우다> 티켓오픈안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14222</id>
@@ -137,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14204"/>
         <updated>2024-03-26T12:12:26.231Z</updated>
         <content type="html"><![CDATA[2024.03.27(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 연극 <친정엄마와 2박3일> - 대구 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14203</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14203"/>
-        <updated>2024-03-26T12:12:26.233Z</updated>
-        <content type="html"><![CDATA[2024.03.28(목) 14:00]]></content>
     </entry>
 </feed>

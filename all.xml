@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 05:09:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 06:10:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=50587&amp;groupno=50587&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Sun, 24 Mar 2024 01:44:29 GMT</pubDate>
             <content:encoded><![CDATA[24.03.29(금)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 〈어린이마술쇼〉 - 대구 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50820&amp;groupno=50820&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50820&amp;groupno=50820&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 27 Mar 2024 06:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[24.04.02(화)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈영웅〉 15주년 기념공연 (인터파크 티켓)]]></title>
@@ -204,13 +211,6 @@
             <content:encoded><![CDATA[24.03.28(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 뮤지컬 난타 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50803&amp;groupno=50803&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50803&amp;groupno=50803&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 26 Mar 2024 05:02:33 GMT</pubDate>
-            <content:encoded><![CDATA[24.03.29(금)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2024 가족매직쇼 〈매직사이언스콘서트〉 - 안양 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50773</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50773</guid>
@@ -299,6 +299,12 @@
             <content:encoded><![CDATA[2024.03.27
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002802_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[시스템 점검으로 인한 서비스 일시 중지 안내(03/31) (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14223</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14223</guid>
+            <pubDate>Wed, 27 Mar 2024 06:09:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2024 아람누리 마티네 콘서트<모닝 플레이리스트Ⅰ- 지휘자 김광현의 봄, 깨우다> 티켓오픈안내 (예스24 티켓)]]></title>
@@ -432,13 +438,6 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14204</guid>
             <pubDate>Tue, 26 Mar 2024 12:12:26 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.27(수) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 연극 <친정엄마와 2박3일> - 대구 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14203</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14203</guid>
-            <pubDate>Tue, 26 Mar 2024 12:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.28(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 아람누리 마티네 콘서트<모닝 플레이리스트Ⅰ- 지휘자 김광현의 봄, 깨우다> 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -591,7 +590,21 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/23/202403/08/idy0ddzxycdt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 베스트 슬립과 함께하는 수면콘서트 <베스트 드림 콘서트>​ ​티켓오픈 안내 (티켓링크)]]></title>
+            <title><![CDATA[[단독판매]  ​2024 심방무곡 - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59114</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59114</guid>
+            <pubDate>Wed, 27 Mar 2024 06:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.01(월) 03:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​[단독판매]  대구경북 지역민과 함께하는 부모교육 iM-Talk 콘서트 명사 초청 특강 Part1. 양재진 원장​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59113</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59113</guid>
+            <pubDate>Wed, 27 Mar 2024 06:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.09(화) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  베스트슬립과 함께하는 수면콘서트 <베스트드림콘서트>​ ​티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59112</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59112</guid>
             <pubDate>Wed, 27 Mar 2024 05:09:24 GMT</pubDate>
@@ -682,21 +695,21 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.04.01(월) 03:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[창원] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59099</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59099</guid>
-            <pubDate>Tue, 26 Mar 2024 05:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.03.28(목) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  ​2024 심방무곡 - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59114</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59114</guid>
+            <pubDate>Wed, 27 Mar 2024 06:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.01(월) 03:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 <아트>  5차(마지막) ​티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59098</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59098</guid>
-            <pubDate>Tue, 26 Mar 2024 02:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.02(화) 05:00]]></content:encoded>
+            <title><![CDATA[​[단독판매]  대구경북 지역민과 함께하는 부모교육 iM-Talk 콘서트 명사 초청 특강 Part1. 양재진 원장​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59113</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59113</guid>
+            <pubDate>Wed, 27 Mar 2024 06:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.09(화) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 베스트 슬립과 함께하는 수면콘서트 <베스트 드림 콘서트>​ ​티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <title><![CDATA[[단독판매]  베스트슬립과 함께하는 수면콘서트 <베스트드림콘서트>​ ​티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/59112</link>
             <guid>http://m.ticketlink.co.kr/help/notice/59112</guid>
             <pubDate>Wed, 27 Mar 2024 05:09:30 GMT</pubDate>
@@ -785,20 +798,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59100</guid>
             <pubDate>Tue, 26 Mar 2024 05:05:59 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.01(월) 03:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[창원] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59099</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59099</guid>
-            <pubDate>Tue, 26 Mar 2024 05:05:59 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.28(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 <아트>  5차(마지막) ​티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59098</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59098</guid>
-            <pubDate>Tue, 26 Mar 2024 02:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.02(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
