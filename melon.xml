@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-03-27T00:28:33.827Z</updated>
+    <updated>2024-03-27T01:40:48.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 NCT DREAM WORLD TOUR 〈THE DREAM SHOW 3：DREAM（）SCAPE〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8578</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8578"/>
+        <updated>2024-03-27T01:39:40.154Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PEAK FESTIVAL 2024 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8577</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[2024 P1Harmony LIVE TOUR［P1ustage H：UTOP1A］IN SEOUL 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8567</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8567"/>
-        <updated>2024-03-26T22:02:10.241Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JUNGWOO musictrip－춘천，부산 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8566</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8566"/>
         <updated>2024-03-26T22:02:10.241Z</updated>
         <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
     </entry>
