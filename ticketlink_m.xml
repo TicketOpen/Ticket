@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-27T04:12:32.072Z</updated>
+    <updated>2024-03-27T05:09:35.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 베스트 슬립과 함께하는 수면콘서트 <베스트 드림 콘서트>​ ​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59112</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59112"/>
+        <updated>2024-03-27T05:09:30.827Z</updated>
+        <content type="html"><![CDATA[2024.04.29(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​정명훈 & 도쿄 필하모닉 오케스트라 (피아노 조성진)​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59111</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59098"/>
         <updated>2024-03-26T02:16:54.257Z</updated>
         <content type="html"><![CDATA[2024.04.02(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2024 스윗스로우 제주 단독 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59097</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59097"/>
-        <updated>2024-03-26T00:28:50.741Z</updated>
-        <content type="html"><![CDATA[2024.03.27(수) 00:00]]></content>
     </entry>
 </feed>
