@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-03-28T05:04:16.582Z</updated>
+    <updated>2024-03-28T06:10:40.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 CRAVITY FAN－CON 〈LUVITY GAMES〉 추가 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8588</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8588"/>
+        <updated>2024-03-28T06:08:32.933Z</updated>
+        <content type="html"><![CDATA[2024.04.01(월) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패밀리 서커스 〈이상한 나라의 앨리스〉 오리지널 내한공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8587</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8587"/>
+        <updated>2024-03-28T06:08:32.939Z</updated>
+        <content type="html"><![CDATA[2024.04.01(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌7 My Universe［안예은 단독 콘서트］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8586</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8576"/>
         <updated>2024-03-28T04:03:21.357Z</updated>
         <content type="html"><![CDATA[2024.04.04(목) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 RIIZE FAN－CON ‘RIIZING DAY’ in SEOUL 추가 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8575</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8575"/>
-        <updated>2024-03-28T04:03:21.359Z</updated>
-        <content type="html"><![CDATA[2024.03.28(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 SUHO CONCERT 〈SU：HOME〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8574</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8574"/>
-        <updated>2024-03-28T04:03:21.361Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
     </entry>
 </feed>
