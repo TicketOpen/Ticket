@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-28T01:41:34.225Z</updated>
+    <updated>2024-03-28T02:20:38.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 라이브가족뮤지컬〈인어공주〉- 인천 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14227</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14227"/>
+        <updated>2024-03-28T02:18:41.016Z</updated>
+        <content type="html"><![CDATA[2024.04.01(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14226</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14226"/>
+        <updated>2024-03-28T02:18:41.017Z</updated>
+        <content type="html"><![CDATA[2024.04.11(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 라이브가족뮤지컬 〈인어공주〉 - 안양 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14225</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14207"/>
         <updated>2024-03-27T11:04:41.655Z</updated>
         <content type="html"><![CDATA[2024.03.27(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<야노스 슈타커 탄생 100주년 기념 첼로 페스티벌> 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14206</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14206"/>
-        <updated>2024-03-27T11:04:41.657Z</updated>
-        <content type="html"><![CDATA[2024.03.29(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울] 2024 라이브 가족뮤지컬〈사운드오브뮤직〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14205</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14205"/>
-        <updated>2024-03-27T11:04:41.658Z</updated>
-        <content type="html"><![CDATA[2024.03.25(월) 13:00]]></content>
     </entry>
 </feed>
