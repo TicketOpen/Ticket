@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 05:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 06:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,20 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=50587&amp;groupno=50587&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 27 Mar 2024 23:02:09 GMT</pubDate>
             <content:encoded><![CDATA[24.03.29(금)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[까르띠에, 시간의 결정 얼리버드 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=985&amp;groupno=985&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=985&amp;groupno=985&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 29 Mar 2024 06:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[24.04.01(월)&nbsp;09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어노니머스 프로젝트 부산 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=984&amp;groupno=984&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=984&amp;groupno=984&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 29 Mar 2024 06:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[24.04.01(월)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈꼬마버스 타요 - 용감한 구조대 레스큐 타요〉 - 인천 (인터파크 티켓)]]></title>
@@ -111,20 +125,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50832&amp;groupno=50832&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 28 Mar 2024 04:03:28 GMT</pubDate>
             <content:encoded><![CDATA[24.03.28(목)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 라이브가족뮤지컬 〈잭과콩나무〉 - 대구 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50830&amp;groupno=50830&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50830&amp;groupno=50830&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 28 Mar 2024 02:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[24.04.02(화)&nbsp;09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 어린이베스트셀러 뮤지컬 〈사과가쿵〉 - 대구 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50829&amp;groupno=50829&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50829&amp;groupno=50829&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 28 Mar 2024 02:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[24.04.02(화)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성남시립국악단 기획연주회/천원의 행복릴레이 '아름다운 추억' (인터파크 티켓)]]></title>
@@ -520,6 +520,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/23/202403/08/idy0ddzxycdt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 춘천 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59135</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59135</guid>
+            <pubDate>Fri, 29 Mar 2024 06:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.08(월) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가족뮤지컬 <고고다이노 - 고고킹의 귀환> - 군포 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59134</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59134</guid>
@@ -618,11 +625,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.04.01(월) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인피니티 플라잉 - 경주 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59120</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59120</guid>
-            <pubDate>Thu, 28 Mar 2024 02:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.01(월) 00:00]]></content:encoded>
+            <title><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 춘천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59135</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59135</guid>
+            <pubDate>Fri, 29 Mar 2024 06:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.08(월) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 <고고다이노 - 고고킹의 귀환> - 군포 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -721,13 +728,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59121</guid>
             <pubDate>Thu, 28 Mar 2024 02:20:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.01(월) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인피니티 플라잉 - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59120</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59120</guid>
-            <pubDate>Thu, 28 Mar 2024 02:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.01(월) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
