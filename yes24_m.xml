@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-03-29T07:05:12.603Z</updated>
+    <updated>2024-03-29T08:11:36.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 어린이베스트셀러 뮤지컬 〈사과가쿵〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14238&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14238&amp;order=1"/>
+        <updated>2024-03-29T08:09:48.101Z</updated>
+        <content type="html"><![CDATA[2024-04-02(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 〈어린이마술쇼〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14237&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14237&amp;order=1"/>
+        <updated>2024-03-29T08:09:48.101Z</updated>
+        <content type="html"><![CDATA[2024-04-02(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <바스커빌 : 셜록홈즈 미스터리> 2차 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14236&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14229&amp;order=1"/>
         <updated>2024-03-28T06:10:15.613Z</updated>
         <content type="html"><![CDATA[2024-03-29(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패밀리 서커스 〈이상한 나라의 앨리스〉오리지널 내한공연 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14228&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14228&amp;order=1"/>
-        <updated>2024-03-28T05:03:53.262Z</updated>
-        <content type="html"><![CDATA[2024-04-01(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브가족뮤지컬〈인어공주〉- 인천 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14227&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14227&amp;order=1"/>
-        <updated>2024-03-28T02:18:50.872Z</updated>
-        <content type="html"><![CDATA[2024-04-01(월) 09:00]]></content>
     </entry>
 </feed>

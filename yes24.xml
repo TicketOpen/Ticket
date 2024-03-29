@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-03-29T07:05:12.589Z</updated>
+    <updated>2024-03-29T08:11:36.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 어린이베스트셀러 뮤지컬 〈사과가쿵〉 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14238</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14238"/>
+        <updated>2024-03-29T08:09:39.365Z</updated>
+        <content type="html"><![CDATA[2024.04.02(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 〈어린이마술쇼〉 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14237</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14237"/>
+        <updated>2024-03-29T08:09:39.380Z</updated>
+        <content type="html"><![CDATA[2024.04.02(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <바스커빌 : 셜록홈즈 미스터리> 2차 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14236</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14218"/>
         <updated>2024-03-27T11:04:41.630Z</updated>
         <content type="html"><![CDATA[2024.03.29(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14217</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14217"/>
-        <updated>2024-03-27T11:04:41.631Z</updated>
-        <content type="html"><![CDATA[2024.04.02(화) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.04.01(월) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안양] 2024 가족매직쇼 〈매직사이언스콘서트〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14216</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14216"/>
-        <updated>2024-03-27T11:04:41.633Z</updated>
-        <content type="html"><![CDATA[2024.03.27(수) 09:00]]></content>
     </entry>
 </feed>
