@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 10:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 11:03:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,15 +26,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013289_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2024_천안]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50801</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50801</guid>
-            <pubDate>Fri, 29 Mar 2024 00:27:17 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.29
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001868_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2024 뮤지컬 난타]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50803</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50803</guid>
@@ -44,22 +35,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈버지니아 울프〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50760</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50760</guid>
+            <title><![CDATA[히사이시 조 영화음악 콘서트 2024_천안]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50801</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50801</guid>
             <pubDate>Fri, 29 Mar 2024 00:27:17 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.29
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24003523_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤직드라마 <불편한 편의점> - 부산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50761</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50761</guid>
-            <pubDate>Fri, 29 Mar 2024 00:27:17 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.29
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001868_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[유키 구라모토 내한 25주년 기념 콘서트 - 구미]]></title>
@@ -69,6 +51,24 @@
             <content:encoded><![CDATA[2024.03.29
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024031518285612.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤직드라마 <불편한 편의점> - 부산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50761</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50761</guid>
+            <pubDate>Fri, 29 Mar 2024 00:27:17 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24004660_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈버지니아 울프〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50760</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50760</guid>
+            <pubDate>Fri, 29 Mar 2024 00:27:17 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24003523_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[야노스 슈타커 탄생 100주년 기념 첼로 페스티벌]]></title>
