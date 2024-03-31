@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 08:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2024 09:05:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -513,6 +513,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/23/202403/08/idy0ddzxycdt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김유진 김영미 듀오 콘서트 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59141</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59141</guid>
+            <pubDate>Sun, 31 Mar 2024 09:05:40 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.02(화) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 어린이 마술쇼 - 원주 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59140</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59140</guid>
@@ -611,11 +618,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.03.29(금) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마루한필하모닉오케스트라 제7회 정기연주회​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59126</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59126</guid>
-            <pubDate>Thu, 28 Mar 2024 06:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.03.29(금) 03:00]]></content:encoded>
+            <title><![CDATA[김유진 김영미 듀오 콘서트 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59141</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59141</guid>
+            <pubDate>Sun, 31 Mar 2024 09:05:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.02(화) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 어린이 마술쇼 - 원주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -714,13 +721,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59127</guid>
             <pubDate>Thu, 28 Mar 2024 08:11:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.29(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마루한필하모닉오케스트라 제7회 정기연주회​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59126</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59126</guid>
-            <pubDate>Thu, 28 Mar 2024 06:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.29(금) 03:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
