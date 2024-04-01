@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-04-01T11:03:45.231Z</updated>
+    <updated>2024-04-01T12:13:39.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유희도 Birthday Eve Concert 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8601</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8601"/>
+        <updated>2024-04-01T12:11:36.941Z</updated>
+        <content type="html"><![CDATA[2024.04.03(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 리케이댄스 〈올더월즈〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8600</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8592"/>
         <updated>2024-04-01T10:07:34.389Z</updated>
         <content type="html"><![CDATA[2024.04.01(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Link 정규 1집 쇼케이스［NOW WE ARE DREAMING］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8591</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8591"/>
-        <updated>2024-04-01T10:07:34.391Z</updated>
-        <content type="html"><![CDATA[2024.04.03(수) 14:00]]></content>
     </entry>
 </feed>
