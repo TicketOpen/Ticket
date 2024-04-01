@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 07:04:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 08:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <pubDate>Sat, 30 Mar 2024 10:02:02 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.01
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24004967_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 현역가왕 전국투어 콘서트- 부천]]></title>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001917_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 라이브가족뮤지컬 〈잭과콩나무〉 - 대구]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50830</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50830</guid>
-            <pubDate>Sun, 31 Mar 2024 23:02:16 GMT</pubDate>
+            <title><![CDATA[쁘띠꼬숑 클래식 그리다 콘서트]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50857</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50857</guid>
+            <pubDate>Mon, 01 Apr 2024 08:10:35 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.02
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24004833_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
