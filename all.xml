@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 01:52:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 02:26:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -513,6 +513,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/23/202403/08/idy0ddzxycdt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2024 김창완밴드 전국투어 <개구쟁이> - 부산 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59144</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59144</guid>
+            <pubDate>Mon, 01 Apr 2024 02:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.02(화) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[앤서니브라운의 뮤지컬<우리가족>​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59143</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59143</guid>
+            <pubDate>Mon, 01 Apr 2024 02:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.03(수) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[김유진 김영미 듀오 콘서트 - 대구 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59141</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59141</guid>
@@ -604,18 +618,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.04.03(수) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 난타-광주공연​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59128</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59128</guid>
-            <pubDate>Thu, 28 Mar 2024 10:04:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.03.29(금) 05:00]]></content:encoded>
+            <title><![CDATA[2024 김창완밴드 전국투어 <개구쟁이> - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59144</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59144</guid>
+            <pubDate>Mon, 01 Apr 2024 02:25:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.02(화) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  Kim Nam Joo 2024 Fanmeeting < BAD JOO’S > in Seoul​ 추가 회차 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59127</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59127</guid>
-            <pubDate>Thu, 28 Mar 2024 08:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.03.29(금) 05:00]]></content:encoded>
+            <title><![CDATA[앤서니브라운의 뮤지컬<우리가족>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59143</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59143</guid>
+            <pubDate>Mon, 01 Apr 2024 02:25:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.03(수) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김유진 김영미 듀오 콘서트 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -707,20 +721,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59129</guid>
             <pubDate>Fri, 29 Mar 2024 03:07:00 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.03(수) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 난타-광주공연​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59128</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59128</guid>
-            <pubDate>Thu, 28 Mar 2024 10:04:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.29(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  Kim Nam Joo 2024 Fanmeeting < BAD JOO’S > in Seoul​ 추가 회차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59127</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59127</guid>
-            <pubDate>Thu, 28 Mar 2024 08:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.29(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
