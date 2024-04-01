@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 06:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 07:04:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/23/202403/08/idy0ddzxycdt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[월드탱고챔피언내한공연 < What is Tango > - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59151</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59151</guid>
+            <pubDate>Mon, 01 Apr 2024 07:03:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.03(수) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 뮤지컬 <협객외전> 1차​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59149</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59149</guid>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.04.02(화) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 춘천 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59135</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59135</guid>
-            <pubDate>Fri, 29 Mar 2024 06:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.08(월) 05:00]]></content:encoded>
+            <title><![CDATA[월드탱고챔피언내한공연 < What is Tango > - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59151</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59151</guid>
+            <pubDate>Mon, 01 Apr 2024 07:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.03(수) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 뮤지컬 <협객외전> 1차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -784,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59136</guid>
             <pubDate>Fri, 29 Mar 2024 07:05:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.02(화) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 춘천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59135</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59135</guid>
-            <pubDate>Fri, 29 Mar 2024 06:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.08(월) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
