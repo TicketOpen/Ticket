@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-04-04T10:05:02.750Z</updated>
+    <updated>2024-04-04T11:03:51.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[울플러 1st 팬미팅 “RE_DESIGN” 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8621</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8621"/>
+        <updated>2024-04-04T11:01:53.326Z</updated>
+        <content type="html"><![CDATA[2024.04.12(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오왠의 ‘어떤 이야기를 들려드릴까요？’ Ep．3 택우，성영주 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8620</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8610"/>
         <updated>2024-04-04T10:02:55.006Z</updated>
         <content type="html"><![CDATA[2024.04.11(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌7 청춘의 밤［규도 단독 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8609</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8609"/>
-        <updated>2024-04-04T10:02:55.006Z</updated>
-        <content type="html"><![CDATA[2024.04.10(수) 20:00]]></content>
     </entry>
 </feed>
