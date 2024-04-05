@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 01:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 02:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -90,6 +90,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=50778&amp;groupno=50778&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 02 Apr 2024 11:01:54 GMT</pubDate>
             <content:encoded><![CDATA[24.04.08(월)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[골든걸스 전국투어 [의정부] (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50920&amp;groupno=50920&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50920&amp;groupno=50920&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 05 Apr 2024 02:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[24.04.09(화)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[에드바르 뭉크: 비욘드 더 스크림 (인터파크 티켓)]]></title>
@@ -202,13 +209,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50905&amp;groupno=50905&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 03 Apr 2024 07:02:16 GMT</pubDate>
             <content:encoded><![CDATA[24.04.05(금)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 일 테노레 (IL TENORE) (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50903&amp;groupno=50903&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50903&amp;groupno=50903&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 03 Apr 2024 06:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[24.04.08(월)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[REAL BANKSY - Banksy is NOWHERE (인터파크 티켓)]]></title>
