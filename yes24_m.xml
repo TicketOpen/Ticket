@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-04-05T05:04:09.702Z</updated>
+    <updated>2024-04-05T07:04:21.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Mae Muller Live in Korea 공연 취소 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14263&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14263&amp;order=1"/>
+        <updated>2024-04-05T07:03:54.268Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[청주] 2024 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14262&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14262&amp;order=1"/>
+        <updated>2024-04-05T07:03:54.269Z</updated>
+        <content type="html"><![CDATA[2024-04-09(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2024 뮤지컬 노트르담 드 파리 한국어버전 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14261&amp;order=1</id>
@@ -59,20 +72,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14254&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14254&amp;order=1"/>
         <updated>2024-04-03T06:08:52.591Z</updated>
-        <content type="html"><![CDATA[2024-04-05(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈넥스트 투 노멀〉 추가 회차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14253&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14253&amp;order=1"/>
-        <updated>2024-04-03T07:03:43.282Z</updated>
-        <content type="html"><![CDATA[2024-04-08(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폴포츠 내한 공연 : Prime Time - 수원공연 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14252&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14252&amp;order=1"/>
-        <updated>2024-04-03T06:08:52.592Z</updated>
         <content type="html"><![CDATA[2024-04-05(금) 14:00]]></content>
     </entry>
 </feed>
