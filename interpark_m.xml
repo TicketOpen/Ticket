@@ -4,18 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Apr 2024 10:03:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Apr 2024 11:03:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[보들레르의 악의 꽃]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50911</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50911</guid>
-            <pubDate>Sat, 06 Apr 2024 05:02:27 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.08
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040316093813.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 한글용사 아이야 〈사라진 한글을 찾아라!〉 - 청주]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50892</link>
@@ -24,6 +15,15 @@
             <content:encoded><![CDATA[2024.04.08
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040214275506.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보들레르의 악의 꽃]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50911</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50911</guid>
+            <pubDate>Sat, 06 Apr 2024 05:02:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.08
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040316093813.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[REAL BANKSY - Banksy is NOWHERE]]></title>
@@ -62,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024032021061151.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2024 주현미 콘서트 〈The Original〉 -김해]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50912</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50912</guid>
-            <pubDate>Sat, 06 Apr 2024 05:02:27 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024032617310425.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 〈고도를 기다리며〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50918</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50918</guid>
@@ -89,13 +80,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002523_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[NOL 스테이지 〈뮤지컬 시카고〉 미니콘서트]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50873</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50873</guid>
+            <title><![CDATA[2024 주현미 콘서트 〈The Original〉 -김해]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50912</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50912</guid>
             <pubDate>Sat, 06 Apr 2024 05:02:27 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.08
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24004354_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024032617310425.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 < 급식걸즈 - 뿌슝빠슝 깨져버린 우정 > - 춘천]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50850</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50850</guid>
+            <pubDate>Sun, 07 Apr 2024 11:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024032914395026.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
