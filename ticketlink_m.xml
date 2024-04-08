@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-08T01:43:58.829Z</updated>
+    <updated>2024-04-08T04:09:38.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 특선 가족뮤지컬 <라푼젤> - 보령 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59190</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59190"/>
+        <updated>2024-04-08T04:09:32.567Z</updated>
+        <content type="html"><![CDATA[2024.04.09(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​김용임 신유의 <콘서트롯> - 청주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59188</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59175"/>
         <updated>2024-04-04T06:09:55.220Z</updated>
         <content type="html"><![CDATA[2024.04.06(토) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 최현우 Answer - 의정부​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59174</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59174"/>
-        <updated>2024-04-04T03:04:43.235Z</updated>
-        <content type="html"><![CDATA[2024.04.05(금) 03:00]]></content>
     </entry>
 </feed>
