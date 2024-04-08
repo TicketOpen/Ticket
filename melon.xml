@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-04-08T00:29:54.396Z</updated>
+    <updated>2024-04-08T01:43:58.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 ONEWE 3rd Live Concert ‘O！NEW E！volution Ⅲ’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8634</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8634"/>
+        <updated>2024-04-08T01:41:57.005Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트바로티 클래식 아레나 투어 2024－광주 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8633</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8623"/>
         <updated>2024-04-07T21:01:52.693Z</updated>
         <content type="html"><![CDATA[2024.04.05(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［얼리버드 오픈］리얼뱅크시 REAL BANKSY－Banksy is NOWHERE 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8622</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8622"/>
-        <updated>2024-04-07T21:01:52.693Z</updated>
-        <content type="html"><![CDATA[2024.04.08(월) 10:00]]></content>
     </entry>
 </feed>
