@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 09:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 12:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -90,6 +90,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=50877&amp;groupno=50877&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 04 Apr 2024 10:03:04 GMT</pubDate>
             <content:encoded><![CDATA[24.04.10(수)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[리온의 신비한 과자상점 - 부산 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50970&amp;groupno=50970&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50970&amp;groupno=50970&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 09 Apr 2024 12:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[24.04.12(금)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 ONEW FANMEETING 〈GUESS!〉 (인터파크 티켓)]]></title>
@@ -211,13 +218,6 @@
             <content:encoded><![CDATA[24.04.12(금)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 〈어린이마술쇼〉 - 수원 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50952&amp;groupno=50952&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50952&amp;groupno=50952&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 08 Apr 2024 07:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[24.04.12(금)&nbsp;09:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2024 〈어린이마술쇼〉 - 부산 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50917</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50917</guid>
@@ -225,15 +225,6 @@
             <content:encoded><![CDATA[2024.04.09
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005202_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈고양이 해결사 깜냥 - 편의점을 환하게 밝혀〉 - 부산 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50923</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50923</guid>
-            <pubDate>Tue, 09 Apr 2024 00:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.09
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040413272042.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[골든걸스 전국투어 [의정부] (인터파크 티켓 모바일)]]></title>
@@ -245,6 +236,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005232_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[가족뮤지컬 〈고양이 해결사 깜냥 - 편의점을 환하게 밝혀〉 - 부산 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50923</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50923</guid>
+            <pubDate>Tue, 09 Apr 2024 00:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.09
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040413272042.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈벤자민 버튼〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50875</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50875</guid>
@@ -252,15 +252,6 @@
             <content:encoded><![CDATA[2024.04.09
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0003839_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 김창옥 토크콘서트 시즌 4 - 서울 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50879</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50879</guid>
-            <pubDate>Tue, 09 Apr 2024 00:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.09
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005035_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈내 친구 워렌버핏〉 (인터파크 티켓 모바일)]]></title>
@@ -272,13 +263,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040117231494.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비밀의 정원_2024 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50874</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50874</guid>
+            <title><![CDATA[2024 김창옥 토크콘서트 시즌 4 - 서울 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50879</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50879</guid>
             <pubDate>Tue, 09 Apr 2024 00:28:46 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.09
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20240404024917.jpg" length="0" type="image/jpg"/>
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005035_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈디아길레프〉 (인터파크 티켓 모바일)]]></title>
@@ -288,6 +279,15 @@
             <content:encoded><![CDATA[2024.04.09
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000486_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[비밀의 정원_2024 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50874</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50874</guid>
+            <pubDate>Tue, 09 Apr 2024 00:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.09
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20240404024917.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크랙샷 콘서트 〈We Are Crackshot vol.2〉 (인터파크 티켓 모바일)]]></title>
