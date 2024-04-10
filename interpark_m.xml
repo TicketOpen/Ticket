@@ -4,35 +4,17 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Apr 2024 20:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Apr 2024 22:03:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[2024 임영웅 콘서트 [IM HERO - THE STADIUM]]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50877</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50877</guid>
-            <pubDate>Tue, 09 Apr 2024 19:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.10
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005132_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬  <정글북>]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50855</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50855</guid>
+            <title><![CDATA[2024 최현우 Answer - 고양]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50961</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50961</guid>
             <pubDate>Tue, 09 Apr 2024 19:02:30 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.11
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024032216171438.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 김창옥 토크콘서트 시즌4 - 청주]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50934</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50934</guid>
-            <pubDate>Tue, 09 Apr 2024 19:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.11
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040415244455.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005283_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[Fall in Ballet]]></title>
@@ -44,13 +26,31 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040414553513.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2024 최현우 Answer - 고양]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50961</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50961</guid>
+            <title><![CDATA[2024 김창옥 토크콘서트 시즌4 - 청주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50934</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50934</guid>
             <pubDate>Tue, 09 Apr 2024 19:02:30 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.11
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005283_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040415244455.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬  <정글북>]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50855</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50855</guid>
+            <pubDate>Tue, 09 Apr 2024 19:02:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.11
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024032216171438.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기깔나는 코믹 서부극 뮤지컬 〈웨스턴 스토리〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50914</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50914</guid>
+            <pubDate>Tue, 09 Apr 2024 19:02:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.11
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002031_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 최현우 Answer - 대구]]></title>
@@ -71,22 +71,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24003081_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[기깔나는 코믹 서부극 뮤지컬 〈웨스턴 스토리〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50914</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50914</guid>
-            <pubDate>Tue, 09 Apr 2024 19:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.11
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002031_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈늘근도둑이야기〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50913</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50913</guid>
-            <pubDate>Tue, 09 Apr 2024 19:02:30 GMT</pubDate>
+            <title><![CDATA[2024 연극 〈친정엄마와 2박3일〉 - 오산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50945</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50945</guid>
+            <pubDate>Wed, 10 Apr 2024 22:02:45 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.11
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001159_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040413192816.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플레이 뮤지컬 〈핑크퐁과 아기상어의 무지개 구출 작전〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50943</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50943</guid>
+            <pubDate>Wed, 10 Apr 2024 22:02:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.11
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002524_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[헬로 더 헬: 오델로]]></title>
