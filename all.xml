@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 06:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 07:04:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=50887&amp;groupno=50887&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 08 Apr 2024 07:02:28 GMT</pubDate>
             <content:encoded><![CDATA[24.04.12(금)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[음악극 〈붉은머리안〉 - 군포 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50981&amp;groupno=50981&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50981&amp;groupno=50981&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 11 Apr 2024 07:02:26 GMT</pubDate>
+            <content:encoded><![CDATA[24.04.19(금)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 송가인 디너 콘서트 "효" -  서울 (인터파크 티켓)]]></title>
@@ -188,13 +195,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50964&amp;groupno=50964&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 09 Apr 2024 05:03:13 GMT</pubDate>
             <content:encoded><![CDATA[24.04.24(수)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 신승태 콘서트 '新바람' (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50963&amp;groupno=50963&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50963&amp;groupno=50963&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 09 Apr 2024 05:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[24.04.12(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 동방프로젝트 오케스트라 콘서트 ~ Invitation from Gensokyo (인터파크 티켓)]]></title>
@@ -591,6 +591,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/16/202403/20/llts2m7gjuwh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2024 박창근 콘서트 [박창근장르] - 전주​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59207</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59207</guid>
+            <pubDate>Thu, 11 Apr 2024 07:04:02 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.18(목) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 박창근 콘서트 [박창근장르] - 서울​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59206</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59206</guid>
+            <pubDate>Thu, 11 Apr 2024 07:04:02 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.17(수) 10:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[디즈니 인 콘서트-군산​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59205</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59205</guid>
@@ -609,7 +623,7 @@
             <link>http://www.ticketlink.co.kr/help/notice/59203</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59203</guid>
             <pubDate>Tue, 09 Apr 2024 07:03:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.12(금) 05:00]]></content:encoded>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.15(월) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <시카고> 1차 티켓오픈 안내 (티켓링크)]]></title>
@@ -682,18 +696,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.04.11(목) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 노을 콘서트 < Café 유월 > 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59192</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59192</guid>
-            <pubDate>Mon, 08 Apr 2024 05:04:06 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.17(수) 05:00]]></content:encoded>
+            <title><![CDATA[2024 박창근 콘서트 [박창근장르] - 전주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59207</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59207</guid>
+            <pubDate>Thu, 11 Apr 2024 07:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.18(목) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​어린이 뮤지컬 바다탐험대 옥토넛3 <바다넘어육지까지> - 성남​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59191</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59191</guid>
-            <pubDate>Mon, 08 Apr 2024 05:04:06 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.12(금) 01:00]]></content:encoded>
+            <title><![CDATA[2024 박창근 콘서트 [박창근장르] - 서울​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59206</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59206</guid>
+            <pubDate>Thu, 11 Apr 2024 07:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.17(수) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[디즈니 인 콘서트-군산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -714,7 +728,7 @@
             <link>http://m.ticketlink.co.kr/help/notice/59203</link>
             <guid>http://m.ticketlink.co.kr/help/notice/59203</guid>
             <pubDate>Tue, 09 Apr 2024 07:03:35 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.12(금) 05:00]]></content:encoded>
+            <content:encoded><![CDATA[2024.04.15(월) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <시카고> 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,20 +799,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59193</guid>
             <pubDate>Mon, 08 Apr 2024 05:04:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.11(목) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 노을 콘서트 < Café 유월 > 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59192</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59192</guid>
-            <pubDate>Mon, 08 Apr 2024 05:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.17(수) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​어린이 뮤지컬 바다탐험대 옥토넛3 <바다넘어육지까지> - 성남​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59191</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59191</guid>
-            <pubDate>Mon, 08 Apr 2024 05:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.12(금) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <미스트> 공연 실황 생중계 (네이버 공연)]]></title>
