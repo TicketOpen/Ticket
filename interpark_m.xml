@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 05:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 06:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,15 +44,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23015628_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 월간뮤지크 〈케이시X탑현〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50956</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50956</guid>
-            <pubDate>Fri, 12 Apr 2024 01:41:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.12
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005205_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[어린이 뮤지컬 바다탐험대 옥토넛3 〈바다넘어육지까지〉 - 성남]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50944</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50944</guid>
@@ -60,6 +51,15 @@
             <content:encoded><![CDATA[2024.04.12
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040417463242.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 월간뮤지크 〈케이시X탑현〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50956</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50956</guid>
+            <pubDate>Fri, 12 Apr 2024 01:41:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.12
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005205_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[캐리tv 러브콘서트 2024 타임캡슐 - 서울]]></title>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002095_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈넥스트 투 노멀〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50967</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50967</guid>
-            <pubDate>Fri, 12 Apr 2024 01:41:20 GMT</pubDate>
+            <title><![CDATA[참여형 가족음악극 〈스타우즈 : 꿈 아저씨, 홉(Hope)〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50982</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50982</guid>
+            <pubDate>Fri, 12 Apr 2024 06:09:45 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.12
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24000886_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005476_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
