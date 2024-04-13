@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Apr 2024 07:03:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 08:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/16/202403/20/llts2m7gjuwh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 조희창의 [토요 클래식 살롱] - Ⅲ (경주) 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59224</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59224</guid>
+            <pubDate>Sat, 13 Apr 2024 08:03:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.22(월) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 2024 오버워치2 멸망전 - 인비테이셔널 결승전​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59223</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59223</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.04.17(수) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 디즈니 인 콘서트-군산​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59205</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59205</guid>
-            <pubDate>Sat, 13 Apr 2024 06:04:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.12(금) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 조희창의 [토요 클래식 살롱] - Ⅲ (경주) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59224</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59224</guid>
+            <pubDate>Sat, 13 Apr 2024 08:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.22(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 2024 오버워치2 멸망전 - 인비테이셔널 결승전​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59206</guid>
             <pubDate>Thu, 11 Apr 2024 09:05:39 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.17(수) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 디즈니 인 콘서트-군산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59205</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59205</guid>
-            <pubDate>Sat, 13 Apr 2024 06:04:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.12(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
