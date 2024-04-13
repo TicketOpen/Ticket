@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Apr 2024 05:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 06:04:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -605,13 +605,6 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.04.16(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 김경호 데뷔 30주년 전국투어 콘서트:THE ROCKER-서울​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59217</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59217</guid>
-            <pubDate>Fri, 12 Apr 2024 05:04:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.15(월) 05:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[< SPRING BREEZE in CAMPUS > 티켓 오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59216</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59216</guid>
@@ -689,6 +682,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.04.17(수) 10:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 디즈니 인 콘서트-군산​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59205</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59205</guid>
+            <pubDate>Sat, 13 Apr 2024 06:04:17 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.12(금) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 2024 오버워치2 멸망전 - 인비테이셔널 결승전​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/59223</link>
             <guid>http://m.ticketlink.co.kr/help/notice/59223</guid>
@@ -708,13 +708,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59221</guid>
             <pubDate>Fri, 12 Apr 2024 09:09:27 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.16(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 김경호 데뷔 30주년 전국투어 콘서트:THE ROCKER-서울​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59217</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59217</guid>
-            <pubDate>Fri, 12 Apr 2024 05:04:57 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.15(월) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[< SPRING BREEZE in CAMPUS > 티켓 오픈 안내 (티켓링크 모바일)]]></title>
@@ -792,6 +785,13 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59206</guid>
             <pubDate>Thu, 11 Apr 2024 09:05:39 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.17(수) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 디즈니 인 콘서트-군산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59205</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59205</guid>
+            <pubDate>Sat, 13 Apr 2024 06:04:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.12(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
