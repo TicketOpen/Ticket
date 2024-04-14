@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Apr 2024 00:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Apr 2024 02:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,13 +62,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24003619_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[에드바르 뭉크: 비욘드 더 스크림]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=989</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=989</guid>
+            <title><![CDATA[2024 드로잉 매직쇼 〈크레용용〉 - 대구]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50973</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50973</guid>
             <pubDate>Sat, 13 Apr 2024 01:27:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.16
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040315495343.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024041014552517.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(2024) 아기돼지 삼형제 - 부산 신세계]]></title>
@@ -80,22 +80,22 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20240412082321.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2024 드로잉 매직쇼 〈크레용용〉 - 대구]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50973</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50973</guid>
-            <pubDate>Sat, 13 Apr 2024 01:27:08 GMT</pubDate>
+            <title><![CDATA[곰, 청혼]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50999</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50999</guid>
+            <pubDate>Sun, 14 Apr 2024 02:29:13 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.16
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024041014552517.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024041118353696.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[울프타일라 내한공연 'WOLFTYLA in SEOUL']]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51010</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51010</guid>
+            <title><![CDATA[에드바르 뭉크: 비욘드 더 스크림]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=989</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=989</guid>
             <pubDate>Sat, 13 Apr 2024 01:27:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.16
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024041214395806.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040315495343.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
