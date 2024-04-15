@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-04-14T23:29:43.672Z</updated>
+    <updated>2024-04-15T03:00:30.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14294</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14294"/>
+        <updated>2024-04-15T02:59:54.450Z</updated>
+        <content type="html"><![CDATA[2024.04.25(목) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.04.23(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14293</id>
@@ -135,13 +142,6 @@
         <title type="html"><![CDATA[제 21회 부산국제연극제 - 제(祭)_타오르는 삶]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14275</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14275"/>
-        <updated>2024-04-08T07:03:46.906Z</updated>
-        <content type="html"><![CDATA[2024.04.12(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 21회 부산국제연극제 - 8음 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14274</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14274"/>
         <updated>2024-04-08T07:03:46.906Z</updated>
         <content type="html"><![CDATA[2024.04.12(금) 14:00]]></content>
     </entry>
