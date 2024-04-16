@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Apr 2024 06:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 07:04:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=50966&amp;groupno=50966&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 16 Apr 2024 06:09:08 GMT</pubDate>
             <content:encoded><![CDATA[24.04.16(화)&nbsp;15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈미오 프라텔로〉 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51055&amp;groupno=51055&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51055&amp;groupno=51055&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 16 Apr 2024 07:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[24.04.23(화)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈햄릿〉 (인터파크 티켓)]]></title>
@@ -195,13 +202,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51038&amp;groupno=51038&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 15 Apr 2024 08:07:31 GMT</pubDate>
             <content:encoded><![CDATA[24.04.17(수)&nbsp;19:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 오은영의 더할나위없이 [날마다 당당당] - 서울 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51037&amp;groupno=51037&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51037&amp;groupno=51037&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 15 Apr 2024 08:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[24.04.19(금)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[폴포츠 내한공연 : Prime Time - 순천 (인터파크 티켓)]]></title>
@@ -591,6 +591,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/51/202403/26/lg4tknfpfwan.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <더 라스트맨> 마지막​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59247</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59247</guid>
+            <pubDate>Tue, 16 Apr 2024 07:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.23(화) 04:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​2024 김창옥 토크콘서트 시즌4 - 원주​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59246</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59246</guid>
+            <pubDate>Tue, 16 Apr 2024 07:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.19(금) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매]  ​[광주시립교향악단] 384회 정기연주회 ‘鎭魂’ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59245</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59245</guid>
@@ -617,6 +631,13 @@
             <guid>http://www.ticketlink.co.kr/help/notice/59242</guid>
             <pubDate>Tue, 16 Apr 2024 03:09:46 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2024.04.19(금) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <미오 프라텔로> 1차​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59241</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59241</guid>
+            <pubDate>Tue, 16 Apr 2024 07:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.23(화) 06:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] Diaf 2024(대구국제아트페어)​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -675,25 +696,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.04.17(수) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​폴포츠 내한 공연 : Prime Time - 순천​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59231</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59231</guid>
-            <pubDate>Mon, 15 Apr 2024 03:00:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.18(목) 05:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <더 라스트맨> 마지막​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59247</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59247</guid>
+            <pubDate>Tue, 16 Apr 2024 07:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.23(화) 04:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​뮤지컬 <달 샤베트> - 천안​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59230</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59230</guid>
-            <pubDate>Mon, 15 Apr 2024 03:00:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.18(목) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​THE GREATEST : 전율 정동하X소향 - 마산​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59229</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59229</guid>
-            <pubDate>Mon, 15 Apr 2024 03:00:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.17(수) 05:00]]></content:encoded>
+            <title><![CDATA[​2024 김창옥 토크콘서트 시즌4 - 원주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59246</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59246</guid>
+            <pubDate>Tue, 16 Apr 2024 07:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.19(금) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]  ​[광주시립교향악단] 384회 정기연주회 ‘鎭魂’ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -722,6 +736,13 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59242</guid>
             <pubDate>Tue, 16 Apr 2024 03:09:54 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.19(금) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <미오 프라텔로> 1차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59241</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59241</guid>
+            <pubDate>Tue, 16 Apr 2024 07:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.23(화) 06:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] Diaf 2024(대구국제아트페어)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -778,27 +799,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59232</guid>
             <pubDate>Mon, 15 Apr 2024 19:03:37 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.17(수) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​폴포츠 내한 공연 : Prime Time - 순천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59231</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59231</guid>
-            <pubDate>Mon, 15 Apr 2024 19:03:37 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.18(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​뮤지컬 <달 샤베트> - 천안​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59230</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59230</guid>
-            <pubDate>Mon, 15 Apr 2024 19:03:37 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.18(목) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​THE GREATEST : 전율 정동하X소향 - 마산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59229</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59229</guid>
-            <pubDate>Mon, 15 Apr 2024 19:03:37 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.17(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[창작산실 무용 "Yaras" 공연실황 녹화중계 (네이버 공연)]]></title>

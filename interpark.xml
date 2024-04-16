@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-04-16T06:10:07.368Z</updated>
+    <updated>2024-04-16T07:04:04.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=50966&amp;groupno=50966&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-04-16T06:09:08.296Z</updated>
         <content type="html"><![CDATA[24.04.16(화)&nbsp;15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈미오 프라텔로〉]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51055&amp;groupno=51055&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51055&amp;groupno=51055&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-04-16T07:02:10.522Z</updated>
+        <content type="html"><![CDATA[24.04.23(화)&nbsp;15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈햄릿〉]]></title>
@@ -123,13 +130,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51038&amp;groupno=51038&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-04-15T08:07:31.256Z</updated>
         <content type="html"><![CDATA[24.04.17(수)&nbsp;19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 오은영의 더할나위없이 [날마다 당당당] - 서울]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51037&amp;groupno=51037&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51037&amp;groupno=51037&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-04-15T08:07:31.256Z</updated>
-        <content type="html"><![CDATA[24.04.19(금)&nbsp;10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[폴포츠 내한공연 : Prime Time - 순천]]></title>
