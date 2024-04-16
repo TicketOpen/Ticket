@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Apr 2024 21:04:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 22:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -213,15 +213,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001969_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[골든걸스 전국투어 [인천] (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51024</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51024</guid>
-            <pubDate>Tue, 16 Apr 2024 17:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.17
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024032814454181.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <알사탕> - 안산 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51023</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51023</guid>
@@ -229,6 +220,15 @@
             <content:encoded><![CDATA[2024.04.17
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024041217162658.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[골든걸스 전국투어 [인천] (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51024</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51024</guid>
+            <pubDate>Tue, 16 Apr 2024 17:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.17
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024032814454181.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AMG 락페스티벌 얼리버드 티켓 (인터파크 티켓 모바일)]]></title>
@@ -258,22 +258,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024041118381124.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[［2024 발레축제］올리브 / 황폐한 땅 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51004</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51004</guid>
-            <pubDate>Tue, 16 Apr 2024 17:02:41 GMT</pubDate>
+            <title><![CDATA[THE GREATEST : 전율 정동하X소향 - 마산 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51017</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51017</guid>
+            <pubDate>Tue, 16 Apr 2024 22:02:34 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.17
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040813414742.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[［2024 발레축제］국화꽃향기 / Metro, Boulot, Dodo (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51003</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51003</guid>
-            <pubDate>Tue, 16 Apr 2024 17:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.17
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040813363725.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005633_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[［2024 발레축제］Foggy 하지마 / Emotion in Motion (인터파크 티켓 모바일)]]></title>
@@ -285,13 +276,22 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040813304555.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2024 노을 콘서트 〈Cafe 유월〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50949</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50949</guid>
+            <title><![CDATA[［2024 발레축제］국화꽃향기 / Metro, Boulot, Dodo (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51003</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51003</guid>
             <pubDate>Tue, 16 Apr 2024 17:02:41 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.17
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005361_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040813363725.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[［2024 발레축제］올리브 / 황폐한 땅 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51004</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51004</guid>
+            <pubDate>Tue, 16 Apr 2024 17:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.17
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040813414742.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 45회 서울연극제 자유경연작 ‘Be’ 티켓 오픈 안내 (예스24 티켓)]]></title>
