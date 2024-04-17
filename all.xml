@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Apr 2024 05:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 06:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -103,7 +103,7 @@
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51063&amp;groupno=51063&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51063&amp;groupno=51063&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 17 Apr 2024 05:02:10 GMT</pubDate>
-            <content:encoded><![CDATA[추후공지]]></content:encoded>
+            <content:encoded><![CDATA[24.04.17(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈브론테〉 (인터파크 티켓)]]></title>
@@ -213,15 +213,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24001969_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[골든걸스 전국투어 [인천] (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51024</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51024</guid>
-            <pubDate>Tue, 16 Apr 2024 17:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.17
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005589_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 <알사탕> - 안산 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51023</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51023</guid>
@@ -229,6 +220,15 @@
             <content:encoded><![CDATA[2024.04.17
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024041217162658.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[골든걸스 전국투어 [인천] (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51024</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51024</guid>
+            <pubDate>Tue, 16 Apr 2024 17:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.17
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005589_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[AMG 락페스티벌 얼리버드 티켓 (인터파크 티켓 모바일)]]></title>
@@ -249,22 +249,22 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024041116194649.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[［2024 발레축제］올리브 / 황폐한 땅 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51004</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51004</guid>
+            <title><![CDATA[뮤지컬 〈인사이드 미〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50998</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50998</guid>
             <pubDate>Tue, 16 Apr 2024 17:02:41 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.17
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040813414742.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024041118381124.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[［2024 발레축제］국화꽃향기 / Metro, Boulot, Dodo (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51003</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51003</guid>
-            <pubDate>Tue, 16 Apr 2024 17:02:41 GMT</pubDate>
+            <title><![CDATA[THE GREATEST : 전율 정동하X소향 - 마산 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51017</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51017</guid>
+            <pubDate>Wed, 17 Apr 2024 06:09:20 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.17
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040813363725.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005633_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[［2024 발레축제］Foggy 하지마 / Emotion in Motion (인터파크 티켓 모바일)]]></title>
@@ -276,22 +276,22 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040813304555.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈인사이드 미〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50998</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50998</guid>
+            <title><![CDATA[［2024 발레축제］국화꽃향기 / Metro, Boulot, Dodo (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51003</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51003</guid>
             <pubDate>Tue, 16 Apr 2024 17:02:41 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.17
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024041118381124.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040813363725.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2024 노을 콘서트 〈Cafe 유월〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50949</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50949</guid>
-            <pubDate>Tue, 16 Apr 2024 23:02:41 GMT</pubDate>
+            <title><![CDATA[［2024 발레축제］올리브 / 황폐한 땅 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51004</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51004</guid>
+            <pubDate>Tue, 16 Apr 2024 17:02:41 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.17
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005361_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040813414742.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베어 더 뮤지컬(bare the musical) 1차 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -299,6 +299,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14305</guid>
             <pubDate>Wed, 17 Apr 2024 05:03:28 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.24(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14304</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14304</guid>
+            <pubDate>Wed, 17 Apr 2024 06:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.24(수) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.04.22(월) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
@@ -427,18 +434,18 @@
             <content:encoded><![CDATA[2024.04.15(월) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14285</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14285</guid>
-            <pubDate>Thu, 11 Apr 2024 04:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.11(목) 12:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[베어 더 뮤지컬(bare the musical) 1차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14305&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14305&amp;order=1</guid>
             <pubDate>Wed, 17 Apr 2024 05:03:36 GMT</pubDate>
             <content:encoded><![CDATA[2024-04-24(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BAE173 2nd FAN CONCERT : POLARIS 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14304&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14304&amp;order=1</guid>
+            <pubDate>Wed, 17 Apr 2024 06:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024-04-24(수) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[LIVE ON 대구 로이킴X김필 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -495,13 +502,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14296&amp;order=1</guid>
             <pubDate>Mon, 15 Apr 2024 04:13:36 GMT</pubDate>
             <content:encoded><![CDATA[2024-04-22(월) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 AB6IX FAN CONCERT ＂Find YOU＂ 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14295&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14295&amp;order=1</guid>
-            <pubDate>Mon, 15 Apr 2024 03:00:02 GMT</pubDate>
-            <content:encoded><![CDATA[2024-04-29(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[AJR 내한공연 AJR LIVE IN SEOUL 티켓오픈 안내 (위메프 공연티켓)]]></title>
