@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Apr 2024 00:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 01:41:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,7 +23,7 @@
             <pubDate>Tue, 16 Apr 2024 17:02:41 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.17
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024032814454181.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005589_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <알사탕> - 안산]]></title>
@@ -53,15 +53,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024041116194649.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈인사이드 미〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50998</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50998</guid>
-            <pubDate>Tue, 16 Apr 2024 17:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.17
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024041118381124.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[［2024 발레축제］올리브 / 황폐한 땅]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51004</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51004</guid>
@@ -87,6 +78,15 @@
             <content:encoded><![CDATA[2024.04.17
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024040813304555.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈인사이드 미〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50998</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50998</guid>
+            <pubDate>Tue, 16 Apr 2024 17:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.17
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024041118381124.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 노을 콘서트 〈Cafe 유월〉]]></title>
