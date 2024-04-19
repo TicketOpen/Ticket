@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Apr 2024 06:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 07:04:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,7 +231,7 @@
             <content:encoded><![CDATA[2024.04.24(수) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[썬더 프롬 다운 언더 티켓오픈 안내 (예스24 티켓)]]></title>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14314</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14314</guid>
             <pubDate>Fri, 19 Apr 2024 03:04:19 GMT</pubDate>
@@ -514,6 +514,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/52/202404/01/kx7az8phi6s5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사막 위에 시든 꽃이 필 때 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59281</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59281</guid>
+            <pubDate>Fri, 19 Apr 2024 07:04:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.22(월) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2024 이승철 전국투어 콘서트 “Rock'n All” - 대전 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59280</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59280</guid>
@@ -612,11 +619,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.04.23(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아람 로열 클래식 2 - 고잉홈프로젝트 X 손열음 <베토벤 전곡 시리즈 S>​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59266</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59266</guid>
-            <pubDate>Thu, 18 Apr 2024 09:04:24 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.19(금) 05:00]]></content:encoded>
+            <title><![CDATA[사막 위에 시든 꽃이 필 때 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59281</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59281</guid>
+            <pubDate>Fri, 19 Apr 2024 07:04:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.22(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 이승철 전국투어 콘서트 “Rock'n All” - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -715,13 +722,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59267</guid>
             <pubDate>Thu, 18 Apr 2024 09:04:31 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.23(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아람 로열 클래식 2 - 고잉홈프로젝트 X 손열음 <베토벤 전곡 시리즈 S>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59266</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59266</guid>
-            <pubDate>Thu, 18 Apr 2024 09:04:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.19(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원

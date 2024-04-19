@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-19T06:11:13.315Z</updated>
+    <updated>2024-04-19T07:04:56.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사막 위에 시든 꽃이 필 때 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59281</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59281"/>
+        <updated>2024-04-19T07:04:50.855Z</updated>
+        <content type="html"><![CDATA[2024.04.22(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 이승철 전국투어 콘서트 “Rock'n All” - 대전 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59280</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59267"/>
         <updated>2024-04-18T09:04:31.693Z</updated>
         <content type="html"><![CDATA[2024.04.23(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아람 로열 클래식 2 - 고잉홈프로젝트 X 손열음 <베토벤 전곡 시리즈 S>​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59266</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59266"/>
-        <updated>2024-04-18T09:04:31.694Z</updated>
-        <content type="html"><![CDATA[2024.04.19(금) 05:00]]></content>
     </entry>
 </feed>
