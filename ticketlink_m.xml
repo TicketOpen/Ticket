@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-19T07:04:56.590Z</updated>
+    <updated>2024-04-19T09:05:58.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  연극 <인간이든 신이든> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59282</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59282"/>
+        <updated>2024-04-19T09:05:53.267Z</updated>
+        <content type="html"><![CDATA[2024.04.22(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사막 위에 시든 꽃이 필 때 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59281</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59268"/>
         <updated>2024-04-18T11:04:06.213Z</updated>
         <content type="html"><![CDATA[2024.04.24(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[의정부] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59267</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59267"/>
-        <updated>2024-04-18T09:04:31.693Z</updated>
-        <content type="html"><![CDATA[2024.04.23(화) 05:00]]></content>
     </entry>
 </feed>
