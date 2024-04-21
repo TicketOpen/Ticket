@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Apr 2024 08:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Apr 2024 09:03:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -213,15 +213,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024041516392013.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[폴리팝(두들팝ver.2) (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51090</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51090</guid>
-            <pubDate>Fri, 19 Apr 2024 19:02:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.22
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024041815490312.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[폴리팝(두들팝ver.2) - 부산 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51085</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51085</guid>
@@ -229,6 +220,15 @@
             <content:encoded><![CDATA[2024.04.22
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23015335_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[폴리팝(두들팝ver.2) (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51090</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51090</guid>
+            <pubDate>Fri, 19 Apr 2024 19:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.22
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024041815490312.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[〈 EUNOIA 〉 크로스오버 콘서트 in 김광석 (인터파크 티켓 모바일)]]></title>
@@ -249,15 +249,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002424_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[［Play＆Stay］ LE SSERAFIM FAN MEETING ‘FEARNADA’ 2024 S/S - SEOUL＋Hotels in Seoul (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50985</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50985</guid>
-            <pubDate>Fri, 19 Apr 2024 19:02:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.22
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24004728_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[VIXX ST★RLIGHT 6TH FANMEETING [STARLIGHT BALLROOM] (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51031</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51031</guid>
@@ -265,6 +256,15 @@
             <content:encoded><![CDATA[2024.04.22
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005597_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[［Play＆Stay］ LE SSERAFIM FAN MEETING ‘FEARNADA’ 2024 S/S - SEOUL＋Hotels in Seoul (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50985</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=50985</guid>
+            <pubDate>Fri, 19 Apr 2024 19:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.22
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24004728_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[LE SSERAFIM FAN MEETING ‘FEARNADA’ 2024 S/S - SEOUL (인터파크 티켓 모바일)]]></title>
