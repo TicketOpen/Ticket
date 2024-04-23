@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-04-23T06:10:32.954Z</updated>
+    <updated>2024-04-23T07:03:52.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <백설공주> - 안동​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59296</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59296"/>
+        <updated>2024-04-23T07:03:40.171Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.24(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <백설공주> - 광주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59295</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59295"/>
+        <updated>2024-04-23T07:03:40.177Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.24(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 서울 강동 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59294</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59294"/>
+        <updated>2024-04-23T07:03:40.183Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.24(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <시카고> 2차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59293</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59282"/>
         <updated>2024-04-19T09:05:45.522Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.22(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사막 위에 시든 꽃이 필 때 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59281</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59281"/>
-        <updated>2024-04-19T07:04:42.753Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.22(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 이승철 전국투어 콘서트 “Rock'n All” - 대전 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59280</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59280"/>
-        <updated>2024-04-19T06:10:56.990Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.30(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 이승철 전국투어 콘서트 “Rock'n All” - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59279</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59279"/>
-        <updated>2024-04-19T06:10:57.013Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.30(화) 05:00]]></content>
     </entry>
 </feed>
