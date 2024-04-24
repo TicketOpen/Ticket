@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-04-24T02:19:42.297Z</updated>
+    <updated>2024-04-24T03:06:18.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌7 My Universe［도후 단독 콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8716</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8716"/>
+        <updated>2024-04-24T03:04:17.874Z</updated>
+        <content type="html"><![CDATA[2024.05.01(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jade（제이드）단독 콘서트［Yours，Jade］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8715</id>
@@ -66,13 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8703</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8703"/>
         <updated>2024-04-24T02:17:34.336Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT WISH：SCHOOL of WISH－전주 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8702</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8702"/>
-        <updated>2024-04-24T02:17:34.337Z</updated>
         <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
     </entry>
 </feed>
