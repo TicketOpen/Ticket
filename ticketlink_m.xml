@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-26T08:09:36.800Z</updated>
+    <updated>2024-04-26T09:09:34.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <일리아드> 1차​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59325</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59325"/>
+        <updated>2024-04-26T09:09:28.844Z</updated>
+        <content type="html"><![CDATA[2024.05.03(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​GAC 기획공연 포커스 브랜든 콰르텟-광주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59324</id>
@@ -18,6 +25,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59323"/>
         <updated>2024-04-26T07:05:32.626Z</updated>
         <content type="html"><![CDATA[2024.05.02(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 박창근 콘서트 [박창근장르] - 인천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59322</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59322"/>
+        <updated>2024-04-26T09:09:28.846Z</updated>
+        <content type="html"><![CDATA[2024.05.03(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 뮤지컬 <새벽의 입구에서> 프리뷰​​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59309"/>
         <updated>2024-04-24T06:12:30.290Z</updated>
         <content type="html"><![CDATA[2024.04.30(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​토에이 애니메이션 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59308</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59308"/>
-        <updated>2024-04-24T06:12:30.290Z</updated>
-        <content type="html"><![CDATA[2024.04.25(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 첼리스트 송영훈의 보이는 클래식 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59307</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59307"/>
-        <updated>2024-04-24T06:12:30.292Z</updated>
-        <content type="html"><![CDATA[2024.04.30(화) 01:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-04-26T08:09:36.801Z</updated>
+    <updated>2024-04-26T09:09:34.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나만 알고 싶은 인디 Ep．38 정예원 x 김결 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8734</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8734"/>
+        <updated>2024-04-26T09:07:27.397Z</updated>
+        <content type="html"><![CDATA[2024.04.29(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나만 알고 싶은 인디 Ep．37 109 x 윤토벤 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8733</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8733"/>
+        <updated>2024-04-26T09:07:27.398Z</updated>
+        <content type="html"><![CDATA[2024.04.29(월) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈벤자민 버튼〉 2차 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8732</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8722"/>
         <updated>2024-04-26T04:07:30.438Z</updated>
         <content type="html"><![CDATA[2024.05.02(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MOODO with EDLS［김경（위아영），김제형］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8721</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8721"/>
-        <updated>2024-04-26T04:07:30.440Z</updated>
-        <content type="html"><![CDATA[2024.04.30(화) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flight0526：우석 편 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8720</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8720"/>
-        <updated>2024-04-26T04:07:30.442Z</updated>
-        <content type="html"><![CDATA[2024.04.26(금) 20:00]]></content>
     </entry>
 </feed>
