@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-04-26T04:08:36.454Z</updated>
+    <updated>2024-04-26T06:10:18.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 파워풀 K-트로트 페스티벌​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59320</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59320"/>
+        <updated>2024-04-26T06:10:01.873Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.02(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2024 PIT-A-PAT < Tab in you > in Seoul​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59318</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59318"/>
+        <updated>2024-04-26T06:10:01.874Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.02(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2024년 특선가족뮤지컬 <피터팬> - 양산​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59317</id>
@@ -38,7 +52,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/59312</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59312"/>
         <updated>2024-04-24T11:04:51.109Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.30(화) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.29(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  제17회 서유니 가야금 독주회 - 대구​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59304"/>
         <updated>2024-04-24T05:09:21.640Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.26(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​인 하우스 아티스트 한재민 <트리오 리사이틀>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59303</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59303"/>
-        <updated>2024-04-24T05:09:21.641Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.26(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 울산광역시학생교육문화회관 기획공연 - 넌 특별하단다​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59302</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59302"/>
-        <updated>2024-04-24T03:06:06.535Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.25(목) 12:00]]></content>
     </entry>
 </feed>
