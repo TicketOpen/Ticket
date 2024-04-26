@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 06:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 07:05:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8719</guid>
             <pubDate>Fri, 26 Apr 2024 04:07:30 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.29(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 김창옥 토크콘서트 시즌4 - 고양 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51178&amp;groupno=51178&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51178&amp;groupno=51178&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 26 Apr 2024 07:03:43 GMT</pubDate>
+            <content:encoded><![CDATA[24.05.02(목)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈초선의원〉 (인터파크 티켓)]]></title>
@@ -188,13 +195,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51161&amp;groupno=51161&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 25 Apr 2024 03:03:55 GMT</pubDate>
             <content:encoded><![CDATA[24.05.16(목)&nbsp;12:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[〈묘한꼴라보〉 펑크데이즈 단독 콘서트 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51160&amp;groupno=51160&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51160&amp;groupno=51160&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 25 Apr 2024 03:03:55 GMT</pubDate>
-            <content:encoded><![CDATA[24.05.08(수)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈싯다르타〉 (인터파크 티켓)]]></title>
@@ -583,6 +583,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/13/202404/09/sqvelt28sgke.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매]  ​GAC 기획공연 포커스 브랜든 콰르텟-광주​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59324</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59324</guid>
+            <pubDate>Fri, 26 Apr 2024 07:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.30(화) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <미스트> 마지막​​​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59323</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59323</guid>
+            <pubDate>Fri, 26 Apr 2024 07:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.05.02(목) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 2024 파워풀 K-트로트 페스티벌​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59320</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59320</guid>
@@ -674,18 +688,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.05.07(화) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  ​김신록 1st Fan Meeting [오월의 신록]​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59305</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59305</guid>
-            <pubDate>Wed, 24 Apr 2024 05:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.26(금) 11:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  ​GAC 기획공연 포커스 브랜든 콰르텟-광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59324</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59324</guid>
+            <pubDate>Fri, 26 Apr 2024 07:05:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.30(화) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​2024 오르간 시리즈 II. 이민준 오르간 리사이틀​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59304</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59304</guid>
-            <pubDate>Wed, 24 Apr 2024 05:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.26(금) 05:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <미스트> 마지막​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59323</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59323</guid>
+            <pubDate>Fri, 26 Apr 2024 07:05:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.02(목) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 2024 파워풀 K-트로트 페스티벌​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -777,20 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59306</guid>
             <pubDate>Wed, 24 Apr 2024 06:12:30 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.07(화) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  ​김신록 1st Fan Meeting [오월의 신록]​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59305</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59305</guid>
-            <pubDate>Wed, 24 Apr 2024 05:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.26(금) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​2024 오르간 시리즈 II. 이민준 오르간 리사이틀​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59304</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59304</guid>
-            <pubDate>Wed, 24 Apr 2024 05:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.26(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
