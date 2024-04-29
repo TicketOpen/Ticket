@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-04-29T00:29:51.095Z</updated>
+    <updated>2024-04-29T02:21:23.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스튜디오 지브리 애니메이션의 거장 타카하타 이사오전 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8737</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8737"/>
+        <updated>2024-04-29T02:19:19.892Z</updated>
+        <content type="html"><![CDATA[2024.04.30(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손예지 단독 공연 〈항해〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8736</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8724"/>
         <updated>2024-04-28T23:01:53.153Z</updated>
         <content type="html"><![CDATA[2024.04.29(월) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 뮤지컬 노트르담 드 파리 한국어버전－대전 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8723</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8723"/>
-        <updated>2024-04-28T23:01:53.155Z</updated>
-        <content type="html"><![CDATA[2024.04.29(월) 14:00]]></content>
     </entry>
 </feed>
