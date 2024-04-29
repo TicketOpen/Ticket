@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-04-29T04:10:33.691Z</updated>
+    <updated>2024-04-29T05:04:55.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 Han Seung Woo Fanmeeting ‘InvitatiONE’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8739</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8739"/>
+        <updated>2024-04-29T05:02:48.181Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D82［TAKE OFF］live CONCERT 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8738</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8738"/>
+        <updated>2024-04-29T05:02:48.187Z</updated>
+        <content type="html"><![CDATA[2024.05.07(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스튜디오 지브리 애니메이션의 거장 타카하타 이사오전 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8737</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8729"/>
         <updated>2024-04-28T23:01:53.148Z</updated>
         <content type="html"><![CDATA[2024.04.29(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문없는집 단독공연 〈타임캡슐〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8727</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8727"/>
-        <updated>2024-04-28T23:01:53.150Z</updated>
-        <content type="html"><![CDATA[2024.05.02(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 뮤지컬 노트르담 드 파리 한국어버전－천안 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8724</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8724"/>
-        <updated>2024-04-28T23:01:53.153Z</updated>
-        <content type="html"><![CDATA[2024.04.29(월) 17:00]]></content>
     </entry>
 </feed>
