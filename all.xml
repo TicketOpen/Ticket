@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Apr 2024 06:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 07:04:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/38/202404/16/j5drurvymqyo.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[경기전 별빛누빔-전주​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59350</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59350</guid>
+            <pubDate>Tue, 30 Apr 2024 07:04:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.05.02(목) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[​[단독판매]  DSAC 아트 페스티벌 < 피아노 위크 in 2024 > - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59349</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59349</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.05.07(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] [MD] XIA 2024 ENCORE CONCERT Chapter 1 : Recreation MD ​온라인 판매​ 오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59334</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59334</guid>
-            <pubDate>Tue, 30 Apr 2024 05:04:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.30(화) 09:00]]></content:encoded>
+            <title><![CDATA[경기전 별빛누빔-전주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59350</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59350</guid>
+            <pubDate>Tue, 30 Apr 2024 07:04:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.02(목) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​[단독판매]  DSAC 아트 페스티벌 < 피아노 위크 in 2024 > - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59335</guid>
             <pubDate>Mon, 29 Apr 2024 05:04:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.07(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] [MD] XIA 2024 ENCORE CONCERT Chapter 1 : Recreation MD ​온라인 판매​ 오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59334</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59334</guid>
-            <pubDate>Tue, 30 Apr 2024 05:04:19 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.30(화) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[창작산실 음악 <시선 si, Sonne!> 공연실황 녹화중계 (네이버 공연)]]></title>
