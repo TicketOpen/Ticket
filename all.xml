@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 May 2024 12:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 May 2024 13:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/16/202404/17/jozg52yonset.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[공지] 블루아카이브 2.5 페스티벌 상품 미노출 관련 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59353</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59353</guid>
+            <pubDate>Wed, 01 May 2024 13:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.01]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] [광주예술의전당] 조성진 피아노 리사이틀​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59352</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59352</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.04.30(화) 08:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  2024 봉산공연창작소 <연극 ‘거기, 푸른 담쟁이 동산’> - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59338</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59338</guid>
-            <pubDate>Wed, 01 May 2024 07:04:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.04.30(화) 08:00]]></content:encoded>
+            <title><![CDATA[[공지] 블루아카이브 2.5 페스티벌 상품 미노출 관련 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59353</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59353</guid>
+            <pubDate>Wed, 01 May 2024 13:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/help/notice/59353" class="info_wrap"><strong class="label">기타</strong><h3 class="tit">[공지] 블루아카이브 2.5 페스티벌 상품 미노출 관련 안내</h3></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] [광주예술의전당] 조성진 피아노 리사이틀​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -783,13 +790,6 @@
             <title><![CDATA[[단독판매]  ​2024 봉산공연창작소 <무용 ‘시간의 흐름속에 –수건 휘날리며’> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/59339</link>
             <guid>http://m.ticketlink.co.kr/help/notice/59339</guid>
-            <pubDate>Wed, 01 May 2024 07:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.30(화) 08:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  2024 봉산공연창작소 <연극 ‘거기, 푸른 담쟁이 동산’> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59338</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59338</guid>
             <pubDate>Wed, 01 May 2024 07:04:18 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.30(화) 08:00]]></content:encoded>
         </item>
