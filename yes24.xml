@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-02T08:09:52.947Z</updated>
+    <updated>2024-05-02T09:04:16.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 센텀맥주축제 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14354</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14354"/>
+        <updated>2024-05-02T09:03:42.143Z</updated>
+        <content type="html"><![CDATA[2024.05.03(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <클럽 드바이> 1차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14353</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14335"/>
         <updated>2024-04-29T11:04:38.786Z</updated>
         <content type="html"><![CDATA[2024.04.29(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천안] 2024 뮤지컬 노트르담 드 파리 한국어버전 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14334</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14334"/>
-        <updated>2024-04-29T11:04:38.788Z</updated>
-        <content type="html"><![CDATA[2024.04.29(월) 17:00]]></content>
     </entry>
 </feed>
