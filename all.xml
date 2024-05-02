@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 02:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 03:06:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8738</guid>
             <pubDate>Thu, 02 May 2024 02:18:20 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.07(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김장훈여름콘서트 숲묘들다 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51209&amp;groupno=51209&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51209&amp;groupno=51209&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 02 May 2024 03:04:42 GMT</pubDate>
+            <content:encoded><![CDATA[24.05.07(화)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[재패니메이션 OST 콘서트 2024_서울 앙코르 (인터파크 티켓)]]></title>
@@ -188,13 +195,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51192&amp;groupno=51192&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 29 Apr 2024 09:05:36 GMT</pubDate>
             <content:encoded><![CDATA[24.05.07(화)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KARDI 단독 콘서트 〈Are you ready to fly?〉 In Busan (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51191&amp;groupno=51191&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51191&amp;groupno=51191&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 29 Apr 2024 09:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[24.05.03(금)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 갈라 콘서트 〈페치카〉 (인터파크 티켓)]]></title>
