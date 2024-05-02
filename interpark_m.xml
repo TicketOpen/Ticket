@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 05:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 06:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005873_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[연극 〈꽃, 별이 지나〉 : 공연배달서비스 간다 20주년 퍼레이드]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51165</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51165</guid>
+            <pubDate>Tue, 30 Apr 2024 22:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.02
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006307_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈에밀〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51170</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51170</guid>
@@ -78,15 +87,6 @@
             <content:encoded><![CDATA[2024.05.02
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002095_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈꽃, 별이 지나〉 : 공연배달서비스 간다 20주년 퍼레이드]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51165</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51165</guid>
-            <pubDate>Tue, 30 Apr 2024 22:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.02
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006307_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[〈 EUNOIA 〉 크로스오버 콘서트 in 김광석]]></title>
