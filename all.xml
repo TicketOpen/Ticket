@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 05:08:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 06:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8741</guid>
             <pubDate>Fri, 03 May 2024 05:06:30 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.07(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈죽은 남자의 휴대폰〉 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51244&amp;groupno=51244&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51244&amp;groupno=51244&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 03 May 2024 06:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[24.05.08(수)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김동준 & 지승현 팬미팅 [RECORD] (인터파크 티켓)]]></title>
@@ -174,13 +181,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51227&amp;groupno=51227&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 02 May 2024 06:08:41 GMT</pubDate>
             <content:encoded><![CDATA[24.05.14(화)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈클럽 드바이〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51225&amp;groupno=51225&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51225&amp;groupno=51225&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 02 May 2024 06:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[24.05.08(수)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈젤리피쉬〉 작품개발 쇼케이스 (인터파크 티켓)]]></title>
@@ -292,6 +292,13 @@
             <content:encoded><![CDATA[2024.05.03
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006246_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Kiefer Live With Trio In Seoul 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14358</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14358</guid>
+            <pubDate>Fri, 03 May 2024 06:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.10(금) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
@@ -427,11 +434,11 @@
             <content:encoded><![CDATA[2024.05.07(화) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <에밀> 프리뷰 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14338</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14338</guid>
-            <pubDate>Mon, 29 Apr 2024 11:04:38 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.02(목) 14:00]]></content:encoded>
+            <title><![CDATA[Kiefer Live With Trio In Seoul 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14358&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14358&amp;order=1</guid>
+            <pubDate>Fri, 03 May 2024 06:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[2024-05-10(금) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 부산원아시아페스티벌 ‘BOF Big CONCERT’ 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -495,13 +502,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14349&amp;order=1</guid>
             <pubDate>Tue, 30 Apr 2024 09:03:53 GMT</pubDate>
             <content:encoded><![CDATA[2024-05-03(금) 18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[10CM ‘너랑 밤새고 싶어’ 발매기념 스페셜 라이브 쇼 : 쇼츠쇼츠 대작전 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14348&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14348&amp;order=1</guid>
-            <pubDate>Tue, 30 Apr 2024 03:05:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024-05-03(금) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울페스타 2024 - 서울 로드쇼 3차 티켓오픈 안내 N (위메프 공연티켓)]]></title>
@@ -582,6 +582,13 @@
             <pubDate>Fri, 19 Apr 2024 03:04:37 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.23(화) 00:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/44/202404/19/36yywjukffpp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[< EUNIOA > 크로스오버 콘서트 in 퀸​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59366</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59366</guid>
+            <pubDate>Fri, 03 May 2024 06:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.05.08(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[여행스케치 35th 콘서트 <다~모여라~~>​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.05.03(금) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[WASBE D-50 기념 공연] 2024 Gwangju WASBE Festival Wind Orchestra​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59351</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59351</guid>
-            <pubDate>Wed, 01 May 2024 07:04:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.05.02(목) 01:00]]></content:encoded>
+            <title><![CDATA[< EUNIOA > 크로스오버 콘서트 in 퀸​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59366</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59366</guid>
+            <pubDate>Fri, 03 May 2024 06:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.08(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[여행스케치 35th 콘서트 <다~모여라~~>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59352</guid>
             <pubDate>Thu, 02 May 2024 22:04:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.03(금) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[WASBE D-50 기념 공연] 2024 Gwangju WASBE Festival Wind Orchestra​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59351</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59351</guid>
-            <pubDate>Thu, 02 May 2024 22:04:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.02(목) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[창작산실 전통예술 <밤쩌> 공연실황 녹화중계 (네이버 공연)]]></title>
