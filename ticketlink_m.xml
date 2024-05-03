@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-03T04:11:21.692Z</updated>
+    <updated>2024-05-03T05:08:33.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여행스케치 35th 콘서트 <다~모여라~~>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59365</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59365"/>
+        <updated>2024-05-03T05:08:28.293Z</updated>
+        <content type="html"><![CDATA[2024.05.08(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Something About Us 2024 A-FUZZ X Chihiro Yamazaki​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59364</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59351"/>
         <updated>2024-05-02T22:04:06.777Z</updated>
         <content type="html"><![CDATA[2024.05.02(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기전 별빛누빔-전주​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59350</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59350"/>
-        <updated>2024-05-02T22:04:06.778Z</updated>
-        <content type="html"><![CDATA[2024.05.02(목) 00:00]]></content>
     </entry>
 </feed>
