@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-05-03T08:10:25.420Z</updated>
+    <updated>2024-05-03T09:04:17.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[hemming 2nd EP “I’m Your Terrence” Showcase 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8756</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8756"/>
+        <updated>2024-05-03T09:02:14.938Z</updated>
+        <content type="html"><![CDATA[2024.05.07(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MOODO with EDLS［코토바，김결］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8754</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8742"/>
         <updated>2024-05-03T05:06:30.071Z</updated>
         <content type="html"><![CDATA[2024.05.03(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나인 9colors 발매 기념 단독 콘서트：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8741</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8741"/>
-        <updated>2024-05-03T05:06:30.072Z</updated>
-        <content type="html"><![CDATA[2024.05.07(화) 20:00]]></content>
     </entry>
 </feed>
