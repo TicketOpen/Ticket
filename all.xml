@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 03:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 04:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 SODA FESTA (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51238&amp;groupno=51238&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51238&amp;groupno=51238&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 03 May 2024 04:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[24.05.08(수)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2024 BGM MUSIC & CULTURE FESTA (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51234&amp;groupno=51234&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -104,13 +111,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51220&amp;groupno=51220&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 02 May 2024 05:02:44 GMT</pubDate>
             <content:encoded><![CDATA[24.05.09(목)&nbsp;16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[장기하 소극장 투어 “나란히 나란히” - 대전 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51219&amp;groupno=51219&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51219&amp;groupno=51219&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 02 May 2024 05:02:44 GMT</pubDate>
-            <content:encoded><![CDATA[24.05.09(목)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈젤리피쉬〉 작품개발 쇼케이스 (인터파크 티켓)]]></title>
@@ -740,6 +740,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20240425_150/WId0C_1714007324560PHd2A_JPEG/1714007324544.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후원
+											뮤지컬 <안테모사> 5월 13일 20:00 앵콜 중계 (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/makingaperformance</link>
+            <guid>https://patron.naver.com/ntv/c/intro/makingaperformance</guid>
+            <pubDate>Fri, 03 May 2024 04:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[05월 13일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240501_284/dru4w_1714491247997mQ3He_JPEG/1714491247958.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[창작산실 음악 <크로스 콘체르토 프로젝트> 녹화 중계 (네이버 공연)]]></title>
             <link>https://tv.naver.com/l/152628</link>
             <guid>https://tv.naver.com/l/152628</guid>
@@ -796,14 +805,6 @@
             <pubDate>Mon, 29 Apr 2024 15:04:35 GMT</pubDate>
             <content:encoded><![CDATA[05월 30일(목) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240425_163/jDgdW_1714008344796jz0Sj_JPEG/1714008344774.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창작산실 창작오페라 <이상의 날개> 공연실황 녹화중계 (네이버 공연)]]></title>
-            <link>https://tv.naver.com/l/152636</link>
-            <guid>https://tv.naver.com/l/152636</guid>
-            <pubDate>Tue, 30 Apr 2024 13:06:19 GMT</pubDate>
-            <content:encoded><![CDATA[06월 04일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240425_280/fu3Fe_17140086239146RQHR_JPEG/1714008623883.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
