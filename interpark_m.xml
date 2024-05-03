@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 11:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 12:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,13 +17,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20240408084859.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포터 로빈슨 내한공연 (Porter Robinson SMILE! :D World Tour in Seoul)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51172</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51172</guid>
-            <pubDate>Thu, 02 May 2024 20:03:00 GMT</pubDate>
+            <title><![CDATA[클래식x미디어아트 인생그림책]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51233</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51233</guid>
+            <pubDate>Fri, 03 May 2024 12:10:29 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.03
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024042415050075.jpg" length="0" type="image/jpg"/>
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006480_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 월간뮤지크 〈더블베이시스트 성민제의 Best Bass Quartet〉]]></title>
@@ -33,6 +33,15 @@
             <content:encoded><![CDATA[2024.05.03
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006022_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[포터 로빈슨 내한공연 (Porter Robinson SMILE! :D World Tour in Seoul)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51172</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51172</guid>
+            <pubDate>Thu, 02 May 2024 20:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.03
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024042415050075.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 캐치! 티니핑 〈두근두근 싱어롱 콘서트!〉 - 군산]]></title>
@@ -62,15 +71,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006404_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 인천펜타포트 락 페스티벌 - 얼리버드 티켓]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51177</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51177</guid>
-            <pubDate>Thu, 02 May 2024 20:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.03
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005722_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[진성 30주년 기념 콘서트 〈진성 빅쇼〉 - 서울]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51204</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51204</guid>
@@ -80,6 +80,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006405_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[2024 인천펜타포트 락 페스티벌 - 얼리버드 티켓]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51177</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51177</guid>
+            <pubDate>Thu, 02 May 2024 20:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.03
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005722_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈파가니니〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51196</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51196</guid>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2024.05.03
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002424_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[THE EGG Live Show]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51202</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51202</guid>
-            <pubDate>Thu, 02 May 2024 20:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.03
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006246_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
