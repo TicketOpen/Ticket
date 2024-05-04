@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 May 2024 00:29:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 May 2024 01:42:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,15 +26,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20240502102409.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2024 BGM MUSIC & CULTURE FESTA]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51234</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51234</guid>
-            <pubDate>Fri, 03 May 2024 17:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.07
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006494_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[〈긴 찰나〉 서진실 단독 콘서트]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51158</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51158</guid>
@@ -42,6 +33,15 @@
             <content:encoded><![CDATA[2024.05.07
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024042421154534.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 BGM MUSIC & CULTURE FESTA]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51234</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51234</guid>
+            <pubDate>Fri, 03 May 2024 17:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.07
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006494_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[성남시립국악단 제71회 정기연주회 '꿈꾸는 봄날']]></title>
@@ -71,15 +71,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20240502041706.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Layone 1st Concert "Origin"]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51192</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51192</guid>
-            <pubDate>Fri, 03 May 2024 17:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.07
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006411_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2024 SF9 YOO TAE YANG FAN-CON [Double Casting : No. YTY]]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51175</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51175</guid>
@@ -89,13 +80,22 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024042511340229.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2024 가족마술콘서트 〈매직오브아트시즌2〉 - 울산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51246</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51246</guid>
+            <title><![CDATA[Layone 1st Concert "Origin"]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51192</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51192</guid>
             <pubDate>Fri, 03 May 2024 17:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.07
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006411_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 한글용사 아이야 〈사라진 한글을 찾아라!〉 - 광주앵콜]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51231</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51231</guid>
+            <pubDate>Sat, 04 May 2024 01:41:47 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.08
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006487_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006497_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
