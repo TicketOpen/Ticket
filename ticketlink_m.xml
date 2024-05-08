@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-08T06:11:12.486Z</updated>
+    <updated>2024-05-08T08:10:05.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] SC1 vs SC2 슈퍼매치 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59393</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59393"/>
+        <updated>2024-05-08T08:09:59.657Z</updated>
+        <content type="html"><![CDATA[2024.05.10(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <인어공주> - 용인​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59392</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59392"/>
+        <updated>2024-05-08T08:09:59.657Z</updated>
+        <content type="html"><![CDATA[2024.05.09(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패밀리 아이스쇼 <피터팬 온 아이스> 오리지널 내한공연​​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59391</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59391"/>
+        <updated>2024-05-08T08:09:59.659Z</updated>
+        <content type="html"><![CDATA[2024.05.16(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 대덕문화전당 패밀리 페스타 Ⅲ _ <연희도깨비> in 대구​​​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59390</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59379"/>
         <updated>2024-05-07T08:10:24.767Z</updated>
         <content type="html"><![CDATA[2024.05.08(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​인어스 앙상블 마스터피스 시리즈 ‘인어스 하우스콘서트’ - 조성현 토크 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59378</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59378"/>
-        <updated>2024-05-07T04:09:37.155Z</updated>
-        <content type="html"><![CDATA[2024.05.08(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬<에그박사 - 연구소에서 생긴 일> - 제주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59377</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59377"/>
-        <updated>2024-05-07T04:09:37.156Z</updated>
-        <content type="html"><![CDATA[2024.05.09(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024시즌 <최강야구> 2번째 직관 DAY 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59376</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59376"/>
-        <updated>2024-05-07T03:10:10.771Z</updated>
-        <content type="html"><![CDATA[<a href="/help/notice/59376" class="info_wrap"><strong class="label">스포츠</strong><h3 class="tit"><b>[단독판매]</b> 2024시즌 &lt;최강야구&gt; 2번째 직관 DAY 티켓오픈 안내</h3></a>]]></content>
     </entry>
 </feed>
