@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-05-08T04:04:52.330Z</updated>
+    <updated>2024-05-08T05:03:57.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[〈지구의 마지막 밤 vol．4〉 김승주 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8769</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8769"/>
+        <updated>2024-05-08T05:02:45.594Z</updated>
+        <content type="html"><![CDATA[2024.05.17(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 IN 라이브클럽［투데이올드스니커즈 단독 콘서트］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8768</id>
@@ -66,13 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8758</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8758"/>
         <updated>2024-05-08T04:02:39.016Z</updated>
-        <content type="html"><![CDATA[2024.05.10(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문없는집 단독공연 〈타임캡슐〉 추가 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8757</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8757"/>
-        <updated>2024-05-08T04:02:39.018Z</updated>
         <content type="html"><![CDATA[2024.05.10(금) 20:00]]></content>
     </entry>
 </feed>
