@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-09T05:04:21.590Z</updated>
+    <updated>2024-05-09T06:10:21.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백설공주 - 남양주​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59401</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59401"/>
+        <updated>2024-05-09T06:10:14.030Z</updated>
+        <content type="html"><![CDATA[2024.05.14(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​보이체크 멘탈리티​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59399</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59399"/>
+        <updated>2024-05-09T06:10:14.030Z</updated>
+        <content type="html"><![CDATA[2024.05.10(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​날씨의 아이 공식 필름콘서트 _ 서울 앙코르​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59398</id>
@@ -18,6 +32,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59397"/>
         <updated>2024-05-09T05:04:15.930Z</updated>
         <content type="html"><![CDATA[2024.05.16(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <미오 프라텔로> 2차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59396</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59396"/>
+        <updated>2024-05-09T06:10:14.033Z</updated>
+        <content type="html"><![CDATA[2024.05.14(화) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 김기태 첫 번째 팬미팅 [태가 나는 하루 : 301호] 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59386"/>
         <updated>2024-05-08T02:03:53.388Z</updated>
         <content type="html"><![CDATA[2024.05.10(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주예술의전당] 임윤찬 피아노 리사이틀​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59385</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59385"/>
-        <updated>2024-05-08T03:10:53.069Z</updated>
-        <content type="html"><![CDATA[2024.05.09(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공지] 우리은행 전산작업으로 인한 결제서비스 일시중단 안내(05/12)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59384</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59384"/>
-        <updated>2024-05-08T02:03:53.382Z</updated>
-        <content type="html"><![CDATA[<a href="/help/notice/59384" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b> 우리은행 전산작업으로 인한 결제서비스 일시중단 안내(05/12)</h3></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공지] 광주은행 전산작업으로 인한 결제서비스 일시중단 안내(05/12)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59383</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59383"/>
-        <updated>2024-05-08T02:03:53.384Z</updated>
-        <content type="html"><![CDATA[<a href="/help/notice/59383" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b> 광주은행 전산작업으로 인한 결제서비스 일시중단 안내(05/12)</h3></a>]]></content>
     </entry>
 </feed>
