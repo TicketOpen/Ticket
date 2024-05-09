@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-05-09T02:23:46.082Z</updated>
+    <updated>2024-05-09T03:08:05.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌7 My Universe［리제 단독 콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8776</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8776"/>
+        <updated>2024-05-09T03:05:56.153Z</updated>
+        <content type="html"><![CDATA[2024.05.14(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[게이트플라워즈 2집 발매 공연：Majors of Minors 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8775</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8775"/>
+        <updated>2024-05-09T03:05:56.155Z</updated>
+        <content type="html"><![CDATA[2024.05.13(월) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DRINK DANCE AND LOVE ALL：김오키 뻐킹매드니스 X 잭킹콩 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8774</id>
@@ -59,20 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8765</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8765"/>
         <updated>2024-05-08T23:02:29.976Z</updated>
-        <content type="html"><![CDATA[2024.05.10(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[악퉁 X 더베인 조인트콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8764</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8764"/>
-        <updated>2024-05-08T23:02:29.978Z</updated>
-        <content type="html"><![CDATA[2024.05.09(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 마음에 새겨진 이름 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8763</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8763"/>
-        <updated>2024-05-08T23:02:29.981Z</updated>
         <content type="html"><![CDATA[2024.05.10(금) 20:00]]></content>
     </entry>
 </feed>
