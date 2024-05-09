@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-05-09T22:04:38.050Z</updated>
+    <updated>2024-05-09T23:04:49.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[썸머스프링 루프탑파티 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8783</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8783"/>
+        <updated>2024-05-09T23:02:46.433Z</updated>
+        <content type="html"><![CDATA[2024.05.13(월) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 신라힙합페스티벌（경주힙페）－EXCON 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8782</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8772"/>
         <updated>2024-05-09T19:02:11.090Z</updated>
         <content type="html"><![CDATA[2024.05.10(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팔칠댄스（87dance），［Youth Heritage］쇼케이스 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8771</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8771"/>
-        <updated>2024-05-09T19:02:11.090Z</updated>
-        <content type="html"><![CDATA[2024.05.09(목) 18:00]]></content>
     </entry>
 </feed>
