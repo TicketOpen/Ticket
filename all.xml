@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 01:48:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 02:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,20 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8763</guid>
             <pubDate>Wed, 08 May 2024 23:02:29 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.10(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[썸머 무비 콘서트 - 서울 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51303&amp;groupno=51303&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51303&amp;groupno=51303&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 09 May 2024 02:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[24.05.08(수)&nbsp;16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[올리비아 로드리고 첫 내한공연 (Olivia Rodrigo - GUTS World Tour).. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51299&amp;groupno=51299&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51299&amp;groupno=51299&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 09 May 2024 02:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[24.05.17(금)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[［2024오페라축제］어린이오페라 헨젤과그레텔 (인터파크 티켓)]]></title>
@@ -176,25 +190,11 @@
             <content:encoded><![CDATA[24.05.10(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[대전] 2024 뮤지컬 왕자대전 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51280&amp;groupno=51280&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51280&amp;groupno=51280&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 08 May 2024 05:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[24.05.10(금)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2024 Weverse Con Festival - GREEN PASS + LIVE PLAY (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51283&amp;groupno=51283&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51283&amp;groupno=51283&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 08 May 2024 03:08:54 GMT</pubDate>
             <content:encoded><![CDATA[24.05.17(금)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[솔라 (Solar) 2nd CONCERT [COLOURS] (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51279&amp;groupno=51279&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51279&amp;groupno=51279&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 08 May 2024 02:01:48 GMT</pubDate>
-            <content:encoded><![CDATA[24.05.13(월)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[알렉상드르 캉토로프 피아노 리사이틀 (인터파크 티켓)]]></title>
@@ -219,7 +219,7 @@
             <pubDate>Thu, 09 May 2024 00:28:53 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.09
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005202_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006558_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[제45회 서울연극제 공식선정작 〈다이빙 보드〉 (인터파크 티켓 모바일)]]></title>
