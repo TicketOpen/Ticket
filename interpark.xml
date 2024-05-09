@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-05-08T23:05:05.293Z</updated>
+    <updated>2024-05-09T00:29:39.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[［2024오페라축제］어린이오페라 헨젤과그레텔]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51298&amp;groupno=51298&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51298&amp;groupno=51298&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-05-09T00:28:41.964Z</updated>
+        <content type="html"><![CDATA[24.05.17(금)&nbsp;16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파리 오페라 발레 에투알 갈라 2024]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51296&amp;groupno=51296&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -116,13 +123,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51279&amp;groupno=51279&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-05-08T02:01:48.079Z</updated>
         <content type="html"><![CDATA[24.05.13(월)&nbsp;18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈어쩌면 해피엔딩〉 2024]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51278&amp;groupno=51278&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51278&amp;groupno=51278&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-05-08T02:01:48.085Z</updated>
-        <content type="html"><![CDATA[24.05.13(월)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[알렉상드르 캉토로프 피아노 리사이틀]]></title>
