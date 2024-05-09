@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 00:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 01:48:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/33/202404/24/ugmhnsbi7ekn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 2024 DOYOUNG CONCERT [ Dear Youth, ] 추가 회차​​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59394</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59394</guid>
+            <pubDate>Thu, 09 May 2024 01:47:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.05.10(금) 10:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] SC1 vs SC2 슈퍼매치 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59393</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59393</guid>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.05.09(목) 07:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[더 시네마 & 클래식 _ 영화음악 OST 콘서트 (6월)​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59379</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59379</guid>
-            <pubDate>Tue, 07 May 2024 08:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.05.08(수) 08:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 2024 DOYOUNG CONCERT [ Dear Youth, ] 추가 회차​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59394</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59394</guid>
+            <pubDate>Thu, 09 May 2024 01:47:58 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.10(금) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] SC1 vs SC2 슈퍼매치 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -784,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59380</guid>
             <pubDate>Tue, 07 May 2024 08:10:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.09(목) 07:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 시네마 & 클래식 _ 영화음악 OST 콘서트 (6월)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59379</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59379</guid>
-            <pubDate>Tue, 07 May 2024 08:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.08(수) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[창작산실 무용 <애니멀> 공연실황 녹화중계 (네이버 공연)]]></title>
