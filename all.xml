@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 11:03:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 12:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/23/202404/25/ucch2rk9dggj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[페인터즈​ 6월 회차​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59422</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59422</guid>
+            <pubDate>Fri, 10 May 2024 12:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.05.14(화) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 존노&박현수 <향수> - 경주​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59421</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59421</guid>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.05.10(금) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  뮤지컬 <새벽의 입구에서> 1차​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59405</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59405</guid>
-            <pubDate>Thu, 09 May 2024 08:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.05.16(목) 06:00]]></content:encoded>
+            <title><![CDATA[페인터즈​ 6월 회차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59422</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59422</guid>
+            <pubDate>Fri, 10 May 2024 12:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.14(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 존노&박현수 <향수> - 경주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -784,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59407</guid>
             <pubDate>Thu, 09 May 2024 08:11:30 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.10(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  뮤지컬 <새벽의 입구에서> 1차​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59405</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59405</guid>
-            <pubDate>Thu, 09 May 2024 08:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.16(목) 06:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
