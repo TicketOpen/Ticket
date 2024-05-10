@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 00:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 01:48:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈디어 에반 핸슨〉 (Dear Evan Hansen) (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51319&amp;groupno=51319&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51319&amp;groupno=51319&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 10 May 2024 01:46:39 GMT</pubDate>
+            <content:encoded><![CDATA[24.05.16(목)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 신비아파트 〈붉은 눈의 저주〉 - 부천 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51317&amp;groupno=51317&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -90,13 +97,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51304&amp;groupno=51304&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 09 May 2024 05:02:27 GMT</pubDate>
             <content:encoded><![CDATA[24.05.10(금)&nbsp;16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈6시 퇴근〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51300&amp;groupno=51300&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51300&amp;groupno=51300&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 09 May 2024 05:02:27 GMT</pubDate>
-            <content:encoded><![CDATA[24.05.13(월)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈4월은 너의 거짓말〉 (인터파크 티켓)]]></title>
@@ -224,6 +224,27 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006481_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[[창원] 2024 키즈 클래식 8월 코믹음악극 〈엄마, 아빠는 음치 왕!〉티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14373</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14373</guid>
+            <pubDate>Fri, 10 May 2024 01:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.20(월) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[창원] 2024 키즈 클래식 7월〈애니멀 파크 인 더 클래식〉티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14372</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14372</guid>
+            <pubDate>Fri, 10 May 2024 01:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.20(월) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬〈디어 에반 핸슨〉마지막 티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14370</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14370</guid>
+            <pubDate>Fri, 10 May 2024 01:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.16(목) 14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14369</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14369</guid>
@@ -342,25 +363,25 @@
             <content:encoded><![CDATA[2024.05.08(수) 15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[디 첼리스텐 앙상블 제14회 정기연주회 - 부산 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14352</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14352</guid>
-            <pubDate>Tue, 07 May 2024 12:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.03(금) 14:00]]></content:encoded>
+            <title><![CDATA[[창원] 2024 키즈 클래식 8월 코믹음악극 〈엄마, 아빠는 음치 왕!〉티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14373&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14373&amp;order=1</guid>
+            <pubDate>Fri, 10 May 2024 01:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024-05-20(월) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈헤드윅〉 - YES24DAY 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14351</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14351</guid>
-            <pubDate>Tue, 07 May 2024 12:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.09(목) 15:00]]></content:encoded>
+            <title><![CDATA[[창원] 2024 키즈 클래식 7월〈애니멀 파크 인 더 클래식〉티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14372&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14372&amp;order=1</guid>
+            <pubDate>Fri, 10 May 2024 01:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024-05-20(월) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[대구] 2024 라이브 가족뮤지컬 〈인어공주〉 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14350</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14350</guid>
-            <pubDate>Tue, 07 May 2024 12:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.02(목) 09:00]]></content:encoded>
+            <title><![CDATA[뮤지컬〈디어 에반 핸슨〉마지막 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14370&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14370&amp;order=1</guid>
+            <pubDate>Fri, 10 May 2024 01:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024-05-16(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[10CM ‘너랑 밤새고 싶어’ 발매기념 스페셜 라이브 쇼 : 쇼츠쇼츠 대작전 일반예매 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -410,27 +431,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14362&amp;order=1</guid>
             <pubDate>Tue, 07 May 2024 12:12:14 GMT</pubDate>
             <content:encoded><![CDATA[2024-05-14(화) 15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ATEEZ 2024 FANMEETING〈ATINY'S VOYAGE : FROM A TO Z〉티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14361&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14361&amp;order=1</guid>
-            <pubDate>Tue, 07 May 2024 12:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024-05-22(수) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[울산] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14360&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14360&amp;order=1</guid>
-            <pubDate>Tue, 07 May 2024 12:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024-05-08(수) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [메노포즈] 1차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14359&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14359&amp;order=1</guid>
-            <pubDate>Tue, 07 May 2024 12:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024-05-08(수) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 코리아 메모리얼 페스타 티켓오픈 안내 (위메프 공연티켓)]]></title>
