@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-13T08:11:37.193Z</updated>
+    <updated>2024-05-13T10:05:41.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[경향아트힐] 페인터즈 6월 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14383</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14383"/>
+        <updated>2024-05-13T10:05:02.543Z</updated>
+        <content type="html"><![CDATA[2024.05.14(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <매직 판타지아-도로시 리턴즈> 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14382</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14382"/>
         <updated>2024-05-13T08:11:04.782Z</updated>
         <content type="html"><![CDATA[2024.05.20(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스트릿 댄스 퀸 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14381</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14381"/>
+        <updated>2024-05-13T10:05:02.543Z</updated>
+        <content type="html"><![CDATA[2024.05.17(금) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[광주] 2024 오은영의 더할나위없이 [날마다 당당당] 티켓 오픈 안내]]></title>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14363"/>
         <updated>2024-05-13T03:09:18.121Z</updated>
         <content type="html"><![CDATA[2024.05.14(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈등등곡〉1차 프리뷰 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14362</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14362"/>
-        <updated>2024-05-13T03:09:18.123Z</updated>
-        <content type="html"><![CDATA[2024.05.14(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14361</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14361"/>
-        <updated>2024-05-13T03:09:18.130Z</updated>
-        <content type="html"><![CDATA[2024.05.22(수) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.05.21(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
