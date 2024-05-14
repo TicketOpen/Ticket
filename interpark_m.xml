@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 02:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 03:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <pubDate>Mon, 13 May 2024 15:02:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.14
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024050923452780.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006923_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[베베핀 뮤지컬 〈우당탕탕 패밀리〉]]></title>
@@ -62,24 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006247_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈여보 나도 할 말 있어〉 - 안양]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51275</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51275</guid>
-            <pubDate>Mon, 13 May 2024 15:02:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.14
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006541_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[새들의 무덤 - 제45회 서울연극제 공식선정작]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51268</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51268</guid>
-            <pubDate>Mon, 13 May 2024 15:02:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.14
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006793_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2024 SODA FESTA - 2차 티켓오픈]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51301</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51301</guid>
@@ -96,6 +78,24 @@
             <content:encoded><![CDATA[2024.05.14
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22014959_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬〈데미안〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51286</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51286</guid>
+            <pubDate>Tue, 14 May 2024 03:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.14
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002498_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈여보 나도 할 말 있어〉 - 안양]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51275</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51275</guid>
+            <pubDate>Mon, 13 May 2024 15:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.14
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006541_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
