@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 12:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 14:04:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -514,6 +514,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/33/202404/25/cmjbdonrxy9w.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] [오래된 인연] 추강秋剛 김동민과 피란避亂 국악원​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59444</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59444</guid>
+            <pubDate>Tue, 14 May 2024 14:04:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.05.16(목) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매]  광주시립소년소녀합창단 제142회 정기공연 <모차르트 레퀴엠>​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59443</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59443</guid>
@@ -612,11 +619,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.05.27(월) 07:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 연극 쉬어매드니스 - 의성​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59428</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59428</guid>
-            <pubDate>Mon, 13 May 2024 06:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.05.28(화) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매] [오래된 인연] 추강秋剛 김동민과 피란避亂 국악원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59444</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59444</guid>
+            <pubDate>Tue, 14 May 2024 14:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.16(목) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]  광주시립소년소녀합창단 제142회 정기공연 <모차르트 레퀴엠>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -717,21 +724,6 @@
             <content:encoded><![CDATA[2024.05.27(월) 07:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 연극 쉬어매드니스 - 의성​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59428</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59428</guid>
-            <pubDate>Mon, 13 May 2024 06:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.28(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[창작산실 음악 <크로스 콘체르토 프로젝트> 녹화 중계 (네이버 공연)]]></title>
-            <link>https://tv.naver.com/l/152628</link>
-            <guid>https://tv.naver.com/l/152628</guid>
-            <pubDate>Fri, 26 Apr 2024 06:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[05월 14일(화) 20:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240425_146/vHCC0_1714007546219ADFro_JPEG/1714007546196.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[창작산실 연극 <화전> 공연실황 녹화중계 (네이버 공연)]]></title>
             <link>https://tv.naver.com/l/152629</link>
             <guid>https://tv.naver.com/l/152629</guid>
@@ -742,9 +734,9 @@
         <item>
             <title><![CDATA[후원
 											[후원전용]창작뮤지컬 <여기, 피화당> 공연실황 녹화중계 (네이버 공연)]]></title>
-            <link>https://tv.naver.com/l/153042</link>
-            <guid>https://tv.naver.com/l/153042</guid>
-            <pubDate>Thu, 02 May 2024 14:04:35 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/arkocreate</link>
+            <guid>https://patron.naver.com/ntv/c/intro/arkocreate</guid>
+            <pubDate>Tue, 14 May 2024 14:04:21 GMT</pubDate>
             <content:encoded><![CDATA[05월 20일(월) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240502_33/vIlm1_1714622817967J0LQo_PNG/1714622817931.png" length="0" type="image/png"/>
         </item>
