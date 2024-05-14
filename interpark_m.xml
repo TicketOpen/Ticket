@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 06:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 07:04:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,15 +26,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001006_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[［서울］ 보일러룸 서울 2024]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51321</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51321</guid>
-            <pubDate>Mon, 13 May 2024 15:02:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.14
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006923_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[베베핀 뮤지컬 〈우당탕탕 패밀리〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51318</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51318</guid>
@@ -42,6 +33,15 @@
             <content:encoded><![CDATA[2024.05.14
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006568_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[［서울］ 보일러룸 서울 2024]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51321</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51321</guid>
+            <pubDate>Mon, 13 May 2024 15:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.14
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006923_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈맥베스〉]]></title>
@@ -62,13 +62,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006247_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 SODA FESTA - 2차 티켓오픈]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51301</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51301</guid>
-            <pubDate>Mon, 13 May 2024 15:02:42 GMT</pubDate>
+            <title><![CDATA[새들의 무덤 - 제45회 서울연극제 공식선정작]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51268</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51268</guid>
+            <pubDate>Tue, 14 May 2024 07:03:40 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.14
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024050720064244.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006793_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[페인터즈]]></title>
