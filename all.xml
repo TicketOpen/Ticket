@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 May 2024 02:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 May 2024 03:09:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,13 +222,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006953_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[파리 오페라 발레 에투알 갈라 2024 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51296</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51296</guid>
+            <title><![CDATA[2024 김기태 첫 번째 팬미팅 ［태가 나는 하루 : 301호］ (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51311</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51311</guid>
             <pubDate>Tue, 14 May 2024 20:04:10 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.16
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006769_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006893_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[패밀리 아이스쇼 〈피터팬 온 아이스〉 오리지널 내한공연 (인터파크 티켓 모바일)]]></title>
@@ -240,22 +240,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006875_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 김기태 첫 번째 팬미팅 ［태가 나는 하루 : 301호］ (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51311</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51311</guid>
+            <title><![CDATA[파리 오페라 발레 에투알 갈라 2024 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51296</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51296</guid>
             <pubDate>Tue, 14 May 2024 20:04:10 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.16
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006893_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2024_군산 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51332</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51332</guid>
-            <pubDate>Tue, 14 May 2024 20:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.16
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006982_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006769_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[히사이시 조 영화음악 콘서트 2024_통영 (인터파크 티켓 모바일)]]></title>
@@ -265,6 +256,15 @@
             <content:encoded><![CDATA[2024.05.16
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006895_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[히사이시 조 영화음악 콘서트 2024_군산 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51332</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51332</guid>
+            <pubDate>Tue, 14 May 2024 20:04:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.16
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006982_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[장기하 소극장 투어 “나란히 나란히” - 앵콜 (인터파크 티켓 모바일)]]></title>
