@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 06:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 07:05:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -590,6 +590,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/03/202404/26/4mdet1hou1ij.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[보이면 들리는 한국 드라마OST 마티네 콘서트 ​티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59448</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59448</guid>
+            <pubDate>Thu, 16 May 2024 07:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.05.17(금) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매]  ​2023뮤지컬<일라이> 공연실황 녹화 중계​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59447</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59447</guid>
@@ -688,11 +695,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.05.17(금) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극<청혼 소동> - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59432</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59432</guid>
-            <pubDate>Mon, 13 May 2024 23:05:21 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.05.14(화) 01:00]]></content:encoded>
+            <title><![CDATA[보이면 들리는 한국 드라마OST 마티네 콘서트 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59448</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59448</guid>
+            <pubDate>Thu, 16 May 2024 07:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.17(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]  ​2023뮤지컬<일라이> 공연실황 녹화 중계​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -791,13 +798,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59433</guid>
             <pubDate>Tue, 14 May 2024 04:09:39 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.17(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극<청혼 소동> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59432</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59432</guid>
-            <pubDate>Mon, 13 May 2024 23:05:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.14(화) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[창작산실 연극 <화전> 공연실황 녹화중계 (네이버 공연)]]></title>
