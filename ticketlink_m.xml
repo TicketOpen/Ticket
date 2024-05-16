@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-16T02:23:05.372Z</updated>
+    <updated>2024-05-16T04:05:09.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오즈의 마법사 - 충주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59446</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59446"/>
+        <updated>2024-05-16T04:05:03.535Z</updated>
+        <content type="html"><![CDATA[2024.05.17(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세종문화회관 컨템퍼러리 시즌 Sync Next 24(싱크 넥스트 24) 티켓 오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59445</id>
@@ -69,6 +76,13 @@
         <content type="html"><![CDATA[2024.05.16(목) 11:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[(2024) 팥죽할멈과 호랑이 - 부산 신세계​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59435</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59435"/>
+        <updated>2024-05-16T04:05:03.555Z</updated>
+        <content type="html"><![CDATA[2024.05.17(금) 00:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뮤지컬<수박수영장>_서울​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59434</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59434"/>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59431"/>
         <updated>2024-05-13T07:09:32.010Z</updated>
         <content type="html"><![CDATA[2024.05.14(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​극단 온누리 창작극 <우종은 백수다> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59430</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59430"/>
-        <updated>2024-05-13T07:09:32.011Z</updated>
-        <content type="html"><![CDATA[2024.05.14(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오픈일시변경] PITTA 강형호 콘서트: New Normal Life - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59429</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59429"/>
-        <updated>2024-05-13T07:09:32.012Z</updated>
-        <content type="html"><![CDATA[2024.05.27(월) 07:00]]></content>
     </entry>
 </feed>
