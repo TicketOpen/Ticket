@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-05-16T08:09:32.989Z</updated>
+    <updated>2024-05-16T09:03:59.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김현창 첫 정규 앨범 단독 콘서트 〈살아서 슬퍼야지，그렇게 선명히 너를 사랑해야지〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8814</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8814"/>
+        <updated>2024-05-16T09:01:52.557Z</updated>
+        <content type="html"><![CDATA[2024.05.23(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[놀플라워 2nd EP앨범 쇼케이스 〈Take me higher〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8813</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8813"/>
+        <updated>2024-05-16T09:01:52.566Z</updated>
+        <content type="html"><![CDATA[2024.05.21(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HBO Vol．3 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8812</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8812"/>
+        <updated>2024-05-16T09:01:52.566Z</updated>
+        <content type="html"><![CDATA[2024.05.21(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mellow Kitchen with Friends 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8811</id>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8805"/>
         <updated>2024-05-16T05:02:12.947Z</updated>
         <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온 단독콘서트 무아몽중（無我夢中）티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8804</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8804"/>
-        <updated>2024-05-16T05:02:12.947Z</updated>
-        <content type="html"><![CDATA[2024.05.22(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성영주 ‘밀어내고 당기고’ 앨범 발매 기념 콘서트 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8803</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8803"/>
-        <updated>2024-05-16T05:02:12.949Z</updated>
-        <content type="html"><![CDATA[2024.05.15(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colorful Stage＃5（컬러풀 스테이지＃5）블루파프리카 & 엔분의일 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8802</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8802"/>
-        <updated>2024-05-16T05:02:12.950Z</updated>
-        <content type="html"><![CDATA[2024.05.20(월) 20:00]]></content>
     </entry>
 </feed>
