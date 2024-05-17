@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-05-17T08:11:05.422Z</updated>
+    <updated>2024-05-17T09:04:25.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기억의 습작：어제，오늘 그리고 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8821</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8821"/>
+        <updated>2024-05-17T09:02:11.319Z</updated>
+        <content type="html"><![CDATA[2024.05.20(월) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍성준 Fanmeeting 〈약속〉 추가 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8820</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8820"/>
+        <updated>2024-05-17T09:02:11.320Z</updated>
+        <content type="html"><![CDATA[2024.05.21(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 미술관 옆 공연장－그림에 음악과 향기를 더하다 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8819</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8819"/>
+        <updated>2024-05-17T09:02:11.320Z</updated>
+        <content type="html"><![CDATA[2024.05.20(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈헤드윅〉 6차 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8818</id>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8812"/>
         <updated>2024-05-17T05:03:59.571Z</updated>
         <content type="html"><![CDATA[2024.05.21(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mellow Kitchen with Friends 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8811</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8811"/>
-        <updated>2024-05-17T05:03:59.572Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy We；Na Day 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8810</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8810"/>
-        <updated>2024-05-17T05:03:59.586Z</updated>
-        <content type="html"><![CDATA[2024.05.20(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미나 오카베 내한공연 MINA OKABE LIVE IN SEOUL 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8809</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8809"/>
-        <updated>2024-05-17T05:03:59.586Z</updated>
-        <content type="html"><![CDATA[2024.05.23(목) 12:00]]></content>
     </entry>
 </feed>
