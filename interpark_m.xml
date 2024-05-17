@@ -4,18 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 23:04:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 00:30:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[(2024) 팥죽할멈과 호랑이 - 부산 신세계]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51343</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51343</guid>
-            <pubDate>Thu, 16 May 2024 18:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.17
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007013_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[루나자에서 춤을]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51344</link>
@@ -24,6 +15,15 @@
             <content:encoded><![CDATA[2024.05.17
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006965_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[(2024) 팥죽할멈과 호랑이 - 부산 신세계]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51343</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51343</guid>
+            <pubDate>Thu, 16 May 2024 18:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.17
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007013_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[［얼리버드］ 서양 미술 800년展]]></title>
@@ -44,15 +44,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006816_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[코리아 메모리얼 페스타]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51294</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51294</guid>
-            <pubDate>Thu, 16 May 2024 18:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.17
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007046_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[올리비아 로드리고 첫 내한공연 (Olivia Rodrigo - GUTS World Tour)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51299</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51299</guid>
@@ -60,6 +51,15 @@
             <content:encoded><![CDATA[2024.05.17
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006714_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[코리아 메모리얼 페스타]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51294</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51294</guid>
+            <pubDate>Thu, 16 May 2024 18:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.17
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007046_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[올리비아 로드리고 첫 내한공연(Olivia Rodrigo - GUTS world tour)]]></title>
@@ -71,15 +71,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006714_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[［11시＆브런치］Vol.3 피아니스트 이형민 with Friends 앙상블 콘서트 - 구리]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51354</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51354</guid>
-            <pubDate>Thu, 16 May 2024 22:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.17
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006916_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[손민수 Curated 18 김수연]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51363</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51363</guid>
@@ -89,13 +80,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007038_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈하데스타운〉 한국 공연]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51312</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51312</guid>
+            <title><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51356</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51356</guid>
+            <pubDate>Fri, 17 May 2024 00:29:26 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.17
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24003097_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[［11시＆브런치］Vol.3 피아니스트 이형민 with Friends 앙상블 콘서트 - 구리]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51354</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51354</guid>
             <pubDate>Thu, 16 May 2024 22:02:13 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.17
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006851_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006916_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
