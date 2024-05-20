@@ -4,18 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 11:04:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 12:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[100% 무한 애드리브 코믹 누와르 〈킬러가온다〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51394</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51394</guid>
-            <pubDate>Mon, 20 May 2024 02:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.20
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006689_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 신비아파트 〈붉은 눈의 저주〉 - 부천]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51317</link>
@@ -26,13 +17,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006818_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[하이팝(두들팝ver.3)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51357</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51357</guid>
-            <pubDate>Sat, 18 May 2024 02:21:13 GMT</pubDate>
+            <title><![CDATA[100% 무한 애드리브 코믹 누와르 〈킬러가온다〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51394</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51394</guid>
+            <pubDate>Mon, 20 May 2024 02:23:50 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.20
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006193_p.gif" length="0" type="image/gif"/>
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006689_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈매직 판타지아 - 도로시 리턴즈〉]]></title>
@@ -42,6 +33,15 @@
             <content:encoded><![CDATA[2024.05.20
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007000_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[하이팝(두들팝ver.3)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51357</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51357</guid>
+            <pubDate>Sat, 18 May 2024 02:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.20
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006193_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[제18회 대구국제뮤지컬페스티벌]]></title>
@@ -62,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006993_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[〈미술관 옆 공연장〉- 그림에 음악과 향기를 더하다]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51391</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51391</guid>
-            <pubDate>Sat, 18 May 2024 02:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.20
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0003886_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[렉처콘서트 〈강남길의 그리스 로마 신화〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51375</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51375</guid>
@@ -78,6 +69,15 @@
             <content:encoded><![CDATA[2024.05.20
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007113_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[〈미술관 옆 공연장〉- 그림에 음악과 향기를 더하다]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51391</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51391</guid>
+            <pubDate>Sat, 18 May 2024 02:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.20
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0003886_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈살리에르〉]]></title>
