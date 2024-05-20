@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 07:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 08:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8815</guid>
             <pubDate>Mon, 20 May 2024 07:07:48 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.24(금) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Friday hiphop show vol.7 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51403&amp;groupno=51403&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51403&amp;groupno=51403&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 20 May 2024 08:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[24.05.24(금)&nbsp;17:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈달 샤베트〉 - 서울숲 (인터파크 티켓)]]></title>
@@ -195,13 +202,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51386&amp;groupno=51386&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 17 May 2024 08:08:56 GMT</pubDate>
             <content:encoded><![CDATA[24.05.20(월)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈꼬마버스 타요 - 용감한 구조대 레스큐 타요〉 - 안양 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51385&amp;groupno=51385&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51385&amp;groupno=51385&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 17 May 2024 08:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[24.05.21(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 신비아파트 〈붉은 눈의 저주〉 - 부천 (인터파크 티켓 모바일)]]></title>
@@ -584,6 +584,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/58/202404/30/zyivdw1c7hj7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매]  ​2024 허회경 단독 콘서트 < 그 무엇도 어떤 것도 None >​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59467</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59467</guid>
+            <pubDate>Mon, 20 May 2024 08:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.05.23(목) 08:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  ​DSAC 브랜드 콘서트 < Playlist : Untitled 시즌Ⅱ, 여름 > - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59466</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59466</guid>
+            <pubDate>Mon, 20 May 2024 08:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.05.22(수) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[​2024 가족뮤지컬 <신데렐라> - 목포​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59465</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59465</guid>
@@ -675,18 +689,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.05.29(수) 07:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​가족뮤지컬 <꼬마버스 타요 - 용감한 구조대 레스큐 타요> - 안양​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59452</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59452</guid>
-            <pubDate>Fri, 17 May 2024 08:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.05.21(화) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  ​2024 허회경 단독 콘서트 < 그 무엇도 어떤 것도 None >​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59467</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59467</guid>
+            <pubDate>Mon, 20 May 2024 08:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.23(목) 08:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 강릉 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59451</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59451</guid>
-            <pubDate>Fri, 17 May 2024 05:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.05.22(수) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  ​DSAC 브랜드 콘서트 < Playlist : Untitled 시즌Ⅱ, 여름 > - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59466</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59466</guid>
+            <pubDate>Mon, 20 May 2024 08:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.22(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​2024 가족뮤지컬 <신데렐라> - 목포​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -778,20 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59453</guid>
             <pubDate>Fri, 17 May 2024 08:10:58 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.29(수) 07:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​가족뮤지컬 <꼬마버스 타요 - 용감한 구조대 레스큐 타요> - 안양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59452</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59452</guid>
-            <pubDate>Fri, 17 May 2024 08:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.21(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 강릉 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59451</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59451</guid>
-            <pubDate>Fri, 17 May 2024 05:06:02 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.22(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
