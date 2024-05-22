@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 13:11:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 14:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007062_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 〈 급식걸즈 - 뿌슝빠슝 깨져버린 우정 〉 - 강릉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51390</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51390</guid>
-            <pubDate>Wed, 22 May 2024 00:29:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.22
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007250_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[국민 음악극 〈누가 이 사람을 모르시나요〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51384</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51384</guid>
@@ -87,6 +78,15 @@
             <content:encoded><![CDATA[2024.05.22
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007172_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 〈 급식걸즈 - 뿌슝빠슝 깨져버린 우정 〉 - 강릉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51390</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51390</guid>
+            <pubDate>Wed, 22 May 2024 00:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.22
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007250_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈등등곡〉]]></title>
