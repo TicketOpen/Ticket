@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-22T04:10:16.742Z</updated>
+    <updated>2024-05-22T05:05:21.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[< EUNOIA > 크로스오버 콘서트 in 퀸 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59479</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59479"/>
+        <updated>2024-05-22T05:05:14.990Z</updated>
+        <content type="html"><![CDATA[2024.05.24(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <맥베스> 2차​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59478</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59464"/>
         <updated>2024-05-20T06:10:35.818Z</updated>
         <content type="html"><![CDATA[2024.05.21(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살롱드발레 [SALON DE BALLET]-김해 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59463</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59463"/>
-        <updated>2024-05-20T05:11:47.507Z</updated>
-        <content type="html"><![CDATA[2024.05.23(목) 05:00]]></content>
     </entry>
 </feed>

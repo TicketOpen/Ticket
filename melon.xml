@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-05-22T04:10:16.751Z</updated>
+    <updated>2024-05-22T05:05:21.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 1차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8834</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8834"/>
+        <updated>2024-05-22T05:03:12.008Z</updated>
+        <content type="html"><![CDATA[2024.05.24(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BAND DALDAM concert 〈동아리〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8833</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8825"/>
         <updated>2024-05-22T02:22:04.256Z</updated>
         <content type="html"><![CDATA[2024.05.21(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVEN IF WE WANT TO BE HIGH 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8823</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8823"/>
-        <updated>2024-05-22T02:22:04.259Z</updated>
-        <content type="html"><![CDATA[2024.05.24(금) 20:00]]></content>
     </entry>
 </feed>
