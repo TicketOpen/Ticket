@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-05-23T00:29:35.202Z</updated>
+    <updated>2024-05-23T01:47:28.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈베르사유의 장미〉 1차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8843</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8843"/>
+        <updated>2024-05-23T01:45:25.614Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한로로 2nd EP 발매기념 단독콘서트 ‘집’ 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8837</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8828"/>
         <updated>2024-05-23T00:28:22.511Z</updated>
         <content type="html"><![CDATA[2024.05.27(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생각의 여름 단독 콘서트 ‘마음이라는 마을’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8827</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8827"/>
-        <updated>2024-05-23T00:28:22.512Z</updated>
-        <content type="html"><![CDATA[2024.05.27(월) 20:00]]></content>
     </entry>
 </feed>
