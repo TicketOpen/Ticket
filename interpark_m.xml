@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 06:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 07:02:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,22 +62,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007041_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[〈 EUNOIA 〉 크로스오버 콘서트 in 퀸 - 대구]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51425</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51425</guid>
-            <pubDate>Thu, 23 May 2024 17:02:44 GMT</pubDate>
+            <title><![CDATA[뮤지컬 〈연남동 빙굴빙굴 빨래방〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51401</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51401</guid>
+            <pubDate>Fri, 24 May 2024 07:02:00 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.24
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007341_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈젠틀맨스 가이드 : 사랑과 살인편〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51421</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51421</guid>
-            <pubDate>Thu, 23 May 2024 17:02:44 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.24
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007239_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005493_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈버지니아 울프〉]]></title>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2024.05.24
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006307_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[〈 EUNOIA 〉 크로스오버 콘서트 in 퀸 - 대구]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51425</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51425</guid>
+            <pubDate>Thu, 23 May 2024 17:02:44 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.24
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007341_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
