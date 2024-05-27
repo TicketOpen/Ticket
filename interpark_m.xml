@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 May 2024 01:53:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 02:25:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,15 +53,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007371_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[리스펙 페스티벌 2024 - 블라인드 티켓]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51438</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51438</guid>
-            <pubDate>Fri, 24 May 2024 18:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.27
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007224_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[맷 말티스 내한공연 Matt Maltese LIVE IN SEOUL]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51405</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51405</guid>
@@ -71,13 +62,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007300_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[〈구구쌤의 매직쑈라구〉 - 서울]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51423</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51423</guid>
+            <title><![CDATA[리스펙 페스티벌 2024 - 블라인드 티켓]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51438</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51438</guid>
             <pubDate>Fri, 24 May 2024 18:09:11 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.27
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007362_p.gif" length="0" type="image/gif"/>
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007224_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[〈구구쌤의 매직쑈라구〉 - 서울(구로)]]></title>
@@ -87,6 +78,15 @@
             <content:encoded><![CDATA[2024.05.27
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007412_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[〈구구쌤의 매직쑈라구〉 - 서울]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51423</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51423</guid>
+            <pubDate>Fri, 24 May 2024 18:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007362_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[마이 앤트 메리 단독 공연 - 2024 JUST POP]]></title>
