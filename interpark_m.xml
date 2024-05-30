@@ -1,8 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://mticket.interpark.com/Notice/</id>
-    <title>인터파크 티켓 모바일</title>
-    <updated>2024-05-30T05:06:16.150Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>인터파크 티켓 모바일</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 30 May 2024 06:11:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[만개화무(萬開花舞)_춤 꽃 활짝 피어나다]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51472</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51472</guid>
+            <pubDate>Thu, 30 May 2024 06:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.30
+                                    <span>00:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007539_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 라이브 가족뮤지컬 〈알라딘〉 - 대구]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51471</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51471</guid>
+            <pubDate>Thu, 30 May 2024 06:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.30
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007577_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[카사노바]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51470</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51470</guid>
+            <pubDate>Thu, 30 May 2024 06:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.30
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007393_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 가족마술콘서트 〈매직오브아트시즌2〉 - 대구]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51489</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51489</guid>
+            <pubDate>Thu, 30 May 2024 06:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.30
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007657_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Summer Jazzbreak 2024]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51457</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51457</guid>
+            <pubDate>Thu, 30 May 2024 06:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.30
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007566_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 ROUND in Korea - 부산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51454</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51454</guid>
+            <pubDate>Thu, 30 May 2024 06:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.30
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006581_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[캐리비안의 해적: 블랙 펄의 저주 라이브 인 콘서트]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51436</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51436</guid>
+            <pubDate>Thu, 30 May 2024 06:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.30
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007221_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 여우락 페스티벌]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51473</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51473</guid>
+            <pubDate>Thu, 30 May 2024 06:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.30
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024052415273686.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤직드라마 〈불편한 편의점〉 - 올웨이즈씨어터]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51418</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51418</guid>
+            <pubDate>Thu, 30 May 2024 06:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.30
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002802_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈클럽 드바이〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51413</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51413</guid>
+            <pubDate>Thu, 30 May 2024 06:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.30
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006515_p.gif" length="0" type="image/gif"/>
+        </item>
+    </channel>
+</rss>
