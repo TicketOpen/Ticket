@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-30T02:26:02.719Z</updated>
+    <updated>2024-05-30T03:09:30.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[1ST ROCK CAFE 광주 콘서트 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14435</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14435"/>
+        <updated>2024-05-30T03:08:59.566Z</updated>
+        <content type="html"><![CDATA[2024.05.31(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[제주] 2024 오누이 ＂우리들의 학창시절＂ [김용임,진성] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14433</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14433"/>
+        <updated>2024-05-30T03:08:59.568Z</updated>
+        <content type="html"><![CDATA[2024.06.18(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[제주] 뮤지컬! 캐치 티니핑  <두근두근 싱어롱 콘서트!> 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14432</id>
@@ -129,20 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14414</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14414"/>
         <updated>2024-05-23T10:04:04.958Z</updated>
-        <content type="html"><![CDATA[2024.05.27(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14413</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14413"/>
-        <updated>2024-05-23T10:04:04.963Z</updated>
-        <content type="html"><![CDATA[2024.05.28(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광명] 2024 라이브 가족뮤지컬 〈미녀와야수〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14412</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14412"/>
-        <updated>2024-05-23T08:10:39.707Z</updated>
         <content type="html"><![CDATA[2024.05.27(월) 09:00]]></content>
     </entry>
 </feed>
