@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 06:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 07:05:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=51443&amp;groupno=51443&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 30 May 2024 05:04:16 GMT</pubDate>
             <content:encoded><![CDATA[24.05.30(목)&nbsp;15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카디프의 남자들 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51523&amp;groupno=51523&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51523&amp;groupno=51523&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 30 May 2024 07:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[24.06.05(수)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[제주] 뮤지컬 캐치! 티니핑 〈두근두근 싱어롱 콘서트!〉 (인터파크 티켓)]]></title>
@@ -195,13 +202,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=1000&amp;groupno=1000&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 29 May 2024 23:06:04 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 옥천여관 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51506&amp;groupno=51506&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51506&amp;groupno=51506&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 29 May 2024 23:06:04 GMT</pubDate>
-            <content:encoded><![CDATA[24.05.31(금)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[국립현대무용단 〈여자야 여자야〉 - 구미 (인터파크 티켓)]]></title>
@@ -378,7 +378,7 @@
             <content:encoded><![CDATA[2024.05.31(금) 11:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2024.05.29(수) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <조선 이야기꾼 전기수> 티켓오픈 안내 (예스24 티켓)]]></title>
+            <title><![CDATA[뮤지컬 <조선 이야기꾼 전기수> 1차 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14424</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14424</guid>
             <pubDate>Mon, 27 May 2024 09:09:19 GMT</pubDate>
