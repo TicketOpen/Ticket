@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-05-31T04:09:34.047Z</updated>
+    <updated>2024-05-31T05:04:14.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[imase 1st Asia Tour ＂Shiki＂ 러닝타임 조정 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14441</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14441"/>
+        <updated>2024-05-31T05:03:44.822Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[커트 로젠윈클 The Next Step Band 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14440</id>
@@ -137,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14422"/>
         <updated>2024-05-27T05:08:37.164Z</updated>
         <content type="html"><![CDATA[2024.05.31(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14420</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14420"/>
-        <updated>2024-05-27T01:52:36.018Z</updated>
-        <content type="html"><![CDATA[2024.05.30(목) 14:00]]></content>
     </entry>
 </feed>
