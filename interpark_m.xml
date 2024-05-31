@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 09:05:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 10:09:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,6 +35,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007240_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈베르사유의 장미〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51432</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51432</guid>
+            <pubDate>Fri, 31 May 2024 02:24:18 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.31
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007345_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[가족뮤지컬 〈또봇 - 대도시의 영웅들〉 - 부천]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51514</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51514</guid>
@@ -53,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007733_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈베르사유의 장미〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51432</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51432</guid>
-            <pubDate>Fri, 31 May 2024 02:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.31
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007345_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[니콜라이 루간스키 피아노 리사이틀]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51491</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51491</guid>
@@ -71,22 +71,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007505_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈DIMANCHE 디망쉬〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51498</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51498</guid>
-            <pubDate>Fri, 31 May 2024 02:24:18 GMT</pubDate>
+            <title><![CDATA[세상친구]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51487</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51487</guid>
+            <pubDate>Fri, 31 May 2024 10:08:30 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.31
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007570_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 헬로카봇 시즌8 〈미래연구소를 지켜라!〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51455</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51455</guid>
-            <pubDate>Fri, 31 May 2024 04:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.31
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007646_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007388_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 싱어게인3 TOP10 전국투어 - 제주]]></title>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2024.05.31
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007255_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 헬로카봇 시즌8 〈미래연구소를 지켜라!〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51455</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51455</guid>
+            <pubDate>Fri, 31 May 2024 04:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.31
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007646_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
