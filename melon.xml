@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-06-04T00:31:16.017Z</updated>
+    <updated>2024-06-04T01:54:20.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈프랑켄슈타인〉 10주년 기념공연 3차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8880</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8880"/>
+        <updated>2024-06-04T01:52:12.864Z</updated>
+        <content type="html"><![CDATA[2024.06.11(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 유발이 단독공연 〈그녀의 일기장을 훔쳐봐주세요〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8879</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8869"/>
         <updated>2024-06-04T00:29:12.359Z</updated>
         <content type="html"><![CDATA[2024.06.04(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크루즈 디에즈－RGB，세기의 컬러들 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8867</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8867"/>
-        <updated>2024-06-04T00:29:12.359Z</updated>
-        <content type="html"><![CDATA[2024.05.31(금) 18:00]]></content>
     </entry>
 </feed>
