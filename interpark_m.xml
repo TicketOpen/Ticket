@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 01:54:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 02:25:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,6 +26,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007772_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[음악극 〈안녕! B612 : 어린왕자〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51556</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51556</guid>
+            <pubDate>Tue, 04 Jun 2024 02:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.04
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007816_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈박열〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51475</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51475</guid>
@@ -44,13 +53,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005706_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[한스 짐머 VS 존 윌리엄스]]></title>
+            <title><![CDATA[존 윌리엄스 VS 한스 짐머]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51529</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51529</guid>
             <pubDate>Mon, 03 Jun 2024 17:02:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.04
                                     <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007856_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 윤하 소극장 콘서트 [潤夏]]]></title>
@@ -71,31 +80,22 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024052308165341.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서양 미술 800년展]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1001</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1001</guid>
-            <pubDate>Mon, 03 Jun 2024 17:02:32 GMT</pubDate>
+            <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 〈빵빵 이야기 속으로〉 - 제주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51536</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51536</guid>
+            <pubDate>Tue, 04 Jun 2024 02:25:00 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.05
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007922_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007892_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[리틀엔젤스예술단 〈HARMONY〉 (하모니)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51515</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51515</guid>
-            <pubDate>Mon, 03 Jun 2024 17:02:32 GMT</pubDate>
+            <title><![CDATA[굿춤 · 변주 (Good Variation)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51555</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51555</guid>
+            <pubDate>Tue, 04 Jun 2024 02:25:00 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.05
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024052914450346.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 대구]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51539</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51539</guid>
-            <pubDate>Mon, 03 Jun 2024 17:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.05
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024053114202102.jpg" length="0" type="image/jpg"/>
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007920_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
