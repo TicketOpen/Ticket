@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 13:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 14:03:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007856_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 비의도적 연애담 X 내 손끝에 너의 온도가 닿을 때 추가 회차]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51559</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51559</guid>
-            <pubDate>Tue, 04 Jun 2024 04:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.04
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007282_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2024 윤하 소극장 콘서트 [潤夏]]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51495</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51495</guid>
@@ -78,6 +69,15 @@
             <content:encoded><![CDATA[2024.06.04
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007846_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 비의도적 연애담 X 내 손끝에 너의 온도가 닿을 때 추가 회차]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51559</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51559</guid>
+            <pubDate>Tue, 04 Jun 2024 04:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.04
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007282_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[웨스트라이프 내한공연 〈INSPIRE CONCERT SERIES #2 : WESTLIFE〉]]></title>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007596_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[서양 미술 800년展]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1001</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1001</guid>
-            <pubDate>Tue, 04 Jun 2024 04:08:38 GMT</pubDate>
+            <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 〈빵빵 이야기 속으로〉 - 제주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51536</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51536</guid>
+            <pubDate>Tue, 04 Jun 2024 14:02:41 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.05
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007922_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007892_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
