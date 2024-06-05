@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 00:31:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 02:25:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,6 +35,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007922_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[2024 여름 특별전: 우주의 언어-수x한국미술명작]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1002</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1002</guid>
+            <pubDate>Wed, 05 Jun 2024 02:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.05
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007427_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[리틀엔젤스예술단 〈HARMONY〉 (하모니)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51515</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51515</guid>
@@ -62,6 +71,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007935_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[목관앙상블과 함께하는 [지브리 콘서트]]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51572</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51572</guid>
+            <pubDate>Wed, 05 Jun 2024 02:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.05
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007976_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[더 맨 얼라이브 〈초이스〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51543</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51543</guid>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2024.06.05
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007636_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈아가사〉 - 고양]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51535</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51535</guid>
-            <pubDate>Tue, 04 Jun 2024 16:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.05
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007910_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈영웅〉 15주년 기념공연]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51518</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51518</guid>
-            <pubDate>Tue, 04 Jun 2024 16:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.05
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0003831_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
