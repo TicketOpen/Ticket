@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 04:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 05:04:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007922_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 여름 특별전: 우주의 언어-수x한국미술명작]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1002</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1002</guid>
-            <pubDate>Wed, 05 Jun 2024 02:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.05
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007427_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[리틀엔젤스예술단 〈HARMONY〉 (하모니)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51515</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51515</guid>
@@ -51,6 +42,15 @@
             <content:encoded><![CDATA[2024.06.05
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007914_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 여름 특별전: 우주의 언어-수x한국미술명작]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1002</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1002</guid>
+            <pubDate>Wed, 05 Jun 2024 02:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.05
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007427_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 대구]]></title>
