@@ -4,18 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 12:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 13:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 〈빵빵 이야기 속으로〉 - 제주]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51536</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51536</guid>
-            <pubDate>Tue, 04 Jun 2024 14:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.05
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007892_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[굿춤 · 변주 (Good Variation)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51555</link>
@@ -24,6 +15,15 @@
             <content:encoded><![CDATA[2024.06.05
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007920_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 〈빵빵 이야기 속으로〉 - 제주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51536</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51536</guid>
+            <pubDate>Tue, 04 Jun 2024 14:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.05
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007892_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[서양 미술 800년展]]></title>
@@ -53,15 +53,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007914_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 대구]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51538</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51538</guid>
-            <pubDate>Tue, 04 Jun 2024 16:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.05
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007935_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 대구]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51539</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51539</guid>
@@ -69,6 +60,15 @@
             <content:encoded><![CDATA[2024.06.05
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007893_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 대구]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51538</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51538</guid>
+            <pubDate>Tue, 04 Jun 2024 16:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.05
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007935_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[목관앙상블과 함께하는 [지브리 콘서트]]]></title>
