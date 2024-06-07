@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-06-06T23:05:03.795Z</updated>
+    <updated>2024-06-07T01:56:18.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 키즈 음악글램핑 <동물의 사육제>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59589</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59589"/>
+        <updated>2024-06-07T01:56:13.141Z</updated>
+        <content type="html"><![CDATA[2024.06.11(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 김민희 플루트 독주회 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59588</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59588"/>
+        <updated>2024-06-07T01:56:13.142Z</updated>
+        <content type="html"><![CDATA[2024.06.07(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 이영현&박민혜 “SUMMER VOICE” - 제주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59587</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59575"/>
         <updated>2024-06-04T05:10:20.163Z</updated>
         <content type="html"><![CDATA[2024.06.11(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <협객외전> LAST​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59574</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59574"/>
-        <updated>2024-06-04T05:10:20.163Z</updated>
-        <content type="html"><![CDATA[2024.06.10(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 캣 - 화성시​  티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59573</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59573"/>
-        <updated>2024-06-04T03:10:49.147Z</updated>
-        <content type="html"><![CDATA[2024.06.10(월) 00:00]]></content>
     </entry>
 </feed>
