@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 06:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 07:08:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -97,6 +97,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=51496&amp;groupno=51496&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Sun, 09 Jun 2024 05:03:18 GMT</pubDate>
             <content:encoded><![CDATA[24.06.28(금)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈꽃, 별이 지나〉 : 공연배달서비스 간다 20주년 퍼레이드 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51621&amp;groupno=51621&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51621&amp;groupno=51621&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 10 Jun 2024 07:07:26 GMT</pubDate>
+            <content:encoded><![CDATA[24.06.14(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[명작단편소설 뮤지컬 〈얼쑤〉 정선 (인터파크 티켓)]]></title>
@@ -197,13 +204,6 @@
             <content:encoded><![CDATA[24.06.10(월)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[78LIVE - 정수민 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51602&amp;groupno=51602&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51602&amp;groupno=51602&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 07 Jun 2024 09:05:02 GMT</pubDate>
-            <content:encoded><![CDATA[24.06.13(목)&nbsp;18:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[그린캠프페스티벌 2024 - 인천 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51604&amp;groupno=51604&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51604&amp;groupno=51604&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -243,6 +243,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008027_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[제18회 대구국제뮤지컬페스티벌 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51571</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51571</guid>
+            <pubDate>Sat, 08 Jun 2024 00:30:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.10
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007083_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[하이팝(두들팝ver.3) (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51526</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51526</guid>
@@ -261,13 +270,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008147_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[제18회 대구국제뮤지컬페스티벌 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51571</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51571</guid>
+            <title><![CDATA[2024 박창근 고양 콘서트 - 박창근장르 다시보기 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51546</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51546</guid>
             <pubDate>Sat, 08 Jun 2024 00:30:35 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.10
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007083_p.gif" length="0" type="image/gif"/>
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008187_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[밤이 없는 여름 (인터파크 티켓 모바일)]]></title>
@@ -277,15 +286,6 @@
             <content:encoded><![CDATA[2024.06.10
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008144_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 박창근 고양 콘서트 - 박창근장르 다시보기 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51546</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51546</guid>
-            <pubDate>Sat, 08 Jun 2024 00:30:35 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.10
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008187_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[〈구구쌤의 매직쑈라구〉 - 부천 (인터파크 티켓 모바일)]]></title>
