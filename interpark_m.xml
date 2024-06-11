@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 04:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 05:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,6 +35,15 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024052816291188.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[픽사 인 콘서트]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51558</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51558</guid>
+            <pubDate>Mon, 10 Jun 2024 20:04:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.11
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008191_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[카운터테너 이동규 리사이틀 〈Dream Quilter : 꿈을 누비는 자〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51530</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51530</guid>
@@ -51,15 +60,6 @@
             <content:encoded><![CDATA[2024.06.11
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008231_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[픽사 인 콘서트]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51558</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51558</guid>
-            <pubDate>Mon, 10 Jun 2024 20:04:38 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.11
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008191_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[ACI 키즈 콘서트 - 클랩 그림책 콘서트]]></title>
