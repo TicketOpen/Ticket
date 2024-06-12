@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-12T05:07:06.146Z</updated>
+    <updated>2024-06-12T06:11:27.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[얼리버드] 브라이언 레 창원 특별전 : LOVE STORIES - 얼리버드 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14483</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14483"/>
+        <updated>2024-06-12T06:10:48.539Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[클래식 레볼루션 2024] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14482</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14464"/>
         <updated>2024-06-07T02:27:45.034Z</updated>
         <content type="html"><![CDATA[2024.06.12(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14463</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14463"/>
-        <updated>2024-06-07T02:27:45.034Z</updated>
-        <content type="html"><![CDATA[2024.06.11(화) 14:00]]></content>
     </entry>
 </feed>
