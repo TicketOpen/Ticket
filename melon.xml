@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-06-14T04:10:15.548Z</updated>
+    <updated>2024-06-14T05:06:25.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8924</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8924"/>
         <updated>2024-06-14T03:07:41.294Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 박서준 팬미팅 ‘서준시（時）’－서울 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8929</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8929"/>
+        <updated>2024-06-14T05:04:19.891Z</updated>
         <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
     </entry>
     <entry>
@@ -74,12 +81,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8917"/>
         <updated>2024-06-14T03:07:41.309Z</updated>
         <content type="html"><![CDATA[2024.06.13(목) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 주호 CONCERT 주주총회 ‘SPARKLE’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8916</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8916"/>
-        <updated>2024-06-14T03:07:41.310Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
     </entry>
 </feed>
