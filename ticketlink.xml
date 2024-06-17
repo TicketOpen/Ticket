@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-17T08:11:40.197Z</updated>
+    <updated>2024-06-17T09:09:50.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​공룡애니멀쇼 - 서울 강남​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59671</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59671"/>
+        <updated>2024-06-17T09:09:34.464Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.24(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 치유와 평화를 위한 평화음악회 in 군산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59670</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59670"/>
+        <updated>2024-06-17T09:09:34.466Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.20(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 제35회 퍼포먼스 뮤지콘 작곡발표회 - 침묵, 그 너머 II - 서울 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59669</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59669"/>
         <updated>2024-06-17T07:09:09.482Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.20(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도깨비가족마술쇼 - 일산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59668</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59668"/>
-        <updated>2024-06-17T06:12:25.180Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.20(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이마술쇼 - 경기 광주 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59656"/>
         <updated>2024-06-14T01:55:41.746Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.18(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 대구치맥페스티벌 <프리미엄 사전예약존> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59655</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59655"/>
-        <updated>2024-06-13T23:06:45.988Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.20(목) 01:00]]></content>
     </entry>
 </feed>
