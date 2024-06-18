@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-06-18T06:10:49.276Z</updated>
+    <updated>2024-06-18T07:06:48.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 극단열전 <한여름 밤의 꿈> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59681</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59681"/>
+        <updated>2024-06-18T07:06:42.659Z</updated>
+        <content type="html"><![CDATA[2024.06.20(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 극단열전 <피그말리온>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59680</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59680"/>
+        <updated>2024-06-18T07:06:42.660Z</updated>
+        <content type="html"><![CDATA[2024.06.20(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 <설민석의 한국사 대모험 - 영웅의 시간> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59679</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59679"/>
+        <updated>2024-06-18T07:06:42.661Z</updated>
+        <content type="html"><![CDATA[2024.06.25(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​[광주시립교향악단] GSO 오티움 콘서트 Ⅲ ‘Romantic’​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59678</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59666"/>
         <updated>2024-06-17T05:10:06.360Z</updated>
         <content type="html"><![CDATA[2024.06.18(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​이승환밴드 마지막 팬미팅​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59665</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59665"/>
-        <updated>2024-06-17T04:11:57.261Z</updated>
-        <content type="html"><![CDATA[2024.07.05(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​이야기로 만나는 춤의 정원​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59664</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59664"/>
-        <updated>2024-06-17T02:31:38.278Z</updated>
-        <content type="html"><![CDATA[2024.06.19(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] JUMF 2024 전주얼티밋뮤직페스티벌 얼리버드 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59663</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59663"/>
-        <updated>2024-06-17T04:11:57.262Z</updated>
-        <content type="html"><![CDATA[2024.06.18(화) 03:00]]></content>
     </entry>
 </feed>
