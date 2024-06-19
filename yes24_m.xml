@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-06-19T04:10:16.092Z</updated>
+    <updated>2024-06-19T05:06:18.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <빵야> 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14513&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14513&amp;order=1"/>
+        <updated>2024-06-19T05:05:52.566Z</updated>
+        <content type="html"><![CDATA[2024-06-24(월) 13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 가족발레〈거인의 정원〉- 부산 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14512&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14503&amp;order=1"/>
         <updated>2024-06-14T07:04:05.629Z</updated>
         <content type="html"><![CDATA[2024-06-19(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈에밀〉 2차 & 판매보류석 티켓오픈 공지]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14502&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14502&amp;order=1"/>
-        <updated>2024-06-14T06:10:36.647Z</updated>
-        <content type="html"><![CDATA[2024-06-20(목) 10:00]]></content>
     </entry>
 </feed>
