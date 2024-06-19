@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-06-18T23:04:02.238Z</updated>
+    <updated>2024-06-19T00:31:52.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 가족발레〈거인의 정원〉- 부산 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14512</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14512"/>
+        <updated>2024-06-19T00:31:13.089Z</updated>
+        <content type="html"><![CDATA[2024.06.25(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14511</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14492</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14492"/>
         <updated>2024-06-13T07:08:16.608Z</updated>
-        <content type="html"><![CDATA[2024.06.24(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14491</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14491"/>
-        <updated>2024-06-18T09:07:19.630Z</updated>
         <content type="html"><![CDATA[2024.06.24(월) 10:00]]></content>
     </entry>
 </feed>
