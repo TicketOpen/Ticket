@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 07:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 08:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008732_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[고전과 낭만사이 〈대니 구 & 일리야 라쉬코프스키〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51686</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51686</guid>
-            <pubDate>Tue, 18 Jun 2024 15:03:41 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.19
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008475_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[무용 〈차 한 잔 하실래요?〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51695</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51695</guid>
@@ -80,13 +71,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008750_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[고전과 낭만사이 〈베토벤 & 차이코프스키 & 라흐마니노프〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51687</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51687</guid>
+            <title><![CDATA[고전과 낭만사이 〈대니 구 & 일리야 라쉬코프스키〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51686</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51686</guid>
             <pubDate>Tue, 18 Jun 2024 15:03:41 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.19
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008740_p.gif" length="0" type="image/gif"/>
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008475_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[고전과 낭만사이 〈베토벤&차이코프스키〉]]></title>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2024.06.19
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008748_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[고전과 낭만사이 〈베토벤 & 차이코프스키 & 라흐마니노프〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51687</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51687</guid>
+            <pubDate>Tue, 18 Jun 2024 15:03:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.19
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008740_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
