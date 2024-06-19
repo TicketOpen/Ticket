@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 06:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 07:05:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008373_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[ 2024 Theatre 이문세 ] - 진주]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51639</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51639</guid>
-            <pubDate>Tue, 18 Jun 2024 15:03:41 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.19
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008697_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[진성 30주년 기념 콘서트 〈진성 빅쇼〉 - 부산]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51679</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51679</guid>
@@ -51,6 +42,15 @@
             <content:encoded><![CDATA[2024.06.19
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008711_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[ 2024 Theatre 이문세 ] - 진주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51639</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51639</guid>
+            <pubDate>Tue, 18 Jun 2024 15:03:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008697_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[손민수 Curated 19 김홍박]]></title>
@@ -62,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008732_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[무용 〈차 한 잔 하실래요?〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51695</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51695</guid>
-            <pubDate>Tue, 18 Jun 2024 15:03:41 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.19
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008750_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[고전과 낭만사이 〈대니 구 & 일리야 라쉬코프스키〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51686</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51686</guid>
@@ -78,6 +69,15 @@
             <content:encoded><![CDATA[2024.06.19
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008475_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[무용 〈차 한 잔 하실래요?〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51695</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51695</guid>
+            <pubDate>Tue, 18 Jun 2024 15:03:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.19
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008750_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[고전과 낭만사이 〈베토벤 & 차이코프스키 & 라흐마니노프〉]]></title>
