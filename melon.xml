@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-06-20T07:04:13.372Z</updated>
+    <updated>2024-06-20T08:11:01.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NO HIPHOP NO LIFE（노힢노랖）Vol．002－노엘（NO：EL）티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8950</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8950"/>
+        <updated>2024-06-20T08:09:51.812Z</updated>
+        <content type="html"><![CDATA[2024.06.24(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 RIIZE FAN－CON ‘RIIZING DAY’ FINALE in SEOUL 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8949</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8939"/>
         <updated>2024-06-20T05:03:06.137Z</updated>
         <content type="html"><![CDATA[2024.06.19(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soundberry Festa’ 24 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8938</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8938"/>
-        <updated>2024-06-20T05:03:06.138Z</updated>
-        <content type="html"><![CDATA[2024.06.18(화) 18:00]]></content>
     </entry>
 </feed>
