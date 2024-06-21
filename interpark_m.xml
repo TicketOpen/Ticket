@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 02:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 03:08:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,22 +80,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008592_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈클럽 드바이〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51676</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51676</guid>
-            <pubDate>Thu, 20 Jun 2024 17:02:50 GMT</pubDate>
+            <title><![CDATA[뮤지컬 〈영웅〉 15주년 기념 공연 - 수원]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51708</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51708</guid>
+            <pubDate>Fri, 21 Jun 2024 03:07:38 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.21
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006515_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008817_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[윤딴딴 투어 콘서트 [딴딴한여름 2024] : 부산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51712</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51712</guid>
-            <pubDate>Thu, 20 Jun 2024 17:02:50 GMT</pubDate>
+            <title><![CDATA[대학로 1위 연극 〈쉬어매드니스〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51706</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51706</guid>
+            <pubDate>Fri, 21 Jun 2024 03:07:38 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.21
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008835_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006928_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
