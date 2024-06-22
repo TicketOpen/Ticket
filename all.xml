@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jun 2024 05:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jun 2024 06:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -591,6 +591,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/39/202405/24/ezgqhlkkbxm3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] GAC 기획공연 포커스 SURL ‘ringringring’ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59718</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59718</guid>
+            <pubDate>Sat, 22 Jun 2024 06:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.06.27(목) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매]  뮤지컬 <새벽의 입구에서> 3차​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59716</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59716</guid>
@@ -689,11 +696,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.06.21(금) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 (이상한 과자 가게 전천당) - 천옥원, 소원과자 대결전 - 과천​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59701</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59701</guid>
-            <pubDate>Thu, 20 Jun 2024 06:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.06.21(금) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매] GAC 기획공연 포커스 SURL ‘ringringring’ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59718</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59718</guid>
+            <pubDate>Sat, 22 Jun 2024 06:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.27(목) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]  뮤지컬 <새벽의 입구에서> 3차​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -792,13 +799,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59702</guid>
             <pubDate>Thu, 20 Jun 2024 06:11:17 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.21(금) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 (이상한 과자 가게 전천당) - 천옥원, 소원과자 대결전 - 과천​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59701</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59701</guid>
-            <pubDate>Thu, 20 Jun 2024 06:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.21(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
