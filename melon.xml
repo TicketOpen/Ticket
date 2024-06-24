@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-06-24T02:28:39.303Z</updated>
+    <updated>2024-06-24T03:10:07.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Summer Jazzbreak 2024 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8962</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8962"/>
+        <updated>2024-06-24T03:08:14.438Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blue is Rock－DALDAM X GIFT 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8961</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8961"/>
+        <updated>2024-06-24T03:08:14.440Z</updated>
+        <content type="html"><![CDATA[2024.06.28(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장들레 단독 콘서트 ‘롱타임노씨’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8960</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8960"/>
+        <updated>2024-06-24T03:08:14.443Z</updated>
+        <content type="html"><![CDATA[2024.07.01(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연－지브리，재즈를 만나다－（부산）티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8959</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8959"/>
+        <updated>2024-06-24T03:08:14.447Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준형 EP 선공개 콘서트 〈피할 수 없는〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8958</id>
@@ -46,33 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8951"/>
         <updated>2024-06-24T02:27:26.643Z</updated>
         <content type="html"><![CDATA[2024.06.27(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NO HIPHOP NO LIFE（노힢노랖）Vol．002－노엘（NO：EL）티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8950</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8950"/>
-        <updated>2024-06-24T02:27:26.645Z</updated>
-        <content type="html"><![CDATA[2024.06.24(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［오픈일 변경］2024 RIIZE FAN－CON ‘RIIZING DAY’ FINALE in SEOUL 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8949</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8949"/>
-        <updated>2024-06-24T02:27:26.648Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태비 단독콘서트 CINEMA 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8948</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8948"/>
-        <updated>2024-06-24T02:27:26.650Z</updated>
-        <content type="html"><![CDATA[2024.06.20(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈프랑켄슈타인〉 10주년 기념공연 4차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8947</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8947"/>
-        <updated>2024-06-24T02:27:26.651Z</updated>
-        <content type="html"><![CDATA[2024.06.26(수) 11:00]]></content>
     </entry>
 </feed>
