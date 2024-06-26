@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jun 2024 22:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 23:03:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -81,41 +81,25 @@
             <title><![CDATA[undefined (인터파크 티켓)]]></title>
             <link>https://TicketOpen.github.io/ticket/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket/all.xml</guid>
-            <pubDate>Wed, 26 Jun 2024 22:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[<td>쇼핑 서비스(Shopping)</td>
-                  <td>2024-06-27 01:00~07:00 AM (KST)</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[undefined (인터파크 티켓)]]></title>
-            <link>https://TicketOpen.github.io/ticket/all.xml</link>
-            <guid>https://TicketOpen.github.io/ticket/all.xml</guid>
-            <pubDate>Wed, 26 Jun 2024 22:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[<td>도서 서비스(Book)</td>
-                  <td>2024-06-27 01:00~07:00 AM (KST)</td>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[undefined (인터파크 티켓)]]></title>
-            <link>https://TicketOpen.github.io/ticket/all.xml</link>
-            <guid>https://TicketOpen.github.io/ticket/all.xml</guid>
-            <pubDate>Wed, 26 Jun 2024 22:03:04 GMT</pubDate>
+            <pubDate>Wed, 26 Jun 2024 23:02:04 GMT</pubDate>
             <content:encoded><![CDATA[<td>티켓 서비스(Ticket)</td>
-                  <td>2024-06-27 01:00~07:00 AM (KST)</td>]]></content:encoded>
+                  <td>2024-06-27 01:00~08:00 AM (KST)</td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (인터파크 티켓)]]></title>
             <link>https://TicketOpen.github.io/ticket/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket/all.xml</guid>
-            <pubDate>Wed, 26 Jun 2024 22:03:04 GMT</pubDate>
+            <pubDate>Wed, 26 Jun 2024 23:02:04 GMT</pubDate>
             <content:encoded><![CDATA[<td>투어 서비스(Tour)</td>
-                  <td>2024-06-27 01:00~07:00 AM (KST)</td>]]></content:encoded>
+                  <td>2024-06-27 01:00~08:00 AM (KST)</td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[undefined (인터파크 티켓)]]></title>
             <link>https://TicketOpen.github.io/ticket/all.xml</link>
             <guid>https://TicketOpen.github.io/ticket/all.xml</guid>
-            <pubDate>Wed, 26 Jun 2024 22:03:04 GMT</pubDate>
+            <pubDate>Wed, 26 Jun 2024 23:02:04 GMT</pubDate>
             <content:encoded><![CDATA[<td>글로벌 서비스(Global)</td>
-                  <td>2024-06-27 01:00~07:00 AM (KST)</td>]]></content:encoded>
+                  <td>2024-06-27 01:00~08:00 AM (KST)</td>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
