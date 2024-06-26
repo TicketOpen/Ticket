@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 23:04:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 00:32:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -598,6 +598,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/58/202405/24/s4iqxpqhsbp0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어린이 캣츠 - 파주​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59741</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59741</guid>
+            <pubDate>Wed, 26 Jun 2024 00:31:58 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.06.27(목) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] The Magic Star TOP7 전국투어 - 서울​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59739</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59739</guid>
@@ -696,11 +703,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.06.27(목) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[알라딘과 요술램프 - 김해 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59725</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59725</guid>
-            <pubDate>Mon, 24 Jun 2024 05:06:23 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.06.27(목) 00:00]]></content:encoded>
+            <title><![CDATA[어린이 캣츠 - 파주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59741</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59741</guid>
+            <pubDate>Wed, 26 Jun 2024 00:32:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.27(목) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] The Magic Star TOP7 전국투어 - 서울​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -797,13 +804,6 @@
             <title><![CDATA[알라딘과 요술램프 - 과천 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/59726</link>
             <guid>http://m.ticketlink.co.kr/help/notice/59726</guid>
-            <pubDate>Mon, 24 Jun 2024 05:06:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.27(목) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[알라딘과 요술램프 - 김해 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59725</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59725</guid>
             <pubDate>Mon, 24 Jun 2024 05:06:30 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.27(목) 00:00]]></content:encoded>
         </item>
