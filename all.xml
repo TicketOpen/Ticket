@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 11:03:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 12:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -295,6 +295,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009112_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[어린이 소리극 〈벨벳토끼〉 - 안양 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51779</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51779</guid>
+            <pubDate>Thu, 27 Jun 2024 12:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009109_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[제18회 DIMF 폐막작 〈싱잉 인 더 레인〉 - 대구 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51804</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51804</guid>
@@ -311,15 +320,6 @@
             <content:encoded><![CDATA[2024.06.27
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008868_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[폭소춘향전 - 이천 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51813</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51813</guid>
-            <pubDate>Thu, 27 Jun 2024 04:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.27
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009051_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
