@@ -1,8 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://mticket.interpark.com/Notice/</id>
-    <title>인터파크 티켓 모바일</title>
-    <updated>2024-06-27T02:27:54.251Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>인터파크 티켓 모바일</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 27 Jun 2024 04:11:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 시크릿쥬쥬 별의 보석 〈소원을 말해봐!〉 - 대구]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51777</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51777</guid>
+            <pubDate>Thu, 27 Jun 2024 04:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.27
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009131_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[〈구구쌤의 매직쑈라구〉 - 청주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51773</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51773</guid>
+            <pubDate>Thu, 27 Jun 2024 04:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.27
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009130_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 김창옥토크콘서트 시즌4 -창원]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51799</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51799</guid>
+            <pubDate>Thu, 27 Jun 2024 04:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.27
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009156_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈조선 이야기꾼 전기수〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51754</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51754</guid>
+            <pubDate>Thu, 27 Jun 2024 04:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.27
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007639_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈하데스타운〉 한국 공연]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51751</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51751</guid>
+            <pubDate>Thu, 27 Jun 2024 04:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.27
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006851_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[이머시브 뮤지컬 〈흔해빠진일〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51734</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51734</guid>
+            <pubDate>Thu, 27 Jun 2024 04:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.27
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/L0/L0000091_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[송소희, 두번째달, 김준수의 모던민요]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51767</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51767</guid>
+            <pubDate>Thu, 27 Jun 2024 04:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009112_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[제18회 DIMF 폐막작 〈싱잉 인 더 레인〉 - 대구]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51804</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51804</guid>
+            <pubDate>Thu, 27 Jun 2024 04:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007009_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[마리아 조앙 피레스 피아노 리사이틀]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51816</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51816</guid>
+            <pubDate>Thu, 27 Jun 2024 04:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24008868_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[폭소춘향전 - 이천]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51813</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51813</guid>
+            <pubDate>Thu, 27 Jun 2024 04:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009051_p.gif" length="0" type="image/gif"/>
+        </item>
+    </channel>
+</rss>
