@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 05:05:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 06:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,15 +26,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009030_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[대구앵콜] 뮤지컬 캐치! 티니핑 〈두근두근 싱어롱 콘서트!〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51790</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51790</guid>
-            <pubDate>Thu, 27 Jun 2024 21:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.28
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009200_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[[춘천] 뮤지컬 캐치! 티니핑 〈두근두근 싱어롱 콘서트!〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51791</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51791</guid>
@@ -42,6 +33,15 @@
             <content:encoded><![CDATA[2024.06.28
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009169_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[대구앵콜] 뮤지컬 캐치! 티니핑 〈두근두근 싱어롱 콘서트!〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51790</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51790</guid>
+            <pubDate>Thu, 27 Jun 2024 21:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.28
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009200_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈고양이 해결사 깜냥 - 편의점을 환하게 밝혀라〉 - 인천]]></title>
@@ -80,13 +80,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009191_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈연남동 빙굴빙굴 빨래방〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51770</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51770</guid>
-            <pubDate>Thu, 27 Jun 2024 21:02:34 GMT</pubDate>
+            <title><![CDATA[〈바스커빌 : 셜록홈즈 미스터리〉 Chapter2]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51776</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51776</guid>
+            <pubDate>Fri, 28 Jun 2024 06:09:48 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.28
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005493_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007536_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[비르투오소들의 조우]]></title>
