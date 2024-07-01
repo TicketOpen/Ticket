@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jul 2024 02:05:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 03:09:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,15 +26,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009259_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[가족매직쇼 〈구구쌤의 매직쑈라구〉 - 안산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51798</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51798</guid>
-            <pubDate>Fri, 28 Jun 2024 17:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009226_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[진성 30주년 기념 콘서트 〈진성 빅쇼〉 - 창원]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51796</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51796</guid>
@@ -53,15 +44,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009184_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 대구]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51814</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51814</guid>
-            <pubDate>Fri, 28 Jun 2024 17:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009230_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈Behind the Moon〉 쇼케이스]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51805</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51805</guid>
@@ -69,6 +51,24 @@
             <content:encoded><![CDATA[2024.07.01
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009304_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[가족매직쇼 〈구구쌤의 매직쑈라구〉 - 안산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51798</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51798</guid>
+            <pubDate>Fri, 28 Jun 2024 17:02:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.01
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009226_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 대구]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51814</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51814</guid>
+            <pubDate>Fri, 28 Jun 2024 17:02:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.01
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009230_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[제30회 구민의 날 기념 오페라 「카발레리아 루스티카나」 - 인천]]></title>

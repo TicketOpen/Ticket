@@ -4,9 +4,30 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jul 2024 02:05:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 03:09:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이동현（Liel）9주년 단독공연 〈아니 벌써〉 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8987</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8987</guid>
+            <pubDate>Mon, 01 Jul 2024 03:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.04(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Summer Breeze 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8986</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8986</guid>
+            <pubDate>Mon, 01 Jul 2024 03:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.01(월) 19:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[festival SUM 2024－Playground with 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8985</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8985</guid>
+            <pubDate>Mon, 01 Jul 2024 03:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.04(목) 19:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[소금창고 개방 vol．4 〈여름날의 생각〉 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8983</link>
@@ -55,27 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8975</guid>
             <pubDate>Mon, 01 Jul 2024 02:03:10 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.04(목) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤직 코멘터리：Talkback＃2 ‘솔루션스’ 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8974</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8974</guid>
-            <pubDate>Mon, 01 Jul 2024 02:03:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.28(금) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 맢동산 팬콘서트［워커홀릭］MD 상품 선주문 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8973</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8973</guid>
-            <pubDate>Mon, 01 Jul 2024 02:03:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.27(목) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌7 OUR SUMMER［적란운 단독 콘서트］티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8972</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8972</guid>
-            <pubDate>Mon, 01 Jul 2024 02:03:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.03(수) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제18회 DIMF 어워즈 - 대구 (인터파크 티켓)]]></title>
@@ -222,15 +222,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009259_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[가족매직쇼 〈구구쌤의 매직쑈라구〉 - 안산 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51798</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51798</guid>
-            <pubDate>Fri, 28 Jun 2024 17:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009226_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[진성 30주년 기념 콘서트 〈진성 빅쇼〉 - 창원 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51796</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51796</guid>
@@ -249,15 +240,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009184_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 대구 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51814</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51814</guid>
-            <pubDate>Fri, 28 Jun 2024 17:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009230_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈Behind the Moon〉 쇼케이스 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51805</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51805</guid>
@@ -265,6 +247,24 @@
             <content:encoded><![CDATA[2024.07.01
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009304_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[가족매직쇼 〈구구쌤의 매직쑈라구〉 - 안산 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51798</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51798</guid>
+            <pubDate>Fri, 28 Jun 2024 17:02:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.01
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009226_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 대구 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51814</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51814</guid>
+            <pubDate>Fri, 28 Jun 2024 17:02:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.01
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009230_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[제30회 구민의 날 기념 오페라 「카발레리아 루스티카나」 - 인천 (인터파크 티켓 모바일)]]></title>
@@ -584,6 +584,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/38/202405/24/he4v1mxryduj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 2024 부울경 4개 시도 청소년 교류음악회​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59776</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59776</guid>
+            <pubDate>Mon, 01 Jul 2024 03:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.07.05(금) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 가족뮤지컬 <겨울이야기> - 시흥​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59775</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59775</guid>
+            <pubDate>Mon, 01 Jul 2024 03:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.07.02(화) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가족퍼포먼스 쇼뮤지컬 <아쿠아쇼> - 당진​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59774</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59774</guid>
@@ -654,7 +668,7 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.07.01(월) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스즈메의 문단속 외 7작품 갈라 콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
+            <title><![CDATA[스즈메의 문단속, 날씨의 아이, 너의 이름은. 갈라 콘서트 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59763</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59763</guid>
             <pubDate>Fri, 28 Jun 2024 02:29:01 GMT</pubDate>
@@ -675,18 +689,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.06.28(금) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> -  안성 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59759</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59759</guid>
-            <pubDate>Thu, 27 Jun 2024 01:55:59 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.07.02(화) 00:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 2024 부울경 4개 시도 청소년 교류음악회​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59776</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59776</guid>
+            <pubDate>Mon, 01 Jul 2024 03:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.05(금) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[백설공주 - 포천​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59757</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59757</guid>
-            <pubDate>Wed, 26 Jun 2024 07:04:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.07.01(월) 00:00]]></content:encoded>
+            <title><![CDATA[2024 가족뮤지컬 <겨울이야기> - 시흥​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59775</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59775</guid>
+            <pubDate>Mon, 01 Jul 2024 03:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.02(화) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족퍼포먼스 쇼뮤지컬 <아쿠아쇼> - 당진​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -759,7 +773,7 @@
             <content:encoded><![CDATA[2024.07.01(월) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스즈메의 문단속 외 7작품 갈라 콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <title><![CDATA[스즈메의 문단속, 날씨의 아이, 너의 이름은. 갈라 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/59763</link>
             <guid>http://m.ticketlink.co.kr/help/notice/59763</guid>
             <pubDate>Fri, 28 Jun 2024 02:29:06 GMT</pubDate>
@@ -778,20 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59761</guid>
             <pubDate>Thu, 27 Jun 2024 06:11:45 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.28(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> -  안성 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59759</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59759</guid>
-            <pubDate>Thu, 27 Jun 2024 01:56:05 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.02(화) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[백설공주 - 포천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59757</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59757</guid>
-            <pubDate>Wed, 26 Jun 2024 07:04:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.01(월) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
