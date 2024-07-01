@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jul 2024 03:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 04:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8975</guid>
             <pubDate>Mon, 01 Jul 2024 02:03:10 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.04(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈영웅〉 15주년 기념 공연 - 대구 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51852&amp;groupno=51852&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51852&amp;groupno=51852&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 01 Jul 2024 04:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[24.07.10(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제18회 DIMF 어워즈 - 대구 (인터파크 티켓)]]></title>
@@ -174,13 +181,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51833&amp;groupno=51833&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 28 Jun 2024 05:04:06 GMT</pubDate>
             <content:encoded><![CDATA[24.07.05(금)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈이블데드〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51832&amp;groupno=51832&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51832&amp;groupno=51832&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 28 Jun 2024 05:04:06 GMT</pubDate>
-            <content:encoded><![CDATA[24.07.03(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Bren Joy Live in Seoul 티켓오픈 안내 (인터파크 티켓)]]></title>
