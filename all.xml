@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 05:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 06:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,6 +27,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51879&amp;groupno=51879&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 03 Jul 2024 02:25:54 GMT</pubDate>
             <content:encoded><![CDATA[24.07.10(수)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[썸머 무비 콘서트 〈디즈니 ＆ 픽사 & 드림웍스 & 지브리〉 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51890&amp;groupno=51890&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51890&amp;groupno=51890&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 03 Jul 2024 06:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[24.07.04(목)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[［BABYMONSTER PRESENTS : SEE YOU THERE］ IN SEOUL (인터파크 티켓)]]></title>
@@ -111,13 +118,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51871&amp;groupno=51871&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 02 Jul 2024 02:27:11 GMT</pubDate>
             <content:encoded><![CDATA[24.07.08(월)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제18회 DIMF 폐막작 〈싱잉 인 더 레인〉 - 대구 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51870&amp;groupno=51870&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=51870&amp;groupno=51870&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 02 Jul 2024 01:55:02 GMT</pubDate>
-            <content:encoded><![CDATA[24.07.02(화)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 시나 쓰는 앨리스 소극장 콘서트 ［핑］ (인터파크 티켓)]]></title>
@@ -744,9 +744,9 @@
         <item>
             <title><![CDATA[후원
 											여름이었다 특집 <무인도 탈출기> 2020초연ver 녹화 중계 (네이버 공연)]]></title>
-            <link>https://tv.naver.com/l/156411</link>
-            <guid>https://tv.naver.com/l/156411</guid>
-            <pubDate>Wed, 03 Jul 2024 05:05:24 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
+            <pubDate>Wed, 03 Jul 2024 06:12:05 GMT</pubDate>
             <content:encoded><![CDATA[07월 12일(금) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240701_7/N1Ziz_17198259725737sk65_JPEG/1719825972552.jpg" length="0" type="image/jpg"/>
         </item>
@@ -762,9 +762,9 @@
         <item>
             <title><![CDATA[후원
 											여름이었다 특집 <무인도 탈출기> 2020초연ver 녹화 중계 (네이버 공연)]]></title>
-            <link>https://tv.naver.com/l/156412</link>
-            <guid>https://tv.naver.com/l/156412</guid>
-            <pubDate>Wed, 03 Jul 2024 05:05:24 GMT</pubDate>
+            <link>https://patron.naver.com/ntv/c/intro/sumnavi</link>
+            <guid>https://patron.naver.com/ntv/c/intro/sumnavi</guid>
+            <pubDate>Wed, 03 Jul 2024 06:12:05 GMT</pubDate>
             <content:encoded><![CDATA[07월 16일(화) 20:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20240701_219/JuvRU_1719826191260P7mWM_JPEG/1719826191226.jpg" length="0" type="image/jpg"/>
         </item>
