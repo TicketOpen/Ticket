@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-07-04T03:10:09.527Z</updated>
+    <updated>2024-07-04T05:05:28.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유지애 2024 Fanmeeting［DELIGHT：여름비］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9009</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9009"/>
+        <updated>2024-07-04T05:03:25.178Z</updated>
+        <content type="html"><![CDATA[2024.07.09(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 더베인 단독콘서트 〈MONSTER X 0803〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9008</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9008"/>
+        <updated>2024-07-04T05:03:25.178Z</updated>
+        <content type="html"><![CDATA[2024.07.09(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌7 OUR SUMMER［‘여유와 설빈’ 단독 콘서트］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9007</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8997"/>
         <updated>2024-07-04T03:08:08.884Z</updated>
         <content type="html"><![CDATA[2024.07.10(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌7［벤치위레오 단독 콘서트 ‘푸른 늑대의 시간’］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8996</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8996"/>
-        <updated>2024-07-04T03:08:08.884Z</updated>
-        <content type="html"><![CDATA[2024.07.10(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D82 meet up live 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8994</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8994"/>
-        <updated>2024-07-04T03:08:08.884Z</updated>
-        <content type="html"><![CDATA[2024.07.09(화) 20:00]]></content>
     </entry>
 </feed>
