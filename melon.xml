@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-07-04T05:05:28.983Z</updated>
+    <updated>2024-07-04T08:12:10.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울시발레단 더블 빌 〈한스 판 마넨x차진엽〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9012</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9012"/>
+        <updated>2024-07-04T08:10:00.474Z</updated>
+        <content type="html"><![CDATA[2024.07.09(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울시발레단 창단 공연 〈한여름 밤의 꿈〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9011</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9011"/>
+        <updated>2024-07-04T08:10:00.474Z</updated>
+        <content type="html"><![CDATA[2024.07.09(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈4월은 너의 거짓말〉 마지막 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9010</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9010"/>
+        <updated>2024-07-04T08:10:00.477Z</updated>
+        <content type="html"><![CDATA[2024.07.09(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유지애 2024 Fanmeeting［DELIGHT：여름비］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9009</id>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9002"/>
         <updated>2024-07-04T03:08:08.881Z</updated>
         <content type="html"><![CDATA[2024.07.04(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 포세이돈 워터 뮤직 페스티벌 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9000</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9000"/>
-        <updated>2024-07-04T03:08:08.881Z</updated>
-        <content type="html"><![CDATA[2024.07.04(목) 17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VANNER（배너）공식 팬클럽 〈VVS〉 2기 추가모집 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8999</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8999"/>
-        <updated>2024-07-04T03:08:08.882Z</updated>
-        <content type="html"><![CDATA[2024.07.08(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mangrove 전국투어 콘서트 ‘ESCAPE TO NATURE’ 피날레 in 홍대 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=8997</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=8997"/>
-        <updated>2024-07-04T03:08:08.884Z</updated>
-        <content type="html"><![CDATA[2024.07.10(수) 18:00]]></content>
     </entry>
 </feed>
