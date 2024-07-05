@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jul 2024 05:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 06:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009597_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[헬로카봇 뮤지컬 시즌8 〈미래연구소를 지켜라!〉 - 대구]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51865</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51865</guid>
-            <pubDate>Fri, 05 Jul 2024 05:06:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.05
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009666_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈빨래〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51877</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51877</guid>
@@ -62,6 +53,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009272_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[헬로카봇 뮤지컬 시즌8 〈미래연구소를 지켜라!〉 - 대구]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51865</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51865</guid>
+            <pubDate>Fri, 05 Jul 2024 05:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.05
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009666_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[가족음악극 〈수상한 외갓집〉 - 남해]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51895</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51895</guid>
@@ -71,15 +71,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009586_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[헬로카봇 뮤지컬 시즌8 〈미래연구소를 지켜라!〉 - 부산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51866</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51866</guid>
-            <pubDate>Fri, 05 Jul 2024 05:06:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.05
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009576_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈카르밀라〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51854</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51854</guid>
@@ -87,6 +78,15 @@
             <content:encoded><![CDATA[2024.07.05
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006970_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[헬로카봇 뮤지컬 시즌8 〈미래연구소를 지켜라!〉 - 부산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51866</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51866</guid>
+            <pubDate>Fri, 05 Jul 2024 05:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.05
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009576_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[소란 여름 콘서트 'Squeeze!']]></title>
