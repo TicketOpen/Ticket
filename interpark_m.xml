@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 06:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 07:02:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,6 +71,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009752_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[2024 최현우 Answer - 광주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51942</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51942</guid>
+            <pubDate>Mon, 08 Jul 2024 07:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009590_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[유다빈밴드 단독 콘서트 'FIND OUT!']]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51861</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51861</guid>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2024.07.08
                                     <span>19:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009505_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[MINISERIES]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51875</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51875</guid>
-            <pubDate>Fri, 05 Jul 2024 23:02:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.08
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009618_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
