@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-11T06:12:07.645Z</updated>
+    <updated>2024-07-11T08:11:33.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(남양주) 2024가족뮤지컬 프린세스 공주뮤지컬쇼]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59858</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59858"/>
+        <updated>2024-07-11T08:11:26.515Z</updated>
+        <content type="html"><![CDATA[2024.07.15(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024무용여행舞游韩国 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59857</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59857"/>
+        <updated>2024-07-11T08:11:26.517Z</updated>
+        <content type="html"><![CDATA[2024.07.15(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024무용여행舞游韩国 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59856</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59856"/>
+        <updated>2024-07-11T08:11:26.523Z</updated>
+        <content type="html"><![CDATA[2024.07.15(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 특선 가족뮤지컬 <백설공주> - 원주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59855</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59844"/>
         <updated>2024-07-10T05:05:08.086Z</updated>
         <content type="html"><![CDATA[2024.07.16(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라움 하이볼&와인 페스타 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59843</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59843"/>
-        <updated>2024-07-10T03:10:00.177Z</updated>
-        <content type="html"><![CDATA[2024.07.10(수) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​연극 <러브레터> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59842</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59842"/>
-        <updated>2024-07-10T05:05:08.086Z</updated>
-        <content type="html"><![CDATA[2024.07.12(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​연극 <러브레터> - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59841</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59841"/>
-        <updated>2024-07-10T05:05:08.086Z</updated>
-        <content type="html"><![CDATA[2024.07.12(금) 05:00]]></content>
     </entry>
 </feed>
