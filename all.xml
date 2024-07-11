@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jul 2024 05:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 06:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -514,6 +514,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/28/202406/14/sdf3dyzcux9y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2024 특선 가족뮤지컬 <백설공주> - 원주​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59855</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59855</guid>
+            <pubDate>Thu, 11 Jul 2024 06:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.07.12(금) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Someday Festival 2024 공식 티켓 오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59854</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59854</guid>
@@ -612,11 +619,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.07.12(금) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  ​쏠티와함께 3​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59840</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59840</guid>
-            <pubDate>Wed, 10 Jul 2024 01:58:06 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.07.12(금) 01:00]]></content:encoded>
+            <title><![CDATA[2024 특선 가족뮤지컬 <백설공주> - 원주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59855</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59855</guid>
+            <pubDate>Thu, 11 Jul 2024 06:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.12(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Someday Festival 2024 공식 티켓 오픈 안내 (티켓링크 모바일)]]></title>
@@ -715,13 +722,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59841</guid>
             <pubDate>Wed, 10 Jul 2024 05:05:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.12(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  ​쏠티와함께 3​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59840</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59840</guid>
-            <pubDate>Wed, 10 Jul 2024 01:58:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.12(금) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
