@@ -4,26 +4,17 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jul 2024 12:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 13:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[사랑에 빠지기까지 디마이너스백]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51968</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51968</guid>
+            <title><![CDATA[4D공포연극 〈스위치〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51959</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51959</guid>
             <pubDate>Fri, 12 Jul 2024 17:02:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.15
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23015628_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 라이브 가족뮤지컬 〈아기돼지삼형제〉 - 울산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51961</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51961</guid>
-            <pubDate>Fri, 12 Jul 2024 17:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.15
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010111_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001006_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 가족매직쇼 〈류엘의 매직콘서트〉 - 광주]]></title>
@@ -35,13 +26,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010115_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[4D공포연극 〈스위치〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51959</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51959</guid>
+            <title><![CDATA[2024 라이브 가족뮤지컬 〈아기돼지삼형제〉 - 울산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51961</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51961</guid>
             <pubDate>Fri, 12 Jul 2024 17:02:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.15
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001006_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010111_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑에 빠지기까지 디마이너스백]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51968</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51968</guid>
+            <pubDate>Fri, 12 Jul 2024 17:02:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.15
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23015628_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈드래곤하이 스페셜〉]]></title>
