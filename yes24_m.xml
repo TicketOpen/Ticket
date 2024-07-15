@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-15T00:35:10.626Z</updated>
+    <updated>2024-07-15T02:02:35.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14615&amp;order=1"/>
         <updated>2024-07-15T00:34:34.610Z</updated>
         <content type="html"><![CDATA[2024-07-23(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오페라 <어게인 2024 투란도트> 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14614&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14614&amp;order=1"/>
+        <updated>2024-07-15T02:02:09.645Z</updated>
+        <content type="html"><![CDATA[2024-08-16(금) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[메타코미디 “Stand-up Assemble Comedy 24′TOUR” 공연 취소 안내]]></title>
@@ -44,7 +51,7 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14609&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14609&amp;order=1"/>
         <updated>2024-07-12T09:03:40.967Z</updated>
-        <content type="html"><![CDATA[2024-07-15(월) 18:00]]></content>
+        <content type="html"><![CDATA[2024-07-16(화) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sync Next 24 김신록×손현선 〈없는 시간〉 발코니석 추가 오픈 안내]]></title>
@@ -66,12 +73,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14606&amp;order=1"/>
         <updated>2024-07-12T02:28:19.135Z</updated>
         <content type="html"><![CDATA[2024-07-16(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 28회 부산바다축제 선셋요가 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14605&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14605&amp;order=1"/>
-        <updated>2024-07-12T01:56:51.413Z</updated>
-        <content type="html"><![CDATA[2024-07-15(월) 14:00]]></content>
     </entry>
 </feed>
