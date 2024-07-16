@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 07:06:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 08:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,6 +308,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010239_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[[안양] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14624</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14624</guid>
+            <pubDate>Tue, 16 Jul 2024 08:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.17(수) 09:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14621</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14621</guid>
@@ -440,11 +447,11 @@
             <content:encoded><![CDATA[2024.07.17(수) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[서울 1차 오픈] 뮤지컬 <친구의 전설> 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14601</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14601</guid>
-            <pubDate>Fri, 12 Jul 2024 02:28:07 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.18(목) 11:00]]></content:encoded>
+            <title><![CDATA[[안양] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14624&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14624&amp;order=1</guid>
+            <pubDate>Tue, 16 Jul 2024 08:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024-07-17(수) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[n.SSign(엔싸인) 1주년 팬미팅 Happy 1st Anniversary Fan meeting in Seoul ‘1＆SSign’ 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -507,13 +514,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14612&amp;order=1</guid>
             <pubDate>Fri, 12 Jul 2024 11:04:24 GMT</pubDate>
             <content:encoded><![CDATA[2024-07-15(월) 18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[부산] 2024 트롯걸즈재팬 1st 콘서트 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14611&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14611&amp;order=1</guid>
-            <pubDate>Fri, 12 Jul 2024 09:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024-07-16(화) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 캐치! 티니핑 〈두근두근 싱어롱 콘서트!〉 - 부산앵콜 티켓오픈 안내 (위메프 공연티켓)]]></title>
