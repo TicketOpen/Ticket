@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 11:03:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 12:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,6 +44,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010138_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈프랑켄슈타인〉 10주년 기념공연]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51964</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51964</guid>
+            <pubDate>Mon, 15 Jul 2024 16:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.16
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005971_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[매직드로잉 가족극 〈두들팝〉 - 용인]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51985</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51985</guid>
@@ -69,15 +78,6 @@
             <content:encoded><![CDATA[2024.07.16
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010130_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈프랑켄슈타인〉 10주년 기념공연]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51964</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51964</guid>
-            <pubDate>Mon, 15 Jul 2024 16:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.16
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005971_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[넌버벌 코미디 〈옹알스〉]]></title>
