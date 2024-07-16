@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-07-16T06:11:31.641Z</updated>
+    <updated>2024-07-16T07:06:31.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 김해​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59888</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59888"/>
+        <updated>2024-07-16T07:06:19.892Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.17(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] 386회 정기연주회 ‘Leggiero’​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59887</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59887"/>
+        <updated>2024-07-16T07:06:19.893Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.17(수) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JORJA SMITH LIVE IN SEOUL - FALLING OR FLYING TOUR​​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59886</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59886"/>
+        <updated>2024-07-16T07:06:19.895Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.18(목) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <미오 프라텔로> 2nd team 1차​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59885</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59873"/>
         <updated>2024-07-15T03:11:07.655Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.17(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 김창옥 토크콘서트 시즌4 - 안양 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59872</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59872"/>
-        <updated>2024-07-15T03:11:07.673Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.17(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​GENSHIN CONCERT TOUR​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59871</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59871"/>
-        <updated>2024-07-15T02:02:23.613Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.16(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마술사 최형배의 오리지널 <원더매직의 과학마술콘서트> - 고령​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59870</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59870"/>
-        <updated>2024-07-15T00:34:56.342Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.18(목) 01:00]]></content>
     </entry>
 </feed>
