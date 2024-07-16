@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 05:06:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 06:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,15 +53,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010176_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈프랑켄슈타인〉 10주년 기념공연]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51964</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51964</guid>
-            <pubDate>Mon, 15 Jul 2024 16:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.16
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005971_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[가족뮤지컬 〈설민석의 한국사 대모험 - 영웅의 시간〉 - 울산]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51972</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51972</guid>
@@ -80,13 +71,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010130_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[베이빌론 콘서트 〈EGO 90’S CLASSIC〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52004</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52004</guid>
+            <title><![CDATA[뮤지컬 〈프랑켄슈타인〉 10주년 기념공연]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51964</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51964</guid>
             <pubDate>Mon, 15 Jul 2024 16:08:54 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.16
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010239_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005971_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[넌버벌 코미디 〈옹알스〉]]></title>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2024.07.16
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24004338_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[베이빌론 콘서트 〈EGO 90’S CLASSIC〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52004</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52004</guid>
+            <pubDate>Mon, 15 Jul 2024 16:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.16
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010239_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-16T05:06:58.100Z</updated>
+    <updated>2024-07-16T06:11:31.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <미오 프라텔로> 2nd team 1차​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59885</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59885"/>
+        <updated>2024-07-16T06:11:25.153Z</updated>
+        <content type="html"><![CDATA[2024.07.23(화) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 오누이 “우리들의 학창시절” <김용임, 진성> - 여수​​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59884</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59870"/>
         <updated>2024-07-15T00:35:04.057Z</updated>
         <content type="html"><![CDATA[2024.07.18(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 특선 가족뮤지컬 <인어공주> - 김포​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59869</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59869"/>
-        <updated>2024-07-13T04:09:57.661Z</updated>
-        <content type="html"><![CDATA[2024.07.16(화) 00:00]]></content>
     </entry>
 </feed>
