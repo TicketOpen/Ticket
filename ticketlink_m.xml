@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-17T05:09:24.966Z</updated>
+    <updated>2024-07-17T06:11:12.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 마술극 <리온의 신비한 과자상점> - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59895</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59895"/>
+        <updated>2024-07-17T06:11:05.441Z</updated>
+        <content type="html"><![CDATA[2024.07.18(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 창작오페라 '맥의 신화'​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59894</id>
@@ -25,6 +32,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59892"/>
         <updated>2024-07-17T05:09:18.971Z</updated>
         <content type="html"><![CDATA[2024.07.23(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 부산 클럽디 오아시스 풀파티 (엘시티 워터파크) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59891</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59891"/>
+        <updated>2024-07-17T06:11:05.447Z</updated>
+        <content type="html"><![CDATA[2024.07.22(월) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <알사탕> - 군포​​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59881"/>
         <updated>2024-07-15T09:10:58.735Z</updated>
         <content type="html"><![CDATA[2024.07.19(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립창극단 기획공연 '판소리 감상회'​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59880</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59880"/>
-        <updated>2024-07-15T09:10:58.735Z</updated>
-        <content type="html"><![CDATA[2024.07.16(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 이승철 신곡발매기념 콘서트 “Rock'n All” - 김해​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59879</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59879"/>
-        <updated>2024-07-15T05:08:43.653Z</updated>
-        <content type="html"><![CDATA[2024.07.18(목) 05:00]]></content>
     </entry>
 </feed>
