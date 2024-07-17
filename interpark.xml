@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-07-17T01:59:58.366Z</updated>
+    <updated>2024-07-17T02:32:01.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=50978&amp;groupno=50978&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-07-12T09:03:11.868Z</updated>
         <content type="html"><![CDATA[24.07.19(금)&nbsp;16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［BABYMONSTER PRESENTS : SEE YOU THERE］ IN SEOUL]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52048&amp;groupno=52048&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52048&amp;groupno=52048&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-07-17T02:29:59.852Z</updated>
+        <content type="html"><![CDATA[24.07.19(금)&nbsp;20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 세종보헤미안뮤직페스티벌]]></title>
@@ -137,12 +144,5 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52040&amp;groupno=52040&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-07-16T01:58:26.898Z</updated>
         <content type="html"><![CDATA[24.07.17(수)&nbsp;16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 불후의명곡 정동하X알리 - 강릉]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52031&amp;groupno=52031&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52031&amp;groupno=52031&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-07-15T07:07:37.308Z</updated>
-        <content type="html"><![CDATA[24.07.17(수)&nbsp;10:00]]></content>
     </entry>
 </feed>
