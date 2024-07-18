@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-07-18T08:11:19.627Z</updated>
+    <updated>2024-07-18T09:09:38.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2024 〈어린이마술쇼〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14635</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14635"/>
+        <updated>2024-07-18T09:09:02.165Z</updated>
+        <content type="html"><![CDATA[2024.07.22(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14634</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14615"/>
         <updated>2024-07-15T00:34:25.047Z</updated>
         <content type="html"><![CDATA[2024.07.23(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오페라 <어게인 2024 투란도트> 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14614</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14614"/>
-        <updated>2024-07-15T02:02:02.419Z</updated>
-        <content type="html"><![CDATA[2024.08.16(금) 10:00]]></content>
     </entry>
 </feed>
