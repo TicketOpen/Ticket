@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-18T01:58:19.532Z</updated>
+    <updated>2024-07-18T02:28:58.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59901"/>
         <updated>2024-07-18T01:58:14.039Z</updated>
         <content type="html"><![CDATA[2024.07.19(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[히사이시 조 영화음악 콘서트 2024_부천 앙코르 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59899</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59899"/>
+        <updated>2024-07-18T02:28:51.466Z</updated>
+        <content type="html"><![CDATA[2024.07.23(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 시크릿쥬쥬 별의 보석 <소원을 말해봐!> - 성남 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59885"/>
         <updated>2024-07-16T06:11:25.153Z</updated>
         <content type="html"><![CDATA[2024.07.23(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 오누이 “우리들의 학창시절” <김용임, 진성> - 여수​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59884</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59884"/>
-        <updated>2024-07-16T05:06:52.900Z</updated>
-        <content type="html"><![CDATA[2024.07.24(수) 05:00]]></content>
     </entry>
 </feed>
