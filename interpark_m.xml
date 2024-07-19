@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 07:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 08:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006928_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[대구 - 2024 THE HYPER DAY (더하이퍼데이)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52043</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52043</guid>
-            <pubDate>Fri, 19 Jul 2024 06:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.19
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010346_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[[수원] 뮤지컬 캐치!티니핑 〈두근두근 싱어롱 콘서트〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52042</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52042</guid>
@@ -53,13 +44,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010408_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[피오와 함께 새롭게 돌아온 연극 〈너츠〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51998</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51998</guid>
+            <title><![CDATA[대구 - 2024 THE HYPER DAY (더하이퍼데이)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52043</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52043</guid>
             <pubDate>Fri, 19 Jul 2024 06:10:01 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.19
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010091_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010346_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 창작가무극 〈금란방〉]]></title>
@@ -69,6 +60,15 @@
             <content:encoded><![CDATA[2024.07.19
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009013_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[피오와 함께 새롭게 돌아온 연극 〈너츠〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51998</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=51998</guid>
+            <pubDate>Fri, 19 Jul 2024 06:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010091_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈엔젤스 인 아메리카 - 파트원:밀레니엄이 다가온다〉]]></title>
