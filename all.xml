@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 22:04:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 02:30:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=50978&amp;groupno=50978&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 12 Jul 2024 09:03:11 GMT</pubDate>
             <content:encoded><![CDATA[24.07.19(금)&nbsp;16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤직드라마 〈불편한 편의점〉 - 올웨이즈씨어터 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52083&amp;groupno=52083&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52083&amp;groupno=52083&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 19 Jul 2024 02:28:24 GMT</pubDate>
+            <content:encoded><![CDATA[24.07.26(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 라이브가족뮤지컬 〈프린세스공주〉 - 광주 (인터파크 티켓)]]></title>
@@ -130,13 +137,6 @@
             <title><![CDATA[2024 가족뮤지컬 로보카폴리〈잡아라! 황금트로피!〉-광주 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52067&amp;groupno=52067&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52067&amp;groupno=52067&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 17 Jul 2024 09:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[24.07.23(화)&nbsp;09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈고양이 해결사 깜냥 - 편의점을 환하게 밝혀라〉 - 대.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52066&amp;groupno=52066&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52066&amp;groupno=52066&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 17 Jul 2024 09:09:35 GMT</pubDate>
             <content:encoded><![CDATA[24.07.23(화)&nbsp;09:00]]></content:encoded>
         </item>
@@ -521,6 +521,27 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/51/202406/28/hgsmlplgnxdq.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2024 부산 클럽디 오아시스 풀파티 (엘시티 워터파크) 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59910</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59910</guid>
+            <pubDate>Fri, 19 Jul 2024 02:30:05 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.07.22(월) 07:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  던파모바일 아케이드 2024​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59909</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59909</guid>
+            <pubDate>Fri, 19 Jul 2024 02:30:05 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.07.25(목) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​공룡애니멀쇼 - 세종시​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59908</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59908</guid>
+            <pubDate>Fri, 19 Jul 2024 02:30:05 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.07.24(수) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[공룡애니멀쇼 - 사천​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59907</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59907</guid>
@@ -528,18 +549,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.07.24(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] <더매직스타> TOP7 전국투어 매직쇼​ - 서울 추가 회차 및 추가 좌석​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <title><![CDATA[[단독판매] 더 매직스타 전국투어 콘서트 - 서울 추가 회차 및 추가 좌석​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59906</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59906</guid>
             <pubDate>Thu, 18 Jul 2024 10:09:19 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2024.07.19(금) 06:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[공룡애니멀쇼 - 인천 부평​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59905</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59905</guid>
-            <pubDate>Thu, 18 Jul 2024 09:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.07.24(수) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​[단독판매]  최백호 단독콘서트 <낭만에 대하여> - 제주​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -612,18 +626,25 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.07.18(목) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 창작오페라 '맥의 신화'​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59894</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59894</guid>
-            <pubDate>Wed, 17 Jul 2024 05:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.07.22(월) 00:00]]></content:encoded>
+            <title><![CDATA[2024 부산 클럽디 오아시스 풀파티 (엘시티 워터파크) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59910</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59910</guid>
+            <pubDate>Fri, 19 Jul 2024 02:30:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.22(월) 07:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 <설민석의 한국사 대모험 - 영웅의 시간> - 창원 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59893</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59893</guid>
-            <pubDate>Wed, 17 Jul 2024 05:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.07.23(화) 02:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  던파모바일 아케이드 2024​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59909</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59909</guid>
+            <pubDate>Fri, 19 Jul 2024 02:30:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.25(목) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​공룡애니멀쇼 - 세종시​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59908</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59908</guid>
+            <pubDate>Fri, 19 Jul 2024 02:30:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.24(수) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공룡애니멀쇼 - 사천​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -633,18 +654,11 @@
             <content:encoded><![CDATA[2024.07.24(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] <더매직스타> TOP7 전국투어 매직쇼​ - 서울 추가 회차 및 추가 좌석​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <title><![CDATA[[단독판매] 더 매직스타 전국투어 콘서트 - 서울 추가 회차 및 추가 좌석​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/59906</link>
             <guid>http://m.ticketlink.co.kr/help/notice/59906</guid>
             <pubDate>Thu, 18 Jul 2024 10:09:26 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.19(금) 06:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[공룡애니멀쇼 - 인천 부평​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59905</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59905</guid>
-            <pubDate>Thu, 18 Jul 2024 09:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.24(수) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​[단독판매]  최백호 단독콘서트 <낭만에 대하여> - 제주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -715,20 +729,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59895</guid>
             <pubDate>Wed, 17 Jul 2024 06:11:05 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.18(목) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 창작오페라 '맥의 신화'​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59894</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59894</guid>
-            <pubDate>Wed, 17 Jul 2024 05:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.22(월) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <설민석의 한국사 대모험 - 영웅의 시간> - 창원 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59893</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59893</guid>
-            <pubDate>Wed, 17 Jul 2024 05:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.23(화) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
