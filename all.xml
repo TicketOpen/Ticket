@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Jul 2024 23:04:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 00:34:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,6 +224,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024071712111319.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2024 아트 포레스트 페스티벌 ART FOR;REST FESTIVAL 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14642</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14642</guid>
+            <pubDate>Mon, 22 Jul 2024 00:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.23(화) 10:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[창원(진해)] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14641</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14641</guid>
@@ -357,11 +364,11 @@
             <content:encoded><![CDATA[2024.07.23(화) 18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14622</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14622</guid>
-            <pubDate>Tue, 16 Jul 2024 09:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.24(수) 20:00]]></content:encoded>
+            <title><![CDATA[2024 아트 포레스트 페스티벌 ART FOR;REST FESTIVAL 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14642&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14642&amp;order=1</guid>
+            <pubDate>Mon, 22 Jul 2024 00:34:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024-07-23(화) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[창원(진해)] 2024 가족마술콘서트 〈매직오브아트시즌2〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -425,13 +432,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14633&amp;order=1</guid>
             <pubDate>Thu, 18 Jul 2024 08:10:50 GMT</pubDate>
             <content:encoded><![CDATA[2024-07-22(월) 16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[noa 1st Live in Korea 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14632&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14632&amp;order=1</guid>
-            <pubDate>Thu, 18 Jul 2024 07:04:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024-07-24(수) 16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[CHERRY WORLD [노란 머리 체리] 티켓오픈 안내 (위메프 공연티켓)]]></title>
