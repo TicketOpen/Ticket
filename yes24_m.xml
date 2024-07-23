@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-07-23T00:33:27.503Z</updated>
+    <updated>2024-07-23T01:58:45.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[BUSAN SOUND VACATION｜부산 사운드 베케이션 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14650&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14650&amp;order=1"/>
+        <updated>2024-07-23T01:58:08.974Z</updated>
+        <content type="html"><![CDATA[2024-07-25(목) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[창원(진해)] 2024 앤서니브라운 가족뮤지컬 〈우리아빠가최고야〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14649&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14649&amp;order=1"/>
+        <updated>2024-07-23T01:58:08.979Z</updated>
+        <content type="html"><![CDATA[2024-07-24(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 라이브가족뮤지컬 [프린세스공주] - 인천 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14648&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14641&amp;order=1"/>
         <updated>2024-07-19T09:08:56.249Z</updated>
         <content type="html"><![CDATA[2024-07-22(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉 Chapter2 3차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14640&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14640&amp;order=1"/>
-        <updated>2024-07-19T08:10:19.637Z</updated>
-        <content type="html"><![CDATA[2024-07-26(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈에밀〉 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14639&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14639&amp;order=1"/>
-        <updated>2024-07-19T06:10:18.377Z</updated>
-        <content type="html"><![CDATA[2024-07-26(금) 10:00]]></content>
     </entry>
 </feed>
