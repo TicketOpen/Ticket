@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-07-23T01:58:45.356Z</updated>
+    <updated>2024-07-23T02:32:19.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 LEE SEONG JONG ASIA TOUR 〈다시，시작〉 IN SEOUL 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9088</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9088"/>
+        <updated>2024-07-23T02:30:20.247Z</updated>
+        <content type="html"><![CDATA[2024.07.30(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 울산서머페스티벌－쇼！음악중심 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9086</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9075"/>
         <updated>2024-07-23T00:31:30.646Z</updated>
         <content type="html"><![CDATA[2024.07.26(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9001 단독 콘서트 〈Digital Hello〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9074</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9074"/>
-        <updated>2024-07-23T00:31:30.648Z</updated>
-        <content type="html"><![CDATA[2024.07.22(월) 20:00]]></content>
     </entry>
 </feed>
