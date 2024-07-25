@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-07-25T09:10:22.443Z</updated>
+    <updated>2024-07-25T10:09:52.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[칸예 웨스트 〈Ye x Ty Dolla Sign Vultures Listening Experience〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9105</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9105"/>
+        <updated>2024-07-25T10:07:50.656Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[필름콘서트－태극기 휘날리며 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9104</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9096"/>
         <updated>2024-07-25T07:03:22.055Z</updated>
         <content type="html"><![CDATA[2024.07.31(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숨비 단독 콘서트 ‘이미 뱉어버린 말들엔 지우개가 없었어’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9094</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9094"/>
-        <updated>2024-07-25T07:03:22.056Z</updated>
-        <content type="html"><![CDATA[2024.07.30(화) 18:00]]></content>
     </entry>
 </feed>
