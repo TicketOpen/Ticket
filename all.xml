@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 10:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 11:07:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,31 +204,13 @@
             <content:encoded><![CDATA[24.08.01(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 라이브가족뮤지컬 〈호두까기인형〉 - 안양 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52119</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52119</guid>
+            <title><![CDATA[2024 라이브가족뮤지컬 〈호두까기인형〉 - 창원(진해) (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52098</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52098</guid>
             <pubDate>Fri, 26 Jul 2024 01:57:10 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.26
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010640_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 라이브가족뮤지컬 〈미녀와야수〉 - 인천 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52118</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52118</guid>
-            <pubDate>Fri, 26 Jul 2024 01:57:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.26
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010668_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 가족버블콘서트 〈일루젼버블쇼 시즌2〉 - 대전 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52100</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52100</guid>
-            <pubDate>Fri, 26 Jul 2024 01:57:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.26
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010821_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010831_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 라이브가족뮤지컬 〈호두까기인형〉 - 광주 (인터파크 티켓 모바일)]]></title>
@@ -240,13 +222,31 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010658_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 라이브가족뮤지컬 〈호두까기인형〉 - 창원(진해) (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52098</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52098</guid>
+            <title><![CDATA[2024 가족버블콘서트 〈일루젼버블쇼 시즌2〉 - 대전 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52100</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52100</guid>
             <pubDate>Fri, 26 Jul 2024 01:57:10 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.26
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010831_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010821_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 라이브가족뮤지컬 〈미녀와야수〉 - 인천 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52118</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52118</guid>
+            <pubDate>Fri, 26 Jul 2024 01:57:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.26
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010668_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 라이브가족뮤지컬 〈호두까기인형〉 - 안양 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52119</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52119</guid>
+            <pubDate>Fri, 26 Jul 2024 01:57:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.26
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010640_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[［얼리버드］ 유코 히구치 특별전 : SECRET FOREST (인터파크 티켓 모바일)]]></title>
