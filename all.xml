@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 07:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 08:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,6 +224,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007224_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14671</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14671</guid>
+            <pubDate>Fri, 26 Jul 2024 08:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.02(금) 09:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[대구] 2024 라이브가족뮤지컬〈라푼젤〉 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14670</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14670</guid>
@@ -357,11 +364,11 @@
             <content:encoded><![CDATA[2024.07.26(금) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[다이시 댄스 in 부산 사운드 베케이션｜DASHI DANCE in 2024 BUSAN SOUND VACATION 티켓 오픈 안.. (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14650</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14650</guid>
-            <pubDate>Tue, 23 Jul 2024 01:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.26(금) 13:00]]></content:encoded>
+            <title><![CDATA[제1251회 서초금요음악회 [Summer Night] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14671&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14671&amp;order=1</guid>
+            <pubDate>Fri, 26 Jul 2024 08:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024-08-02(금) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대구] 2024 라이브가족뮤지컬〈라푼젤〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -425,13 +432,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14662&amp;order=1</guid>
             <pubDate>Thu, 25 Jul 2024 05:09:27 GMT</pubDate>
             <content:encoded><![CDATA[2024-07-30(화) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[광주] 2024 라이브가족뮤지컬〈프린세스공주〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14661&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14661&amp;order=1</guid>
-            <pubDate>Wed, 24 Jul 2024 08:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[2024-07-25(목) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[CHERRY WORLD [노란 머리 체리] 티켓오픈 안내 (위메프 공연티켓)]]></title>
