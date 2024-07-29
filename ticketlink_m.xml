@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-29T02:35:45.085Z</updated>
+    <updated>2024-07-29T03:10:25.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​FINAL FANTASY XIV ORCHESTRA CONCERT 2024​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59961</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59961"/>
+        <updated>2024-07-29T03:10:19.523Z</updated>
+        <content type="html"><![CDATA[2024.08.05(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​더매직스타 전국투어 콘서트 - 부산 추가 회차 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59960</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/59945</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59945"/>
         <updated>2024-07-25T03:10:05.802Z</updated>
-        <content type="html"><![CDATA[2024.08.01(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리tv 러브콘서트 2024 타임캡슐 - 울산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59944</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59944"/>
-        <updated>2024-07-25T03:10:05.804Z</updated>
         <content type="html"><![CDATA[2024.08.01(목) 01:00]]></content>
     </entry>
 </feed>
