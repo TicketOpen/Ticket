@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-07-29T03:10:25.490Z</updated>
+    <updated>2024-07-29T04:11:23.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 <어린이 캣> - 원주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59967</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59967"/>
+        <updated>2024-07-29T04:11:07.658Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.01(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스마스캐롤 - 용인​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59964</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59964"/>
+        <updated>2024-07-29T04:11:07.658Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.01(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​작곡가 장은호 성악작품 <밤의 노래> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59963</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59963"/>
+        <updated>2024-07-29T04:11:07.658Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.31(수) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​FINAL FANTASY XIV ORCHESTRA CONCERT 2024​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59961</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59948"/>
         <updated>2024-07-25T06:11:54.107Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.29(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <알사탕> - 부천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59947</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59947"/>
-        <updated>2024-07-25T03:09:59.036Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.30(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리tv 러브콘서트 2024 타임캡슐 - 청주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59946</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59946"/>
-        <updated>2024-07-25T03:09:59.036Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.01(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리tv 러브콘서트 2024 타임캡슐 - 전주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59945</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59945"/>
-        <updated>2024-07-25T03:09:59.039Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.01(목) 01:00]]></content>
     </entry>
 </feed>
