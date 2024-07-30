@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-07-30T02:32:13.904Z</updated>
+    <updated>2024-07-30T03:11:31.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[류수정 단독 콘서트：White Fantasy 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9118</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9118"/>
+        <updated>2024-07-30T03:09:32.907Z</updated>
+        <content type="html"><![CDATA[2024.08.05(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임현정 이진우 신청음콘서트 〈너의 멜로디〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9117</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9107"/>
         <updated>2024-07-30T01:57:27.606Z</updated>
         <content type="html"><![CDATA[2024.07.30(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WONDERLIVET 2024（원더리벳 2024）티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9106</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9106"/>
-        <updated>2024-07-30T01:57:27.608Z</updated>
-        <content type="html"><![CDATA[2024.08.08(목) 12:00]]></content>
     </entry>
 </feed>
