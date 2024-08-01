@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Aug 2024 06:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 07:09:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -521,6 +521,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 뮤지컬 〈영웅〉 15주년 기념공연 - 안동 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/59993</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/59993</guid>
+            <pubDate>Thu, 01 Aug 2024 07:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.05(월) 06:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[연극 <일리아드> 마지막​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/59992</link>
             <guid>http://www.ticketlink.co.kr/help/notice/59992</guid>
@@ -619,11 +626,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.08.02(금) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[베베핀 뮤지컬 <우당탕탕 패밀리> - 남양주​​​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/59978</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/59978</guid>
-            <pubDate>Wed, 31 Jul 2024 01:37:51 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.01(목) 01:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 뮤지컬 〈영웅〉 15주년 기념공연 - 안동 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/59993</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/59993</guid>
+            <pubDate>Thu, 01 Aug 2024 07:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.05(월) 06:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <일리아드> 마지막​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -722,13 +729,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/59979</guid>
             <pubDate>Wed, 31 Jul 2024 03:10:48 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.02(금) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[베베핀 뮤지컬 <우당탕탕 패밀리> - 남양주​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/59978</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/59978</guid>
-            <pubDate>Wed, 31 Jul 2024 01:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.01(목) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
