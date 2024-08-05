@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 02:02:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 02:36:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 울프]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52257</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52257</guid>
+            <pubDate>Mon, 05 Aug 2024 02:35:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.05
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011236_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2024 라이브가족뮤지컬 〈호두까기인형〉 - 울산]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52218</link>
@@ -86,16 +95,7 @@
             <pubDate>Fri, 02 Aug 2024 17:02:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.05
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024072910264488.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 황영웅 팬미팅 Season 3 : 세번째 팬레터]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52187</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52187</guid>
-            <pubDate>Fri, 02 Aug 2024 17:02:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.05
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024072616020021.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011105_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
