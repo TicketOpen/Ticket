@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 23:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 00:32:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9128</guid>
             <pubDate>Mon, 05 Aug 2024 22:02:39 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.05(월) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 오늘도 무사히 〈페퍼톤스x나상현씨밴드x폴로디언스〉 - 부평 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52280&amp;groupno=52280&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52280&amp;groupno=52280&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 06 Aug 2024 00:31:25 GMT</pubDate>
+            <content:encoded><![CDATA[24.08.12(월)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KINO 1st Concert 〈I think I think too much〉 (인터파크 티켓)]]></title>
@@ -183,13 +190,6 @@
             <content:encoded><![CDATA[24.08.12(월)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 베스트셀러 뮤지컬 〈누가내머리에똥쌌어？〉 - 부산 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52261&amp;groupno=52261&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52261&amp;groupno=52261&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 05 Aug 2024 00:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[24.08.09(금)&nbsp;09:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈살리에르〉 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52264&amp;groupno=52264&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52264&amp;groupno=52264&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -282,7 +282,7 @@
             <pubDate>Mon, 05 Aug 2024 22:03:02 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.06
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024071910150743.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011326_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈랭보〉 (인터파크 티켓 모바일)]]></title>
