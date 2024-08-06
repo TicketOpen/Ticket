@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-06T07:05:32.845Z</updated>
+    <updated>2024-08-06T08:11:10.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Xdinary Heroes Concert〈Closed ♭eta: v6.4〉티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14723&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14723&amp;order=1"/>
+        <updated>2024-08-06T08:10:33.238Z</updated>
+        <content type="html"><![CDATA[2024-08-13(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백양문화예술회관 개관기념 기획공연 - 킬라몽키즈 - 부산 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14721&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14713&amp;order=1"/>
         <updated>2024-08-02T10:09:16.850Z</updated>
         <content type="html"><![CDATA[2024-08-06(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 2024 라이브가족뮤지컬 〈호두까기인형〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14712&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14712&amp;order=1"/>
-        <updated>2024-08-02T08:10:32.145Z</updated>
-        <content type="html"><![CDATA[2024-08-05(월) 09:00]]></content>
     </entry>
 </feed>
