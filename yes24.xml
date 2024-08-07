@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-07T00:33:10.419Z</updated>
+    <updated>2024-08-07T02:01:24.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[서울] 뮤지컬 〈친구의 전설〉 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14728</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14728"/>
+        <updated>2024-08-07T02:00:36.795Z</updated>
+        <content type="html"><![CDATA[2024.08.14(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 어린이 뮤지컬 그리스 로마 신화<신들의 왕 제우스> 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14727</id>
@@ -135,12 +142,5 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14709</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14709"/>
         <updated>2024-08-02T04:10:51.328Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울숲재즈페스티벌 2024 공식 티켓 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14708</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14708"/>
-        <updated>2024-08-02T03:10:00.556Z</updated>
-        <content type="html"><![CDATA[2024.08.06(화) 12:00]]></content>
     </entry>
 </feed>
