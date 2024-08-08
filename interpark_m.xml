@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Aug 2024 05:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 06:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,6 +53,15 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024080617272758.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2024 예술경영지원센터 공연예술 유통 선정공연＇쿠로이 저택엔 누가 살고 있을까' - 이천]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52319</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52319</guid>
+            <pubDate>Thu, 08 Aug 2024 06:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011315_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[[ 2024 Theatre 이문세 ] - 고양]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52110</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52110</guid>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2024.08.08
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20240802115811.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2024_서울 앙코르(10월)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52250</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52250</guid>
-            <pubDate>Thu, 08 Aug 2024 01:59:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010971_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
