@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-08T00:32:49.359Z</updated>
+    <updated>2024-08-08T02:00:17.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14735&amp;order=1"/>
         <updated>2024-08-08T00:32:16.604Z</updated>
         <content type="html"><![CDATA[2024-08-14(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASCA Oneman Live ＂VIVID＂ in Korea 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14734&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14734&amp;order=1"/>
+        <updated>2024-08-08T01:59:40.987Z</updated>
+        <content type="html"><![CDATA[2024-08-12(월) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 SUPER JUNIOR-D&E WORLD TOUR：ECLIPSE 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14726&amp;order=1"/>
         <updated>2024-08-06T10:08:29.939Z</updated>
         <content type="html"><![CDATA[2024-08-14(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 뮤즈온 라이브 위크 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14725&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14725&amp;order=1"/>
-        <updated>2024-08-06T09:08:23.140Z</updated>
-        <content type="html"><![CDATA[2024-08-09(금) 14:00]]></content>
     </entry>
 </feed>
