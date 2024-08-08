@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Aug 2024 09:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 10:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[파블로 지글러 마스터클래스​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60041</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60041</guid>
+            <pubDate>Thu, 08 Aug 2024 10:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.13(화) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <알사탕> - 마포 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60040</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60040</guid>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.08.12(월) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 화려한 순간​​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60026</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60026</guid>
-            <pubDate>Wed, 07 Aug 2024 06:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.09(금) 05:00]]></content:encoded>
+            <title><![CDATA[파블로 지글러 마스터클래스​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60041</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60041</guid>
+            <pubDate>Thu, 08 Aug 2024 10:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.13(화) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <알사탕> - 마포 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -784,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60027</guid>
             <pubDate>Wed, 07 Aug 2024 08:10:51 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.12(월) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 화려한 순간​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60026</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60026</guid>
-            <pubDate>Wed, 07 Aug 2024 06:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.09(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[창작산실 음악 <민요 첼로(MINYO CELLO)> 공연실황 녹화중계 (네이버 공연)]]></title>
