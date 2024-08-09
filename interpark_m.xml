@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Aug 2024 00:33:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 02:01:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,6 +71,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/L0/L0000098_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[백형훈 팬서트 〈Universe〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52286</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52286</guid>
+            <pubDate>Fri, 09 Aug 2024 02:00:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.09
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011561_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[연극 〈델타 보이즈〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52307</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52307</guid>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2024.08.09
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001159_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[국립현대무용단 〈내가 물에서 본 것〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52301</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52301</guid>
-            <pubDate>Thu, 08 Aug 2024 15:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.09
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
