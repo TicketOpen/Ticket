@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Aug 2024 22:07:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 00:33:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,20 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9157</guid>
             <pubDate>Thu, 08 Aug 2024 22:06:45 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.09(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제7회 1번출구 연극제 〈세상친구〉 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52328&amp;groupno=52328&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52328&amp;groupno=52328&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 09 Aug 2024 00:32:22 GMT</pubDate>
+            <content:encoded><![CDATA[24.08.12(월)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[하(夏)! 수상한 이야기 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52326&amp;groupno=52326&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52326&amp;groupno=52326&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 09 Aug 2024 00:32:22 GMT</pubDate>
+            <content:encoded><![CDATA[24.08.13(화)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 오피셜히게단디즘(OFFICIAL HIGE DANDISM) 내한공연 (인터파크 티켓)]]></title>
@@ -190,20 +204,6 @@
             <content:encoded><![CDATA[24.08.13(화)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[4D공포연극 〈스위치〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52309&amp;groupno=52309&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52309&amp;groupno=52309&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 08 Aug 2024 00:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[24.08.16(금)&nbsp;09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[홍진호 〈첼로의 숲〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52308&amp;groupno=52308&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52308&amp;groupno=52308&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 08 Aug 2024 00:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[24.08.14(수)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 〈빵빵 이야기 속으로〉 - 안산 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52279</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52279</guid>
@@ -220,15 +220,6 @@
             <content:encoded><![CDATA[2024.08.09
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024080217483338.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈조선 이야기꾼 전기수〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52325</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52325</guid>
-            <pubDate>Thu, 08 Aug 2024 15:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.09
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007639_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[THE GREATEST : 불후의명곡 정동하X알리 - 안산 (인터파크 티켓 모바일)]]></title>
@@ -249,6 +240,15 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024080115253442.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈조선 이야기꾼 전기수〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52325</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52325</guid>
+            <pubDate>Thu, 08 Aug 2024 15:07:55 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.09
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007639_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈킹키부츠〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52239</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52239</guid>
@@ -267,13 +267,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/L0/L0000098_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[백형훈 팬서트 〈Universe〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52286</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52286</guid>
-            <pubDate>Thu, 08 Aug 2024 15:07:55 GMT</pubDate>
+            <title><![CDATA[연극 〈델타 보이즈〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52307</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52307</guid>
+            <pubDate>Fri, 09 Aug 2024 00:32:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.09
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011561_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011577_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극〈늘근도둑이야기〉 (인터파크 티켓 모바일)]]></title>
@@ -583,6 +583,41 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[​누가 내 머리에 똥 쌌어 -  밀양​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60047</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60047</guid>
+            <pubDate>Fri, 09 Aug 2024 00:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.14(수) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​[단독판매]  퓨전국악 창작극 - 엄마를 찾아 떠나는 아리의 모험​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60046</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60046</guid>
+            <pubDate>Fri, 09 Aug 2024 00:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.14(수) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서울드래곤시티 풀파티 8/31(토) - Bubble Foam 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60044</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60044</guid>
+            <pubDate>Fri, 09 Aug 2024 00:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.13(화) 04:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서울드래곤시티 풀파티 8/24(토) - Bubble Foam 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60043</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60043</guid>
+            <pubDate>Fri, 09 Aug 2024 00:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.13(화) 04:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서울드래곤시티 풀파티 8/17(토) - Bubble Foam 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60042</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60042</guid>
+            <pubDate>Fri, 09 Aug 2024 00:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.12(월) 04:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[파블로 지글러 마스터클래스​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60041</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60041</guid>
@@ -653,39 +688,39 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.08.12(월) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  2024 조선의사위 원혁 concert 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60031</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60031</guid>
-            <pubDate>Thu, 08 Aug 2024 02:00:02 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.14(수) 01:00]]></content:encoded>
+            <title><![CDATA[​누가 내 머리에 똥 쌌어 -  밀양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60047</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60047</guid>
+            <pubDate>Fri, 09 Aug 2024 00:33:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.14(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]   김돈의 경주 여성 합창 아카데미 - 경주 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60030</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60030</guid>
-            <pubDate>Wed, 07 Aug 2024 08:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.12(월) 01:00]]></content:encoded>
+            <title><![CDATA[​[단독판매]  퓨전국악 창작극 - 엄마를 찾아 떠나는 아리의 모험​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60046</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60046</guid>
+            <pubDate>Fri, 09 Aug 2024 00:33:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.14(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  전효진의 은빛 발레리나 - 경주 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60029</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60029</guid>
-            <pubDate>Wed, 07 Aug 2024 08:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.12(월) 01:00]]></content:encoded>
+            <title><![CDATA[서울드래곤시티 풀파티 8/31(토) - Bubble Foam 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60044</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60044</guid>
+            <pubDate>Fri, 09 Aug 2024 00:33:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.13(화) 04:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  조희창의 마에스트로 열전 #1 - 경주 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60028</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60028</guid>
-            <pubDate>Wed, 07 Aug 2024 08:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.12(월) 01:00]]></content:encoded>
+            <title><![CDATA[서울드래곤시티 풀파티 8/24(토) - Bubble Foam 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60043</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60043</guid>
+            <pubDate>Fri, 09 Aug 2024 00:33:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.13(화) 04:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  박파랑의 클래식 서양 미술사 - 경주 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60027</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60027</guid>
-            <pubDate>Wed, 07 Aug 2024 08:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.12(월) 01:00]]></content:encoded>
+            <title><![CDATA[서울드래곤시티 풀파티 8/17(토) - Bubble Foam 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60042</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60042</guid>
+            <pubDate>Fri, 09 Aug 2024 00:33:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.12(월) 04:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[파블로 지글러 마스터클래스​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -756,41 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60032</guid>
             <pubDate>Thu, 08 Aug 2024 05:08:50 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.12(월) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  2024 조선의사위 원혁 concert 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60031</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60031</guid>
-            <pubDate>Thu, 08 Aug 2024 02:00:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.14(수) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]   김돈의 경주 여성 합창 아카데미 - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60030</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60030</guid>
-            <pubDate>Wed, 07 Aug 2024 08:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.12(월) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  전효진의 은빛 발레리나 - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60029</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60029</guid>
-            <pubDate>Wed, 07 Aug 2024 08:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.12(월) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  조희창의 마에스트로 열전 #1 - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60028</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60028</guid>
-            <pubDate>Wed, 07 Aug 2024 08:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.12(월) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  박파랑의 클래식 서양 미술사 - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60027</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60027</guid>
-            <pubDate>Wed, 07 Aug 2024 08:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.12(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[창작산실 음악 <민요 첼로(MINYO CELLO)> 공연실황 녹화중계 (네이버 공연)]]></title>
