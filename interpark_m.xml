@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Aug 2024 07:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2024 08:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,6 +71,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009495_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[FINAL FANTASY XIV ORCHESTRA CONCERT 2024 -Eorzean Symphony-  In Seoul]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52314</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52314</guid>
+            <pubDate>Fri, 09 Aug 2024 15:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011105_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[2024 오늘도 무사히 〈페퍼톤스x나상현씨밴드x폴로디언스〉 - 부평]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52280</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52280</guid>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2024.08.12
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011647_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[FINAL FANTASY XIV ORCHESTRA CONCERT 2024 -Eorzean Symphony-  In Seoul]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52314</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52314</guid>
-            <pubDate>Fri, 09 Aug 2024 15:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011105_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
