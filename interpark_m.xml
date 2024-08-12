@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Aug 2024 20:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2024 21:03:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,15 +44,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011610_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈마우스트랩〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52344</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52344</guid>
-            <pubDate>Mon, 12 Aug 2024 19:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.13
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011658_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[드라이 플라워]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52335</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52335</guid>
@@ -60,6 +51,15 @@
             <content:encoded><![CDATA[2024.08.13
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011666_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈마우스트랩〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52344</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52344</guid>
+            <pubDate>Mon, 12 Aug 2024 19:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.13
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011658_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[더매직스타 전국투어 콘서트 - 전주]]></title>
