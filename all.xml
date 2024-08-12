@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Aug 2024 21:03:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2024 22:03:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -247,15 +247,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011610_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[드라이 플라워 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52335</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52335</guid>
-            <pubDate>Mon, 12 Aug 2024 19:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.13
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011666_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[연극 〈마우스트랩〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52344</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52344</guid>
@@ -263,6 +254,15 @@
             <content:encoded><![CDATA[2024.08.13
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011658_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[드라이 플라워 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52335</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52335</guid>
+            <pubDate>Mon, 12 Aug 2024 19:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.13
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011666_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[더매직스타 전국투어 콘서트 - 전주 (인터파크 티켓 모바일)]]></title>
@@ -274,15 +274,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009168_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다-(천안) (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52268</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52268</guid>
-            <pubDate>Mon, 12 Aug 2024 19:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.13
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011708_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[indigo la End Live in Seoul (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52292</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52292</guid>
@@ -290,6 +281,15 @@
             <content:encoded><![CDATA[2024.08.13
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011559_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다-(천안) (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52268</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52268</guid>
+            <pubDate>Mon, 12 Aug 2024 19:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.13
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011708_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[노들섬 재즈 페스티벌 (인터파크 티켓 모바일)]]></title>
