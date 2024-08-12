@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-12T08:12:15.480Z</updated>
+    <updated>2024-08-12T09:09:31.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 쎄시봉 콘써-트 (군산)​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60054</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60054"/>
+        <updated>2024-08-12T09:09:24.539Z</updated>
+        <content type="html"><![CDATA[2024.08.13(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​더매직스타 전국투어 콘서트 - 전주 추가 회차 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60053</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60039"/>
         <updated>2024-08-08T09:08:39.762Z</updated>
         <content type="html"><![CDATA[2024.08.09(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개관 30주년 기념 어쿠스틱 뮤지컬 나의 노래​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60038</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60038"/>
-        <updated>2024-08-08T08:10:56.659Z</updated>
-        <content type="html"><![CDATA[2024.08.19(월) 05:00]]></content>
     </entry>
 </feed>
