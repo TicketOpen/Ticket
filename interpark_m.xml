@@ -4,18 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Aug 2024 06:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2024 07:08:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[JAZZ CONCEPTIONS: THE TASTE OF ORGANIC JAM]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52288</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52288</guid>
-            <pubDate>Fri, 09 Aug 2024 15:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.12
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011546_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 〈정글라이프〉 - 상주]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52327</link>
@@ -26,13 +17,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011129_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[제7회 1번출구 연극제 〈세상친구〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52328</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52328</guid>
+            <title><![CDATA[JAZZ CONCEPTIONS: THE TASTE OF ORGANIC JAM]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52288</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52288</guid>
+            <pubDate>Fri, 09 Aug 2024 15:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.12
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011546_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[김해] 뮤지컬 캐치! 티니핑 〈두근두근 싱어롱 콘서트!〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52302</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52302</guid>
             <pubDate>Fri, 09 Aug 2024 15:02:31 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.12
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024080815201366.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024080620254577.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제7회 1번출구 연극제 〈블루도그스〉, 〈나한테 시집오지 않을래요？〉, 〈부정〉]]></title>
@@ -44,13 +44,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024080914261766.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[김해] 뮤지컬 캐치! 티니핑 〈두근두근 싱어롱 콘서트!〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52302</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52302</guid>
+            <title><![CDATA[제7회 1번출구 연극제 〈세상친구〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52328</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52328</guid>
             <pubDate>Fri, 09 Aug 2024 15:02:31 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.12
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024080620254577.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024080815201366.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박창근 장르 with 오케스트라 전국투어 콘서트]]></title>
@@ -80,15 +80,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011116_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[FINAL FANTASY XIV ORCHESTRA CONCERT 2024 -Eorzean Symphony-  In Seoul]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52314</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52314</guid>
-            <pubDate>Fri, 09 Aug 2024 15:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011105_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2024 심수봉 전국투어 콘서트 : 꽃길 - 청주]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52322</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52322</guid>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2024.08.12
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011647_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[FINAL FANTASY XIV ORCHESTRA CONCERT 2024 -Eorzean Symphony-  In Seoul]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52314</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52314</guid>
+            <pubDate>Fri, 09 Aug 2024 15:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011105_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
