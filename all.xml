@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Aug 2024 23:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 00:33:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,13 @@
             <content:encoded><![CDATA[24.08.14(수)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[넌버벌 코미디 〈옹알스〉 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52357&amp;groupno=52357&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52357&amp;groupno=52357&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 13 Aug 2024 00:32:46 GMT</pubDate>
+            <content:encoded><![CDATA[24.08.16(금)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈유진과 유진〉 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52351&amp;groupno=52351&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52351&amp;groupno=52351&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -166,7 +173,7 @@
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52344&amp;groupno=52344&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52344&amp;groupno=52344&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 12 Aug 2024 19:02:59 GMT</pubDate>
-            <content:encoded><![CDATA[24.08.13(화)&nbsp;11:00]]></content:encoded>
+            <content:encoded><![CDATA[24.08.16(금)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈알사탕〉 - 부산 (인터파크 티켓)]]></title>
@@ -204,13 +211,6 @@
             <content:encoded><![CDATA[24.08.16(금)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 2NE1 CONCERT [WELCOME BACK] IN SEOUL 추가회차 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52338&amp;groupno=52338&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52338&amp;groupno=52338&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 12 Aug 2024 19:02:59 GMT</pubDate>
-            <content:encoded><![CDATA[24.08.21(수)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[가족매직쇼 〈구구쌤의 매직쑈라구〉 - 광주 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52315</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52315</guid>
@@ -245,15 +245,6 @@
             <content:encoded><![CDATA[2024.08.13
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈마우스트랩〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52344</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52344</guid>
-            <pubDate>Mon, 12 Aug 2024 19:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.13
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011658_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[드라이 플라워 (인터파크 티켓 모바일)]]></title>
@@ -299,6 +290,15 @@
             <content:encoded><![CDATA[2024.08.13
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011516_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 주현미 콘서트 〈The Original〉 - 구미 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52350</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52350</guid>
+            <pubDate>Tue, 13 Aug 2024 00:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.13
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011581_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[부산] 연극 〈시위를 당겨라〉 티켓 오픈 안내 (예스24 티켓)]]></title>

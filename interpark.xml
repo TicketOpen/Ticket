@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-08-12T23:04:22.053Z</updated>
+    <updated>2024-08-13T00:33:53.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52356&amp;groupno=52356&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-08-12T19:02:59.681Z</updated>
         <content type="html"><![CDATA[24.08.14(수)&nbsp;11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넌버벌 코미디 〈옹알스〉]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52357&amp;groupno=52357&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52357&amp;groupno=52357&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-08-13T00:32:46.088Z</updated>
+        <content type="html"><![CDATA[24.08.16(금)&nbsp;11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈유진과 유진〉]]></title>
@@ -94,7 +101,7 @@
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52344&amp;groupno=52344&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52344&amp;groupno=52344&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-08-12T19:02:59.703Z</updated>
-        <content type="html"><![CDATA[24.08.13(화)&nbsp;11:00]]></content>
+        <content type="html"><![CDATA[24.08.16(금)&nbsp;11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 부산]]></title>
@@ -130,12 +137,5 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52339&amp;groupno=52339&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-08-12T19:02:59.721Z</updated>
         <content type="html"><![CDATA[24.08.16(금)&nbsp;10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 2NE1 CONCERT [WELCOME BACK] IN SEOUL 추가회차]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52338&amp;groupno=52338&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52338&amp;groupno=52338&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-08-12T19:02:59.722Z</updated>
-        <content type="html"><![CDATA[24.08.21(수)&nbsp;20:00]]></content>
     </entry>
 </feed>
