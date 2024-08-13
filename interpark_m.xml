@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 12:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 13:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,15 +17,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 〈꼬마버스 타요 - 용감한 구조대 레스큐 타요〉 - 성남]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52310</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52310</guid>
-            <pubDate>Mon, 12 Aug 2024 19:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.13
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011497_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[가족매직쇼 〈구구쌤의 매직쑈라구〉 - 광주]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52315</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52315</guid>
@@ -33,6 +24,15 @@
             <content:encoded><![CDATA[2024.08.13
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011653_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 〈꼬마버스 타요 - 용감한 구조대 레스큐 타요〉 - 성남]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52310</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52310</guid>
+            <pubDate>Mon, 12 Aug 2024 19:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.13
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011497_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[하(夏)! 수상한 이야기]]></title>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011516_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 주현미 콘서트 〈The Original〉 - 구미]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52350</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52350</guid>
-            <pubDate>Tue, 13 Aug 2024 12:13:42 GMT</pubDate>
+            <title><![CDATA[2024 연극 〈친정엄마와 2박 3일〉 - 충추]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52316</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52316</guid>
+            <pubDate>Tue, 13 Aug 2024 13:13:39 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.13
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011581_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011558_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
