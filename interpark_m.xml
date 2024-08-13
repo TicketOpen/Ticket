@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 07:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 08:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,15 +44,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011610_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[더매직스타 전국투어 콘서트 - 전주]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52355</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52355</guid>
-            <pubDate>Mon, 12 Aug 2024 19:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.13
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009168_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[드라이 플라워]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52335</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52335</guid>
@@ -62,13 +53,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011666_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다-(천안)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52268</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52268</guid>
+            <title><![CDATA[더매직스타 전국투어 콘서트 - 전주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52355</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52355</guid>
             <pubDate>Mon, 12 Aug 2024 19:03:12 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.13
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011708_p.gif" length="0" type="image/gif"/>
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009168_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[indigo la End Live in Seoul]]></title>
@@ -80,6 +71,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011559_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다-(천안)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52268</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52268</guid>
+            <pubDate>Mon, 12 Aug 2024 19:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.13
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011708_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[노들섬 재즈 페스티벌]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52240</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52240</guid>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011516_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 주현미 콘서트 〈The Original〉 - 구미]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52350</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52350</guid>
-            <pubDate>Tue, 13 Aug 2024 03:08:50 GMT</pubDate>
+            <title><![CDATA[2024 연극 〈친정엄마와 2박 3일〉 - 충추]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52316</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52316</guid>
+            <pubDate>Tue, 13 Aug 2024 08:10:39 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.13
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011581_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011558_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
