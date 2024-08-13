@@ -4,18 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 03:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 04:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[groove& 재료시리즈Ⅱ : 혁]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52295</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52295</guid>
-            <pubDate>Mon, 12 Aug 2024 19:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.13
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[가족매직쇼 〈구구쌤의 매직쑈라구〉 - 광주]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52315</link>
@@ -42,6 +33,15 @@
             <content:encoded><![CDATA[2024.08.13
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011610_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[groove& 재료시리즈Ⅱ : 혁]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52295</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52295</guid>
+            <pubDate>Mon, 12 Aug 2024 19:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.13
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더매직스타 전국투어 콘서트 - 전주]]></title>
