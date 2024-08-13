@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-13T02:38:46.215Z</updated>
+    <updated>2024-08-13T03:09:51.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60057"/>
         <updated>2024-08-13T02:38:39.194Z</updated>
         <content type="html"><![CDATA[2024.08.14(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  씨나인배 스타 대학리그 결승전]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60056</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60056"/>
+        <updated>2024-08-13T03:09:44.057Z</updated>
+        <content type="html"><![CDATA[2024.08.14(수) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족매직쇼 <구구쌤의 매직쑈라구> - 광주​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60043"/>
         <updated>2024-08-09T00:33:27.474Z</updated>
         <content type="html"><![CDATA[2024.08.13(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울드래곤시티 풀파티 8/17(토) - Bubble Foam 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60042</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60042"/>
-        <updated>2024-08-09T00:33:27.476Z</updated>
-        <content type="html"><![CDATA[2024.08.12(월) 04:00]]></content>
     </entry>
 </feed>
