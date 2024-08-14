@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-14T10:09:38.672Z</updated>
+    <updated>2024-08-14T11:04:55.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈사의찬미〉마지막 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14759&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14759&amp;order=1"/>
-        <updated>2024-08-14T06:11:03.438Z</updated>
-        <content type="html"><![CDATA[2024-08-19(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈BBC Proms Korea〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14758&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14758&amp;order=1"/>
-        <updated>2024-08-14T05:08:33.764Z</updated>
-        <content type="html"><![CDATA[2024-08-22(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대한민국국악관현악축제 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14757&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14757&amp;order=1"/>
-        <updated>2024-08-14T05:08:33.765Z</updated>
-        <content type="html"><![CDATA[2024-08-20(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈연남동 빙굴빙굴 빨래방〉티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14755&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14755&amp;order=1"/>
-        <updated>2024-08-14T00:32:39.264Z</updated>
-        <content type="html"><![CDATA[2024-08-14(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첼리스트 홍진호 콘서트 <첼로의 숲> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14754&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14754&amp;order=1"/>
-        <updated>2024-08-13T10:08:42.921Z</updated>
-        <content type="html"><![CDATA[2024-08-14(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yuuri Live in Seoul 2024 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14753&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14753&amp;order=1"/>
-        <updated>2024-08-13T10:08:42.935Z</updated>
-        <content type="html"><![CDATA[2024-08-19(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전주] 뮤지컬 <시카고> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14752&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14752&amp;order=1"/>
-        <updated>2024-08-13T05:08:21.011Z</updated>
-        <content type="html"><![CDATA[2024-08-16(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 연극 〈시위를 당겨라〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14751&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14751&amp;order=1"/>
-        <updated>2024-08-12T08:11:43.392Z</updated>
-        <content type="html"><![CDATA[2024-08-13(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉 Chapter2 4차 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14750&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14750&amp;order=1"/>
-        <updated>2024-08-12T07:08:18.140Z</updated>
-        <content type="html"><![CDATA[2024-08-16(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈빵야〉 마티네 추가 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14749&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14749&amp;order=1"/>
-        <updated>2024-08-12T05:08:47.800Z</updated>
-        <content type="html"><![CDATA[2024-08-14(수) 15:00]]></content>
-    </entry>
+    <icon>http://m.ticket.yes24.com/Notice/favicon.ico</icon>
 </feed>
