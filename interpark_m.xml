@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Aug 2024 06:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2024 07:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,24 +15,6 @@
             <content:encoded><![CDATA[2024.08.14
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011733_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈슈퍼거북 슈퍼토끼〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52317</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52317</guid>
-            <pubDate>Tue, 13 Aug 2024 15:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.14
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011626_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[낭독 공연 〈굿피플〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52356</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52356</guid>
-            <pubDate>Tue, 13 Aug 2024 15:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.14
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011706_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈베르사유의 장미〉]]></title>
@@ -51,6 +33,24 @@
             <content:encoded><![CDATA[2024.08.14
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010374_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈슈퍼거북 슈퍼토끼〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52317</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52317</guid>
+            <pubDate>Tue, 13 Aug 2024 15:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.14
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011626_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[낭독 공연 〈굿피플〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52356</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52356</guid>
+            <pubDate>Tue, 13 Aug 2024 15:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.14
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011706_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈부치하난〉]]></title>
