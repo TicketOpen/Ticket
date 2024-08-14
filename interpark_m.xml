@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Aug 2024 02:35:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2024 03:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,24 +15,6 @@
             <content:encoded><![CDATA[2024.08.14
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011733_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈베르사유의 장미〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52296</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52296</guid>
-            <pubDate>Tue, 13 Aug 2024 15:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.14
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007345_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈친구의 전설〉 - 서울]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52297</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52297</guid>
-            <pubDate>Tue, 13 Aug 2024 15:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.14
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010374_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈슈퍼거북 슈퍼토끼〉]]></title>
@@ -51,6 +33,24 @@
             <content:encoded><![CDATA[2024.08.14
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011706_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈베르사유의 장미〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52296</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52296</guid>
+            <pubDate>Tue, 13 Aug 2024 15:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.14
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007345_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈친구의 전설〉 - 서울]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52297</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52297</guid>
+            <pubDate>Tue, 13 Aug 2024 15:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.14
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010374_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈부치하난〉]]></title>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010329_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈홀리 이노센트〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52324</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52324</guid>
-            <pubDate>Tue, 13 Aug 2024 15:02:34 GMT</pubDate>
+            <title><![CDATA[홍진호 〈첼로의 숲〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52308</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52308</guid>
+            <pubDate>Wed, 14 Aug 2024 03:09:48 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.14
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011656_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/L0/L0000099_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

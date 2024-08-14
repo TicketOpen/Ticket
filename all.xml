@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Aug 2024 02:35:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2024 03:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7［디어클라우드 단독 콘서트 ‘Ground zero’］티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9186</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9186</guid>
+            <pubDate>Wed, 14 Aug 2024 03:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.21(수) 20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[［얼리버드］툴루즈 로트렉：몽마르트의 별 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9185</link>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9177</guid>
             <pubDate>Wed, 14 Aug 2024 02:34:26 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.19(월) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제67회 라이브 클럽 데이 extended！with SIMF－일반티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9175</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9175</guid>
-            <pubDate>Wed, 14 Aug 2024 02:34:26 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.12(월) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 오피셜히게단디즘(OFFICIAL HIGE DANDISM) 내한공연 (인터파크 티켓)]]></title>
@@ -220,24 +220,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011733_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈베르사유의 장미〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52296</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52296</guid>
-            <pubDate>Tue, 13 Aug 2024 15:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.14
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007345_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈친구의 전설〉 - 서울 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52297</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52297</guid>
-            <pubDate>Tue, 13 Aug 2024 15:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.14
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010374_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈슈퍼거북 슈퍼토끼〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52317</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52317</guid>
@@ -254,6 +236,24 @@
             <content:encoded><![CDATA[2024.08.14
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011706_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈베르사유의 장미〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52296</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52296</guid>
+            <pubDate>Tue, 13 Aug 2024 15:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.14
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007345_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈친구의 전설〉 - 서울 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52297</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52297</guid>
+            <pubDate>Tue, 13 Aug 2024 15:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.14
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010374_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈부치하난〉 (인터파크 티켓 모바일)]]></title>
@@ -292,13 +292,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010329_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈홀리 이노센트〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52324</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52324</guid>
-            <pubDate>Tue, 13 Aug 2024 15:02:34 GMT</pubDate>
+            <title><![CDATA[홍진호 〈첼로의 숲〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52308</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52308</guid>
+            <pubDate>Wed, 14 Aug 2024 03:09:48 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.14
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011656_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/L0/L0000099_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬〈연남동 빙굴빙굴 빨래방〉티켓오픈 안내 (예스24 티켓)]]></title>
@@ -598,6 +598,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.08.16(금) 01:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 2024 NAM WOO HYUN CONCERT <식목일4 - TREEWORLD> 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60064</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60064</guid>
+            <pubDate>Wed, 14 Aug 2024 03:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.21(수) 11:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[어린이 뮤지컬 <캣츠> - 과천​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60063</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60063</guid>
@@ -689,18 +696,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.08.14(수) 08:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  뮤지컬 <앤> - 울산 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60049</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60049</guid>
-            <pubDate>Mon, 12 Aug 2024 05:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.28(수) 12:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[단독판매] [부산] 버섯피자와 사랑의 묘약 오페라 쇼케이스 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/60067</link>
             <guid>http://m.ticketlink.co.kr/help/notice/60067</guid>
             <pubDate>Wed, 14 Aug 2024 02:35:44 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.16(금) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 2024 NAM WOO HYUN CONCERT <식목일4 - TREEWORLD> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60064</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60064</guid>
+            <pubDate>Wed, 14 Aug 2024 03:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.21(수) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어린이 뮤지컬 <캣츠> - 과천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -792,13 +799,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60050</guid>
             <pubDate>Mon, 12 Aug 2024 07:08:45 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.14(수) 08:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  뮤지컬 <앤> - 울산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60049</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60049</guid>
-            <pubDate>Mon, 12 Aug 2024 05:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.28(수) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
