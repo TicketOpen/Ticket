@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-15T01:52:29.394Z</updated>
+    <updated>2024-08-15T02:30:02.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 경기인디뮤직페스티벌 - 얼리버드​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60078</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60078"/>
+        <updated>2024-08-15T02:29:56.230Z</updated>
+        <content type="html"><![CDATA[2024.08.16(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 NTX FAN CONCERT : NEW ERA​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60077</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60064"/>
         <updated>2024-08-14T03:10:34.430Z</updated>
         <content type="html"><![CDATA[2024.08.21(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 <캣츠> - 과천​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60063</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60063"/>
-        <updated>2024-08-14T02:35:44.907Z</updated>
-        <content type="html"><![CDATA[2024.08.16(금) 00:00]]></content>
     </entry>
 </feed>
