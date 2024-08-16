@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 02:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 03:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sprout［연우x정효빈］티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9193</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9193</guid>
+            <pubDate>Fri, 16 Aug 2024 03:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.21(수) 12:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[오왠의 ‘어떤 이야기를 들려드릴까요？’ Ep．7 그_냥，위로 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9192</link>
@@ -67,13 +74,6 @@
             <title><![CDATA[뮤지컬 〈시카고〉－전주 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9183</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9183</guid>
-            <pubDate>Fri, 16 Aug 2024 01:58:44 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.16(금) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈리지〉 2차 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9182</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9182</guid>
             <pubDate>Fri, 16 Aug 2024 01:58:44 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.16(금) 14:00]]></content:encoded>
         </item>
@@ -247,15 +247,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011846_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[어게인2024투란도트 - again2024TURANDOT (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52065</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52065</guid>
-            <pubDate>Wed, 14 Aug 2024 15:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.16
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010335_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2024 키우피우 오브제극축제 〈오버츄어〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52339</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52339</guid>
@@ -274,6 +265,33 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어게인2024투란도트 - again2024TURANDOT (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52065</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52065</guid>
+            <pubDate>Wed, 14 Aug 2024 15:05:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.16
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010335_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈알사탕〉 - 마포 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52329</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52329</guid>
+            <pubDate>Fri, 16 Aug 2024 03:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.16
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011802_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈사운드 인사이드〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52332</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52332</guid>
+            <pubDate>Fri, 16 Aug 2024 03:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.16
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009913_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈알사탕〉 - 부산 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52343</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52343</guid>
@@ -281,24 +299,6 @@
             <content:encoded><![CDATA[2024.08.16
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011633_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈마우스트랩〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52344</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52344</guid>
-            <pubDate>Wed, 14 Aug 2024 15:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.16
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011658_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[넌버벌 코미디 〈옹알스〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52357</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52357</guid>
-            <pubDate>Fri, 16 Aug 2024 02:33:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.16
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24004338_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈사의찬미〉마지막 티켓오픈안내 (예스24 티켓)]]></title>
@@ -591,6 +591,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매]  PMPS 2024 SEASON 2 FINALS​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60081</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60081</guid>
+            <pubDate>Fri, 16 Aug 2024 03:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.19(월) 03:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매]  ​이끌든지 따르든지 2025 트렌드코리아 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60080</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60080</guid>
@@ -689,11 +696,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.08.16(금) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[안산] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!> 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60066</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60066</guid>
-            <pubDate>Wed, 14 Aug 2024 05:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.16(금) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  PMPS 2024 SEASON 2 FINALS​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60081</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60081</guid>
+            <pubDate>Fri, 16 Aug 2024 03:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.19(월) 03:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]  ​이끌든지 따르든지 2025 트렌드코리아 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -792,13 +799,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60067</guid>
             <pubDate>Wed, 14 Aug 2024 02:35:44 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.16(금) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[안산] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60066</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60066</guid>
-            <pubDate>Wed, 14 Aug 2024 05:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.16(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-08-16T02:34:07.253Z</updated>
+    <updated>2024-08-16T03:10:39.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sprout［연우x정효빈］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9193</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9193"/>
+        <updated>2024-08-16T03:09:25.556Z</updated>
+        <content type="html"><![CDATA[2024.08.21(수) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오왠의 ‘어떤 이야기를 들려드릴까요？’ Ep．7 그_냥，위로 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9192</id>
@@ -66,13 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9183</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9183"/>
         <updated>2024-08-16T01:58:44.347Z</updated>
-        <content type="html"><![CDATA[2024.08.16(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈리지〉 2차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9182</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9182"/>
-        <updated>2024-08-16T01:58:44.349Z</updated>
         <content type="html"><![CDATA[2024.08.16(금) 14:00]]></content>
     </entry>
 </feed>
