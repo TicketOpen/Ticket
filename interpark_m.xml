@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 03:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 05:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,6 +44,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011846_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[어게인2024투란도트 - again2024TURANDOT]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52065</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52065</guid>
+            <pubDate>Wed, 14 Aug 2024 15:05:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.16
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010335_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[2024 키우피우 오브제극축제 〈오버츄어〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52339</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52339</guid>
@@ -62,33 +71,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어게인2024투란도트 - again2024TURANDOT]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52065</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52065</guid>
-            <pubDate>Wed, 14 Aug 2024 15:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.16
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010335_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈알사탕〉 - 마포]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52329</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52329</guid>
-            <pubDate>Fri, 16 Aug 2024 03:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.16
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011802_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈사운드 인사이드〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52332</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52332</guid>
-            <pubDate>Fri, 16 Aug 2024 03:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.16
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009913_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈알사탕〉 - 부산]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52343</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52343</guid>
@@ -96,6 +78,24 @@
             <content:encoded><![CDATA[2024.08.16
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011633_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈마우스트랩〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52344</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52344</guid>
+            <pubDate>Fri, 16 Aug 2024 05:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.16
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011658_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[넌버벌 코미디 〈옹알스〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52357</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52357</guid>
+            <pubDate>Fri, 16 Aug 2024 05:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.16
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24004338_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
