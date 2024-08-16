@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-08-16T09:09:40.509Z</updated>
+    <updated>2024-08-16T10:09:41.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Q the trumpet（큐더트럼펫）단독공연［QUEST 1］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9198</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9198"/>
+        <updated>2024-08-16T10:08:19.295Z</updated>
+        <content type="html"><![CDATA[2024.08.18(일) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[까치산 단독공연 〈희작학원 : 喜鹊學院〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9197</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9186"/>
         <updated>2024-08-16T09:08:21.863Z</updated>
         <content type="html"><![CDATA[2024.08.21(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［얼리버드］툴루즈 로트렉：몽마르트의 별 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9185</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9185"/>
-        <updated>2024-08-16T09:08:21.868Z</updated>
-        <content type="html"><![CDATA[2024.08.19(월) 09:00]]></content>
     </entry>
 </feed>
