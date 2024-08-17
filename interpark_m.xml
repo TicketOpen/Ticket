@@ -4,18 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Aug 2024 14:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Aug 2024 15:04:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[［사전예매］ 2024 부산비엔날레]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1012</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1012</guid>
-            <pubDate>Fri, 16 Aug 2024 15:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.17
-                                    <span>00:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009030_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[헤어지는 기쁨]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52236</link>
@@ -71,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011642_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[NOWITZKI LIVE]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52364</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52364</guid>
-            <pubDate>Fri, 16 Aug 2024 15:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.19
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20240814085326.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연극 〈이단자들〉 - 구미]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52368</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52368</guid>
@@ -89,6 +71,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011598_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[NOWITZKI LIVE]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52364</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52364</guid>
+            <pubDate>Fri, 16 Aug 2024 15:03:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20240814085326.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈스파이〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52384</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52384</guid>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2024.08.19
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009007_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[AZUSA TADOKORO ACOUSTIC LIVE -KoroAco- SP in Seoul (supported by KOE)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52336</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52336</guid>
+            <pubDate>Sat, 17 Aug 2024 15:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.19
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011587_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
