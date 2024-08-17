@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Aug 2024 20:09:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Aug 2024 21:03:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009007_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[윤딴딴 투어콘서트 [딴딴한 여름 2024] 앵콜콘서트 : 서울]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52361</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52361</guid>
-            <pubDate>Sat, 17 Aug 2024 20:08:20 GMT</pubDate>
+            <title><![CDATA[AZUSA TADOKORO ACOUSTIC LIVE -KoroAco- SP in Seoul (supported by KOE)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52336</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52336</guid>
+            <pubDate>Sat, 17 Aug 2024 21:02:41 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.19
                                     <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011769_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011587_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
