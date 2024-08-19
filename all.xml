@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Aug 2024 02:02:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2024 02:38:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -195,15 +195,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011642_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈이단자들〉 - 구미 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52368</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52368</guid>
-            <pubDate>Fri, 16 Aug 2024 15:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.19
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011598_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[NOWITZKI LIVE (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52364</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52364</guid>
@@ -211,6 +202,15 @@
             <content:encoded><![CDATA[2024.08.19
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011914_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈이단자들〉 - 구미 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52368</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52368</guid>
+            <pubDate>Fri, 16 Aug 2024 15:03:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011598_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈스파이〉 (인터파크 티켓 모바일)]]></title>
