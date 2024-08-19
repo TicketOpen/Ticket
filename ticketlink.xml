@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-19T05:09:09.120Z</updated>
+    <updated>2024-08-19T06:12:02.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <위로> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60096</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60096"/>
+        <updated>2024-08-19T06:11:47.791Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.20(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러브레터 & 냉정과 열정사이 시네마 콘서트 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60095</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60095"/>
+        <updated>2024-08-19T06:11:47.797Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.22(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스마스 10첼로 페스티벌 : 디즈니 VS 지브리 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60094</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60082"/>
         <updated>2024-08-16T05:10:02.630Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.22(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  PMPS 2024 SEASON 2 FINALS​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60081</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60081"/>
-        <updated>2024-08-16T03:10:24.808Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.19(월) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​이끌든지 따르든지 2025 트렌드코리아 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60080</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60080"/>
-        <updated>2024-08-16T01:59:49.759Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.19(월) 01:00]]></content>
     </entry>
 </feed>

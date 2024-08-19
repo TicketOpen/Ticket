@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Aug 2024 05:09:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2024 06:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -90,6 +90,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=52323&amp;groupno=52323&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 12 Aug 2024 19:02:59 GMT</pubDate>
             <content:encoded><![CDATA[24.08.19(월)&nbsp;12:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이머시브 뮤지컬〈룰렛〉 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52406&amp;groupno=52406&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52406&amp;groupno=52406&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 19 Aug 2024 06:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[24.08.23(금)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[신해철 트리뷰트 콘서트 〈마왕 10th: 고스트 스테이지〉 블라인드 .. (인터파크 티켓)]]></title>
@@ -204,13 +211,6 @@
             <content:encoded><![CDATA[&nbsp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[［사전예매］ 2024 부산비엔날레 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=1012&amp;groupno=1012&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=1012&amp;groupno=1012&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 16 Aug 2024 05:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[24.08.17(토)&nbsp;00:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[연극 은밀한 연애 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52393&amp;groupno=52393&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52393&amp;groupno=52393&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -306,6 +306,34 @@
             <content:encoded><![CDATA[2024.08.19
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011587_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[부산 마루 국제음악제 〈프롬나드 콘서트2〉티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14766</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14766</guid>
+            <pubDate>Mon, 19 Aug 2024 06:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.22(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[부산 마루 국제음악제〈앙상블 콘서트2〉티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14765</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14765</guid>
+            <pubDate>Mon, 19 Aug 2024 06:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.22(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[부산 마루 국제음악제〈프린지 콘서트4〉티켓오픈안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14763</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14763</guid>
+            <pubDate>Mon, 19 Aug 2024 06:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.22(목) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[광주] 2024 베스트셀러 뮤지컬 〈누가내머리에똥쌌어？〉 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14762</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14762</guid>
+            <pubDate>Mon, 19 Aug 2024 06:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.21(수) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
@@ -420,32 +448,32 @@
             <content:encoded><![CDATA[2024.08.13(화) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <시데레우스> 혜공 전관 - 그래이공 DAY 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14743</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14743</guid>
-            <pubDate>Wed, 14 Aug 2024 12:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.13(화) 13:00]]></content:encoded>
+            <title><![CDATA[부산 마루 국제음악제 〈프롬나드 콘서트2〉티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14766&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14766&amp;order=1</guid>
+            <pubDate>Mon, 19 Aug 2024 06:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024-08-22(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14742</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14742</guid>
-            <pubDate>Wed, 14 Aug 2024 12:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.09(금) 17:00]]></content:encoded>
+            <title><![CDATA[부산 마루 국제음악제〈앙상블 콘서트2〉티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14765&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14765&amp;order=1</guid>
+            <pubDate>Mon, 19 Aug 2024 06:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024-08-22(목) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[그랜드 민트 페스티벌 2024 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14741</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14741</guid>
-            <pubDate>Wed, 14 Aug 2024 12:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.14(수) 18:00]]></content:encoded>
+            <title><![CDATA[부산 마루 국제음악제〈프린지 콘서트4〉티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14763&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14763&amp;order=1</guid>
+            <pubDate>Mon, 19 Aug 2024 06:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024-08-22(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14740</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14740</guid>
-            <pubDate>Wed, 14 Aug 2024 12:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.20(화) 20:00]]></content:encoded>
+            <title><![CDATA[[광주] 2024 베스트셀러 뮤지컬 〈누가내머리에똥쌌어？〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14762&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14762&amp;order=1</guid>
+            <pubDate>Mon, 19 Aug 2024 06:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024-08-21(수) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[DAY6 3RD WORLD TOUR 〈FOREVER YOUNG〉 in INCHEON (예스24 티켓 모바일)]]></title>
@@ -488,34 +516,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14754&amp;order=1</guid>
             <pubDate>Wed, 14 Aug 2024 12:13:11 GMT</pubDate>
             <content:encoded><![CDATA[2024-08-14(수) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Yuuri Live in Seoul 2024 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14753&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14753&amp;order=1</guid>
-            <pubDate>Wed, 14 Aug 2024 12:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024-08-19(월) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[전주] 뮤지컬 <시카고> 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14752&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14752&amp;order=1</guid>
-            <pubDate>Wed, 14 Aug 2024 12:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024-08-16(금) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[부산] 연극 〈시위를 당겨라〉 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14751&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14751&amp;order=1</guid>
-            <pubDate>Wed, 14 Aug 2024 12:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024-08-13(화) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉 Chapter2 4차 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14750&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14750&amp;order=1</guid>
-            <pubDate>Wed, 14 Aug 2024 12:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024-08-16(금) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[CHERRY WORLD [노란 머리 체리] 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -596,6 +596,20 @@
             <pubDate>Thu, 04 Jul 2024 08:11:46 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.09(화) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <위로> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60096</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60096</guid>
+            <pubDate>Mon, 19 Aug 2024 06:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.20(화) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러브레터 & 냉정과 열정사이 시네마 콘서트 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60095</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60095</guid>
+            <pubDate>Mon, 19 Aug 2024 06:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.22(목) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[크리스마스 10첼로 페스티벌 : 디즈니 VS 지브리 티켓오픈 안내 (티켓링크)]]></title>
@@ -689,18 +703,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.08.22(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  PMPS 2024 SEASON 2 FINALS​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60081</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60081</guid>
-            <pubDate>Fri, 16 Aug 2024 03:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.19(월) 03:00]]></content:encoded>
+            <title><![CDATA[연극 <위로> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60096</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60096</guid>
+            <pubDate>Mon, 19 Aug 2024 06:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.20(화) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  ​이끌든지 따르든지 2025 트렌드코리아 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60080</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60080</guid>
-            <pubDate>Fri, 16 Aug 2024 01:59:49 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.19(월) 01:00]]></content:encoded>
+            <title><![CDATA[러브레터 & 냉정과 열정사이 시네마 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60095</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60095</guid>
+            <pubDate>Mon, 19 Aug 2024 06:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.22(목) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[크리스마스 10첼로 페스티벌 : 디즈니 VS 지브리 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -792,20 +806,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60082</guid>
             <pubDate>Fri, 16 Aug 2024 05:10:07 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.22(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  PMPS 2024 SEASON 2 FINALS​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60081</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60081</guid>
-            <pubDate>Fri, 16 Aug 2024 03:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.19(월) 03:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  ​이끌든지 따르든지 2025 트렌드코리아 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60080</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60080</guid>
-            <pubDate>Fri, 16 Aug 2024 01:59:57 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.19(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
