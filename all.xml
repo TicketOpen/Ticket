@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Aug 2024 07:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2024 08:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -202,15 +202,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011642_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈이단자들〉 - 구미 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52368</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52368</guid>
-            <pubDate>Fri, 16 Aug 2024 15:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.19
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011598_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[NOWITZKI LIVE (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52364</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52364</guid>
@@ -218,6 +209,15 @@
             <content:encoded><![CDATA[2024.08.19
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011914_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈이단자들〉 - 구미 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52368</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52368</guid>
+            <pubDate>Fri, 16 Aug 2024 15:03:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011598_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈스파이〉 (인터파크 티켓 모바일)]]></title>
@@ -229,13 +229,20 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009007_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[윤딴딴 투어콘서트 [딴딴한 여름 2024] 앵콜콘서트 : 서울 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52361</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52361</guid>
-            <pubDate>Mon, 19 Aug 2024 07:09:26 GMT</pubDate>
+            <title><![CDATA[AZUSA TADOKORO ACOUSTIC LIVE -KoroAco- SP in Seoul (supported by KOE) (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52336</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52336</guid>
+            <pubDate>Mon, 19 Aug 2024 08:10:51 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.19
                                     <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011769_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011587_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[비지정석] 뮤지컬 아이스쇼 [G-SHOW : THE LUNA] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14768</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14768</guid>
+            <pubDate>Mon, 19 Aug 2024 08:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.22(목) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[퓨전국악 밴드 경지〈보물섬을 찾아 떠나보세!〉- 부산 티켓오픈안내 (예스24 티켓)]]></title>
@@ -371,11 +378,11 @@
             <content:encoded><![CDATA[2024.08.21(수) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤직드라마 <불편한 편의점> - 부산 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14745</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14745</guid>
-            <pubDate>Wed, 14 Aug 2024 12:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.16(금) 10:00]]></content:encoded>
+            <title><![CDATA[[비지정석] 뮤지컬 아이스쇼 [G-SHOW : THE LUNA] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14768&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14768&amp;order=1</guid>
+            <pubDate>Mon, 19 Aug 2024 08:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024-08-22(목) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[퓨전국악 밴드 경지〈보물섬을 찾아 떠나보세!〉- 부산 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -439,13 +446,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14757&amp;order=1</guid>
             <pubDate>Wed, 14 Aug 2024 12:13:10 GMT</pubDate>
             <content:encoded><![CDATA[2024-08-20(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬〈연남동 빙굴빙굴 빨래방〉티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14755&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14755&amp;order=1</guid>
-            <pubDate>Wed, 14 Aug 2024 12:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024-08-14(수) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[CHERRY WORLD [노란 머리 체리] 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -526,6 +526,20 @@
             <pubDate>Thu, 04 Jul 2024 08:11:46 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.09(화) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] GAC 기획공연 포커스 탑현 단독 콘서트 ‘포스트잇’​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60098</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60098</guid>
+            <pubDate>Mon, 19 Aug 2024 08:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.21(수) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  ​칸티쿰노붐 미션콰이어 여성합창단 정기연주회 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60097</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60097</guid>
+            <pubDate>Mon, 19 Aug 2024 08:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.20(화) 03:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <위로> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -619,18 +633,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.08.22(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​가족뮤지컬 <에그박사 - 연구소에서 생긴 일> – 안산​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60083</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60083</guid>
-            <pubDate>Fri, 16 Aug 2024 07:09:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.20(화) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매] GAC 기획공연 포커스 탑현 단독 콘서트 ‘포스트잇’​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60098</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60098</guid>
+            <pubDate>Mon, 19 Aug 2024 08:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.21(수) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 심수봉 전국투어콘서트 : 꽃길 - 군포 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60082</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60082</guid>
-            <pubDate>Fri, 16 Aug 2024 05:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.22(목) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  ​칸티쿰노붐 미션콰이어 여성합창단 정기연주회 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60097</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60097</guid>
+            <pubDate>Mon, 19 Aug 2024 08:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.20(화) 03:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <위로> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -721,20 +735,6 @@
             <link>http://m.ticketlink.co.kr/help/notice/60084</link>
             <guid>http://m.ticketlink.co.kr/help/notice/60084</guid>
             <pubDate>Fri, 16 Aug 2024 07:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.22(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​가족뮤지컬 <에그박사 - 연구소에서 생긴 일> – 안산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60083</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60083</guid>
-            <pubDate>Fri, 16 Aug 2024 07:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.20(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 심수봉 전국투어콘서트 : 꽃길 - 군포 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60082</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60082</guid>
-            <pubDate>Fri, 16 Aug 2024 05:10:07 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.22(목) 05:00]]></content:encoded>
         </item>
         <item>
