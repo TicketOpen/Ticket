@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-19T06:12:02.089Z</updated>
+    <updated>2024-08-19T07:10:15.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[퓨전국악 밴드 경지〈보물섬을 찾아 떠나보세!〉- 부산 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14767&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14767&amp;order=1"/>
+        <updated>2024-08-19T07:09:43.728Z</updated>
+        <content type="html"><![CDATA[2024-08-26(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산 마루 국제음악제 〈프롬나드 콘서트2〉티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14766&amp;order=1</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[뮤지컬〈연남동 빙굴빙굴 빨래방〉티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14755&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14755&amp;order=1"/>
-        <updated>2024-08-14T12:13:11.010Z</updated>
-        <content type="html"><![CDATA[2024-08-14(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첼리스트 홍진호 콘서트 <첼로의 숲> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14754&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14754&amp;order=1"/>
         <updated>2024-08-14T12:13:11.010Z</updated>
         <content type="html"><![CDATA[2024-08-14(수) 14:00]]></content>
     </entry>
