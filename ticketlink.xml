@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-19T04:10:20.789Z</updated>
+    <updated>2024-08-19T05:09:09.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스마스 10첼로 페스티벌 : 디즈니 VS 지브리 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60094</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60094"/>
+        <updated>2024-08-19T05:08:56.384Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.21(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마르친 바실레프스키 트리오 결성 30주년 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60093</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60093"/>
+        <updated>2024-08-19T05:08:56.391Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.22(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2024 브르노 필 내한공연​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60092</id>
@@ -25,6 +39,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60090"/>
         <updated>2024-08-19T02:02:04.958Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.22(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​[피처링_트랙 3] 뮤지컬 <유진과 유진>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60089</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60089"/>
+        <updated>2024-08-19T05:08:56.404Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.22(목) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마르쿠스 뤼페르츠: 죄와 신화, 그리고 다른 질문들​ 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60080"/>
         <updated>2024-08-16T01:59:49.759Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.19(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​크리스마스캐롤 - 서울 서대문​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60079</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60079"/>
-        <updated>2024-08-16T01:59:49.759Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.21(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 경기인디뮤직페스티벌 - 얼리버드​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60078</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60078"/>
-        <updated>2024-08-15T02:29:49.650Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.16(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 NTX FAN CONCERT : NEW ERA​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60077</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60077"/>
-        <updated>2024-08-14T09:09:11.659Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.16(금) 09:00]]></content>
     </entry>
 </feed>
