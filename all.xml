@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Aug 2024 05:08:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 07:03:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,6 +224,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006970_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[마르친 바실레프스키 트리오 결성 30주년 콘서트 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14776</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14776</guid>
+            <pubDate>Tue, 20 Aug 2024 07:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.22(목) 10:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[부산] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14775</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14775</guid>
@@ -357,11 +364,11 @@
             <content:encoded><![CDATA[2024.08.14(수) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14753</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14753</guid>
-            <pubDate>Wed, 14 Aug 2024 12:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.19(월) 20:00]]></content:encoded>
+            <title><![CDATA[마르친 바실레프스키 트리오 결성 30주년 콘서트 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14776&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14776&amp;order=1</guid>
+            <pubDate>Tue, 20 Aug 2024 07:02:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024-08-22(목) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부산] 2024 주현미 콘서트 [The Original] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -425,13 +432,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14767&amp;order=1</guid>
             <pubDate>Mon, 19 Aug 2024 07:09:43 GMT</pubDate>
             <content:encoded><![CDATA[2024-08-26(월) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[부산 마루 국제음악제 〈프롬나드 콘서트2〉티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14766&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14766&amp;order=1</guid>
-            <pubDate>Mon, 19 Aug 2024 06:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024-08-22(목) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[CHERRY WORLD [노란 머리 체리] 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -514,6 +514,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 2024 카이 세번째 팬미팅 [ Your Kai ]​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60105</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60105</guid>
+            <pubDate>Tue, 20 Aug 2024 07:03:14 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.23(금) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 공감각적 클래식 콘서트 < Playlist : Untitled 시즌Ⅱ, 가을 >​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60104</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60104</guid>
+            <pubDate>Tue, 20 Aug 2024 07:03:14 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.21(수) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[연극 <남일동 부인들> - 대구 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60103</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60103</guid>
@@ -577,7 +591,7 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.08.22(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[크리스마스 10첼로 페스티벌 : 디즈니 VS 지브리 티켓오픈 안내 (티켓링크)]]></title>
+            <title><![CDATA[크리스마스 10첼로 페스티벌 : 디즈니 VS 지브리 - 부산 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60094</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60094</guid>
             <pubDate>Mon, 19 Aug 2024 05:08:56 GMT</pubDate>
@@ -605,18 +619,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.08.22(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] ​2024 조권 팬콘서트 “조권의 팬은 어디 있나요? 좋은 조권에 모시겠습니다.” ​티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60090</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60090</guid>
-            <pubDate>Mon, 19 Aug 2024 02:02:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.22(목) 11:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 2024 카이 세번째 팬미팅 [ Your Kai ]​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60105</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60105</guid>
+            <pubDate>Tue, 20 Aug 2024 07:03:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.23(금) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  ​[피처링_트랙 3] 뮤지컬 <유진과 유진>​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60089</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60089</guid>
-            <pubDate>Mon, 19 Aug 2024 05:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.22(목) 07:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 공감각적 클래식 콘서트 < Playlist : Untitled 시즌Ⅱ, 가을 >​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60104</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60104</guid>
+            <pubDate>Tue, 20 Aug 2024 07:03:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.21(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <남일동 부인들> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -682,7 +696,7 @@
             <content:encoded><![CDATA[2024.08.22(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[크리스마스 10첼로 페스티벌 : 디즈니 VS 지브리 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <title><![CDATA[크리스마스 10첼로 페스티벌 : 디즈니 VS 지브리 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/60094</link>
             <guid>http://m.ticketlink.co.kr/help/notice/60094</guid>
             <pubDate>Mon, 19 Aug 2024 05:09:02 GMT</pubDate>
@@ -708,20 +722,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60091</guid>
             <pubDate>Mon, 19 Aug 2024 03:09:54 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.22(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] ​2024 조권 팬콘서트 “조권의 팬은 어디 있나요? 좋은 조권에 모시겠습니다.” ​티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60090</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60090</guid>
-            <pubDate>Mon, 19 Aug 2024 02:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.22(목) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  ​[피처링_트랙 3] 뮤지컬 <유진과 유진>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60089</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60089</guid>
-            <pubDate>Mon, 19 Aug 2024 05:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.22(목) 07:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
