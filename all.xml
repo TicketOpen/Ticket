@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Aug 2024 13:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 14:03:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011935_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[2024 부천문화재단 가을시즌 어린이공연 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52298</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52298</guid>
+            <pubDate>Mon, 19 Aug 2024 15:06:29 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.20
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024080515033573.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제3회 무지카 사크라 페스티벌 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52366</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52366</guid>
@@ -204,13 +213,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011779_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 부천문화재단 가을시즌 어린이공연 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52298</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52298</guid>
+            <title><![CDATA[뮤지컬 〈카르밀라〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52396</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52396</guid>
             <pubDate>Mon, 19 Aug 2024 15:06:29 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.20
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024080515033573.jpg" length="0" type="image/jpg"/>
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006970_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈미오 프라텔로〉 (인터파크 티켓 모바일)]]></title>
@@ -220,15 +229,6 @@
             <content:encoded><![CDATA[2024.08.20
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005912_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈카르밀라〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52396</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52396</guid>
-            <pubDate>Mon, 19 Aug 2024 15:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.20
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006970_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[마르친 바실레프스키 트리오 결성 30주년 콘서트 티켓 오픈 안내 (예스24 티켓)]]></title>
