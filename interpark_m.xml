@@ -4,18 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Aug 2024 22:04:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 23:09:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2024 베스트셀러 뮤지컬 〈누가내머리에똥쌌어？〉 - 광주]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52408</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52408</guid>
-            <pubDate>Tue, 20 Aug 2024 15:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.21
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012075_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[연극 은밀한 연애]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52393</link>
@@ -24,6 +15,15 @@
             <content:encoded><![CDATA[2024.08.21
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011787_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 베스트셀러 뮤지컬 〈누가내머리에똥쌌어？〉 - 광주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52408</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52408</guid>
+            <pubDate>Tue, 20 Aug 2024 15:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.21
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012075_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[디즈니 100년 특별전 슈퍼 얼리버드]]></title>
