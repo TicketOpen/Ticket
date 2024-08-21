@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Aug 2024 17:04:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Aug 2024 18:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,15 +238,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24003081_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[러브레터 & 냉정과 열정사이 시네마 콘서트 - 대전 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52404</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52404</guid>
-            <pubDate>Wed, 21 Aug 2024 15:04:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.22
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024081217434152.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2024 심수봉 전국투어콘서트 : 꽃길 - 군포 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52388</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52388</guid>
@@ -263,6 +254,15 @@
             <content:encoded><![CDATA[2024.08.22
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024080819521127.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러브레터 & 냉정과 열정사이 시네마 콘서트 - 대전 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52404</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52404</guid>
+            <pubDate>Wed, 21 Aug 2024 15:04:54 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.22
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024081217434152.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BBC PROMS KOREA (인터파크 티켓 모바일)]]></title>
