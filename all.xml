@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Aug 2024 00:33:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Aug 2024 02:00:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,15 +211,6 @@
             <content:encoded><![CDATA[24.08.26(월)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 은밀한 연애 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52393</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52393</guid>
-            <pubDate>Tue, 20 Aug 2024 15:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.21
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011787_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2024 베스트셀러 뮤지컬 〈누가내머리에똥쌌어？〉 - 광주 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52408</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52408</guid>
@@ -227,6 +218,15 @@
             <content:encoded><![CDATA[2024.08.21
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012075_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 은밀한 연애 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52393</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52393</guid>
+            <pubDate>Tue, 20 Aug 2024 15:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.21
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011787_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[디즈니 100년 특별전 슈퍼 얼리버드 (인터파크 티켓 모바일)]]></title>
@@ -245,15 +245,6 @@
             <content:encoded><![CDATA[2024.08.21
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012043_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈조로: 액터뮤지션〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52398</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52398</guid>
-            <pubDate>Tue, 20 Aug 2024 15:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011992_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈나와 할아버지〉 (인터파크 티켓 모바일)]]></title>
@@ -281,6 +272,15 @@
             <content:encoded><![CDATA[2024.08.21
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012072_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈조로: 액터뮤지션〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52398</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52398</guid>
+            <pubDate>Tue, 20 Aug 2024 15:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011992_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 2NE1 CONCERT [WELCOME BACK] IN SEOUL 추가회차 (인터파크 티켓 모바일)]]></title>
@@ -591,6 +591,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2024 가족뮤지컬 <엄마까투리는 슈퍼맘> - 서울 ​티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60107</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60107</guid>
+            <pubDate>Wed, 21 Aug 2024 02:00:06 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.22(목) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 과천 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60106</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60106</guid>
@@ -689,11 +696,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.08.22(목) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​2024 브르노 필 내한공연​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60092</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60092</guid>
-            <pubDate>Mon, 19 Aug 2024 03:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.20(화) 07:00]]></content:encoded>
+            <title><![CDATA[2024 가족뮤지컬 <엄마까투리는 슈퍼맘> - 서울 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60107</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60107</guid>
+            <pubDate>Wed, 21 Aug 2024 02:00:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.22(목) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 과천 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -792,13 +799,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60093</guid>
             <pubDate>Mon, 19 Aug 2024 05:09:02 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.22(목) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​2024 브르노 필 내한공연​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60092</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60092</guid>
-            <pubDate>Mon, 19 Aug 2024 03:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.20(화) 07:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
