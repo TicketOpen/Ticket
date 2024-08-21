@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Aug 2024 06:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Aug 2024 07:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,15 +44,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012043_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈조로: 액터뮤지션〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52398</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52398</guid>
-            <pubDate>Tue, 20 Aug 2024 15:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011992_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[연극 〈나와 할아버지〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52374</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52374</guid>
@@ -78,6 +69,15 @@
             <content:encoded><![CDATA[2024.08.21
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012072_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈조로: 액터뮤지션〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52398</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52398</guid>
+            <pubDate>Tue, 20 Aug 2024 15:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011992_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 2NE1 CONCERT [WELCOME BACK] IN SEOUL 추가회차]]></title>
