@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-23T08:12:15.890Z</updated>
+    <updated>2024-08-23T09:08:50.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
         <title type="html"><![CDATA[[광주] 뮤지컬 〈시카고〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14796&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14796&amp;order=1"/>
-        <updated>2024-08-23T08:11:43.281Z</updated>
+        <updated>2024-08-23T08:11:43.097Z</updated>
         <content type="html"><![CDATA[2024-08-26(월) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 가족 뮤지컬 <꼬마공룡 크앙> 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14795&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14795&amp;order=1"/>
+        <updated>2024-08-23T09:08:20.202Z</updated>
+        <content type="html"><![CDATA[2024-08-29(목) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈말을 버린 사내〉 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14787&amp;order=1"/>
         <updated>2024-08-22T05:08:16.991Z</updated>
         <content type="html"><![CDATA[2024-08-27(화) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천안] 플레이 뮤지컬 <핑크퐁과 아기상어의 무지개 구출 작전> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14786&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14786&amp;order=1"/>
-        <updated>2024-08-22T06:11:06.389Z</updated>
-        <content type="html"><![CDATA[2024-08-27(화) 11:00]]></content>
     </entry>
 </feed>
