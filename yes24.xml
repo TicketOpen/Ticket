@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-26T04:11:16.329Z</updated>
+    <updated>2024-08-26T05:09:21.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤직드라마 <불편한 편의점> - 부산 10월 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14806</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14806"/>
+        <updated>2024-08-26T05:08:35.344Z</updated>
+        <content type="html"><![CDATA[2024.08.28(수) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [연남동 빙굴빙굴 빨래방] 10월 공연 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14805</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14805"/>
+        <updated>2024-08-26T05:08:35.345Z</updated>
+        <content type="html"><![CDATA[2024.08.30(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[경산] 2024 V.O.S 20주년 전국투어 콘서트 [우리의 스무살] 티켓 오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14804</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14787"/>
         <updated>2024-08-22T05:08:06.278Z</updated>
         <content type="html"><![CDATA[2024.08.27(화) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천안] 플레이 뮤지컬 <핑크퐁과 아기상어의 무지개 구출 작전> 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14786</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14786"/>
-        <updated>2024-08-22T06:10:55.937Z</updated>
-        <content type="html"><![CDATA[2024.08.27(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산발레시어터 [트리플 빌] 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14785</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14785"/>
-        <updated>2024-08-21T08:11:38.090Z</updated>
-        <content type="html"><![CDATA[2024.08.28(수) 14:00]]></content>
     </entry>
 </feed>
