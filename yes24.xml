@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-08-27T08:11:47.704Z</updated>
+    <updated>2024-08-27T09:08:57.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Lacuna (라쿠나) 단독 콘서트 ‘dream:parallel world’ 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14824</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14824"/>
+        <updated>2024-08-27T09:08:18.304Z</updated>
+        <content type="html"><![CDATA[2024.09.03(화) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈랭보〉 2차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14823</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14805"/>
         <updated>2024-08-26T05:08:35.345Z</updated>
         <content type="html"><![CDATA[2024.08.30(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[경산] 2024 V.O.S 20주년 전국투어 콘서트 [우리의 스무살] 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14804</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14804"/>
-        <updated>2024-08-26T02:01:36.772Z</updated>
-        <content type="html"><![CDATA[2024.08.29(목) 14:00]]></content>
     </entry>
 </feed>
