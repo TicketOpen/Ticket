@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Aug 2024 06:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 07:08:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -521,6 +521,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 <몽심> - 서울​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60149</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60149</guid>
+            <pubDate>Tue, 27 Aug 2024 07:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.29(목) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <랭보> 2차​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60148</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60148</guid>
@@ -619,11 +626,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.08.27(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[YOASOBI ASIA TOUR 2024-2025 LIVE IN KOREA​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60133</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60133</guid>
-            <pubDate>Mon, 26 Aug 2024 02:02:08 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.06(금) 11:00]]></content:encoded>
+            <title><![CDATA[연극 <몽심> - 서울​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60149</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60149</guid>
+            <pubDate>Tue, 27 Aug 2024 07:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.29(목) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <랭보> 2차​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -722,13 +729,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60134</guid>
             <pubDate>Mon, 26 Aug 2024 02:02:17 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.27(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[YOASOBI ASIA TOUR 2024-2025 LIVE IN KOREA​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60133</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60133</guid>
-            <pubDate>Mon, 26 Aug 2024 02:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.06(금) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
