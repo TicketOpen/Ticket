@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 05:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 06:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,22 +80,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012443_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[가족매직쇼 〈구구쌤의 매직쑈라구〉 -  김해 장유]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52490</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52490</guid>
-            <pubDate>Wed, 28 Aug 2024 22:05:56 GMT</pubDate>
+            <title><![CDATA[〈10월의 봄〉 정훈희x송창식 콘서트 - 고양]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52442</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52442</guid>
+            <pubDate>Thu, 29 Aug 2024 06:11:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.29
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012539_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012261_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 V.O.S 20주년 전국투어 콘서트 〈우리의 스무살〉 - 경산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52477</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52477</guid>
-            <pubDate>Wed, 28 Aug 2024 22:05:56 GMT</pubDate>
+            <title><![CDATA[뮤직드라마 〈NEW 망원동 브라더스〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52443</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52443</guid>
+            <pubDate>Thu, 29 Aug 2024 06:11:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.29
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012485_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009362_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
