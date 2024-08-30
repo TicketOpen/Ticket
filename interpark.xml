@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-08-30T08:12:04.224Z</updated>
+    <updated>2024-08-30T09:09:47.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52574&amp;groupno=52574&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-08-30T08:11:03.270Z</updated>
         <content type="html"><![CDATA[24.09.03(화)&nbsp;14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 연극 〈친정엄마와 2박 3일〉 - 익산]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52576&amp;groupno=52576&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52576&amp;groupno=52576&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-08-30T09:08:34.849Z</updated>
+        <content type="html"><![CDATA[24.09.05(목)&nbsp;16:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈조로: 액터뮤지션〉]]></title>
@@ -130,12 +137,5 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52559&amp;groupno=52559&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-08-30T02:04:29.978Z</updated>
         <content type="html"><![CDATA[24.09.06(금)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로열 클래식 발레단 내한공연 〈호두까기 인형〉 - 부산]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52558&amp;groupno=52558&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52558&amp;groupno=52558&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-08-30T02:04:29.978Z</updated>
-        <content type="html"><![CDATA[24.09.06(금)&nbsp;14:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-08-30T08:12:04.212Z</updated>
+    <updated>2024-08-30T09:09:47.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[wee＇s ＃1 LET ME KNOW X Dragon Pony 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9262</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9262"/>
+        <updated>2024-08-30T09:08:24.184Z</updated>
+        <content type="html"><![CDATA[2024.09.05(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 CHEN FAN－CON ‘Beyond the DOOR’ in Seoul 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9260</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9250"/>
         <updated>2024-08-30T08:10:53.865Z</updated>
         <content type="html"><![CDATA[2024.08.30(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈시카고〉－수원 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9249</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9249"/>
-        <updated>2024-08-30T08:10:53.869Z</updated>
-        <content type="html"><![CDATA[2024.08.30(금) 15:00]]></content>
     </entry>
 </feed>
