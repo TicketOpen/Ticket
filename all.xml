@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 02:05:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 03:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=52291&amp;groupno=52291&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 28 Aug 2024 22:05:43 GMT</pubDate>
             <content:encoded><![CDATA[24.09.13(금)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제1회 엄태구 팬미팅 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52561&amp;groupno=52561&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52561&amp;groupno=52561&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 30 Aug 2024 03:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[24.09.02(월)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈긴긴밤〉 (인터파크 티켓)]]></title>
@@ -204,11 +211,22 @@
             <content:encoded><![CDATA[24.09.05(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제7회 1번출구 연극제 〈블루도그스〉, 〈나한테 시집오지 않을래요.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52542&amp;groupno=52542&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52542&amp;groupno=52542&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 29 Aug 2024 04:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[24.08.29(목)&nbsp;11:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 〈빵빵 이야기 속으로〉 - 하남 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52514</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52514</guid>
+            <pubDate>Thu, 29 Aug 2024 15:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.30
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012461_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 〈빵빵 이야기 속으로〉 - 고양 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52516</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52516</guid>
+            <pubDate>Thu, 29 Aug 2024 15:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.30
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012541_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 라이브 가족뮤지컬 〈피터팬〉 - 수원 (인터파크 티켓 모바일)]]></title>
@@ -238,22 +256,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012488_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 〈빵빵 이야기 속으로〉 - 하남 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52514</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52514</guid>
+            <title><![CDATA[2024 김창옥 토크콘서트 시즌4 - 울산 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52498</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52498</guid>
             <pubDate>Thu, 29 Aug 2024 15:08:43 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.30
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012461_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 〈빵빵 이야기 속으로〉 - 고양 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52516</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52516</guid>
-            <pubDate>Thu, 29 Aug 2024 15:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.30
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012541_p.gif" length="0" type="image/gif"/>
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20240827084607.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024가족매직쇼 공룡애니멀쇼 (목동) (인터파크 티켓 모바일)]]></title>
@@ -263,15 +272,6 @@
             <content:encoded><![CDATA[2024.08.30
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012560_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 김창옥 토크콘서트 시즌4 - 울산 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52498</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52498</guid>
-            <pubDate>Thu, 29 Aug 2024 15:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.30
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20240827084607.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈베르사유의 장미〉 (인터파크 티켓 모바일)]]></title>
@@ -591,6 +591,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[로열 클래식 발레단 내한공연 <호두까기 인형> - 부산 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60172</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60172</guid>
+            <pubDate>Fri, 30 Aug 2024 03:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.06(금) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[로열 클래식 발레단 내한공연 <호두까기 인형> - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60171</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60171</guid>
+            <pubDate>Fri, 30 Aug 2024 03:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.06(금) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[마술사 최형배의 오리지널 <원더매직의 과학마술콘서트> - 구로​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60169</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60169</guid>
@@ -682,18 +696,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.08.29(목) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  ​WORLD OF DANCE KOREA 2024​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60156</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60156</guid>
-            <pubDate>Wed, 28 Aug 2024 08:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.30(금) 08:00]]></content:encoded>
+            <title><![CDATA[로열 클래식 발레단 내한공연 <호두까기 인형> - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60172</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60172</guid>
+            <pubDate>Fri, 30 Aug 2024 03:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.06(금) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 현대무용단-탐 제44회 정기공연 [그럼에도 불구하고]​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60155</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60155</guid>
-            <pubDate>Wed, 28 Aug 2024 07:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.29(목) 02:00]]></content:encoded>
+            <title><![CDATA[로열 클래식 발레단 내한공연 <호두까기 인형> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60171</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60171</guid>
+            <pubDate>Fri, 30 Aug 2024 03:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.06(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마술사 최형배의 오리지널 <원더매직의 과학마술콘서트> - 구로​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -784,20 +798,6 @@
             <link>http://m.ticketlink.co.kr/help/notice/60157</link>
             <guid>http://m.ticketlink.co.kr/help/notice/60157</guid>
             <pubDate>Wed, 28 Aug 2024 08:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.29(목) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  ​WORLD OF DANCE KOREA 2024​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60156</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60156</guid>
-            <pubDate>Wed, 28 Aug 2024 08:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.30(금) 08:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 현대무용단-탐 제44회 정기공연 [그럼에도 불구하고]​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60155</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60155</guid>
-            <pubDate>Wed, 28 Aug 2024 07:08:30 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.29(목) 02:00]]></content:encoded>
         </item>
         <item>
