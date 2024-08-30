@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-08-30T10:09:34.545Z</updated>
+    <updated>2024-08-30T11:03:49.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안양] 2024 라이브가족뮤지컬 〈미녀와야수〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14847&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14847&amp;order=1"/>
+        <updated>2024-08-30T11:03:14.825Z</updated>
+        <content type="html"><![CDATA[2024-09-02(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 YOUNGJAE ASIA TOUR ‘ONCE IN A DREAM’ in Seoul 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14846&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14846&amp;order=1"/>
+        <updated>2024-08-30T11:03:14.825Z</updated>
+        <content type="html"><![CDATA[2024-09-04(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[tripleS 공식 팬클럽 WAV 1기 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14845&amp;order=1</id>
@@ -59,20 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14838&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14838&amp;order=1"/>
         <updated>2024-08-30T02:05:01.834Z</updated>
-        <content type="html"><![CDATA[2024-08-30(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 두들팝 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14837&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14837&amp;order=1"/>
-        <updated>2024-08-30T02:05:01.838Z</updated>
-        <content type="html"><![CDATA[2024-08-30(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 더 라틴 터치(The Latin Touch) ＆ 피아노 병창 ＂춘향＂ 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14836&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14836&amp;order=1"/>
-        <updated>2024-08-30T02:05:01.842Z</updated>
         <content type="html"><![CDATA[2024-08-30(금) 14:00]]></content>
     </entry>
 </feed>
