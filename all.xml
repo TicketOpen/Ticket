@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 02:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 03:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=52291&amp;groupno=52291&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 28 Aug 2024 22:05:43 GMT</pubDate>
             <content:encoded><![CDATA[24.09.13(금)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SIRUP 내한공연(SIRUP Live in Seoul) (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52580&amp;groupno=52580&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52580&amp;groupno=52580&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 02 Sep 2024 03:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[24.09.09(월)&nbsp;19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈젠틀맨스 가이드 : 사랑과 살인편〉-부산 (인터파크 티켓)]]></title>
@@ -132,13 +139,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52565&amp;groupno=52565&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 30 Aug 2024 05:07:59 GMT</pubDate>
             <content:encoded><![CDATA[24.09.03(화)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈부치하난〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52564&amp;groupno=52564&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52564&amp;groupno=52564&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 30 Aug 2024 05:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[24.09.03(화)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 라이브가족뮤지컬 〈호두까기인형〉 - 대구 (인터파크 티켓 모바일)]]></title>
@@ -521,6 +521,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마르친 바실레프스키 트리오 결성 30주년 콘서트 (대구) ​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60183</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60183</guid>
+            <pubDate>Mon, 02 Sep 2024 03:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.05(목) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매]  ​GAC기획공연 11시 음악산책 '김종진, 빛을 향한 건축 순례'​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60182</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60182</guid>
@@ -619,11 +626,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.08.30(금) 08:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[지브리 영화음악 콘서트 2024 서울 (9.29)​​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60167</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60167</guid>
-            <pubDate>Thu, 29 Aug 2024 08:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.08.30(금) 08:00]]></content:encoded>
+            <title><![CDATA[마르친 바실레프스키 트리오 결성 30주년 콘서트 (대구) ​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60183</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60183</guid>
+            <pubDate>Mon, 02 Sep 2024 03:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.05(목) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]  ​GAC기획공연 11시 음악산책 '김종진, 빛을 향한 건축 순례'​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -720,13 +727,6 @@
             <title><![CDATA[신카이 마코토 공식 하이라이트 필름콘서트 feat. 너의이름은., 날씨의아이, 스즈메의문단속​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/60168</link>
             <guid>http://m.ticketlink.co.kr/help/notice/60168</guid>
-            <pubDate>Thu, 29 Aug 2024 08:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.30(금) 08:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지브리 영화음악 콘서트 2024 서울 (9.29)​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60167</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60167</guid>
             <pubDate>Thu, 29 Aug 2024 08:11:02 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.30(금) 08:00]]></content:encoded>
         </item>
