@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 11:02:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 12:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,15 +150,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012634_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 〈호두까기인형〉 - 부산 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52522</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52522</guid>
-            <pubDate>Fri, 30 Aug 2024 15:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.02
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012659_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[지도를 읽는 시간 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52499</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52499</guid>
@@ -166,6 +157,15 @@
             <content:encoded><![CDATA[2024.09.02
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012445_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 〈호두까기인형〉 - 부산 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52522</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52522</guid>
+            <pubDate>Fri, 30 Aug 2024 15:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.02
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012659_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[제비다방 컴필레이션 2024/2025 (인터파크 티켓 모바일)]]></title>
@@ -229,6 +229,216 @@
             <content:encoded><![CDATA[2024.09.03
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012436_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[수원] 2024 라이브가족뮤지컬〈산타와루돌프〉 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14852</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14852</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.03(화) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <드라이 플라워> 1차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14850</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14850</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.04(수) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[부산] 뮤지컬 〈젠틀맨스 가이드 : 사랑과 살인편〉 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14849</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14849</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.20(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[대구] 2024 라이브가족뮤지컬〈호두까기인형〉 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14848</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14848</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.02(월) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[안양] 2024 라이브가족뮤지컬 〈미녀와야수〉 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14847</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14847</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.02(월) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14846</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14846</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.04(수) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.09.02(월) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14845</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14845</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.02(월) 13:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <사의찬미 2024 2ND STAGE> 1차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14844</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14844</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.03(화) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 연극 〈친정엄마와 2박3일〉 - 익산 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14843</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14843</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.05(목) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉 Chapter2 마지막 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14842</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14842</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.09(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[서울] 뮤지컬 〈친구의 전설〉 3차 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14841</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14841</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.06(금) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14840</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14840</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.30(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14839</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14839</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.30(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14838</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14838</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.30(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14837</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14837</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.30(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14836</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14836</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.30(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14835</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14835</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.30(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14834</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14834</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.30(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024년 비지정문화재 영남 민속전통연행물 공연 1 <천자만홍(千紫萬紅)> 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14833</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14833</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.03(화) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[부산] 2024-25 이은미 라이브 투어 [MOVE ON] 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14832</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14832</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.05(목) 17:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[수원] 2024 라이브가족뮤지컬〈산타와루돌프〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14852&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14852&amp;order=1</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024-09-03(화) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <드라이 플라워> 1차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14850&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14850&amp;order=1</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024-09-04(수) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[부산] 뮤지컬 〈젠틀맨스 가이드 : 사랑과 살인편〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14849&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14849&amp;order=1</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024-09-20(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[대구] 2024 라이브가족뮤지컬〈호두까기인형〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14848&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14848&amp;order=1</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024-09-02(월) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[안양] 2024 라이브가족뮤지컬 〈미녀와야수〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14847&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14847&amp;order=1</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024-09-02(월) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 YOUNGJAE ASIA TOUR ‘ONCE IN A DREAM’ in Seoul 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14846&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14846&amp;order=1</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024-09-04(수) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[tripleS 공식 팬클럽 WAV 1기 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14845&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14845&amp;order=1</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024-09-02(월) 13:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <사의찬미 2024 2ND STAGE> 1차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14844&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14844&amp;order=1</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024-09-03(화) 15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 연극 〈친정엄마와 2박3일〉 - 익산 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14843&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14843&amp;order=1</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024-09-05(목) 16:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉 Chapter2 마지막 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14842&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14842&amp;order=1</guid>
+            <pubDate>Mon, 02 Sep 2024 12:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024-09-09(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[CHERRY WORLD [노란 머리 체리] 티켓오픈 안내 (위메프 공연티켓)]]></title>
