@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Sep 2024 05:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 06:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,22 +80,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012693_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 오누이 시즌2 "우리들의 무명시절" 〈김용임,진성〉 - 전주]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52457</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52457</guid>
-            <pubDate>Tue, 03 Sep 2024 00:33:45 GMT</pubDate>
+            <title><![CDATA[연극 [넓은 하늘 무지개를 보면 내 마음은 춤춘다] - 고양]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52531</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52531</guid>
+            <pubDate>Tue, 03 Sep 2024 06:11:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.03
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012613_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012605_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈랭보〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52509</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52509</guid>
-            <pubDate>Tue, 03 Sep 2024 00:33:45 GMT</pubDate>
+            <title><![CDATA[페인터즈 - 광화문전용관]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52532</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52532</guid>
+            <pubDate>Tue, 03 Sep 2024 06:11:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.03
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011238_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22014959_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
