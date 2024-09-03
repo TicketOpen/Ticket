@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Sep 2024 02:04:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 03:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,6 +232,13 @@
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14854</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14854</guid>
+            <pubDate>Tue, 03 Sep 2024 03:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.04(수) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14853</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14853</guid>
             <pubDate>Tue, 03 Sep 2024 02:03:56 GMT</pubDate>
@@ -364,11 +371,11 @@
             <content:encoded><![CDATA[2024.08.30(금) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14834</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14834</guid>
-            <pubDate>Mon, 02 Sep 2024 12:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.30(금) 14:00]]></content:encoded>
+            <title><![CDATA[[울산] 유쾌한 힐링 연극 〈여자만세2〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14854&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14854&amp;order=1</guid>
+            <pubDate>Tue, 03 Sep 2024 03:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024-09-04(수) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Xdinary Heroes Concert〈Closed ♭eta: v6.4〉추가 좌석 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -432,13 +439,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14845&amp;order=1</guid>
             <pubDate>Mon, 02 Sep 2024 12:13:48 GMT</pubDate>
             <content:encoded><![CDATA[2024-09-02(월) 13:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <사의찬미 2024 2ND STAGE> 1차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14844&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14844&amp;order=1</guid>
-            <pubDate>Mon, 02 Sep 2024 12:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[2024-09-03(화) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[CHERRY WORLD [노란 머리 체리] 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -519,6 +519,20 @@
             <pubDate>Thu, 04 Jul 2024 08:11:46 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.09(화) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  ​2024 수성아트피아 특별 프로그램 <가을 합창 축제>​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60204</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60204</guid>
+            <pubDate>Tue, 03 Sep 2024 03:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.05(목) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​어린이뮤지컬 <캣츠> - 서울 도봉​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60203</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60203</guid>
+            <pubDate>Tue, 03 Sep 2024 03:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.05(목) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]  ​조희창의 [토요 클래식 살롱] - V (경주)​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -612,18 +626,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.09.20(금) 04:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  [광주예술의전당] 얍 판 츠베덴 & 서울시립교향악단 with 클라라 주미 강 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60188</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60188</guid>
-            <pubDate>Mon, 02 Sep 2024 06:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.03(화) 08:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  ​2024 수성아트피아 특별 프로그램 <가을 합창 축제>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60204</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60204</guid>
+            <pubDate>Tue, 03 Sep 2024 03:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.05(목) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​2024 타임슬립 코미디뮤지컬 <썸데이> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60187</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60187</guid>
-            <pubDate>Mon, 02 Sep 2024 06:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.02(월) 06:00]]></content:encoded>
+            <title><![CDATA[​어린이뮤지컬 <캣츠> - 서울 도봉​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60203</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60203</guid>
+            <pubDate>Tue, 03 Sep 2024 03:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.05(목) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]  ​조희창의 [토요 클래식 살롱] - V (경주)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -715,20 +729,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60189</guid>
             <pubDate>Mon, 02 Sep 2024 07:09:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.20(금) 04:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  [광주예술의전당] 얍 판 츠베덴 & 서울시립교향악단 with 클라라 주미 강 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60188</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60188</guid>
-            <pubDate>Mon, 02 Sep 2024 06:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.03(화) 08:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​2024 타임슬립 코미디뮤지컬 <썸데이> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60187</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60187</guid>
-            <pubDate>Mon, 02 Sep 2024 06:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.02(월) 06:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
