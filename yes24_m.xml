@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-02T23:06:26.971Z</updated>
+    <updated>2024-09-03T00:34:44.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14852&amp;order=1"/>
         <updated>2024-09-02T12:13:48.329Z</updated>
         <content type="html"><![CDATA[2024-09-03(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 헬로카봇 뮤지컬 시즌8 〈미래연구소를 지켜라!〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14851&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14851&amp;order=1"/>
+        <updated>2024-09-03T00:34:05.426Z</updated>
+        <content type="html"><![CDATA[2024-09-06(금) 14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <드라이 플라워> 1차 티켓오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14843&amp;order=1"/>
         <updated>2024-09-02T12:13:48.366Z</updated>
         <content type="html"><![CDATA[2024-09-05(목) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉 Chapter2 마지막 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14842&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14842&amp;order=1"/>
-        <updated>2024-09-02T12:13:48.369Z</updated>
-        <content type="html"><![CDATA[2024-09-09(월) 14:00]]></content>
     </entry>
 </feed>
