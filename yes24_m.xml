@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-04T00:34:58.883Z</updated>
+    <updated>2024-09-04T02:05:52.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[양산] 2024 라이브가족뮤지컬 〈루돌프의크리스마스선물 〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14862&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14862&amp;order=1"/>
+        <updated>2024-09-04T02:05:20.817Z</updated>
+        <content type="html"><![CDATA[2024-09-10(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <지저스 크라이스트 수퍼스타> 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14857&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14857&amp;order=1"/>
+        <updated>2024-09-04T02:05:20.829Z</updated>
+        <content type="html"><![CDATA[2024-09-10(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 뮤지컬 〈빈센트 반 고흐〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14856&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14856&amp;order=1"/>
+        <updated>2024-09-04T02:05:20.829Z</updated>
+        <content type="html"><![CDATA[2024-09-10(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈‘고도를 기다리며’를 기다리며〉 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14855&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14855&amp;order=1"/>
+        <updated>2024-09-04T02:05:20.834Z</updated>
+        <content type="html"><![CDATA[2024-09-09(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 유쾌한 힐링 연극 〈여자만세2〉 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14854&amp;order=1</id>
@@ -46,33 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14849&amp;order=1"/>
         <updated>2024-09-02T12:13:48.339Z</updated>
         <content type="html"><![CDATA[2024-09-20(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬〈호두까기인형〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14848&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14848&amp;order=1"/>
-        <updated>2024-09-02T12:13:48.346Z</updated>
-        <content type="html"><![CDATA[2024-09-02(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안양] 2024 라이브가족뮤지컬 〈미녀와야수〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14847&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14847&amp;order=1"/>
-        <updated>2024-09-02T12:13:48.349Z</updated>
-        <content type="html"><![CDATA[2024-09-02(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 YOUNGJAE ASIA TOUR ‘ONCE IN A DREAM’ in Seoul 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14846&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14846&amp;order=1"/>
-        <updated>2024-09-02T12:13:48.351Z</updated>
-        <content type="html"><![CDATA[2024-09-04(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tripleS 공식 팬클럽 WAV 1기 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14845&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14845&amp;order=1"/>
-        <updated>2024-09-02T12:13:48.362Z</updated>
-        <content type="html"><![CDATA[2024-09-02(월) 13:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-04T00:34:58.879Z</updated>
+    <updated>2024-09-04T02:05:52.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <지저스 크라이스트 수퍼스타> 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14857</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14857"/>
+        <updated>2024-09-04T02:05:12.347Z</updated>
+        <content type="html"><![CDATA[2024.09.10(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 뮤지컬 〈빈센트 반 고흐〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14856</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14856"/>
+        <updated>2024-09-04T02:05:12.347Z</updated>
+        <content type="html"><![CDATA[2024.09.10(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈‘고도를 기다리며’를 기다리며〉 2차 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14855</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14855"/>
+        <updated>2024-09-04T02:05:12.347Z</updated>
+        <content type="html"><![CDATA[2024.09.09(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14854</id>
@@ -122,27 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14838</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14838"/>
         <updated>2024-09-02T12:13:39.992Z</updated>
-        <content type="html"><![CDATA[2024.08.30(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14837</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14837"/>
-        <updated>2024-09-02T12:13:39.995Z</updated>
-        <content type="html"><![CDATA[2024.08.30(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14836</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14836"/>
-        <updated>2024-09-02T12:13:39.998Z</updated>
-        <content type="html"><![CDATA[2024.08.30(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14835</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14835"/>
-        <updated>2024-09-02T12:13:40.001Z</updated>
         <content type="html"><![CDATA[2024.08.30(금) 14:00]]></content>
     </entry>
 </feed>
