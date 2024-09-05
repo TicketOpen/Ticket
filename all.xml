@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Sep 2024 07:09:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 08:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -281,24 +281,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012692_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 현역가왕 전국투어 콘서트 - 대구앵콜 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52454</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52454</guid>
-            <pubDate>Thu, 05 Sep 2024 04:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.05
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012834_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈알라딘〉 한국 초연 (ALADDIN The Musical) (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52502</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52502</guid>
-            <pubDate>Thu, 05 Sep 2024 04:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.05
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012498_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[히사이시 조 영화음악 콘서트 2024_고양 파이널 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52595</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52595</guid>
@@ -306,6 +288,24 @@
             <content:encoded><![CDATA[2024.09.05
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012767_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[히사이시 조 영화음악 콘서트 2024_경주 앙코르 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52596</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52596</guid>
+            <pubDate>Thu, 05 Sep 2024 08:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.05
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012754_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[아카데미 오브 세인트 마틴 인 더 필즈 ＆ 카티아 부니아티쉬빌리 - 인천 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52598</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52598</guid>
+            <pubDate>Thu, 05 Sep 2024 08:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.05
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012852_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
@@ -598,6 +598,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매]​ 2024 BEER FEST GWANGJU​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60232</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60232</guid>
+            <pubDate>Thu, 05 Sep 2024 08:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.06(금) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 김경호 데뷔 30주년 전국투어 콘서트:THE ROCKER-고양​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60231</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60231</guid>
@@ -696,11 +703,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.09.11(수) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다-(광주)티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60217</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60217</guid>
-            <pubDate>Wed, 04 Sep 2024 04:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.10(화) 03:00]]></content:encoded>
+            <title><![CDATA[[단독판매]​ 2024 BEER FEST GWANGJU​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60232</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60232</guid>
+            <pubDate>Thu, 05 Sep 2024 08:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.06(금) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 김경호 데뷔 30주년 전국투어 콘서트:THE ROCKER-고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -799,13 +806,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60218</guid>
             <pubDate>Wed, 04 Sep 2024 06:12:38 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.11(수) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다-(광주)티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60217</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60217</guid>
-            <pubDate>Wed, 04 Sep 2024 04:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.10(화) 03:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
