@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-09-06T08:12:06.506Z</updated>
+    <updated>2024-09-06T09:09:11.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[can＇t be blue 단독 공연 〈Blue Vinyl〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9282</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9282"/>
+        <updated>2024-09-06T09:07:46.817Z</updated>
+        <content type="html"><![CDATA[2024.09.09(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연－지브리，재즈를 만나다－（성남）티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9280</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9272"/>
         <updated>2024-09-06T06:10:33.906Z</updated>
         <content type="html"><![CDATA[2024.09.06(금) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［슈퍼 얼리버드］하이퍼리얼리즘 50주년 회고전 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9269</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9269"/>
-        <updated>2024-09-06T06:10:33.912Z</updated>
-        <content type="html"><![CDATA[2024.09.06(금) 10:00]]></content>
     </entry>
 </feed>
