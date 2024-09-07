@@ -4,18 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Sep 2024 18:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Sep 2024 19:03:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[임태경 20주년 기념 전국 투어 콘서트 〈임태경.COM:Color of Music〉 in 부산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52578</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52578</guid>
-            <pubDate>Fri, 06 Sep 2024 15:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.09
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012832_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[[국악] 장인들의 무도회_천하제일탈공작소]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52650</link>
@@ -24,6 +15,15 @@
             <content:encoded><![CDATA[2024.09.09
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임태경 20주년 기념 전국 투어 콘서트 〈임태경.COM:Color of Music〉 in 부산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52578</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52578</guid>
+            <pubDate>Fri, 06 Sep 2024 15:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.09
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012832_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈‘고도를 기다리며’를 기다리며〉]]></title>
