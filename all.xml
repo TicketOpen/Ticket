@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Sep 2024 03:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Sep 2024 04:09:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,15 +177,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012869_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 이승철 콘서트 〈오케스트락2〉 고양공연 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52584</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52584</guid>
-            <pubDate>Fri, 06 Sep 2024 15:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.09
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012822_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[〈바스커빌 : 셜록홈즈 미스터리〉 Chapter2 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52573</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52573</guid>
@@ -193,6 +184,15 @@
             <content:encoded><![CDATA[2024.09.09
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007536_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 이승철 콘서트 〈오케스트락2〉 고양공연 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52584</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52584</guid>
+            <pubDate>Fri, 06 Sep 2024 15:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.09
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012822_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 이승철 콘서트 〈오케스트락2〉 서울공연 (인터파크 티켓 모바일)]]></title>
