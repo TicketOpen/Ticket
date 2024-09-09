@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 02:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 03:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=52291&amp;groupno=52291&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 28 Aug 2024 22:05:43 GMT</pubDate>
             <content:encoded><![CDATA[24.09.13(금)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카이고 내한공연 (INSPIRE CONCERT SERIES #05: KYGO) (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52672&amp;groupno=52672&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52672&amp;groupno=52672&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 09 Sep 2024 03:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[24.09.13(금)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈킹키부츠〉 - 부산 (인터파크 티켓)]]></title>
@@ -75,7 +82,7 @@
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52662&amp;groupno=52662&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52662&amp;groupno=52662&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 06 Sep 2024 09:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[24.09.11(수)&nbsp;15:00]]></content:encoded>
+            <content:encoded><![CDATA[24.09.11(수)&nbsp;13:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[AllBlue RECORDS CONCERT 〈ON THE RED LINE〉 (인터파크 티켓)]]></title>
@@ -125,13 +132,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52656&amp;groupno=52656&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 06 Sep 2024 06:10:46 GMT</pubDate>
             <content:encoded><![CDATA[24.09.11(수)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈산타와 빈양말〉 - 강동아트센터 대극장 한강 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52655&amp;groupno=52655&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52655&amp;groupno=52655&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 06 Sep 2024 06:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[24.09.13(금)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌7 BUSAN [허회경 단독 콘서트] (인터파크 티켓)]]></title>
@@ -195,6 +195,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012822_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[2024 아침음악나들이 4 - 김주택 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52627</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52627</guid>
+            <pubDate>Mon, 09 Sep 2024 03:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.09
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013037_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[2024 이승철 콘서트 〈오케스트락2〉 서울공연 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52585</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52585</guid>
@@ -222,13 +231,11 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012978_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[박태훈 팬콘서트 Dream Park 2024 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52621</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52621</guid>
-            <pubDate>Fri, 06 Sep 2024 15:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.09
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012874_p.gif" length="0" type="image/gif"/>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14877</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14877</guid>
+            <pubDate>Mon, 09 Sep 2024 03:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.26(목) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[고양] 헬로카봇 뮤지컬 시즌8 〈미래연구소를 지켜라!〉 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -364,11 +371,11 @@
             <content:encoded><![CDATA[2024.09.09(월) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <지저스 크라이스트 수퍼스타> 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14857</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14857</guid>
-            <pubDate>Wed, 04 Sep 2024 02:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.10(화) 14:00]]></content:encoded>
+            <title><![CDATA[ZHANGZHEHAN 2024 CONCERT [PRIOMRDIAL THEATER II] IN SEOUL 티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14877&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14877&amp;order=1</guid>
+            <pubDate>Mon, 09 Sep 2024 03:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024-09-26(목) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[고양] 헬로카봇 뮤지컬 시즌8 〈미래연구소를 지켜라!〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -432,13 +439,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14868&amp;order=1</guid>
             <pubDate>Thu, 05 Sep 2024 07:08:42 GMT</pubDate>
             <content:encoded><![CDATA[2024-09-11(수) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 파크 콘서트 in 창원 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14867&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14867&amp;order=1</guid>
-            <pubDate>Thu, 05 Sep 2024 03:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024-09-11(수) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[CHERRY WORLD [노란 머리 체리] 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -519,6 +519,13 @@
             <pubDate>Thu, 04 Jul 2024 08:11:46 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.09(화) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 매직컬 판타지 콘서트 - 동해​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60259</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60259</guid>
+            <pubDate>Mon, 09 Sep 2024 03:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.11(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[박창근 장르 with 오케스트라 전국투어 콘서트 - 부산 티켓오픈 안내 (티켓링크)]]></title>
@@ -619,11 +626,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.09.10(화) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[<설민석의 한국사 대모험-영웅의 시간> – 수원​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60240</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60240</guid>
-            <pubDate>Fri, 06 Sep 2024 07:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.10(화) 05:00]]></content:encoded>
+            <title><![CDATA[2024 매직컬 판타지 콘서트 - 동해​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60259</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60259</guid>
+            <pubDate>Mon, 09 Sep 2024 03:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.11(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[박창근 장르 with 오케스트라 전국투어 콘서트 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -722,13 +729,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60241</guid>
             <pubDate>Fri, 06 Sep 2024 05:08:59 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.10(화) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<설민석의 한국사 대모험-영웅의 시간> – 수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60240</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60240</guid>
-            <pubDate>Fri, 06 Sep 2024 07:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.10(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
