@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 07:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 08:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012822_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 아침음악나들이 5 - 공일오비]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52673</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52673</guid>
-            <pubDate>Mon, 09 Sep 2024 05:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.09
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013036_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2024 아침음악나들이 4 - 김주택]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52627</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52627</guid>
@@ -78,6 +69,15 @@
             <content:encoded><![CDATA[2024.09.09
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013037_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 아침음악나들이 5 - 공일오비]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52673</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52673</guid>
+            <pubDate>Mon, 09 Sep 2024 05:09:12 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.09
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013036_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 이승철 콘서트 〈오케스트락2〉 서울공연]]></title>
