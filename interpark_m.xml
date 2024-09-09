@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Sep 2024 23:05:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 00:37:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010088_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[리케이댄스 ［bOK, 푸닥거리］]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52668</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52668</guid>
+            <pubDate>Mon, 09 Sep 2024 00:36:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.09
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012978_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[박태훈 팬콘서트 Dream Park 2024]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52621</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52621</guid>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2024.09.09
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012874_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[SIRUP 내한공연(SIRUP Live in Seoul)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52580</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52580</guid>
-            <pubDate>Fri, 06 Sep 2024 15:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.09
-                                    <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012716_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
