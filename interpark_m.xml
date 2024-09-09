@@ -4,18 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 04:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 05:10:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[국악] 장인들의 무도회_천하제일탈공작소]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52650</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52650</guid>
-            <pubDate>Fri, 06 Sep 2024 15:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.09
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012862_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[임태경 20주년 기념 전국 투어 콘서트 〈임태경.COM:Color of Music〉 in 부산]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52578</link>
@@ -24,6 +15,15 @@
             <content:encoded><![CDATA[2024.09.09
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012832_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[국악] 장인들의 무도회_천하제일탈공작소]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52650</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52650</guid>
+            <pubDate>Fri, 06 Sep 2024 15:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.09
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012862_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈‘고도를 기다리며’를 기다리며〉]]></title>
@@ -71,6 +71,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013037_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[2024 아침음악나들이 5 - 공일오비]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52673</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52673</guid>
+            <pubDate>Mon, 09 Sep 2024 05:09:12 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.09
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013036_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[2024 이승철 콘서트 〈오케스트락2〉 서울공연]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52585</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52585</guid>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2024.09.09
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010088_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[리케이댄스 ［bOK, 푸닥거리］]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52668</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52668</guid>
-            <pubDate>Mon, 09 Sep 2024 00:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.09
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012978_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
