@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-10T09:10:28.054Z</updated>
+    <updated>2024-09-10T10:09:24.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
     <entry>
-        <title type="html"><![CDATA[2024 앤서니브라운 가족뮤지컬 〈우리아빠가 최고야〉 - 대구 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[[청주] 2024 라이브가족뮤지컬 〈루돌프의 크리스마스선물〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14894&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14894&amp;order=1"/>
+        <updated>2024-09-10T10:08:50.170Z</updated>
+        <content type="html"><![CDATA[2024-09-12(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[안양] 2024 라이브가족뮤지컬 〈산타와루돌프〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14893&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14893&amp;order=1"/>
+        <updated>2024-09-10T10:08:50.173Z</updated>
+        <content type="html"><![CDATA[2024-09-11(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2024 크리스마스캐롤 싱어롱 뮤지컬 〈산타클로스와 브레멘음악대〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14892&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14892&amp;order=1"/>
+        <updated>2024-09-10T10:08:50.176Z</updated>
+        <content type="html"><![CDATA[2024-09-12(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 앤서니브라운 가족뮤지컬 〈우리아빠가 최고야〉 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14891&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14891&amp;order=1"/>
         <updated>2024-09-10T09:09:51.794Z</updated>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14884&amp;order=1"/>
         <updated>2024-09-10T05:09:03.545Z</updated>
         <content type="html"><![CDATA[2024-09-13(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인천] <설민석의 한국사 대모험 - 영웅의 시간> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14883&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14883&amp;order=1"/>
-        <updated>2024-09-10T02:06:44.591Z</updated>
-        <content type="html"><![CDATA[2024-09-13(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[강원] 2024 V.O.S 20주년 전국투어 콘서트 [우리의 스무살] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14882&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14882&amp;order=1"/>
-        <updated>2024-09-10T00:34:52.651Z</updated>
-        <content type="html"><![CDATA[2024-09-12(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청주] 2024 V.O.S 20주년 전국투어 콘서트 [우리의 스무살] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14881&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14881&amp;order=1"/>
-        <updated>2024-09-10T00:34:52.652Z</updated>
-        <content type="html"><![CDATA[2024-09-12(목) 18:00]]></content>
     </entry>
 </feed>
