@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 23:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Sep 2024 00:35:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,6 +71,24 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013095_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈애니〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52611</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52611</guid>
+            <pubDate>Tue, 10 Sep 2024 00:34:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.10
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011498_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[〈설민석의 한국사 대모험-영웅의 시간〉 - 수원]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52657</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52657</guid>
+            <pubDate>Tue, 10 Sep 2024 00:34:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.10
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013076_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[극단 돌파구 연극 〈지상의 여자들〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52604</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52604</guid>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2024.09.10
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/L0/L0000102_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈빈센트 반 고흐〉 - 부산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52607</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52607</guid>
-            <pubDate>Mon, 09 Sep 2024 15:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.10
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013009_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 뮤지컬 〈지저스 크라이스트 수퍼스타〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52609</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52609</guid>
-            <pubDate>Mon, 09 Sep 2024 15:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.10
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012950_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
