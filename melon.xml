@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-09-10T08:11:43.104Z</updated>
+    <updated>2024-09-10T09:10:28.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나만 알고 싶은 인디 Ep．40 택우 x 109 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9296</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9296"/>
+        <updated>2024-09-10T09:09:08.387Z</updated>
+        <content type="html"><![CDATA[2024.09.11(수) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 DOYOUNG CONCERT［Dearest Youth，］티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9294</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9282"/>
         <updated>2024-09-10T07:08:54.882Z</updated>
         <content type="html"><![CDATA[2024.09.09(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연－지브리，재즈를 만나다－（성남）티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9280</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9280"/>
-        <updated>2024-09-10T07:08:54.884Z</updated>
-        <content type="html"><![CDATA[2024.09.10(화) 12:00]]></content>
     </entry>
 </feed>
