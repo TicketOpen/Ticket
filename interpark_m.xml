@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Sep 2024 09:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2024 10:09:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,6 +71,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013063_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[디즈니 100년 특별전(Disney100: The Exhibition) VIP 패키지]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1015</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1015</guid>
+            <pubDate>Tue, 10 Sep 2024 15:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.11
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013172_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[2024 심수봉 전국투어콘서트 : 꽃길 - 강릉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52631</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52631</guid>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2024.09.11
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012879_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니 100년 특별전(Disney100: The Exhibition) VIP 패키지]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1015</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1015</guid>
-            <pubDate>Tue, 10 Sep 2024 15:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.11
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013172_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
