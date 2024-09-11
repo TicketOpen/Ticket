@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Sep 2024 10:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2024 11:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -274,15 +274,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013063_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[디즈니 100년 특별전(Disney100: The Exhibition) VIP 패키지 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1015</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1015</guid>
-            <pubDate>Tue, 10 Sep 2024 15:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.11
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013172_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2024 심수봉 전국투어콘서트 : 꽃길 - 강릉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52631</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52631</guid>
@@ -299,6 +290,15 @@
             <content:encoded><![CDATA[2024.09.11
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012879_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[디즈니 100년 특별전(Disney100: The Exhibition) VIP 패키지 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1015</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1015</guid>
+            <pubDate>Tue, 10 Sep 2024 15:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.11
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013172_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[청주] 2024 라이브가족뮤지컬 〈루돌프의크리스마스선물〉 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -591,6 +591,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어린이 가족뮤지컬 <겨울왕국> - 안양 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60305</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60305</guid>
+            <pubDate>Wed, 11 Sep 2024 11:03:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.13(금) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[소향 1집 앨범 기념 콘서트 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60303</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60303</guid>
@@ -689,11 +696,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.09.23(월) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 어반자카파 전국투어 콘서트 열다섯 번째 '겨울' – 수원​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60288</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60288</guid>
-            <pubDate>Wed, 11 Sep 2024 05:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.25(수) 11:00]]></content:encoded>
+            <title><![CDATA[어린이 가족뮤지컬 <겨울왕국> - 안양 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60305</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60305</guid>
+            <pubDate>Wed, 11 Sep 2024 11:03:34 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.13(금) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소향 1집 앨범 기념 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -792,13 +799,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60289</guid>
             <pubDate>Wed, 11 Sep 2024 06:12:30 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.23(월) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 어반자카파 전국투어 콘서트 열다섯 번째 '겨울' – 수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60288</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60288</guid>
-            <pubDate>Wed, 11 Sep 2024 05:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.25(수) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
