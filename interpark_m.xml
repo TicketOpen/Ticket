@@ -4,23 +4,14 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Sep 2024 21:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2024 22:05:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[사라 장 바이올린 리사이틀 - 청주]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52720</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52720</guid>
-            <pubDate>Wed, 11 Sep 2024 15:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.12
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013213_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 〈달 샤베트〉 - 서울숲]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52630</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52630</guid>
-            <pubDate>Wed, 11 Sep 2024 15:08:14 GMT</pubDate>
+            <pubDate>Wed, 11 Sep 2024 22:04:13 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.12
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024090310461744.jpg" length="0" type="image/jpg"/>
@@ -29,16 +20,34 @@
             <title><![CDATA[뮤지컬 〈경종수정실록〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52685</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52685</guid>
-            <pubDate>Wed, 11 Sep 2024 15:08:14 GMT</pubDate>
+            <pubDate>Wed, 11 Sep 2024 22:04:13 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.12
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010138_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[사라 장 바이올린 리사이틀 - 청주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52720</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52720</guid>
+            <pubDate>Wed, 11 Sep 2024 22:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.12
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013213_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[브랜든 리 뮤지컬 심포니 콘서트]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52721</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52721</guid>
+            <pubDate>Wed, 11 Sep 2024 22:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013093_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[헬로카봇 뮤지컬 시즌8 〈미래연구소를 지켜라!〉 - 고양]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52690</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52690</guid>
-            <pubDate>Wed, 11 Sep 2024 15:08:14 GMT</pubDate>
+            <pubDate>Wed, 11 Sep 2024 22:04:13 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.12
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013234_p.gif" length="0" type="image/gif"/>
@@ -47,7 +56,7 @@
             <title><![CDATA[뮤지컬 〈광화문연가〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52681</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52681</guid>
-            <pubDate>Wed, 11 Sep 2024 15:08:14 GMT</pubDate>
+            <pubDate>Wed, 11 Sep 2024 22:04:13 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.12
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011935_p.gif" length="0" type="image/gif"/>
@@ -56,7 +65,7 @@
             <title><![CDATA[제3회 연극 판 (PAAN) 페스티벌 - 한 판. 〈남자들〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52648</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52648</guid>
-            <pubDate>Wed, 11 Sep 2024 15:08:14 GMT</pubDate>
+            <pubDate>Wed, 11 Sep 2024 22:04:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.12
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013085_p.gif" length="0" type="image/gif"/>
@@ -65,7 +74,7 @@
             <title><![CDATA[이승환 35주년 콘서트 〈HEAVEN〉 - 대구]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52651</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52651</guid>
-            <pubDate>Wed, 11 Sep 2024 15:08:14 GMT</pubDate>
+            <pubDate>Wed, 11 Sep 2024 22:04:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.12
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013263_p.gif" length="0" type="image/gif"/>
@@ -74,7 +83,7 @@
             <title><![CDATA[2024 V.O.S 20주년 전국투어 콘서트 〈우리의 스무살〉 - 천안]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52663</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52663</guid>
-            <pubDate>Wed, 11 Sep 2024 15:08:14 GMT</pubDate>
+            <pubDate>Wed, 11 Sep 2024 22:04:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.12
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024090616302009.jpg" length="0" type="image/jpg"/>
@@ -83,19 +92,10 @@
             <title><![CDATA[GUMMY Tour Concert 2024 〈LOVE〉-전주]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52698</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52698</guid>
-            <pubDate>Wed, 11 Sep 2024 17:02:48 GMT</pubDate>
+            <pubDate>Wed, 11 Sep 2024 22:04:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.12
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20240910103615.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[고양] 뮤지컬 캐치! 티니핑 〈두근두근 싱어롱 콘서트!〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52703</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52703</guid>
-            <pubDate>Wed, 11 Sep 2024 21:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013223_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
