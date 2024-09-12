@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-09-12T09:09:20.205Z</updated>
+    <updated>2024-09-12T10:10:00.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 Hyundai N Festival R4 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9314</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9314"/>
+        <updated>2024-09-12T10:08:44.792Z</updated>
+        <content type="html"><![CDATA[2024.09.13(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디깅 나우：규도 단독공연 ‘그날 여름 그리고 바다’ 발매 쇼케이스 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9312</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9302"/>
         <updated>2024-09-12T08:10:26.682Z</updated>
         <content type="html"><![CDATA[2024.09.20(금) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올블레스 시그니처 원패스－생기 스튜디오 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9301</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9301"/>
-        <updated>2024-09-12T08:10:26.684Z</updated>
-        <content type="html"><![CDATA[2024.09.20(금) 17:00]]></content>
     </entry>
 </feed>
