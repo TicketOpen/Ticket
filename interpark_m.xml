@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 08:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 09:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,6 +42,15 @@
             <content:encoded><![CDATA[2024.09.12
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013093_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 하데스타운 한국 공연 _ 부산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52610</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52610</guid>
+            <pubDate>Thu, 12 Sep 2024 09:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013084_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[헬로카봇 뮤지컬 시즌8 〈미래연구소를 지켜라!〉 - 고양]]></title>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2024.09.12
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013261_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[GUMMY Tour Concert 2024 〈LOVE〉-전주]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52698</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52698</guid>
-            <pubDate>Thu, 12 Sep 2024 06:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013214_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
