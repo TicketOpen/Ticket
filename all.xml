@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 06:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 07:09:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=52291&amp;groupno=52291&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 28 Aug 2024 22:05:43 GMT</pubDate>
             <content:encoded><![CDATA[24.09.13(금)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소향 1집 앨범 발매기념 콘서트 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52754&amp;groupno=52754&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52754&amp;groupno=52754&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 12 Sep 2024 07:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[24.09.24(화)&nbsp;17:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[최현우 19+1 (인터파크 티켓)]]></title>
@@ -120,13 +127,6 @@
             <content:encoded><![CDATA[24.09.13(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 제주 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52736&amp;groupno=52736&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52736&amp;groupno=52736&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 11 Sep 2024 06:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[24.09.13(금)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2024 대한민국은 공연중 - 또 한 번 빛나는 무용 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52742&amp;groupno=52742&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52742&amp;groupno=52742&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -139,15 +139,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52741&amp;groupno=52741&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 11 Sep 2024 08:10:23 GMT</pubDate>
             <content:encoded><![CDATA[24.09.13(금)&nbsp;09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사라 장 바이올린 리사이틀 - 청주 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52720</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52720</guid>
-            <pubDate>Wed, 11 Sep 2024 15:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.12
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013213_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈달 샤베트〉 - 서울숲 (인터파크 티켓 모바일)]]></title>
@@ -166,6 +157,24 @@
             <content:encoded><![CDATA[2024.09.12
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010138_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[사라 장 바이올린 리사이틀 - 청주 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52720</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52720</guid>
+            <pubDate>Wed, 11 Sep 2024 15:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.12
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013213_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[브랜든 리 뮤지컬 심포니 콘서트 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52721</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52721</guid>
+            <pubDate>Thu, 12 Sep 2024 07:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013093_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[헬로카봇 뮤지컬 시즌8 〈미래연구소를 지켜라!〉 - 고양 (인터파크 티켓 모바일)]]></title>
@@ -222,13 +231,10 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013214_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[고양] 뮤지컬 캐치! 티니핑 〈두근두근 싱어롱 콘서트!〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52703</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52703</guid>
-            <pubDate>Thu, 12 Sep 2024 06:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013223_p.gif" length="0" type="image/gif"/>
+            <title><![CDATA[은행/증권사 시스템 작업에 따른 결제 서비스 중단 안내(9/15, 9/19) (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14908</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14908</guid>
+            <pubDate>Thu, 12 Sep 2024 07:08:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[이천] 2024 오누이 ＂우리들의 학창시절＂ [김용임,진성] 티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -362,13 +368,6 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14887</guid>
             <pubDate>Tue, 10 Sep 2024 07:09:28 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.13(금) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[파보 예르비 ＆ 도이치 캄머필하모닉 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14886</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14886</guid>
-            <pubDate>Tue, 10 Sep 2024 05:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.12(목) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이천] 2024 오누이 ＂우리들의 학창시절＂ [김용임,진성] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -521,6 +520,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매]  추교준 피아노 독주회 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60311</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60311</guid>
+            <pubDate>Thu, 12 Sep 2024 07:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.23(월) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[최현우의 19+1​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60310</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60310</guid>
@@ -570,7 +576,7 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.09.25(수) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[소향 1집 앨범 기념 콘서트 티켓오픈 안내 (티켓링크)]]></title>
+            <title><![CDATA[소향 1집 앨범 발매기념 콘서트 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60303</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60303</guid>
             <pubDate>Wed, 11 Sep 2024 10:09:11 GMT</pubDate>
@@ -619,11 +625,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.09.13(금) 06:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 2024 KANGDANIEL CONCERT [ACT] ​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60295</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60295</guid>
-            <pubDate>Wed, 11 Sep 2024 06:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.13(금) 10:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  추교준 피아노 독주회 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60311</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60311</guid>
+            <pubDate>Thu, 12 Sep 2024 07:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.23(월) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[최현우의 19+1​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -675,7 +681,7 @@
             <content:encoded><![CDATA[2024.09.25(수) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[소향 1집 앨범 기념 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <title><![CDATA[소향 1집 앨범 발매기념 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/60303</link>
             <guid>http://m.ticketlink.co.kr/help/notice/60303</guid>
             <pubDate>Wed, 11 Sep 2024 10:09:19 GMT</pubDate>
@@ -722,13 +728,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60296</guid>
             <pubDate>Wed, 11 Sep 2024 07:09:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.13(금) 06:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 2024 KANGDANIEL CONCERT [ACT] ​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60295</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60295</guid>
-            <pubDate>Wed, 11 Sep 2024 06:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.13(금) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
