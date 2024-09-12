@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-12T02:06:49.904Z</updated>
+    <updated>2024-09-12T03:10:05.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[이천] 2024 오누이 ＂우리들의 학창시절＂ [김용임,진성] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14907&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14907&amp;order=1"/>
+        <updated>2024-09-12T03:09:24.590Z</updated>
+        <content type="html"><![CDATA[2024-09-24(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <빈센트 반 고흐> 추가좌석 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14906&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14898&amp;order=1"/>
         <updated>2024-09-11T03:09:09.879Z</updated>
         <content type="html"><![CDATA[2024-09-13(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 가족뮤지컬 <또봇 - 대도시의 영웅들> 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14896&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14896&amp;order=1"/>
-        <updated>2024-09-11T02:06:06.633Z</updated>
-        <content type="html"><![CDATA[2024-09-20(금) 10:00]]></content>
     </entry>
 </feed>

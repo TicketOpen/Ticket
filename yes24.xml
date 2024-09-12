@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-12T02:06:49.912Z</updated>
+    <updated>2024-09-12T03:10:05.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[이천] 2024 오누이 ＂우리들의 학창시절＂ [김용임,진성] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14907</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14907"/>
+        <updated>2024-09-12T03:09:14.512Z</updated>
+        <content type="html"><![CDATA[2024.09.24(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <빈센트 반 고흐> 추가좌석 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14906</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14886"/>
         <updated>2024-09-10T05:08:55.260Z</updated>
         <content type="html"><![CDATA[2024.09.12(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14885</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14885"/>
-        <updated>2024-09-10T03:10:39.610Z</updated>
-        <content type="html"><![CDATA[2024.09.12(목) 20:00]]></content>
     </entry>
 </feed>
