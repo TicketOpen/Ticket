@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-12T23:10:55.043Z</updated>
+    <updated>2024-09-13T00:35:01.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 영도문화예술회관 개관 15주년 특별기념 공연 [송창식·김세환·양하영 포크콘서트] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14909&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14909&amp;order=1"/>
+        <updated>2024-09-13T00:34:24.344Z</updated>
+        <content type="html"><![CDATA[2024-09-19(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이천] 2024 오누이 ＂우리들의 학창시절＂ [김용임,진성] 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14907&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14899&amp;order=1"/>
         <updated>2024-09-11T03:09:09.877Z</updated>
         <content type="html"><![CDATA[2024-09-20(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QWER 2nd Mini Album ‘Algorithm’s Blossom’ Showcase 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14898&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14898&amp;order=1"/>
-        <updated>2024-09-11T03:09:09.879Z</updated>
-        <content type="html"><![CDATA[2024-09-13(금) 20:00]]></content>
     </entry>
 </feed>
