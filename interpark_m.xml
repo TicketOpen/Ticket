@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Sep 2024 13:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 14:05:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올모스트 메인]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52741</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52741</guid>
+            <pubDate>Thu, 12 Sep 2024 15:07:44 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.13
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013275_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[사랑에 빠지기까지 디마이너스백]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52654</link>
@@ -51,15 +60,6 @@
             <content:encoded><![CDATA[2024.09.13
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013209_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[올모스트 메인]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52741</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52741</guid>
-            <pubDate>Thu, 12 Sep 2024 15:07:44 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.13
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013275_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[리 릿나워 & 데이브 그루신 with 이반 린스와 브라질 친구들]]></title>
