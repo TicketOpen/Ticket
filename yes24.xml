@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-13T02:07:58.181Z</updated>
+    <updated>2024-09-13T03:10:34.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[창원(진해)] 2024 라이브가족뮤지컬 〈아기돼지삼형제〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14914</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14914"/>
+        <updated>2024-09-13T03:09:47.969Z</updated>
+        <content type="html"><![CDATA[2024.09.19(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14913</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14913"/>
+        <updated>2024-09-13T03:09:47.974Z</updated>
+        <content type="html"><![CDATA[2024.09.20(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [드라이 플라워] 1차 추가 티켓 오픈 안내 (10/1 16:00 회차)]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14912</id>
@@ -129,19 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14893"/>
         <updated>2024-09-10T10:08:40.976Z</updated>
         <content type="html"><![CDATA[2024.09.11(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 2024 크리스마스캐롤 싱어롱 뮤지컬 〈산타클로스와 브레멘음악대〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14892</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14892"/>
-        <updated>2024-09-10T10:08:40.977Z</updated>
-        <content type="html"><![CDATA[2024.09.12(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2024 앤서니브라운 가족뮤지컬 〈우리아빠가 최고야〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14891</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14891"/>
-        <updated>2024-09-10T09:09:42.264Z</updated>
-        <content type="html"><![CDATA[2024.09.12(목) 09:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-09-13T02:07:58.182Z</updated>
+    <updated>2024-09-13T03:10:34.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[창원(진해)] 2024 라이브가족뮤지컬 〈아기돼지삼형제〉 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14914&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14914&amp;order=1"/>
+        <updated>2024-09-13T03:09:57.788Z</updated>
+        <content type="html"><![CDATA[2024-09-19(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제 15회 2024 부산국제춤마켓 티켓 오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14913&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14913&amp;order=1"/>
+        <updated>2024-09-13T03:09:57.789Z</updated>
+        <content type="html"><![CDATA[2024-09-20(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [드라이 플라워] 1차 추가 티켓 오픈 안내 (10/1 16:00 회차)]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14912&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14903&amp;order=1"/>
         <updated>2024-09-11T09:08:30.783Z</updated>
         <content type="html"><![CDATA[2024-09-13(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고양] 2024 크리스마스특집 가족매직쇼〈류엘의 매직크리스마스〉 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14902&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14902&amp;order=1"/>
-        <updated>2024-09-11T08:10:57.403Z</updated>
-        <content type="html"><![CDATA[2024-09-13(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2024 V.O.S 20주년 전국투어 콘서트 〈우리의 스무살〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14901&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14901&amp;order=1"/>
-        <updated>2024-09-11T07:08:43.914Z</updated>
-        <content type="html"><![CDATA[2024-09-19(목) 14:00]]></content>
     </entry>
 </feed>
