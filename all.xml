@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 22:08:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 23:09:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안영미쇼：전체관람가（슴）쇼 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9331</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9331</guid>
+            <pubDate>Thu, 19 Sep 2024 23:07:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.24(화) 14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[YB Concert 〈Curtain call〉 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9330</link>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9320</guid>
             <pubDate>Thu, 19 Sep 2024 19:02:23 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.20(금) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[『COME UP；First Stage』～이대로 아침까지～티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9319</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9319</guid>
-            <pubDate>Thu, 19 Sep 2024 19:02:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.13(금) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 배두훈 팬미팅 〈My Dear Vol.2〉 (인터파크 티켓)]]></title>
@@ -249,31 +249,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013547_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈델타 보이즈〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52768</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52768</guid>
-            <pubDate>Thu, 19 Sep 2024 15:08:52 GMT</pubDate>
+            <title><![CDATA[제9회 늘푸른연극제 - 〈김재건 - 살아있는 이중생 각하〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52735</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52735</guid>
+            <pubDate>Thu, 19 Sep 2024 23:08:20 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.20
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011577_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2024_서울(세종) (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52762</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52762</guid>
-            <pubDate>Thu, 19 Sep 2024 17:04:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.20
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0004025_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[최현우 19+1 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52753</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52753</guid>
-            <pubDate>Thu, 19 Sep 2024 15:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.20
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013473_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013493_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[FINAL FANTASY XIV ORCHESTRA CONCERT 2024 -Eorzean Symphony-  In Seoul (인터파크 티켓 모바일)]]></title>
@@ -292,6 +274,24 @@
             <content:encoded><![CDATA[2024.09.20
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013515_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[최현우 19+1 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52753</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52753</guid>
+            <pubDate>Thu, 19 Sep 2024 15:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.20
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013473_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈델타 보이즈〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52768</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52768</guid>
+            <pubDate>Thu, 19 Sep 2024 15:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.20
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011577_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[대구] 2024 가족어린이공연〈공룡애니멀쇼〉 티켓오픈 안내 (예스24 티켓)]]></title>
