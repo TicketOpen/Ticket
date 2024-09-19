@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 16:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 17:04:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,13 +53,31 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013547_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[제9회 늘푸른연극제 - 〈김재건 - 살아있는 이중생 각하〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52735</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52735</guid>
-            <pubDate>Thu, 19 Sep 2024 16:09:30 GMT</pubDate>
+            <title><![CDATA[연극 〈델타 보이즈〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52768</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52768</guid>
+            <pubDate>Thu, 19 Sep 2024 15:08:52 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.20
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013493_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011577_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[히사이시 조 영화음악 콘서트 2024_서울(세종)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52762</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52762</guid>
+            <pubDate>Thu, 19 Sep 2024 17:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.20
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0004025_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[최현우 19+1]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52753</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52753</guid>
+            <pubDate>Thu, 19 Sep 2024 15:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.20
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013473_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[FINAL FANTASY XIV ORCHESTRA CONCERT 2024 -Eorzean Symphony-  In Seoul]]></title>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2024.09.20
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013515_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[최현우 19+1]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52753</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52753</guid>
-            <pubDate>Thu, 19 Sep 2024 15:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.20
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013473_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈델타 보이즈〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52768</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52768</guid>
-            <pubDate>Thu, 19 Sep 2024 15:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.20
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011577_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
