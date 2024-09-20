@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 10:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 11:04:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013493_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[최현우 19+1]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52753</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52753</guid>
-            <pubDate>Fri, 20 Sep 2024 10:09:48 GMT</pubDate>
+            <title><![CDATA[FINAL FANTASY XIV ORCHESTRA CONCERT 2024 -Eorzean Symphony-  In Seoul]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52747</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52747</guid>
+            <pubDate>Fri, 20 Sep 2024 11:04:03 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.20
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013473_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011105_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
