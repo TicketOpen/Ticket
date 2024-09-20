@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 23:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 00:35:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,15 @@
             <content:encoded><![CDATA[2024.09.20
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013552_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[도네이션퍼포먼스 '체인지 오브 시즌10']]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52809</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52809</guid>
+            <pubDate>Fri, 20 Sep 2024 00:34:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.20
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈드라이 플라워〉]]></title>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2024.09.20
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013473_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈델타 보이즈〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52768</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52768</guid>
-            <pubDate>Thu, 19 Sep 2024 15:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.20
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011577_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
