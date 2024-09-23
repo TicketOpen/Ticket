@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Sep 2024 15:09:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 16:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,15 +17,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013658_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈시카고〉 - 대구]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52798</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52798</guid>
-            <pubDate>Mon, 23 Sep 2024 15:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.24
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013616_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[크리스마스 지브리 OST 콘서트 : 디 오케스트라 - 인천]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52801</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52801</guid>
@@ -33,15 +24,6 @@
             <content:encoded><![CDATA[2024.09.24
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013655_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 오누이 “우리들의 학창시절” 〈김용임,진성〉 - 이천]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52744</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52744</guid>
-            <pubDate>Mon, 23 Sep 2024 15:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.24
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013760_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲]]></title>
@@ -62,6 +44,24 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011260_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[2024 오누이 “우리들의 학창시절” 〈김용임,진성〉 - 이천]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52744</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52744</guid>
+            <pubDate>Mon, 23 Sep 2024 15:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.24
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013760_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈시카고〉 - 대구]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52798</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52798</guid>
+            <pubDate>Mon, 23 Sep 2024 15:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.24
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013616_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[Kep1er 공식 팬클럽 Kep1ian 3기 모집]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52827</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52827</guid>
@@ -80,22 +80,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013705_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 현역가왕 전국투어 콘서트 - 제주도]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52455</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52455</guid>
-            <pubDate>Mon, 23 Sep 2024 15:08:38 GMT</pubDate>
+            <title><![CDATA[손민수 Curated 21 손민수]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52793</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52793</guid>
+            <pubDate>Mon, 23 Sep 2024 16:09:46 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.24
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013642_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013749_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[THE GREATEST : 불후의명곡 정동하X알리 - 서울]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52676</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52676</guid>
-            <pubDate>Mon, 23 Sep 2024 15:08:38 GMT</pubDate>
+            <title><![CDATA[뮤지컬 〈리지〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52797</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52797</guid>
+            <pubDate>Mon, 23 Sep 2024 16:09:46 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.24
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013545_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010566_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
