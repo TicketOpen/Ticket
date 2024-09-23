@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Sep 2024 07:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 08:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -267,15 +267,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013632_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[제9회 늘푸른연극제 - 〈장미자 - 춤추는 은빛 초상화〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52738</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52738</guid>
-            <pubDate>Fri, 20 Sep 2024 15:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.23
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024091015353473.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[스탠드 업 코미디 뮤지컬 〈방구석 뮤지컬〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52790</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52790</guid>
@@ -283,6 +274,15 @@
             <content:encoded><![CDATA[2024.09.23
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012059_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[제9회 늘푸른연극제 - 〈장미자 - 춤추는 은빛 초상화〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52738</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52738</guid>
+            <pubDate>Fri, 20 Sep 2024 15:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.23
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024091015353473.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈뱀프 X 헌터 : 울부짖어라! 피닉스 포포!!〉 (인터파크 티켓 모바일)]]></title>
@@ -584,6 +584,27 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 부산​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60358</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60358</guid>
+            <pubDate>Mon, 23 Sep 2024 08:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.24(화) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​2024 변진섭 전국투어 콘서트 : 변천사 - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60357</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60357</guid>
+            <pubDate>Mon, 23 Sep 2024 08:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.24(화) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 뭇별이 잠든 띵조파크 in 용산​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60356</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60356</guid>
+            <pubDate>Mon, 23 Sep 2024 08:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.26(목) 03:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[연극 <보이즈 인 더 밴드> 2차​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60355</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60355</guid>
@@ -668,25 +689,25 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.09.25(수) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​뮤지컬 <빨래> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60343</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60343</guid>
-            <pubDate>Fri, 20 Sep 2024 04:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.26(목) 05:00]]></content:encoded>
+            <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 부산​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60358</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60358</guid>
+            <pubDate>Mon, 23 Sep 2024 08:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.24(화) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​뮤지컬 헬로카봇 시즌8  <미래연구소를 지켜라!> – 안산​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60342</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60342</guid>
-            <pubDate>Fri, 20 Sep 2024 07:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.24(화) 05:00]]></content:encoded>
+            <title><![CDATA[​2024 변진섭 전국투어 콘서트 : 변천사 - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60357</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60357</guid>
+            <pubDate>Mon, 23 Sep 2024 08:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.24(화) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​이승환 35주년 콘서트 < HEAVEN > - 구미​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60341</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60341</guid>
-            <pubDate>Fri, 20 Sep 2024 05:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.27(금) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 뭇별이 잠든 띵조파크 in 용산​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60356</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60356</guid>
+            <pubDate>Mon, 23 Sep 2024 08:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.26(목) 03:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <보이즈 인 더 밴드> 2차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -771,27 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60344</guid>
             <pubDate>Fri, 20 Sep 2024 05:08:55 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.25(수) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​뮤지컬 <빨래> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60343</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60343</guid>
-            <pubDate>Fri, 20 Sep 2024 04:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.26(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​뮤지컬 헬로카봇 시즌8  <미래연구소를 지켜라!> – 안산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60342</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60342</guid>
-            <pubDate>Fri, 20 Sep 2024 07:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.24(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​이승환 35주년 콘서트 < HEAVEN > - 구미​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60341</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60341</guid>
-            <pubDate>Fri, 20 Sep 2024 05:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.27(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
