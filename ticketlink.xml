@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-24T07:09:22.773Z</updated>
+    <updated>2024-09-24T08:13:00.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오리지널 어린이 캣 - 과천​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60376</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60376"/>
+        <updated>2024-09-24T08:12:46.128Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.26(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  <3팀 3색 가을 콘서트> - 울진 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60375</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60375"/>
+        <updated>2024-09-24T08:12:46.131Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.01(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  어린이 뮤지컬 <깃털피리> - 울진 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60374</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60374"/>
+        <updated>2024-09-24T08:12:46.134Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.01(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 388회 정기연주회 '행진'​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60373</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60362"/>
         <updated>2024-09-24T02:12:21.513Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <렛미플라이> - 의성​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60361</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60361"/>
-        <updated>2024-09-24T02:12:21.513Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.17(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll & Hyde) - 20주년 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60360</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60360"/>
-        <updated>2024-09-24T02:12:21.517Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.30(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 K-Link Festival​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60359</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60359"/>
-        <updated>2024-09-23T10:10:29.541Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.26(목) 11:00]]></content>
     </entry>
 </feed>
