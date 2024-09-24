@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Sep 2024 23:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 00:36:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,6 +35,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013655_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[2024 오누이 “우리들의 학창시절” 〈김용임,진성〉 - 이천]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52744</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52744</guid>
+            <pubDate>Mon, 23 Sep 2024 15:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.24
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013760_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52821</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52821</guid>
@@ -51,15 +60,6 @@
             <content:encoded><![CDATA[2024.09.24
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011260_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 오누이 “우리들의 학창시절” 〈김용임,진성〉 - 이천]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52744</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52744</guid>
-            <pubDate>Mon, 23 Sep 2024 15:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.24
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013760_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[Kep1er 공식 팬클럽 Kep1ian 3기 모집]]></title>
@@ -80,13 +80,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013705_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[한스 짐머 영화음악 콘서트 2024_서울 파이널]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52815</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52815</guid>
-            <pubDate>Mon, 23 Sep 2024 23:08:23 GMT</pubDate>
+            <title><![CDATA[연극〈레 미제라블〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52774</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52774</guid>
+            <pubDate>Tue, 24 Sep 2024 00:35:54 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.24
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013640_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013460_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[제9회 늘푸른연극제 - 〈여무영 - 갈매기〉]]></title>
