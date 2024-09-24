@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-09-24T02:12:35.943Z</updated>
+    <updated>2024-09-24T03:15:54.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍진호의 순간；첼로의 숲 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9350</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9350"/>
+        <updated>2024-09-24T03:14:27.997Z</updated>
+        <content type="html"><![CDATA[2024.09.30(월) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 DOYOUNG CONCERT［Dearest Youth，］시야제한석 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9349</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9338"/>
         <updated>2024-09-24T02:11:23.862Z</updated>
         <content type="html"><![CDATA[2024.09.25(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라라랜드 인 콘서트（지휘：저스틴 허위츠）티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9337</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9337"/>
-        <updated>2024-09-24T02:11:23.864Z</updated>
-        <content type="html"><![CDATA[2024.09.27(금) 12:00]]></content>
     </entry>
 </feed>
