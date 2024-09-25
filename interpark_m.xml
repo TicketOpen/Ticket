@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Sep 2024 23:09:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Sep 2024 00:37:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,15 @@
             <content:encoded><![CDATA[2024.09.25
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013739_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[청소년 코미디 연극 〈드립소년단〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52887</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52887</guid>
+            <pubDate>Wed, 25 Sep 2024 00:36:26 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.25
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006564_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[캐리tv 러브콘서트 2024 타임캡슐 - 서울앵콜]]></title>
@@ -71,22 +80,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013861_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 김창옥 토크콘서트 시즌4 - 수원]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52835</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52835</guid>
-            <pubDate>Tue, 24 Sep 2024 22:08:06 GMT</pubDate>
+            <title><![CDATA[뮤지컬 〈젠틀맨스 가이드 : 사랑과 살인편〉 - 부산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52814</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52814</guid>
+            <pubDate>Wed, 25 Sep 2024 00:36:26 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.25
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013834_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈스윙 데이즈_암호명 A〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52711</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52711</guid>
-            <pubDate>Tue, 24 Sep 2024 22:08:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013619_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012672_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[［2024 한강노들섬클래식］ 한강노들섬오페라 〈카르멘〉]]></title>
