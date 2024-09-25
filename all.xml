@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Sep 2024 03:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Sep 2024 04:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,15 @@
             <content:encoded><![CDATA[24.09.25(수)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[청소년 코미디 연극 〈드립소년단〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52887</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52887</guid>
+            <pubDate>Wed, 25 Sep 2024 00:36:26 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.25
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006564_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[오! 당신이 잠든 사이 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52808</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52808</guid>
@@ -227,15 +236,6 @@
             <content:encoded><![CDATA[2024.09.25
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013739_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[청소년 코미디 연극 〈드립소년단〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52887</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52887</guid>
-            <pubDate>Wed, 25 Sep 2024 00:36:26 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.25
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006564_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[캐리tv 러브콘서트 2024 타임캡슐 - 서울앵콜 (인터파크 티켓 모바일)]]></title>
@@ -591,6 +591,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[​뮤지컬 <클로버>​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60379</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60379</guid>
+            <pubDate>Wed, 25 Sep 2024 04:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.30(월) 06:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[​[서울] 2024실감오페라 : LA TRAVIATA 라트라비아타​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60378</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60378</guid>
@@ -689,11 +696,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.09.25(수) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​진성 30주년 기념 콘서트 <진성 빅쇼> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60364</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60364</guid>
-            <pubDate>Tue, 24 Sep 2024 07:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.26(목) 05:00]]></content:encoded>
+            <title><![CDATA[​뮤지컬 <클로버>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60379</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60379</guid>
+            <pubDate>Wed, 25 Sep 2024 04:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.30(월) 06:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​[서울] 2024실감오페라 : LA TRAVIATA 라트라비아타​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -792,13 +799,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60365</guid>
             <pubDate>Tue, 24 Sep 2024 02:12:28 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.25(수) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​진성 30주년 기념 콘서트 <진성 빅쇼> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60364</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60364</guid>
-            <pubDate>Tue, 24 Sep 2024 07:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.26(목) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
