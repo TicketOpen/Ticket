@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-25T00:37:24.535Z</updated>
+    <updated>2024-09-25T02:13:20.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 댄스컬 Dogs 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14959</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14959"/>
+        <updated>2024-09-25T02:12:33.912Z</updated>
+        <content type="html"><![CDATA[2024.09.26(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2024 라이브가족뮤지컬 〈피노키오〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14958</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14958"/>
+        <updated>2024-09-25T02:12:33.912Z</updated>
+        <content type="html"><![CDATA[2024.09.26(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라플라이브07 - 유러피안 재즈 트리오 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14957</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14957"/>
+        <updated>2024-09-25T02:12:33.912Z</updated>
+        <content type="html"><![CDATA[2024.09.26(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14956</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14956"/>
+        <updated>2024-09-25T02:12:33.914Z</updated>
+        <content type="html"><![CDATA[2024.09.30(월) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제 2 회 DMZ OPEN 국제음악제 DMZ OPEN International Music Festival]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14955</id>
@@ -116,33 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14938"/>
         <updated>2024-09-20T07:09:08.718Z</updated>
         <content type="html"><![CDATA[2024.09.26(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈이터니티〉 3차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14937</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14937"/>
-        <updated>2024-09-20T05:08:24.189Z</updated>
-        <content type="html"><![CDATA[2024.09.24(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HYDE[INSIDE] LIVE 2024 WORLD TOUR in SEOUL 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14936</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14936"/>
-        <updated>2024-09-20T03:11:36.462Z</updated>
-        <content type="html"><![CDATA[2024.09.27(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14935</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14935"/>
-        <updated>2024-09-20T02:08:32.240Z</updated>
-        <content type="html"><![CDATA[2024.09.25(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14934</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14934"/>
-        <updated>2024-09-20T03:11:36.470Z</updated>
-        <content type="html"><![CDATA[2024.09.20(금) 18:00]]></content>
     </entry>
 </feed>
