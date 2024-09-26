@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 06:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 07:09:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,15 +53,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013871_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 심수봉 전국투어콘서트 : 꽃길 - 수원]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52834</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52834</guid>
-            <pubDate>Wed, 25 Sep 2024 15:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.26
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013700_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 성남]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52840</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52840</guid>
@@ -87,6 +78,15 @@
             <content:encoded><![CDATA[2024.09.26
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012963_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 심수봉 전국투어콘서트 : 꽃길 - 수원]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52834</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52834</guid>
+            <pubDate>Wed, 25 Sep 2024 15:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.26
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013700_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[재패니메이션 OST 콘서트 2024_서울 파이널]]></title>
