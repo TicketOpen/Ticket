@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 07:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 08:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -598,6 +598,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.09.27(금) 07:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <꼼메디아 디 피노키오> 1차 ​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60415</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60415</guid>
+            <pubDate>Thu, 26 Sep 2024 08:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.02(수) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[연극 <흑백다방> - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60414</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60414</guid>
@@ -689,18 +696,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.09.27(금) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  이채원 < Urban Gesture > - 대구 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60401</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60401</guid>
-            <pubDate>Wed, 25 Sep 2024 09:09:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.27(금) 00:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[단독판매]  [광주예술의전당] 김성훈댄스프로젝트 Pool 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/60416</link>
             <guid>http://m.ticketlink.co.kr/help/notice/60416</guid>
             <pubDate>Thu, 26 Sep 2024 07:09:28 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.27(금) 07:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <꼼메디아 디 피노키오> 1차 ​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60415</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60415</guid>
+            <pubDate>Thu, 26 Sep 2024 08:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.02(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <흑백다방> - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -791,13 +798,6 @@
             <link>http://m.ticketlink.co.kr/help/notice/60402</link>
             <guid>http://m.ticketlink.co.kr/help/notice/60402</guid>
             <pubDate>Thu, 26 Sep 2024 00:36:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.27(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  이채원 < Urban Gesture > - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60401</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60401</guid>
-            <pubDate>Wed, 25 Sep 2024 09:09:27 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.27(금) 00:00]]></content:encoded>
         </item>
         <item>
