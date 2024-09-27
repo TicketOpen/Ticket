@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 03:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 04:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -227,6 +227,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012849_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[2024 심수봉 전국투어콘서트 : 꽃길 - 군산 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52874</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52874</guid>
+            <pubDate>Thu, 26 Sep 2024 18:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.27
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013791_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[유러피안 재즈 트리오 Cinema Jazz (대구) (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52888</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52888</guid>
@@ -245,15 +254,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014051_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 심수봉 전국투어콘서트 : 꽃길 - 군산 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52874</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52874</guid>
-            <pubDate>Thu, 26 Sep 2024 18:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.27
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013791_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[연극 〈사운드 인사이드〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52830</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52830</guid>
@@ -261,6 +261,15 @@
             <content:encoded><![CDATA[2024.09.27
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009913_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[콜드플레이 내한공연 (LIVE NATION PRESENTS COLDPLAY : MUSIC OF THE SPHERES DELIVERED BY DHL) (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52792</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52792</guid>
+            <pubDate>Thu, 26 Sep 2024 18:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.27
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013437_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[콜드플레이 내한공연(LIVE NATION PRESENTS COLDPLAY : MUSIC OF THE SPHERES DELIVERED BY DHL) (인터파크 티켓 모바일)]]></title>
@@ -272,13 +281,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013437_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[콜드플레이 내한공연 (LIVE NATION PRESENTS COLDPLAY : MUSIC OF THE SPHERES DELIVERED BY DHL) (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52792</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52792</guid>
-            <pubDate>Thu, 26 Sep 2024 18:09:59 GMT</pubDate>
+            <title><![CDATA[카운팅 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52912</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52912</guid>
+            <pubDate>Fri, 27 Sep 2024 04:11:00 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.27
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013437_p.gif" length="0" type="image/gif"/>
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013916_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 예술의전당 토월정통연극 〈햄릿〉 (인터파크 티켓 모바일)]]></title>
@@ -297,15 +306,6 @@
             <content:encoded><![CDATA[2024.09.27
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002802_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤직드라마 〈NEW 망원동 브라더스〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52813</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52813</guid>
-            <pubDate>Fri, 27 Sep 2024 03:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.27
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009362_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[부산] 2024 라이브가족뮤지컬 〈신데렐라〉 티켓오픈 안내 (예스24 티켓)]]></title>
