@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-27T02:12:15.788Z</updated>
+    <updated>2024-09-27T03:16:22.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 라이브가족뮤지컬 〈신데렐라〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14973</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14973"/>
+        <updated>2024-09-27T03:15:41.576Z</updated>
+        <content type="html"><![CDATA[2024.09.30(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <장화 신은 고양이 비긴즈> 플레이버전 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14972</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14972"/>
+        <updated>2024-09-27T03:15:41.588Z</updated>
+        <content type="html"><![CDATA[2024.10.04(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오페레타 뮤지컬 <판타지아> 시즌 1 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14971</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14971"/>
+        <updated>2024-09-27T03:15:41.588Z</updated>
+        <content type="html"><![CDATA[2024.10.04(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 연극 〈운빨로맨스〉 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14970</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14953"/>
         <updated>2024-09-24T07:08:41.531Z</updated>
         <content type="html"><![CDATA[2024.09.27(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 유러피안 재즈 트리오 Cinema Jazz 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14952</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14952"/>
-        <updated>2024-09-24T07:08:41.532Z</updated>
-        <content type="html"><![CDATA[2024.09.27(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [사의찬미 2024 2ND STAGE] 2차 티켓오픈  안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14951</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14951"/>
-        <updated>2024-09-24T06:12:31.631Z</updated>
-        <content type="html"><![CDATA[2024.09.27(금) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <알라딘> 연말연시 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14950</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14950"/>
-        <updated>2024-09-24T05:08:59.195Z</updated>
-        <content type="html"><![CDATA[2024.10.02(수) 14:00]]></content>
     </entry>
 </feed>
