@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-09-27T00:37:00.197Z</updated>
+    <updated>2024-09-27T02:12:15.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 연극 〈운빨로맨스〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14970</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14970"/>
+        <updated>2024-09-27T02:11:30.371Z</updated>
+        <content type="html"><![CDATA[2024.10.04(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 코믹뮤직체력극 〈신바람삼대〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14969</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14969"/>
+        <updated>2024-09-27T02:11:30.371Z</updated>
+        <content type="html"><![CDATA[2024.10.04(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[남양주] 2024 빅3＂행복한만남＂〈강진,김용임,진성〉]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14968</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14968"/>
+        <updated>2024-09-27T02:11:30.372Z</updated>
+        <content type="html"><![CDATA[2024.10.17(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김해] 뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14967</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14967"/>
+        <updated>2024-09-27T02:11:30.372Z</updated>
+        <content type="html"><![CDATA[2024.09.30(월) 16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14966</id>
@@ -116,33 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14950"/>
         <updated>2024-09-24T05:08:59.195Z</updated>
         <content type="html"><![CDATA[2024.10.02(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14947</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14947"/>
-        <updated>2024-09-23T07:09:32.821Z</updated>
-        <content type="html"><![CDATA[2024.09.26(목) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14946</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14946"/>
-        <updated>2024-09-23T05:08:58.290Z</updated>
-        <content type="html"><![CDATA[2024.10.02(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [연남동 빙굴빙굴 빨래방] 11월공연 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14945</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14945"/>
-        <updated>2024-09-23T05:08:58.290Z</updated>
-        <content type="html"><![CDATA[2024.09.27(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 2024 변진섭 전국투어 콘서트：변천사 시즌2 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14944</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14944"/>
-        <updated>2024-09-23T02:10:59.725Z</updated>
-        <content type="html"><![CDATA[2024.09.26(목) 14:00]]></content>
     </entry>
 </feed>
