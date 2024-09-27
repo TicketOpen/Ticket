@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 07:10:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 08:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -227,15 +227,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012849_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 심수봉 전국투어콘서트 : 꽃길 - 군산 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52874</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52874</guid>
-            <pubDate>Thu, 26 Sep 2024 18:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.27
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013791_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[유러피안 재즈 트리오 Cinema Jazz (대구) (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52888</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52888</guid>
@@ -254,6 +245,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014051_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[2024 심수봉 전국투어콘서트 : 꽃길 - 군산 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52874</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52874</guid>
+            <pubDate>Thu, 26 Sep 2024 18:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.27
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013791_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[연극 〈사운드 인사이드〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52830</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52830</guid>
@@ -261,15 +261,6 @@
             <content:encoded><![CDATA[2024.09.27
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009913_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[콜드플레이 내한공연 (LIVE NATION PRESENTS COLDPLAY : MUSIC OF THE SPHERES DELIVERED BY DHL) (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52792</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52792</guid>
-            <pubDate>Thu, 26 Sep 2024 18:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.27
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013437_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[콜드플레이 내한공연(LIVE NATION PRESENTS COLDPLAY : MUSIC OF THE SPHERES DELIVERED BY DHL) (인터파크 티켓 모바일)]]></title>
@@ -281,13 +272,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013437_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[카운팅 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52912</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52912</guid>
-            <pubDate>Fri, 27 Sep 2024 06:12:13 GMT</pubDate>
+            <title><![CDATA[콜드플레이 내한공연 (LIVE NATION PRESENTS COLDPLAY : MUSIC OF THE SPHERES DELIVERED BY DHL) (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52792</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52792</guid>
+            <pubDate>Thu, 26 Sep 2024 18:09:59 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.27
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013916_p.gif" length="0" type="image/gif"/>
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013437_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 예술의전당 토월정통연극 〈햄릿〉 (인터파크 티켓 모바일)]]></title>
@@ -306,6 +297,15 @@
             <content:encoded><![CDATA[2024.09.27
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002802_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤직드라마 〈NEW 망원동 브라더스〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52813</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52813</guid>
+            <pubDate>Fri, 27 Sep 2024 08:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009362_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[부산] 2024 라이브 가족뮤지컬〈알라딘〉 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -598,6 +598,34 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가족뮤지컬 <뽀로로와 친구들의 드림콘서트 - 잃어버린 꿈을 찾아서> - 춘천​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60426</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60426</guid>
+            <pubDate>Fri, 27 Sep 2024 08:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.04(금) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 <엄마까투리는 슈퍼맘> - 광주​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60425</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60425</guid>
+            <pubDate>Fri, 27 Sep 2024 08:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.04(금) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 구미​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60424</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60424</guid>
+            <pubDate>Fri, 27 Sep 2024 08:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.04(금) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[매직드로잉 가족극 <두들팝> - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60423</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60423</guid>
+            <pubDate>Fri, 27 Sep 2024 08:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.07(월) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[극단 온누리 <이웃집 쌀통> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60422</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60422</guid>
@@ -675,32 +703,32 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.10.04(금) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단편소리집 <정적>​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60411</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60411</guid>
-            <pubDate>Thu, 26 Sep 2024 06:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.04(금) 02:00]]></content:encoded>
+            <title><![CDATA[가족뮤지컬 <뽀로로와 친구들의 드림콘서트 - 잃어버린 꿈을 찾아서> - 춘천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60426</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60426</guid>
+            <pubDate>Fri, 27 Sep 2024 08:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.04(금) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단편소리집 <작은 사람들의 노래>​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60410</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60410</guid>
-            <pubDate>Thu, 26 Sep 2024 06:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.04(금) 02:00]]></content:encoded>
+            <title><![CDATA[가족뮤지컬 <엄마까투리는 슈퍼맘> - 광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60425</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60425</guid>
+            <pubDate>Fri, 27 Sep 2024 08:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.04(금) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[꼬마돼지 삼형제 - 평택 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60409</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60409</guid>
-            <pubDate>Thu, 26 Sep 2024 04:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.09.27(금) 01:00]]></content:encoded>
+            <title><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 구미​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60424</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60424</guid>
+            <pubDate>Fri, 27 Sep 2024 08:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.04(금) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2025년 이화여대 ECC 삼성홀 대관 공고 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60408</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60408</guid>
-            <pubDate>Thu, 26 Sep 2024 04:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.26]]></content:encoded>
+            <title><![CDATA[매직드로잉 가족극 <두들팝> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60423</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60423</guid>
+            <pubDate>Fri, 27 Sep 2024 08:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.07(월) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[극단 온누리 <이웃집 쌀통> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -778,34 +806,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60412</guid>
             <pubDate>Thu, 26 Sep 2024 06:12:17 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.04(금) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단편소리집 <정적>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60411</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60411</guid>
-            <pubDate>Thu, 26 Sep 2024 06:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.04(금) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단편소리집 <작은 사람들의 노래>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60410</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60410</guid>
-            <pubDate>Thu, 26 Sep 2024 06:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.04(금) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[꼬마돼지 삼형제 - 평택 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60409</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60409</guid>
-            <pubDate>Thu, 26 Sep 2024 04:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.27(금) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2025년 이화여대 ECC 삼성홀 대관 공고 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60408</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60408</guid>
-            <pubDate>Thu, 26 Sep 2024 04:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/help/notice/60408" class="info_wrap"><strong class="label">기타</strong><h3 class="tit">2025년 이화여대 ECC 삼성홀 대관 공고</h3></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
