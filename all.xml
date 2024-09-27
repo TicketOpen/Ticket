@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 08:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 09:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -90,6 +90,20 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=52792&amp;groupno=52792&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 26 Sep 2024 18:09:45 GMT</pubDate>
             <content:encoded><![CDATA[24.09.27(금)&nbsp;12:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 최유리 콘서트 : 우리의 언어 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52940&amp;groupno=52940&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52940&amp;groupno=52940&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 27 Sep 2024 09:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[24.10.04(금)&nbsp;17:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한정림의 음악일기 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52939&amp;groupno=52939&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52939&amp;groupno=52939&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 27 Sep 2024 09:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[24.10.07(월)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[콜드플레이 내한공연(LIVE NATION PRESENTS COLDPLAY : MUSIC OF THE.. (인터파크 티켓)]]></title>
@@ -204,20 +218,6 @@
             <content:encoded><![CDATA[24.10.10(목)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 빅3 ＂행복한만남＂ 〈강진,김용임,진성〉 - 남양주 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52921&amp;groupno=52921&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52921&amp;groupno=52921&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 27 Sep 2024 02:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[24.10.17(목)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코믹 뮤직 체력극 〈신바람삼대〉 - 대전 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52920&amp;groupno=52920&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52920&amp;groupno=52920&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 27 Sep 2024 02:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[24.10.04(금)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[아자데 샤미리 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52913</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52913</guid>
@@ -281,31 +281,38 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013437_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 예술의전당 토월정통연극 〈햄릿〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52811</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52811</guid>
-            <pubDate>Thu, 26 Sep 2024 18:09:59 GMT</pubDate>
+            <title><![CDATA[카운팅 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52912</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52912</guid>
+            <pubDate>Fri, 27 Sep 2024 09:09:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.27
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012630_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013916_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[불편한 편의점 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52812</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52812</guid>
-            <pubDate>Thu, 26 Sep 2024 18:09:59 GMT</pubDate>
+            <title><![CDATA[2024 마술사 유호진 단독 콘서트 〈오푸스〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52901</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52901</guid>
+            <pubDate>Fri, 27 Sep 2024 09:09:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.27
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002802_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014020_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤직드라마 〈NEW 망원동 브라더스〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52813</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52813</guid>
-            <pubDate>Fri, 27 Sep 2024 08:12:04 GMT</pubDate>
+            <title><![CDATA[뮤지컬 〈조로: 액터뮤지션〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52824</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52824</guid>
+            <pubDate>Fri, 27 Sep 2024 09:09:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.27
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009362_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011992_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14975</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14975</guid>
+            <pubDate>Fri, 27 Sep 2024 09:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.30(월) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부산] 2024 라이브 가족뮤지컬〈알라딘〉 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -441,11 +448,11 @@
             <content:encoded><![CDATA[2024.09.30(월) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[대구] 2024 〈서커스매직쇼〉 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14954</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14954</guid>
-            <pubDate>Tue, 24 Sep 2024 08:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.25(수) 09:00]]></content:encoded>
+            <title><![CDATA[ASAKA LIVE in Seoul (supported by KOE) 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14975&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14975&amp;order=1</guid>
+            <pubDate>Fri, 27 Sep 2024 09:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024-09-30(월) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부산] 2024 라이브 가족뮤지컬〈알라딘〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -509,13 +516,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14966&amp;order=1</guid>
             <pubDate>Thu, 26 Sep 2024 09:03:07 GMT</pubDate>
             <content:encoded><![CDATA[2024-10-02(수) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[창원] 국립합창단〈카르미나 부라나〉공연 티켓오픈안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14965&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14965&amp;order=1</guid>
-            <pubDate>Thu, 26 Sep 2024 05:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024-10-08(화) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[CHERRY WORLD [노란 머리 체리] 티켓오픈 안내 (위메프 공연티켓)]]></title>

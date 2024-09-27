@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 08:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 09:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,31 +71,31 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013437_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 예술의전당 토월정통연극 〈햄릿〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52811</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52811</guid>
-            <pubDate>Thu, 26 Sep 2024 18:09:59 GMT</pubDate>
+            <title><![CDATA[카운팅]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52912</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52912</guid>
+            <pubDate>Fri, 27 Sep 2024 09:09:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.27
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012630_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013916_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[불편한 편의점]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52812</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52812</guid>
-            <pubDate>Thu, 26 Sep 2024 18:09:59 GMT</pubDate>
+            <title><![CDATA[2024 마술사 유호진 단독 콘서트 〈오푸스〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52901</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52901</guid>
+            <pubDate>Fri, 27 Sep 2024 09:09:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.27
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002802_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014020_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤직드라마 〈NEW 망원동 브라더스〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52813</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52813</guid>
-            <pubDate>Fri, 27 Sep 2024 08:12:05 GMT</pubDate>
+            <title><![CDATA[뮤지컬 〈조로: 액터뮤지션〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52824</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52824</guid>
+            <pubDate>Fri, 27 Sep 2024 09:09:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.27
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24009362_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011992_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
