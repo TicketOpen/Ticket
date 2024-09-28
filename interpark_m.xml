@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Sep 2024 16:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Sep 2024 17:03:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,13 +62,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013437_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈보이즈 인 더 밴드〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52851</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52851</guid>
+            <title><![CDATA[2024 이승철 콘서트 〈오케스트락2〉 청주공연]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52906</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52906</guid>
             <pubDate>Fri, 27 Sep 2024 15:08:12 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.30
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012547_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024092516180478.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[〈12월의 봄〉 정훈희 x 송창식 with 함춘호 콘서트 청주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52908</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52908</guid>
+            <pubDate>Sat, 28 Sep 2024 17:03:07 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.30
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024092422241845.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1인 창극 〈사자탈을 쓴 장산범〉]]></title>
@@ -80,22 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024090316132935.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2024 이승철 콘서트 〈오케스트락2〉 청주공연]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52906</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52906</guid>
+            <title><![CDATA[연극 〈보이즈 인 더 밴드〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52851</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52851</guid>
             <pubDate>Fri, 27 Sep 2024 15:08:12 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.30
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024092516180478.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 노을 전국투어 콘서트 〈노을이 내린 밤〉-대전]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52892</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52892</guid>
-            <pubDate>Sat, 28 Sep 2024 16:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.30
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024092318193758.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012547_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
