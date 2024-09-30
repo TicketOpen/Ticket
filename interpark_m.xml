@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Sep 2024 13:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 14:11:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 대한민국 합창축제]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52941</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52941</guid>
+            <pubDate>Mon, 30 Sep 2024 00:38:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.30
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014106_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬비녜트 〈The Voyage〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52902</link>
@@ -24,15 +33,6 @@
             <content:encoded><![CDATA[2024.09.30
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014099_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 대한민국 합창축제]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52941</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52941</guid>
-            <pubDate>Mon, 30 Sep 2024 00:38:39 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.30
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014106_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[［단독할인+로트렉 음료증정］ 툴루즈 로트렉 물랑루즈 패키지]]></title>
