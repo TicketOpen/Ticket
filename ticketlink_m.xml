@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-29T23:06:47.895Z</updated>
+    <updated>2024-09-30T00:39:39.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2024 세대공감 어울림 북콘서트 (김상욱 with 궤도) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60433</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60433"/>
+        <updated>2024-09-30T00:39:32.242Z</updated>
+        <content type="html"><![CDATA[2024.09.30(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 가족뮤지컬 <라푼젤> - 남양주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60431</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60418"/>
         <updated>2024-09-27T02:12:07.387Z</updated>
         <content type="html"><![CDATA[2024.09.27(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  김경호 데뷔 30주년 전국투어 콘서트 : THE ROCKER - 청주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60417</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60417"/>
-        <updated>2024-09-27T05:09:38.431Z</updated>
-        <content type="html"><![CDATA[2024.10.01(화) 05:00]]></content>
     </entry>
 </feed>
