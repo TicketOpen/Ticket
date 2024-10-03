@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-03T22:09:28.798Z</updated>
+    <updated>2024-10-03T23:09:32.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.04(금) 10:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  에릭 치엔 < Believe > 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60434</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60434"/>
-        <updated>2024-09-30T03:20:45.902Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.04(금) 05:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독판매]  2024 세대공감 어울림 북콘서트 (김상욱 with 궤도) 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60433</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60433"/>
         <updated>2024-09-30T02:16:48.599Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.30(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2024 송년스페셜 <조희창의 [토요 클래식 살롱] 손정범 with Stars> - 경주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60432</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60432"/>
+        <updated>2024-10-03T23:09:18.536Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.16(수) 01:00]]></content>
     </entry>
 </feed>
