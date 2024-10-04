@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 07:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 08:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,18 +190,18 @@
             <content:encoded><![CDATA[24.10.15(화)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 이무진 전국투어 콘서트 [별책부록] - 고양 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52984&amp;groupno=52984&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52984&amp;groupno=52984&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 04 Oct 2024 02:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[24.10.10(목)&nbsp;17:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈신통방통 홈쇼핑〉 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52986&amp;groupno=52986&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=52986&amp;groupno=52986&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 04 Oct 2024 00:36:11 GMT</pubDate>
             <content:encoded><![CDATA[24.10.04(금)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[풍수 아티스트 허인정 상설전 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=1019&amp;groupno=1019&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=1019&amp;groupno=1019&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 04 Oct 2024 08:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[24.10.11(금)&nbsp;00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한정림의 음악일기 (인터파크 티켓 모바일)]]></title>
@@ -292,6 +292,13 @@
             <content:encoded><![CDATA[2024.10.04
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010358_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14995</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14995</guid>
+            <pubDate>Fri, 04 Oct 2024 08:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.07(월) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 송골매 콘서트 ‘열망’ 두번째 〈늘-봄〉전국투어 in 고양/부산/대구 티켓오픈안내 (예스24 티켓)]]></title>
@@ -427,11 +434,11 @@
             <content:encoded><![CDATA[2024.10.07(월) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.10.04(금) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14975</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14975</guid>
-            <pubDate>Fri, 27 Sep 2024 12:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.30(월) 18:00]]></content:encoded>
+            <title><![CDATA[[부산] 신나는섬과 함께하는 찰리채플린 시네마 콘서트 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14995&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14995&amp;order=1</guid>
+            <pubDate>Fri, 04 Oct 2024 08:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024-10-07(월) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 송골매 콘서트 ‘열망’ 두번째 〈늘-봄〉전국투어 in 고양/부산/대구 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -495,13 +502,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14986&amp;order=1</guid>
             <pubDate>Fri, 04 Oct 2024 02:11:52 GMT</pubDate>
             <content:encoded><![CDATA[2024-10-10(목) 16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[창원] 2024 이무진 전국투어 콘서트 [별책부록] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14985&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14985&amp;order=1</guid>
-            <pubDate>Fri, 04 Oct 2024 02:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024-10-10(목) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[CHERRY WORLD [노란 머리 체리] 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -584,6 +584,48 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 김이후 팬미팅 - "여기 보세요, 치즈!"​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60474</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60474</guid>
+            <pubDate>Fri, 04 Oct 2024 08:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.08(화) 07:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 홍성원 팬미팅 - "여러분의 성원에 감사드립니다. (부제: 성원과 함께)"​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60473</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60473</guid>
+            <pubDate>Fri, 04 Oct 2024 08:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.08(화) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 강찬 팬미팅 - "다함께 찬찬찬"​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60472</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60472</guid>
+            <pubDate>Fri, 04 Oct 2024 08:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.07(월) 08:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 윤은오 팬미팅 - "오늘의 은오"​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60471</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60471</guid>
+            <pubDate>Fri, 04 Oct 2024 08:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.07(월) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 최수진 팬미팅 - "16첩 진수성찬"​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60470</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60470</guid>
+            <pubDate>Fri, 04 Oct 2024 08:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.07(월) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 2am콘서트 <2am is coming to town> - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60469</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60469</guid>
+            <pubDate>Fri, 04 Oct 2024 08:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.11(금) 07:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[제주 하늘을 열다​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60468</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60468</guid>
@@ -647,46 +689,46 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.10.08(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스탠드 업 코미디 뮤지컬 <방구석 뮤지컬> 3차 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60458</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60458</guid>
-            <pubDate>Fri, 04 Oct 2024 02:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.11(금) 06:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 김이후 팬미팅 - "여기 보세요, 치즈!"​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60474</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60474</guid>
+            <pubDate>Fri, 04 Oct 2024 08:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.08(화) 07:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 2024 뽀식이 유랑단 콘서트 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60457</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60457</guid>
-            <pubDate>Fri, 04 Oct 2024 02:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.09(수) 02:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 홍성원 팬미팅 - "여러분의 성원에 감사드립니다. (부제: 성원과 함께)"​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60473</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60473</guid>
+            <pubDate>Fri, 04 Oct 2024 08:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.08(화) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 청주​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60456</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60456</guid>
-            <pubDate>Fri, 04 Oct 2024 02:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.11(금) 00:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 강찬 팬미팅 - "다함께 찬찬찬"​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60472</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60472</guid>
+            <pubDate>Fri, 04 Oct 2024 08:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.07(월) 08:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 안양​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60455</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60455</guid>
-            <pubDate>Fri, 04 Oct 2024 02:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.11(금) 00:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 윤은오 팬미팅 - "오늘의 은오"​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60471</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60471</guid>
+            <pubDate>Fri, 04 Oct 2024 08:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.07(월) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 김해​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60454</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60454</guid>
-            <pubDate>Fri, 04 Oct 2024 02:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.11(금) 00:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 최수진 팬미팅 - "16첩 진수성찬"​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60470</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60470</guid>
+            <pubDate>Fri, 04 Oct 2024 08:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.07(월) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 강릉 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60453</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60453</guid>
-            <pubDate>Fri, 04 Oct 2024 02:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.11(금) 00:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 2am콘서트 <2am is coming to town> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60469</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60469</guid>
+            <pubDate>Fri, 04 Oct 2024 08:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.11(금) 07:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제주 하늘을 열다​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -750,48 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60460</guid>
             <pubDate>Fri, 04 Oct 2024 03:15:33 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.08(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스탠드 업 코미디 뮤지컬 <방구석 뮤지컬> 3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60458</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60458</guid>
-            <pubDate>Fri, 04 Oct 2024 02:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.11(금) 06:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 2024 뽀식이 유랑단 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60457</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60457</guid>
-            <pubDate>Fri, 04 Oct 2024 02:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.09(수) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 청주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60456</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60456</guid>
-            <pubDate>Fri, 04 Oct 2024 02:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.11(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 안양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60455</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60455</guid>
-            <pubDate>Fri, 04 Oct 2024 02:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.11(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 김해​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60454</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60454</guid>
-            <pubDate>Fri, 04 Oct 2024 02:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.11(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 강릉 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60453</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60453</guid>
-            <pubDate>Fri, 04 Oct 2024 02:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.11(금) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
