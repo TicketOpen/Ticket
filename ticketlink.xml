@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-04T03:15:41.362Z</updated>
+    <updated>2024-10-04T04:11:30.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤직플래닛 2024 ​티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60464</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60464"/>
+        <updated>2024-10-04T04:11:14.364Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다-(천안)​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60463</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60449"/>
         <updated>2024-10-04T02:12:11.269Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​지브리&디즈니 영화음악 FESTA ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60448</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60448"/>
-        <updated>2024-10-03T03:15:38.356Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.04(금) 02:00]]></content>
     </entry>
 </feed>
