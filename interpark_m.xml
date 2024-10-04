@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 00:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 02:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,6 +35,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014129_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈신통방통 홈쇼핑〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52986</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52986</guid>
+            <pubDate>Fri, 04 Oct 2024 00:36:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.04
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014382_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈경종수정실록〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52938</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52938</guid>
@@ -44,13 +53,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010138_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈신통방통 홈쇼핑〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52986</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52986</guid>
-            <pubDate>Fri, 04 Oct 2024 00:36:23 GMT</pubDate>
+            <title><![CDATA[섹시동안클럽 뮤지컬 페스티벌]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52919</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52919</guid>
+            <pubDate>Fri, 04 Oct 2024 02:11:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.04
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014382_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014087_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[오페레타 뮤지컬 〈판타지아〉 시즌 1]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52923</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52923</guid>
+            <pubDate>Wed, 02 Oct 2024 15:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.04
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013829_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈뽀로로와 친구들의 드림콘서트 - 잃어버린 꿈을 찾아서〉 - 춘천]]></title>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2024.10.04
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014227_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[오페레타 뮤지컬 〈판타지아〉 시즌 1]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52923</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52923</guid>
-            <pubDate>Wed, 02 Oct 2024 15:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.04
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013829_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈‘고도를 기다리며’를 기다리며〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52904</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52904</guid>
-            <pubDate>Wed, 02 Oct 2024 15:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.04
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24010358_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
