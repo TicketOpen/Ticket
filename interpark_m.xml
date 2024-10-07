@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 04:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 05:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014434_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[〈박준형x임진모 뮤직&개그PUB〉 오컬쳐프로젝트 3회]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52967</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52967</guid>
-            <pubDate>Mon, 07 Oct 2024 02:14:06 GMT</pubDate>
+            <title><![CDATA[고성현 & 미르 심포니 〈Autumn Romance〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52979</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52979</guid>
+            <pubDate>Mon, 07 Oct 2024 05:10:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.07
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014398_p.gif" length="0" type="image/gif"/>
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014421_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
