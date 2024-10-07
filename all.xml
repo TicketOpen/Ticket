@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 09:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 10:10:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,6 +224,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014421_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[NO:EL 1ST CONCERT IN SEOUL 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15003</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15003</guid>
+            <pubDate>Mon, 07 Oct 2024 10:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.10(목) 19:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15002</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15002</guid>
@@ -357,11 +364,11 @@
             <content:encoded><![CDATA[2024.10.04(금) 16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“7 ROCK PRIME 2024” <스카페스티벌 Spin-off> 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14981</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14981</guid>
-            <pubDate>Tue, 01 Oct 2024 07:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.10(목) 17:00]]></content:encoded>
+            <title><![CDATA[NO:EL 1ST CONCERT IN SEOUL 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15003&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15003&amp;order=1</guid>
+            <pubDate>Mon, 07 Oct 2024 10:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[2024-10-10(목) 19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 TWICE FANMEETING［HOME 9ROUND］시야제한석 추가 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -425,13 +432,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14992&amp;order=1</guid>
             <pubDate>Fri, 04 Oct 2024 03:15:05 GMT</pubDate>
             <content:encoded><![CDATA[2024-10-10(목) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[천안] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14991&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=14991&amp;order=1</guid>
-            <pubDate>Fri, 04 Oct 2024 03:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[2024-10-10(목) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[CHERRY WORLD [노란 머리 체리] 티켓오픈 안내 (위메프 공연티켓)]]></title>
