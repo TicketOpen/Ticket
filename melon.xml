@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-10-08T03:19:04.987Z</updated>
+    <updated>2024-10-08T04:11:34.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hollow jan－An Inaudible voice［싱글 발매 단독 콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9403</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9403"/>
+        <updated>2024-10-08T04:10:14.161Z</updated>
+        <content type="html"><![CDATA[2024.10.14(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 NCT DREAM WORLD TOUR 〈THE DREAM SHOW 3：DREAMSCAPE〉 FINALE in SEOUL 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9402</id>
@@ -66,13 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9392</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9392"/>
         <updated>2024-10-08T02:13:25.422Z</updated>
-        <content type="html"><![CDATA[2024.10.07(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연－지브리，재즈를 만나다－（김해）티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9391</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9391"/>
-        <updated>2024-10-08T02:13:25.424Z</updated>
         <content type="html"><![CDATA[2024.10.07(월) 12:00]]></content>
     </entry>
 </feed>
