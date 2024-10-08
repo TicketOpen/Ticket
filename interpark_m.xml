@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 23:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 00:36:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조지할리오노 팬콘서트［Q＆A］]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53016</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53016</guid>
+            <pubDate>Tue, 08 Oct 2024 00:35:55 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.08
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014607_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈홀리 이노센트〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52970</link>
@@ -15,15 +24,6 @@
             <content:encoded><![CDATA[2024.10.08
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011656_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈시카고〉 - 창원 OP석 추가 오픈]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52962</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52962</guid>
-            <pubDate>Mon, 07 Oct 2024 15:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011991_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[페인터즈 - 광화문전용관]]></title>
@@ -62,6 +62,15 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/no_image_musical.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈시카고〉 - 창원]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52962</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52962</guid>
+            <pubDate>Mon, 07 Oct 2024 15:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011991_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈빈센트 반 고흐〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52991</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52991</guid>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2024.10.08
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014354_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈알사탕〉 - 여주]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53006</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53006</guid>
-            <pubDate>Mon, 07 Oct 2024 15:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.08
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014476_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
