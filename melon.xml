@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-10-09T02:11:32.369Z</updated>
+    <updated>2024-10-09T03:15:51.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 IN 라이브클럽［리플리 단독 콘서트］티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9406</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9406"/>
+        <updated>2024-10-09T03:14:31.633Z</updated>
+        <content type="html"><![CDATA[2024.10.16(수) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈이프덴〉 오프닝위크 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9404</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9394"/>
         <updated>2024-10-09T02:10:21.389Z</updated>
         <content type="html"><![CDATA[2024.10.10(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연－지브리，재즈를 만나다－（수원）티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9393</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9393"/>
-        <updated>2024-10-09T02:10:21.392Z</updated>
-        <content type="html"><![CDATA[2024.10.07(월) 12:00]]></content>
     </entry>
 </feed>
