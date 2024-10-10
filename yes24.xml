@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-10T02:11:42.234Z</updated>
+    <updated>2024-10-10T03:15:54.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15017</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15017"/>
+        <updated>2024-10-10T03:15:10.404Z</updated>
+        <content type="html"><![CDATA[2024.10.10(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15016</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15016"/>
+        <updated>2024-10-10T03:15:10.409Z</updated>
+        <content type="html"><![CDATA[2024.10.16(수) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울 구로] 2024 카즈미 타테이시 트리오 내한공연 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15015</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15015"/>
+        <updated>2024-10-10T03:15:10.417Z</updated>
+        <content type="html"><![CDATA[2024.10.16(수) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [ 쿠로이 저택엔 누가 살고 있을까? ] 2차 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15014</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14995"/>
         <updated>2024-10-08T12:14:50.425Z</updated>
         <content type="html"><![CDATA[2024.10.08(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 송골매 콘서트 ‘열망’ 두번째 〈늘-봄〉전국투어 in 고양/부산/대구 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14994</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14994"/>
-        <updated>2024-10-08T12:14:50.428Z</updated>
-        <content type="html"><![CDATA[2024.10.07(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 2024 크리스마스캐롤 싱어롱뮤지컬 〈산타클로스와 브레멘음악대〉 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14993</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14993"/>
-        <updated>2024-10-08T12:14:50.431Z</updated>
-        <content type="html"><![CDATA[2024.10.07(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14992</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14992"/>
-        <updated>2024-10-08T12:14:50.440Z</updated>
-        <content type="html"><![CDATA[2024.10.10(목) 20:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.10.08(화) 20:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>
