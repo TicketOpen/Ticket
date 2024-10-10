@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-10T03:15:54.891Z</updated>
+    <updated>2024-10-10T04:11:20.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 라이브가족뮤지컬 〈산타클로스와브레멘음악대〉 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15018</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15018"/>
+        <updated>2024-10-10T04:10:44.683Z</updated>
+        <content type="html"><![CDATA[2024.10.11(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15017</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14997"/>
         <updated>2024-10-08T12:14:50.421Z</updated>
         <content type="html"><![CDATA[2024.10.11(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14995</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=14995"/>
-        <updated>2024-10-08T12:14:50.425Z</updated>
-        <content type="html"><![CDATA[2024.10.08(화) 18:00]]></content>
     </entry>
 </feed>
