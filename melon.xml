@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-10-10T23:09:25.542Z</updated>
+    <updated>2024-10-11T00:37:16.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[［2024_셀러브리티 로코 연극］러브액츄얼리 첫번째 사연 크리스마스 특별공연_전주 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9429</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9429"/>
+        <updated>2024-10-11T00:36:04.374Z</updated>
+        <content type="html"><![CDATA[2024.10.14(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［2024_셀러브리티 로코 연극］러브액츄얼리 첫번째 사연 크리스마스 특별공연_인천 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9428</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9428"/>
+        <updated>2024-10-11T00:36:04.378Z</updated>
+        <content type="html"><![CDATA[2024.10.14(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［2024_셀러브리티 로코 연극］러브액츄얼리 첫번째 사연 크리스마스 특별공연_울산 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9427</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9427"/>
+        <updated>2024-10-11T00:36:04.385Z</updated>
+        <content type="html"><![CDATA[2024.10.14(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［2024_셀러브리티 로코 연극］러브액츄얼리 첫번째 사연 크리스마스 특별공연_대전 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9426</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9426"/>
+        <updated>2024-10-11T00:36:04.385Z</updated>
+        <content type="html"><![CDATA[2024.10.14(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 JOOYOUNG CONCERT，A MISFITS’ SUNDAY 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9423</id>
@@ -46,33 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9417"/>
         <updated>2024-10-10T23:08:14.803Z</updated>
         <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사비나앤드론즈 단독 콘서트［Lasha］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9416</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9416"/>
-        <updated>2024-10-10T23:08:14.811Z</updated>
-        <content type="html"><![CDATA[2024.10.17(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숲세권 라이브：대구 콘서트 〈모브닝 X 윤딴딴〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9415</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9415"/>
-        <updated>2024-10-10T23:08:14.820Z</updated>
-        <content type="html"><![CDATA[2024.10.11(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Off The Record Music Festival（오프 더 레코드 뮤직 페스티벌）티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9414</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9414"/>
-        <updated>2024-10-10T23:08:14.837Z</updated>
-        <content type="html"><![CDATA[2024.10.10(목) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌7 이준형 단독콘서트［인디가수 이준형］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9413</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9413"/>
-        <updated>2024-10-10T23:08:14.840Z</updated>
-        <content type="html"><![CDATA[2024.10.17(목) 20:00]]></content>
     </entry>
 </feed>
