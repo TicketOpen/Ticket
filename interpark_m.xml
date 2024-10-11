@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Oct 2024 00:37:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 03:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,15 @@
             <content:encoded><![CDATA[2024.10.11
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014725_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[홍주의병이여, 말하라! - 홍주문화회관]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53064</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53064</guid>
+            <pubDate>Fri, 11 Oct 2024 03:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.11
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014690_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 산타와 루돌프 - 성남]]></title>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2024.10.11
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013762_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈빨래〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53030</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53030</guid>
-            <pubDate>Thu, 10 Oct 2024 18:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.11
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006709_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

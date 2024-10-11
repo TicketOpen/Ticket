@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-10-11T00:37:16.326Z</updated>
+    <updated>2024-10-11T03:15:10.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[탑현 소극장 단독 콘서트 〈잠이 오지 않는 밤에〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9432</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9432"/>
+        <updated>2024-10-11T03:13:47.519Z</updated>
+        <content type="html"><![CDATA[2024.10.14(월) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[컬러풀 스테이지＃6 구구 X 컨파인드화이트 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9431</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9431"/>
+        <updated>2024-10-11T03:13:47.519Z</updated>
+        <content type="html"><![CDATA[2024.10.15(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［2024_셀러브리티 로코 연극］러브액츄얼리 첫번째 사연 크리스마스 특별공연_전주 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9429</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9420"/>
         <updated>2024-10-10T23:08:14.781Z</updated>
         <content type="html"><![CDATA[2024.10.14(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 JAEHYUN FAN－CON 〈Mute〉 시야제한석 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9418</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9418"/>
-        <updated>2024-10-10T23:08:14.787Z</updated>
-        <content type="html"><![CDATA[2024.10.11(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 P1Harmony FAN MEETING［P1uspace H：CHAMP1ON들의 OLYMP1ece］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9417</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9417"/>
-        <updated>2024-10-10T23:08:14.803Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
     </entry>
 </feed>

@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-11T00:37:16.321Z</updated>
+    <updated>2024-10-11T03:15:10.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 마법여우 주비“신비한 칠교 목걸이의 비밀” - 서울 (구로)​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60519</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60519"/>
+        <updated>2024-10-11T03:15:00.209Z</updated>
+        <content type="html"><![CDATA[2024.10.11(금) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[티켓오픈일 수정안내]  2024 2am콘서트 < 2am is coming to town > - 대구]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60517</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60517"/>
+        <updated>2024-10-11T03:15:00.212Z</updated>
+        <content type="html"><![CDATA[2024.10.10(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <알사탕> - 제주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60516</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60516"/>
         <updated>2024-10-10T11:04:32.694Z</updated>
         <content type="html"><![CDATA[2024.10.16(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2024 김민주 팬미팅 [Blooming Story]​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60515</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60515"/>
+        <updated>2024-10-11T03:15:00.225Z</updated>
+        <content type="html"><![CDATA[2024.10.21(월) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 심수봉 전국투어 콘서트 : 꽃길 - 목포​ 티켓오픈 안내]]></title>
@@ -25,13 +46,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60513"/>
         <updated>2024-10-10T10:10:23.369Z</updated>
         <content type="html"><![CDATA[2024.10.15(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 마법여우 주비“신비한 칠교 목걸이의 비밀” - 서울 (구로)​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60512</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60512"/>
-        <updated>2024-10-10T09:09:56.926Z</updated>
-        <content type="html"><![CDATA[2024.10.11(금) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코믹 범죄 스릴러 연극 <701호>​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60503"/>
         <updated>2024-10-10T02:11:35.327Z</updated>
         <content type="html"><![CDATA[2024.10.14(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 리라타 LYRATA 초청 공연 네덜란드  <비올라 다감바 사중주단> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60502</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60502"/>
-        <updated>2024-10-10T02:11:35.330Z</updated>
-        <content type="html"><![CDATA[2024.10.11(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 어썸스테이지 [ N.Flying ] 추가 티켓오픈 안내​]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60500</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60500"/>
-        <updated>2024-10-08T09:10:13.498Z</updated>
-        <content type="html"><![CDATA[2024.10.10(목) 05:00]]></content>
     </entry>
 </feed>
