@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Oct 2024 10:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 11:04:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013762_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극〈늘근도둑이야기〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53014</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53014</guid>
-            <pubDate>Fri, 11 Oct 2024 09:09:17 GMT</pubDate>
+            <title><![CDATA[2024 연극〈신바람 삼대〉 :대학로 컴백!]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53019</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53019</guid>
+            <pubDate>Fri, 11 Oct 2024 11:03:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.11
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001159_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014723_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
