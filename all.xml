@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Oct 2024 03:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 04:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -276,15 +276,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014570_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 연극〈신바람 삼대〉 :대학로 컴백! (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53019</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53019</guid>
-            <pubDate>Thu, 10 Oct 2024 15:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.11
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014723_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈빈센트 반 고흐〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52996</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52996</guid>
@@ -292,6 +283,15 @@
             <content:encoded><![CDATA[2024.10.11
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013762_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 연극〈신바람 삼대〉 :대학로 컴백! (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53019</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53019</guid>
+            <pubDate>Thu, 10 Oct 2024 15:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.11
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014723_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[대구] 2024 라이브가족뮤지컬 〈스크루지아저씨의 크리스마스캐롤〉 티켓오픈 안내 (예스24 티켓)]]></title>
