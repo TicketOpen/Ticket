@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-11T06:13:01.320Z</updated>
+    <updated>2024-10-11T07:10:08.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​한수원 뮤직 페스티벌 <씨어터> - 경주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60532</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60532"/>
+        <updated>2024-10-11T07:10:00.971Z</updated>
+        <content type="html"><![CDATA[2024.10.14(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오페라 잔니 스키키 - 동해​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60530</id>
@@ -90,24 +97,17 @@
         <content type="html"><![CDATA[2024.10.11(금) 08:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뮤지컬 <시라노>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60518</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60518"/>
+        <updated>2024-10-11T07:10:01.010Z</updated>
+        <content type="html"><![CDATA[2024.10.16(수) 01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[티켓오픈일 수정안내]  2024 2am콘서트 < 2am is coming to town > - 대구]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60517</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60517"/>
         <updated>2024-10-11T03:15:00.212Z</updated>
         <content type="html"><![CDATA[2024.10.10(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <알사탕> - 제주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60516</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60516"/>
-        <updated>2024-10-10T11:04:32.694Z</updated>
-        <content type="html"><![CDATA[2024.10.16(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]2024 김민주 팬미팅 [Blooming Story]​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60515</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60515"/>
-        <updated>2024-10-11T03:15:00.225Z</updated>
-        <content type="html"><![CDATA[2024.10.21(월) 11:00]]></content>
     </entry>
 </feed>
