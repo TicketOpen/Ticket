@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Oct 2024 18:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Oct 2024 20:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,15 +61,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014865_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[테이 20주년 콘서트 〈테이스트〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53004</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53004</guid>
-            <pubDate>Fri, 11 Oct 2024 15:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.14
-                                    <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014641_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[SURL concert 'XYRUP']]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52977</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=52977</guid>
@@ -77,6 +68,15 @@
             <content:encoded><![CDATA[2024.10.14
                                     <span>19:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014740_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[테이 20주년 콘서트 〈테이스트〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53004</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53004</guid>
+            <pubDate>Fri, 11 Oct 2024 15:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.14
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014641_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 다이나믹 듀오 단독 콘서트 “가끔씩 오래 보자” - 서울]]></title>
@@ -88,13 +88,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014696_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[사랑에 빠지기까지 디마이너스백]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53035</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53035</guid>
-            <pubDate>Sat, 12 Oct 2024 18:09:01 GMT</pubDate>
+            <title><![CDATA[4D공포연극 〈스위치〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53022</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53022</guid>
+            <pubDate>Sat, 12 Oct 2024 20:08:34 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.15
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23015628_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001006_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
