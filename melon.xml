@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-10-14T11:04:23.212Z</updated>
+    <updated>2024-10-14T12:15:51.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ChoQMay Live in Seoul 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9443</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9443"/>
+        <updated>2024-10-14T12:14:36.159Z</updated>
+        <content type="html"><![CDATA[2024.10.18(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 케이윌 앵콜 콘서트 〈All The Way〉：Christmas Edition 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9440</id>
@@ -66,13 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9429</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9429"/>
         <updated>2024-10-14T10:09:35.823Z</updated>
-        <content type="html"><![CDATA[2024.10.14(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［2024_셀러브리티 로코 연극］러브액츄얼리 첫번째 사연 크리스마스 특별공연_인천 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9428</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9428"/>
-        <updated>2024-10-14T10:09:35.824Z</updated>
         <content type="html"><![CDATA[2024.10.14(월) 09:00]]></content>
     </entry>
 </feed>
