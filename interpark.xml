@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-10-14T08:13:10.373Z</updated>
+    <updated>2024-10-14T09:10:23.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=53020&amp;groupno=53020&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-10-11T10:08:36.817Z</updated>
         <content type="html"><![CDATA[24.10.15(화)&nbsp;12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[음악극 수난이대]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53105&amp;groupno=53105&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53105&amp;groupno=53105&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-10-14T09:09:09.546Z</updated>
+        <content type="html"><![CDATA[24.10.15(화)&nbsp;18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[휘성 x KCM 콘서트 in 전주]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53106&amp;groupno=53106&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53106&amp;groupno=53106&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-10-14T09:09:09.547Z</updated>
+        <content type="html"><![CDATA[24.10.16(수)&nbsp;10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈하모니〉 - 과천]]></title>
@@ -111,25 +125,11 @@
         <content type="html"><![CDATA[24.10.17(목)&nbsp;20:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[78LIVE - 까치산]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53087&amp;groupno=53087&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53087&amp;groupno=53087&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-10-11T09:09:02.435Z</updated>
-        <content type="html"><![CDATA[24.10.21(월)&nbsp;18:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뮤지컬 〈글루미 선데이〉]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53089&amp;groupno=53089&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53089&amp;groupno=53089&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-10-11T09:09:02.439Z</updated>
         <content type="html"><![CDATA[24.10.14(월)&nbsp;15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈시라노〉]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53086&amp;groupno=53086&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53086&amp;groupno=53086&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-10-11T08:10:56.450Z</updated>
-        <content type="html"><![CDATA[24.10.16(수)&nbsp;10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[헐리우드 레전더리 콘서트 - 시리즈 Ⅰ：히어로즈 ＆ 판타지(부산)]]></title>
