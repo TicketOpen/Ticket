@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Oct 2024 17:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 18:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014954_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[강철의 연금술사전 - 서울]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1021</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1021</guid>
-            <pubDate>Mon, 14 Oct 2024 15:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.15
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014799_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[연극 〈러브레터〉 - 대전]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53040</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53040</guid>
@@ -78,6 +69,15 @@
             <content:encoded><![CDATA[2024.10.15
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014874_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[강철의 연금술사전 - 서울]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1021</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1021</guid>
+            <pubDate>Mon, 14 Oct 2024 15:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.15
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014799_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈틱틱붐〉 쇼케이스 - LOUDER THAN WORDS!]]></title>
