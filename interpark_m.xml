@@ -4,27 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 09:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 10:10:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[4D공포연극 〈스위치〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53022</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53022</guid>
-            <pubDate>Mon, 14 Oct 2024 15:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.15
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001006_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑에 빠지기까지 디마이너스백]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53035</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53035</guid>
-            <pubDate>Mon, 14 Oct 2024 11:03:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.15
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23015628_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[좀비연극 오마이갓]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53065</link>
@@ -53,13 +35,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23003616_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[가족인형극〈내가 가장 듣고 싶은 말〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53095</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53095</guid>
+            <title><![CDATA[4D공포연극 〈스위치〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53022</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53022</guid>
             <pubDate>Mon, 14 Oct 2024 15:08:27 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.15
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014954_p.gif" length="0" type="image/gif"/>
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001006_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑에 빠지기까지 디마이너스백]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53035</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53035</guid>
+            <pubDate>Mon, 14 Oct 2024 11:03:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.15
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23015628_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈러브레터〉 - 대전]]></title>
@@ -80,6 +71,24 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014799_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[가족인형극〈내가 가장 듣고 싶은 말〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53095</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53095</guid>
+            <pubDate>Mon, 14 Oct 2024 15:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.15
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014954_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스 디즈니&픽사 OST 콘서트 - 인천]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53081</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53081</guid>
+            <pubDate>Tue, 15 Oct 2024 10:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.15
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014773_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 목포]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53048</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53048</guid>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2024.10.15
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014820_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 심수봉 전국투어 콘서트 '꽃길' - 목포]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53049</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53049</guid>
-            <pubDate>Tue, 15 Oct 2024 06:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.15
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014958_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
