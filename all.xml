@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Oct 2024 08:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 09:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,20 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9444</guid>
             <pubDate>Thu, 17 Oct 2024 07:08:58 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.22(화) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Gist ‘the Artist’ Concert 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9468</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9468</guid>
+            <pubDate>Thu, 17 Oct 2024 09:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.19(토) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[캐치더영 데뷔 1주년 기념 콘서트 〈DREAM IT〉 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9467</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9467</guid>
+            <pubDate>Thu, 17 Oct 2024 09:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.21(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김지현 2집 음반 발매 쇼케이스［beyond the proscenium arch］티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -71,20 +85,6 @@
             <content:encoded><![CDATA[2024.10.17(목) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[크라잉넛 x 소온지 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9456</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9456</guid>
-            <pubDate>Thu, 17 Oct 2024 07:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.18(금) 12:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[EXHIBITION：EVENIF 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9455</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9455</guid>
-            <pubDate>Thu, 17 Oct 2024 07:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.17(목) 18:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[찰리푸스 내한공연 (Charlie Puth Presents “Something New” in Se.. (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=53047&amp;groupno=53047&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=53047&amp;groupno=53047&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -97,6 +97,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=53037&amp;groupno=53037&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 17 Oct 2024 02:11:11 GMT</pubDate>
             <content:encoded><![CDATA[24.10.17(목)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[APF CONCERTS PRESENTS - betcover!! "uma tour 2" in Seoul - 오픈 .. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53139&amp;groupno=53139&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53139&amp;groupno=53139&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 17 Oct 2024 09:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[추후공지]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 정밀아 단독공연 〈서울역에서 출발〉 - 부산 (인터파크 티켓)]]></title>
@@ -216,13 +223,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53124&amp;groupno=53124&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 16 Oct 2024 02:13:13 GMT</pubDate>
             <content:encoded><![CDATA[24.10.21(월)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김지현 2집 음반 발매 쇼케이스 [beyond the proscenium arch] (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53123&amp;groupno=53123&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53123&amp;groupno=53123&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 15 Oct 2024 09:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[24.10.21(월)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 김창옥 토크콘서트 시즌4 - 남양주 (인터파크 티켓 모바일)]]></title>
@@ -605,6 +605,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 2024 SF9 YOUNGBIN FAN MEETING 'BOHEMIAN'​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60571</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60571</guid>
+            <pubDate>Thu, 17 Oct 2024 09:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.21(월) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​[단독판매]  2024 2am Concert < 2am is coming to town > - Daegu​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60570</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60570</guid>
+            <pubDate>Thu, 17 Oct 2024 09:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.18(금) 11:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <해적> : THE LAST VOYAGE 2차 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60569</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60569</guid>
@@ -696,18 +710,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.10.18(금) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 뮤지컬 <꼼메디아 디 피노키오> 2차 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60555</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60555</guid>
-            <pubDate>Tue, 15 Oct 2024 09:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.22(화) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 2024 SF9 YOUNGBIN FAN MEETING 'BOHEMIAN'​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60571</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60571</guid>
+            <pubDate>Thu, 17 Oct 2024 09:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.21(월) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 김경호 데뷔 30주년 전국투어 콘서트:THE ROCKER-광주​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60554</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60554</guid>
-            <pubDate>Tue, 15 Oct 2024 08:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.16(수) 04:00]]></content:encoded>
+            <title><![CDATA[​[단독판매]  2024 2am Concert < 2am is coming to town > - Daegu​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60570</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60570</guid>
+            <pubDate>Thu, 17 Oct 2024 09:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.18(금) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <해적> : THE LAST VOYAGE 2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -799,20 +813,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60556</guid>
             <pubDate>Tue, 15 Oct 2024 11:03:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.18(금) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 뮤지컬 <꼼메디아 디 피노키오> 2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60555</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60555</guid>
-            <pubDate>Tue, 15 Oct 2024 09:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.22(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 김경호 데뷔 30주년 전국투어 콘서트:THE ROCKER-광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60554</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60554</guid>
-            <pubDate>Tue, 15 Oct 2024 08:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.16(수) 04:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원

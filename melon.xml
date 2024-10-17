@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-10-17T08:12:31.683Z</updated>
+    <updated>2024-10-17T09:10:18.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9444"/>
         <updated>2024-10-17T07:08:58.406Z</updated>
         <content type="html"><![CDATA[2024.10.22(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gist ‘the Artist’ Concert 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9468</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9468"/>
+        <updated>2024-10-17T09:09:01.984Z</updated>
+        <content type="html"><![CDATA[2024.10.19(토) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐치더영 데뷔 1주년 기념 콘서트 〈DREAM IT〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9467</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9467"/>
+        <updated>2024-10-17T09:09:01.985Z</updated>
+        <content type="html"><![CDATA[2024.10.21(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김지현 2집 음반 발매 쇼케이스［beyond the proscenium arch］티켓 오픈 안내]]></title>
@@ -67,19 +81,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9457"/>
         <updated>2024-10-17T07:08:58.419Z</updated>
         <content type="html"><![CDATA[2024.10.17(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크라잉넛 x 소온지 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9456</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9456"/>
-        <updated>2024-10-17T07:08:58.420Z</updated>
-        <content type="html"><![CDATA[2024.10.18(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EXHIBITION：EVENIF 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9455</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9455"/>
-        <updated>2024-10-17T07:08:58.422Z</updated>
-        <content type="html"><![CDATA[2024.10.17(목) 18:00]]></content>
     </entry>
 </feed>
