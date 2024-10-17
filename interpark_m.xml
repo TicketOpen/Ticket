@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Oct 2024 09:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 10:09:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,15 +26,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015043_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈미자〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53130</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53130</guid>
-            <pubDate>Wed, 16 Oct 2024 15:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.17
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015135_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[예프게니 키신 피아노 리사이틀]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53060</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53060</guid>
@@ -42,6 +33,15 @@
             <content:encoded><![CDATA[2024.10.17
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013702_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈미자〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53130</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53130</guid>
+            <pubDate>Wed, 16 Oct 2024 15:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.17
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015135_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 트롯걸즈재팬 1st 콘서트 - 서울앵콜]]></title>
@@ -80,22 +80,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014092_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈띨뿌리〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53117</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53117</guid>
-            <pubDate>Thu, 17 Oct 2024 08:11:36 GMT</pubDate>
+            <title><![CDATA[뮤지컬 〈명성황후〉 30주년 기념 공연 - 대구]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53051</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53051</guid>
+            <pubDate>Thu, 17 Oct 2024 10:09:02 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.17
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015082_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014459_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈회수조〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53129</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53129</guid>
-            <pubDate>Thu, 17 Oct 2024 08:11:36 GMT</pubDate>
+            <title><![CDATA[APF  CONCERTS PRESENTS - kanekoayano Live in Seoul]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53008</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53008</guid>
+            <pubDate>Thu, 17 Oct 2024 10:09:02 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.17
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0004050_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015065_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
