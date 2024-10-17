@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-17T04:11:39.748Z</updated>
+    <updated>2024-10-17T05:10:02.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[창원] 국립국악관현악단 베스트 컬렉션 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15059</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15059"/>
+        <updated>2024-10-17T05:09:20.484Z</updated>
+        <content type="html"><![CDATA[2024.10.31(목) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15058</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15038"/>
         <updated>2024-10-11T07:09:19.602Z</updated>
         <content type="html"><![CDATA[2024.10.16(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15037</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15037"/>
-        <updated>2024-10-11T06:12:13.774Z</updated>
-        <content type="html"><![CDATA[2024.10.14(월) 10:00]]></content>
     </entry>
 </feed>
