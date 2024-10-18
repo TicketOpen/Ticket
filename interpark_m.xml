@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 00:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 02:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,7 +23,6 @@
             <pubDate>Thu, 17 Oct 2024 15:03:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.18
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/no_image_concert.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[소향 1집 앨범 발매기념 콘서트 Diva - 부산]]></title>
@@ -42,6 +41,15 @@
             <content:encoded><![CDATA[2024.10.18
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013619_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[AIMFEST SEOUL 2024]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53100</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53100</guid>
+            <pubDate>Fri, 18 Oct 2024 02:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.18
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015058_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[찰리푸스 내한공연 (Charlie Puth Presents “Something New” in Seoul)]]></title>
@@ -87,15 +95,6 @@
             <content:encoded><![CDATA[2024.10.18
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002867_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스 지브리 OST 콘서트 : 디 오케스트라]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53131</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53131</guid>
-            <pubDate>Thu, 17 Oct 2024 15:03:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.18
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015056_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
