@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Oct 2024 03:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Oct 2024 04:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015274_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[음악극 〈행복한 왕자〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53126</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53126</guid>
-            <pubDate>Fri, 18 Oct 2024 15:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014622_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈이터니티〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53103</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53103</guid>
@@ -78,6 +69,15 @@
             <content:encoded><![CDATA[2024.10.21
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011260_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[음악극 〈행복한 왕자〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53126</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53126</guid>
+            <pubDate>Fri, 18 Oct 2024 15:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014622_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈멍〉]]></title>
