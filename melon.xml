@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-10-21T02:15:08.376Z</updated>
+    <updated>2024-10-21T03:19:59.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9444"/>
         <updated>2024-10-20T20:08:01.743Z</updated>
         <content type="html"><![CDATA[2024.10.22(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apink 8th OFFICIAL FANCLUB［PANDA］모집 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9478</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9478"/>
+        <updated>2024-10-21T03:18:42.904Z</updated>
+        <content type="html"><![CDATA[2024.10.23(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문화의 날 One Night Only 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9476</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9476"/>
+        <updated>2024-10-21T03:18:42.905Z</updated>
+        <content type="html"><![CDATA[2024.10.28(월) 12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박지은 첫번째 정규앨범 Honest 릴리즈 쇼케이스 티켓 오픈 안내]]></title>
@@ -67,19 +81,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9466"/>
         <updated>2024-10-20T20:08:01.758Z</updated>
         <content type="html"><![CDATA[2024.10.22(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dreamcatcher（드림캐쳐）공식 팬클럽［InSomnia］3기 추가모집 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9465</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9465"/>
-        <updated>2024-10-20T20:08:01.760Z</updated>
-        <content type="html"><![CDATA[2024.10.18(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 CJ X BERKLEE MUSIC CONCERT－POP MOSAIC［2024 CJ X 버클리 뮤직 콘서트］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9463</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9463"/>
-        <updated>2024-10-20T20:08:01.766Z</updated>
-        <content type="html"><![CDATA[2024.10.18(금) 18:00]]></content>
     </entry>
 </feed>

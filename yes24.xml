@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-21T02:15:08.390Z</updated>
+    <updated>2024-10-21T03:19:59.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15071</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15071"/>
+        <updated>2024-10-21T03:19:14.538Z</updated>
+        <content type="html"><![CDATA[2024.10.21(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15070</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15051"/>
         <updated>2024-10-15T02:13:08.751Z</updated>
         <content type="html"><![CDATA[2024.10.15(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈이터니티〉 4차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15050</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15050"/>
-        <updated>2024-10-14T05:10:06.281Z</updated>
-        <content type="html"><![CDATA[2024.10.21(월) 14:00]]></content>
     </entry>
 </feed>
