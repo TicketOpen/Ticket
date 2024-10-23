@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-23T05:10:36.072Z</updated>
+    <updated>2024-10-23T06:13:09.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 2024 크리스마스특집 라이브가족뮤지컬 [루돌프와산타클로스] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15086&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15086&amp;order=1"/>
+        <updated>2024-10-23T06:12:32.412Z</updated>
+        <content type="html"><![CDATA[2024-10-24(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bubble Tea and Cigarettes Live in Seoul 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15085&amp;order=1</id>
@@ -66,13 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15077&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15077&amp;order=1"/>
         <updated>2024-10-22T04:11:06.102Z</updated>
-        <content type="html"><![CDATA[2024-10-28(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 포크콘서트 윤도경밴드 [쟁글쟁글] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15076&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15076&amp;order=1"/>
-        <updated>2024-10-22T03:16:28.321Z</updated>
         <content type="html"><![CDATA[2024-10-28(월) 14:00]]></content>
     </entry>
 </feed>
