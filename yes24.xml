@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-10-23T02:12:13.032Z</updated>
+    <updated>2024-10-23T03:16:16.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2024 크리스마스특집 라이브가족뮤지컬 [루돌프와산타클로스] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15082</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15082"/>
+        <updated>2024-10-23T03:15:28.035Z</updated>
+        <content type="html"><![CDATA[2024.10.24(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15081</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15081"/>
+        <updated>2024-10-23T03:15:28.040Z</updated>
+        <content type="html"><![CDATA[2024.10.29(화) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [빈센트 반 고흐] 마지막 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15080</id>
@@ -130,19 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15062"/>
         <updated>2024-10-18T03:16:06.210Z</updated>
         <content type="html"><![CDATA[2024.10.18(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈킬롤로지〉 : 연극열전10_세 번째 작품 - 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15061</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15061"/>
-        <updated>2024-10-18T08:11:35.094Z</updated>
-        <content type="html"><![CDATA[2024.10.24(목) 16:00<a class="noti-btn-pop" presaletit1="연애인 프리미엄 선예매" presaletit2="" presaletime1="2024.10.24(목) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [드라이 플라워] 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15060</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15060"/>
-        <updated>2024-10-17T07:09:32.248Z</updated>
-        <content type="html"><![CDATA[2024.10.23(수) 11:00]]></content>
     </entry>
 </feed>
