@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Oct 2024 22:09:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 23:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0004063_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈시카고〉 - 부산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53178</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53178</guid>
-            <pubDate>Wed, 23 Oct 2024 15:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.24
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015347_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[옥주현 X 김성식 뮤지컬 하이라이트 콘서트]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53200</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53200</guid>
@@ -87,6 +78,15 @@
             <content:encoded><![CDATA[2024.10.24
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015215_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈시카고〉 - 부산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53178</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53178</guid>
+            <pubDate>Wed, 23 Oct 2024 15:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.24
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015347_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[앵콜] 더매직스타 전국투어 콘서트 - 부산]]></title>
