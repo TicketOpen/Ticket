@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-10-24T08:12:33.278Z</updated>
+    <updated>2024-10-24T09:10:26.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9444"/>
         <updated>2024-10-24T07:08:26.291Z</updated>
         <content type="html"><![CDATA[2024.10.22(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 COOMO 단독콘서트[RE:] 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9507</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9507"/>
+        <updated>2024-10-24T09:09:14.095Z</updated>
+        <content type="html"><![CDATA[2024.10.25(금) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MMA2024 (멜론뮤직어워드) 티켓 오픈 안내]]></title>
@@ -74,12 +81,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9496"/>
         <updated>2024-10-24T07:08:26.309Z</updated>
         <content type="html"><![CDATA[2024.10.31(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[번아트페스티벌 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9495</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9495"/>
-        <updated>2024-10-24T07:08:26.309Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 12:00]]></content>
     </entry>
 </feed>

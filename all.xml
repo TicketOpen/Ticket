@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Oct 2024 08:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 09:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9444</guid>
             <pubDate>Thu, 24 Oct 2024 07:08:26 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.22(화) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 COOMO 단독콘서트[RE:] 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9507</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9507</guid>
+            <pubDate>Thu, 24 Oct 2024 09:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.25(금) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MMA2024 (멜론뮤직어워드) 티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -78,11 +85,18 @@
             <content:encoded><![CDATA[2024.10.31(목) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[번아트페스티벌 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9495</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9495</guid>
-            <pubDate>Thu, 24 Oct 2024 07:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.25(금) 12:00]]></content:encoded>
+            <title><![CDATA[2024 Wave to Earth 단독공연 [play with earth! Seoul] (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=53162&amp;groupno=53162&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=53162&amp;groupno=53162&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 24 Oct 2024 09:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[24.10.24(목)&nbsp;18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 라이브가족뮤지컬〈피터팬〉-대구 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53248&amp;groupno=53248&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53248&amp;groupno=53248&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 24 Oct 2024 09:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[24.10.30(수)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[［2025 Theatre 이문세］ - 청주 (인터파크 티켓)]]></title>
@@ -190,13 +204,6 @@
             <content:encoded><![CDATA[24.11.01(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이경미 & 무라지 카오리 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53230&amp;groupno=53230&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53230&amp;groupno=53230&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 24 Oct 2024 02:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[24.10.24(목)&nbsp;16:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2025년 연극 〈친정엄마와 2박3일－부산〉 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53231&amp;groupno=53231&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53231&amp;groupno=53231&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -256,6 +263,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015400_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[[앵콜] 더매직스타 전국투어 콘서트 - 부산 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53165</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53165</guid>
+            <pubDate>Wed, 23 Oct 2024 15:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.24
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015396_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[유니버설발레단 `호두까기인형` (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53195</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53195</guid>
@@ -274,15 +290,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015216_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈시카고〉 - 세종시 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53209</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53209</guid>
-            <pubDate>Wed, 23 Oct 2024 15:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.24
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015215_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈시카고〉 - 부산 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53178</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53178</guid>
@@ -292,13 +299,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015347_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[앵콜] 더매직스타 전국투어 콘서트 - 부산 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53165</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53165</guid>
+            <title><![CDATA[뮤지컬 〈시카고〉 - 세종시 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53209</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53209</guid>
             <pubDate>Wed, 23 Oct 2024 15:08:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.24
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015396_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015215_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[창원] 가족뮤지컬 〈로보카폴리 - 잡아라! 황금트로피!〉 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -591,6 +598,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2024 가족 뮤지컬 오즈의 마법사-평택​​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60633</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60633</guid>
+            <pubDate>Thu, 24 Oct 2024 09:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.25(금) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 가족 라이브 뮤지컬 "피터팬"-성남​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60632</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60632</guid>
+            <pubDate>Thu, 24 Oct 2024 09:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.25(금) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[공룡애니멀쇼 시즌2-성남​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60631</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60631</guid>
@@ -682,18 +703,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​2024 가족뮤지컬 <호두까기인형> - 수원​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60618</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60618</guid>
-            <pubDate>Thu, 24 Oct 2024 02:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content:encoded>
+            <title><![CDATA[2024 가족 뮤지컬 오즈의 마법사-평택​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60633</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60633</guid>
+            <pubDate>Thu, 24 Oct 2024 09:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.25(금) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​2024 가족뮤지컬 <호두까기인형> - 광주​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60617</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60617</guid>
-            <pubDate>Thu, 24 Oct 2024 02:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content:encoded>
+            <title><![CDATA[2024 가족 라이브 뮤지컬 "피터팬"-성남​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60632</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60632</guid>
+            <pubDate>Thu, 24 Oct 2024 09:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.25(금) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공룡애니멀쇼 시즌2-성남​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -783,20 +804,6 @@
             <title><![CDATA[​2024 가족뮤지컬 <호두까기인형> - 제천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/60619</link>
             <guid>http://m.ticketlink.co.kr/help/notice/60619</guid>
-            <pubDate>Thu, 24 Oct 2024 02:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.25(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​2024 가족뮤지컬 <호두까기인형> - 수원​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60618</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60618</guid>
-            <pubDate>Thu, 24 Oct 2024 02:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.25(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​2024 가족뮤지컬 <호두까기인형> - 광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60617</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60617</guid>
             <pubDate>Thu, 24 Oct 2024 02:12:12 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.25(금) 00:00]]></content:encoded>
         </item>
