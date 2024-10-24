@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Oct 2024 07:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 08:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,6 +85,13 @@
             <content:encoded><![CDATA[2024.10.25(금) 12:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[［2025 Theatre 이문세］ - 청주 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53247&amp;groupno=53247&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53247&amp;groupno=53247&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 24 Oct 2024 08:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[24.10.29(화)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Moon Jong Up Concert [PETER 2024] In Seoul (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53246&amp;groupno=53246&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53246&amp;groupno=53246&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -99,7 +106,7 @@
             <content:encoded><![CDATA[24.10.31(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[브랜든 리 뮤지컬 콘서트 - 고양 (인터파크 티켓)]]></title>
+            <title><![CDATA[브랜든리 뮤지컬 컬렉션 콘서트 - 고양 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53244&amp;groupno=53244&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53244&amp;groupno=53244&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 24 Oct 2024 06:11:47 GMT</pubDate>
@@ -202,13 +209,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53236&amp;groupno=53236&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 24 Oct 2024 03:15:16 GMT</pubDate>
             <content:encoded><![CDATA[24.10.29(화)&nbsp;09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 김연우 크리스마스 콘서트 〈오마이갓연우〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53229&amp;groupno=53229&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53229&amp;groupno=53229&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 23 Oct 2024 10:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[24.10.31(목)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이지연 재즈오케스트라 〈강철불꽃땅에서 숨쉬다〉 (인터파크 티켓 모바일)]]></title>
@@ -591,11 +591,32 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[공룡애니멀쇼 시즌2-성남​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60631</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60631</guid>
+            <pubDate>Thu, 24 Oct 2024 08:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.25(금) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어린이 마술극 <리온의 신비한 과자상점> - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60630</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60630</guid>
+            <pubDate>Thu, 24 Oct 2024 08:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[​[단독판매] 2024 서사무엘 콘서트 'Last Name Seo'​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60629</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60629</guid>
             <pubDate>Thu, 24 Oct 2024 07:09:27 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2024.10.25(금) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​[단독판매] 2024 코드컵 시즌5 결승전​​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60628</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60628</guid>
+            <pubDate>Thu, 24 Oct 2024 08:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.25(금) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[누가 내 머리에 똥 쌌어 - 부산 금정​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -644,7 +665,7 @@
             <link>http://www.ticketlink.co.kr/help/notice/60621</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60621</guid>
             <pubDate>Wed, 23 Oct 2024 08:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.25(금) 05:00]]></content:encoded>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.28(월) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]  ​[고흥] 퓨전국악 창작극 - 엄마를 찾아 떠나는 아리의 모험​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -675,25 +696,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 가족뮤지컬 <빨간코 루돌프와 산타클로스> - 경주 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60616</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60616</guid>
-            <pubDate>Wed, 23 Oct 2024 07:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content:encoded>
+            <title><![CDATA[공룡애니멀쇼 시즌2-성남​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60631</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60631</guid>
+            <pubDate>Thu, 24 Oct 2024 08:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.25(금) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 가족뮤지컬 <빨간코 루돌프와 산타클로스> - 대전 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60615</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60615</guid>
-            <pubDate>Wed, 23 Oct 2024 06:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 가족뮤지컬 <빨간코 루돌프와 산타클로스> - 광양 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60614</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60614</guid>
-            <pubDate>Wed, 23 Oct 2024 06:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content:encoded>
+            <title><![CDATA[어린이 마술극 <리온의 신비한 과자상점> - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60630</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60630</guid>
+            <pubDate>Thu, 24 Oct 2024 08:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.25(금) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​[단독판매] 2024 서사무엘 콘서트 'Last Name Seo'​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -701,6 +715,13 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60629</guid>
             <pubDate>Thu, 24 Oct 2024 07:09:35 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.25(금) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​[단독판매] 2024 코드컵 시즌5 결승전​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60628</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60628</guid>
+            <pubDate>Thu, 24 Oct 2024 08:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.25(금) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[누가 내 머리에 똥 쌌어 - 부산 금정​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -749,7 +770,7 @@
             <link>http://m.ticketlink.co.kr/help/notice/60621</link>
             <guid>http://m.ticketlink.co.kr/help/notice/60621</guid>
             <pubDate>Wed, 23 Oct 2024 08:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.25(금) 05:00]]></content:encoded>
+            <content:encoded><![CDATA[2024.10.28(월) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]  ​[고흥] 퓨전국악 창작극 - 엄마를 찾아 떠나는 아리의 모험​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -777,27 +798,6 @@
             <link>http://m.ticketlink.co.kr/help/notice/60617</link>
             <guid>http://m.ticketlink.co.kr/help/notice/60617</guid>
             <pubDate>Thu, 24 Oct 2024 02:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.25(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 가족뮤지컬 <빨간코 루돌프와 산타클로스> - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60616</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60616</guid>
-            <pubDate>Wed, 23 Oct 2024 07:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.25(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 가족뮤지컬 <빨간코 루돌프와 산타클로스> - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60615</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60615</guid>
-            <pubDate>Wed, 23 Oct 2024 06:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.25(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 가족뮤지컬 <빨간코 루돌프와 산타클로스> - 광양 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60614</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60614</guid>
-            <pubDate>Wed, 23 Oct 2024 06:13:02 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.25(금) 00:00]]></content:encoded>
         </item>
         <item>
