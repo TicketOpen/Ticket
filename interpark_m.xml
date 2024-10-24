@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Oct 2024 15:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 16:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,33 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014511_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[가족〈구구쌤의 매직쑈라구〉 - 부산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53196</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53196</guid>
+            <pubDate>Thu, 24 Oct 2024 16:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015556_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈델타 보이즈〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53174</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53174</guid>
+            <pubDate>Thu, 24 Oct 2024 16:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011577_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈연남동 빙굴빙굴 빨래방〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53177</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53177</guid>
+            <pubDate>Thu, 24 Oct 2024 16:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24005493_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[존노&고영열 콘서트 〈칸타르〉 - 제주]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53218</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53218</guid>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2024.10.25
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015535_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[〈12월의 봄〉 정훈희 x 송창식 with 함춘호 콘서트 - 제주]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53219</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53219</guid>
-            <pubDate>Thu, 24 Oct 2024 15:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015469_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[〈12월의 봄〉 정훈희 x 송창식 with 함춘호 콘서트 - 전주]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53220</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53220</guid>
-            <pubDate>Thu, 24 Oct 2024 15:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015460_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 주현미 크리스마스 디너쇼 〈12월의 러브레터〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53221</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53221</guid>
-            <pubDate>Thu, 24 Oct 2024 15:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015309_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
