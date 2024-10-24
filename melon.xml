@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-10-24T04:11:33.468Z</updated>
+    <updated>2024-10-24T05:09:56.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9444"/>
         <updated>2024-10-24T02:11:03.763Z</updated>
         <content type="html"><![CDATA[2024.10.22(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MMA2024 (멜론뮤직어워드) 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9506</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9506"/>
+        <updated>2024-10-24T05:08:37.700Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌7 My Universe [사공 단독 콘서트] 티켓 오픈 안내]]></title>
@@ -74,12 +81,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9495"/>
         <updated>2024-10-24T02:11:03.780Z</updated>
         <content type="html"><![CDATA[2024.10.25(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌7［김결 단독 콘서트 ‘김결과 함께 Autumn？’］티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9494</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9494"/>
-        <updated>2024-10-24T02:11:03.781Z</updated>
-        <content type="html"><![CDATA[2024.10.30(수) 20:00]]></content>
     </entry>
 </feed>
