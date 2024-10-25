@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-10-25T00:37:49.008Z</updated>
+    <updated>2024-10-25T03:18:16.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9444"/>
         <updated>2024-10-25T00:36:30.890Z</updated>
         <content type="html"><![CDATA[2024.10.22(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤직 코멘터리 : Talkback #5 'UNXL' 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9508</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9508"/>
+        <updated>2024-10-25T03:17:03.097Z</updated>
+        <content type="html"><![CDATA[2024.10.29(화) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 COOMO 단독콘서트[RE:] 티켓 오픈 안내]]></title>
@@ -74,12 +81,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9498"/>
         <updated>2024-10-25T00:36:30.907Z</updated>
         <content type="html"><![CDATA[2024.10.28(월) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리들의 우당탕탕 운동회 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9496</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9496"/>
-        <updated>2024-10-25T00:36:30.908Z</updated>
-        <content type="html"><![CDATA[2024.10.31(목) 14:00]]></content>
     </entry>
 </feed>
