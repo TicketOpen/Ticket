@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-24T23:09:26.453Z</updated>
+    <updated>2024-10-25T00:37:49.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈친정엄마와 2박3일〉 - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15092&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15092&amp;order=1"/>
+        <updated>2024-10-25T00:37:14.470Z</updated>
+        <content type="html"><![CDATA[2024-10-30(수) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xdinary Heroes Concert 〈LIVE and FALL〉추가 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15091&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15091&amp;order=1"/>
+        <updated>2024-10-25T00:37:14.470Z</updated>
+        <content type="html"><![CDATA[2024-10-28(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[라움아트센터] 2024년 RAUM X Miuq MIND CONCERT 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15090&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15083&amp;order=1"/>
         <updated>2024-10-23T05:10:04.283Z</updated>
         <content type="html"><![CDATA[2024-10-25(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 2024 크리스마스특집 라이브가족뮤지컬 [루돌프와산타클로스] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15082&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15082&amp;order=1"/>
-        <updated>2024-10-23T03:15:37.202Z</updated>
-        <content type="html"><![CDATA[2024-10-24(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 꿈의 오케스트라-창원 제13회 정기연주회 [원더랜드] 티켓오픈안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15081&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15081&amp;order=1"/>
-        <updated>2024-10-23T03:15:37.203Z</updated>
-        <content type="html"><![CDATA[2024-10-29(화) 14:00]]></content>
     </entry>
 </feed>
