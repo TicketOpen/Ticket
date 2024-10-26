@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Oct 2024 21:04:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Oct 2024 22:04:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -213,15 +213,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011231_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 성시경 연말 콘서트 〈성시경〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53183</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53183</guid>
-            <pubDate>Fri, 25 Oct 2024 15:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.28
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015329_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[0WAVE 단독공연 [HOME with 0WAVE] (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53226</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53226</guid>
@@ -229,6 +220,15 @@
             <content:encoded><![CDATA[2024.10.28
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/no_image_concert.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 성시경 연말 콘서트 〈성시경〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53183</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53183</guid>
+            <pubDate>Fri, 25 Oct 2024 15:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.28
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015329_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
