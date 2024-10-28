@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-10-28T02:17:11.058Z</updated>
+    <updated>2024-10-28T03:21:04.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=53183&amp;groupno=53183&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-10-26T13:14:11.594Z</updated>
         <content type="html"><![CDATA[24.10.28(월)&nbsp;20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["장구의 신" 박서진 Show - 일산]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53274&amp;groupno=53274&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53274&amp;groupno=53274&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-10-28T03:19:55.779Z</updated>
+        <content type="html"><![CDATA[24.11.01(금)&nbsp;19:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 대전]]></title>
@@ -116,13 +123,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53254&amp;groupno=53254&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-10-25T04:10:51.429Z</updated>
         <content type="html"><![CDATA[24.11.01(금)&nbsp;19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 임한별의 별(別) 연말 콘서트 <크리스마스타(A Christmas' Star..]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53253&amp;groupno=53253&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53253&amp;groupno=53253&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-10-25T04:10:51.432Z</updated>
-        <content type="html"><![CDATA[24.11.04(월)&nbsp;19:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[앵콜] 더매직스타 전국투어 콘서트 - 안산]]></title>

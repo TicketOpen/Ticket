@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Oct 2024 02:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Oct 2024 03:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9458</guid>
             <pubDate>Mon, 28 Oct 2024 02:15:48 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.22(화) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BAND DALDAM concert 〈 여행 〉 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9517</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9517</guid>
+            <pubDate>Mon, 28 Oct 2024 03:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.01(금) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024-25 린 전국투어 콘서트 “Queen of Serenade” - 서울 티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -78,18 +85,18 @@
             <content:encoded><![CDATA[2024.10.25(금) 18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[MMA2024 (멜론뮤직어워드) 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9506</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9506</guid>
-            <pubDate>Sun, 27 Oct 2024 23:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2024 성시경 연말 콘서트 〈성시경〉 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=53183&amp;groupno=53183&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=53183&amp;groupno=53183&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Sat, 26 Oct 2024 13:14:11 GMT</pubDate>
             <content:encoded><![CDATA[24.10.28(월)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["장구의 신" 박서진 Show - 일산 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53274&amp;groupno=53274&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53274&amp;groupno=53274&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 28 Oct 2024 03:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[24.11.01(금)&nbsp;19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 대전 (인터파크 티켓)]]></title>
@@ -195,13 +202,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53254&amp;groupno=53254&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 25 Oct 2024 04:10:51 GMT</pubDate>
             <content:encoded><![CDATA[24.11.01(금)&nbsp;19:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 임한별의 별(別) 연말 콘서트 <크리스마스타(A Christmas' Star.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53253&amp;groupno=53253&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53253&amp;groupno=53253&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 25 Oct 2024 04:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[24.11.04(월)&nbsp;19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[앵콜] 더매직스타 전국투어 콘서트 - 안산 (인터파크 티켓)]]></title>
@@ -598,6 +598,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[RAUM X Miuq MIND CONCERT​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60649</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60649</guid>
+            <pubDate>Mon, 28 Oct 2024 03:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.29(화) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 늦봄의 길 - 광주​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60647</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60647</guid>
+            <pubDate>Mon, 28 Oct 2024 03:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.28(월) 04:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[크리스마스 지브리&디즈니 with 마블​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60646</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60646</guid>
@@ -689,18 +703,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.11.01(금) 06:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 가족 뮤지컬 오즈의 마법사-평택​​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60633</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60633</guid>
-            <pubDate>Thu, 24 Oct 2024 09:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.25(금) 01:00]]></content:encoded>
+            <title><![CDATA[RAUM X Miuq MIND CONCERT​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60649</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60649</guid>
+            <pubDate>Mon, 28 Oct 2024 03:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.29(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 가족 라이브 뮤지컬 "피터팬"-성남​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60632</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60632</guid>
-            <pubDate>Thu, 24 Oct 2024 09:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.25(금) 01:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 늦봄의 길 - 광주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60647</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60647</guid>
+            <pubDate>Mon, 28 Oct 2024 03:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.28(월) 04:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[크리스마스 지브리&디즈니 with 마블​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -792,20 +806,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60634</guid>
             <pubDate>Fri, 25 Oct 2024 03:18:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.01(금) 06:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 가족 뮤지컬 오즈의 마법사-평택​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60633</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60633</guid>
-            <pubDate>Thu, 24 Oct 2024 09:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.25(금) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 가족 라이브 뮤지컬 "피터팬"-성남​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60632</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60632</guid>
-            <pubDate>Thu, 24 Oct 2024 09:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.25(금) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
