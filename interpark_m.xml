@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Oct 2024 23:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Oct 2024 00:39:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,7 +14,7 @@
             <pubDate>Fri, 25 Oct 2024 15:08:27 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.28
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024102215410558.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015557_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 라이브가족뮤지컬〈오즈의마법사〉-대전]]></title>
@@ -23,7 +23,7 @@
             <pubDate>Fri, 25 Oct 2024 15:08:27 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.28
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024102213263326.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015626_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 대전]]></title>
@@ -32,7 +32,7 @@
             <pubDate>Fri, 25 Oct 2024 15:08:27 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.28
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024102215374546.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015546_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[가족음악극 〈수상한 외갓집〉 - 고흥]]></title>
@@ -50,7 +50,16 @@
             <pubDate>Fri, 25 Oct 2024 15:08:27 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.28
                                     <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024102409475481.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015553_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[찰리푸스 내한공연 (Charlie Puth Presents “Something New” in Seoul) 추가 회차]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53271</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53271</guid>
+            <pubDate>Mon, 28 Oct 2024 00:38:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.28
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012056_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 김장훈 연말콘서트 - 순천]]></title>
@@ -59,7 +68,7 @@
             <pubDate>Fri, 25 Oct 2024 15:08:27 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.28
                                     <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024102213280106.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015471_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤직드라마 〈불편한 편의점〉 - 부산]]></title>
@@ -78,15 +87,6 @@
             <content:encoded><![CDATA[2024.10.28
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011231_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[0WAVE 단독공연 [HOME with 0WAVE]]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53226</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53226</guid>
-            <pubDate>Fri, 25 Oct 2024 15:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.28
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/no_image_concert.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2024 성시경 연말 콘서트 〈성시경〉]]></title>
