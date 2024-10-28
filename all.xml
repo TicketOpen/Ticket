@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Oct 2024 10:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Oct 2024 11:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -299,13 +299,20 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011231_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 성시경 연말 콘서트 〈성시경〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53183</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53183</guid>
-            <pubDate>Mon, 28 Oct 2024 09:10:01 GMT</pubDate>
+            <title><![CDATA[0WAVE 단독공연 [HOME with 0WAVE] (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53226</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53226</guid>
+            <pubDate>Mon, 28 Oct 2024 11:08:15 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.28
                                     <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015329_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/no_image_concert.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[대구] 2024 라이브가족뮤지컬 [피터팬] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15105</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15105</guid>
+            <pubDate>Mon, 28 Oct 2024 11:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.30(수) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
@@ -441,11 +448,11 @@
             <content:encoded><![CDATA[2024.10.24(목) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15085</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15085</guid>
-            <pubDate>Fri, 25 Oct 2024 12:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.30(수) 12:00]]></content:encoded>
+            <title><![CDATA[[대구] 2024 라이브가족뮤지컬 [피터팬] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15105&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15105&amp;order=1</guid>
+            <pubDate>Mon, 28 Oct 2024 11:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024-10-30(수) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[창원] 뮤지컬&무비 슈퍼콘서트 with 옥주현&민우혁 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -509,13 +516,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15096&amp;order=1</guid>
             <pubDate>Fri, 25 Oct 2024 12:14:23 GMT</pubDate>
             <content:encoded><![CDATA[2024-10-30(수) 12:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <더 픽션> 1차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15095&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15095&amp;order=1</guid>
-            <pubDate>Fri, 25 Oct 2024 12:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024-11-08(금) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[CHERRY WORLD [노란 머리 체리] 티켓오픈 안내 (위메프 공연티켓)]]></title>
