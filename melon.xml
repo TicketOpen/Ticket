@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-10-29T04:12:03.422Z</updated>
+    <updated>2024-10-29T05:10:17.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9458"/>
         <updated>2024-10-29T04:10:43.120Z</updated>
         <content type="html"><![CDATA[2024.10.22(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김성녀의 뮤지컬모노드라마 〈벽 속의 요정〉 A석 추가오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9528</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9528"/>
+        <updated>2024-10-29T05:09:11.057Z</updated>
+        <content type="html"><![CDATA[2024.10.30(수) 16:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 NINE.i FANMEETING CONNECTION IN SEOUL 티켓 오픈 안내]]></title>
@@ -74,12 +81,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9519"/>
         <updated>2024-10-29T04:10:43.144Z</updated>
         <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BAND DALDAM concert 〈 여행 〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9517</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9517"/>
-        <updated>2024-10-29T04:10:43.145Z</updated>
-        <content type="html"><![CDATA[2024.11.01(금) 20:00]]></content>
     </entry>
 </feed>
