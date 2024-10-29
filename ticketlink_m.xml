@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-29T05:10:17.012Z</updated>
+    <updated>2024-10-29T06:13:05.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김성녀의 뮤지컬모노드라마 <벽 속의 요정> A석 추가​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60661</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60661"/>
+        <updated>2024-10-29T06:12:58.592Z</updated>
+        <content type="html"><![CDATA[2024.10.30(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​[광주시립교향악단] GSO 체임버 시리즈 Ⅶ​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60660</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60647"/>
         <updated>2024-10-28T03:20:57.266Z</updated>
         <content type="html"><![CDATA[2024.10.28(월) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스 지브리&디즈니 with 마블​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60646</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60646"/>
-        <updated>2024-10-28T02:17:04.507Z</updated>
-        <content type="html"><![CDATA[2024.10.29(화) 05:00]]></content>
     </entry>
 </feed>
