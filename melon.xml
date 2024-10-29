@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-10-29T00:38:46.853Z</updated>
+    <updated>2024-10-29T02:14:19.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9458"/>
         <updated>2024-10-29T00:37:26.772Z</updated>
         <content type="html"><![CDATA[2024.10.22(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈마타하리〉 2차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9523</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9523"/>
+        <updated>2024-10-29T02:12:58.747Z</updated>
+        <content type="html"><![CDATA[2024.11.05(화) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리온의 신비한 과자상점－어린이 마술극－（11월）티켓 오픈 안내]]></title>
@@ -74,12 +81,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9513"/>
         <updated>2024-10-29T00:37:26.808Z</updated>
         <content type="html"><![CDATA[2024.11.06(수) 16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024-25 린 전국투어 콘서트 “Queen of Serenade” - 전주 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9512</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9512"/>
-        <updated>2024-10-29T00:37:26.809Z</updated>
-        <content type="html"><![CDATA[2024.11.06(수) 17:00]]></content>
     </entry>
 </feed>
