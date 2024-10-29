@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Oct 2024 08:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2024 09:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,20 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9519</guid>
             <pubDate>Tue, 29 Oct 2024 04:10:43 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 2am Concert 〈2am is coming to town〉 - Gimhae (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53300&amp;groupno=53300&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53300&amp;groupno=53300&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 29 Oct 2024 09:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[24.10.31(목)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 콘서트 '도시전설' (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53299&amp;groupno=53299&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53299&amp;groupno=53299&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 29 Oct 2024 09:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[24.11.05(화)&nbsp;19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[음악극 〈백치〉 (인터파크 티켓)]]></title>
@@ -190,20 +204,6 @@
             <content:encoded><![CDATA[24.10.31(목)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈마타하리〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53283&amp;groupno=53283&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53283&amp;groupno=53283&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 29 Oct 2024 02:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[24.11.05(화)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오, 베토벤! (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53282&amp;groupno=53282&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53282&amp;groupno=53282&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 29 Oct 2024 00:37:36 GMT</pubDate>
-            <content:encoded><![CDATA[24.10.29(화)&nbsp;09:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈어느 60대 노부부 이야기〉 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53296&amp;groupno=53296&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53296&amp;groupno=53296&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -299,6 +299,13 @@
             <content:encoded><![CDATA[2024.10.29
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015640_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 콘서트 ‘도시전설’ 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15118</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15118</guid>
+            <pubDate>Tue, 29 Oct 2024 09:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.05(화) 19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대전] 2024 뮤지컬 오! 당신이 잠든사이 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -434,11 +441,11 @@
             <content:encoded><![CDATA[2024.10.28(월) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[남양주] 2024 빅3＂행복한만남＂〈강진,김용임,진성〉 티켓 오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15097</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15097</guid>
-            <pubDate>Fri, 25 Oct 2024 12:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.30(수) 11:00]]></content:encoded>
+            <title><![CDATA[쏜애플 콘서트 ‘도시전설’ 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15118&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15118&amp;order=1</guid>
+            <pubDate>Tue, 29 Oct 2024 09:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024-11-05(화) 19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대전] 2024 뮤지컬 오! 당신이 잠든사이 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -502,13 +509,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15108&amp;order=1</guid>
             <pubDate>Tue, 29 Oct 2024 05:09:49 GMT</pubDate>
             <content:encoded><![CDATA[2024-11-05(화) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [시지프스] 2차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15107&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15107&amp;order=1</guid>
-            <pubDate>Tue, 29 Oct 2024 05:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024-11-04(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[CHERRY WORLD [노란 머리 체리] 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -589,6 +589,13 @@
             <pubDate>Thu, 04 Jul 2024 08:11:46 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.09(화) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 광주시립극단 제23회 정기공연 '양림'​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60665</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60665</guid>
+            <pubDate>Tue, 29 Oct 2024 09:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.30(수) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] [광주시립합창단] 기획연주회Ⅶ Matinée Concert '어울림'​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -689,11 +696,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.10.29(화) 07:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 대전 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60650</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60650</guid>
-            <pubDate>Mon, 28 Oct 2024 04:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.10.31(목) 02:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 광주시립극단 제23회 정기공연 '양림'​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60665</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60665</guid>
+            <pubDate>Tue, 29 Oct 2024 09:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.30(수) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] [광주시립합창단] 기획연주회Ⅶ Matinée Concert '어울림'​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -792,13 +799,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60651</guid>
             <pubDate>Mon, 28 Oct 2024 05:10:48 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.29(화) 07:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60650</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60650</guid>
-            <pubDate>Mon, 28 Oct 2024 04:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.31(목) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
