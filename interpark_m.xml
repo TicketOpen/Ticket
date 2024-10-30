@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 21:08:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 22:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,13 +35,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015828_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈광화문연가〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53265</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53265</guid>
+            <title><![CDATA[2024 김창옥 토크콘서트 시즌4 - 파주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53287</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53287</guid>
             <pubDate>Wed, 30 Oct 2024 15:08:55 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.31
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011935_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015884_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[음악극 〈백치〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53301</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53301</guid>
+            <pubDate>Wed, 30 Oct 2024 15:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.31
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015897_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 헬로카봇 시즌8 〈미래연구소를 지켜라!〉 - 서울 앵콜]]></title>
@@ -62,22 +71,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015518_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 김창옥 토크콘서트 시즌4 - 파주]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53287</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53287</guid>
+            <title><![CDATA[뮤지컬 〈광화문연가〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53265</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53265</guid>
             <pubDate>Wed, 30 Oct 2024 15:08:55 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.31
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015884_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[음악극 〈백치〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53301</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53301</guid>
-            <pubDate>Wed, 30 Oct 2024 15:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.31
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015897_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011935_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈더 픽션〉]]></title>
