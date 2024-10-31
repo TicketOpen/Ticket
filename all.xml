@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Oct 2024 05:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Oct 2024 06:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9525</guid>
             <pubDate>Thu, 31 Oct 2024 05:08:59 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.31(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈여신님이 보고 계셔〉 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53333&amp;groupno=53333&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53333&amp;groupno=53333&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 31 Oct 2024 06:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[24.11.12(화)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 하현상 콘서트 〈Elegy〉 (인터파크 티켓)]]></title>
@@ -195,13 +202,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53319&amp;groupno=53319&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 31 Oct 2024 02:13:29 GMT</pubDate>
             <content:encoded><![CDATA[24.11.05(화)&nbsp;09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 YEOJINGOO FANMEETING IN SEOUL (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53315&amp;groupno=53315&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53315&amp;groupno=53315&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 31 Oct 2024 00:37:19 GMT</pubDate>
-            <content:encoded><![CDATA[24.11.08(금)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 라이브 가족뮤지컬〈오즈의마법사〉-청주 (인터파크 티켓)]]></title>
@@ -591,11 +591,18 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가족뮤지컬 <호두까기인형> - 성남 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60684</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60684</guid>
+            <pubDate>Thu, 31 Oct 2024 06:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.04(월) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 정동하의 PLAYLIST 시즌2​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60681</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60681</guid>
             <pubDate>Thu, 31 Oct 2024 05:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.01(금) 04:00]]></content:encoded>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.04(월) 04:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SBS 웃찾사팀의 <빵!터짐쇼> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -689,18 +696,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.11.04(월) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[크리스마스 특선 공연 '호두까기인형 - 안산' 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60667</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60667</guid>
-            <pubDate>Wed, 30 Oct 2024 02:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.04(월) 00:00]]></content:encoded>
+            <title><![CDATA[가족뮤지컬 <호두까기인형> - 성남 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60684</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60684</guid>
+            <pubDate>Thu, 31 Oct 2024 06:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.04(월) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 정동하의 PLAYLIST 시즌2​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/60681</link>
             <guid>http://m.ticketlink.co.kr/help/notice/60681</guid>
             <pubDate>Thu, 31 Oct 2024 05:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.01(금) 04:00]]></content:encoded>
+            <content:encoded><![CDATA[2024.11.04(월) 04:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SBS 웃찾사팀의 <빵!터짐쇼> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -790,13 +797,6 @@
             <title><![CDATA[루돌프와 산타할아버지 - 강북​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/60668</link>
             <guid>http://m.ticketlink.co.kr/help/notice/60668</guid>
-            <pubDate>Wed, 30 Oct 2024 02:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.04(월) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스 특선 공연 '호두까기인형 - 안산' 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60667</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60667</guid>
             <pubDate>Wed, 30 Oct 2024 02:13:38 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.04(월) 00:00]]></content:encoded>
         </item>
