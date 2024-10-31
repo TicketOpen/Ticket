@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-10-30T22:09:01.121Z</updated>
+    <updated>2024-10-31T00:38:18.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 YEOJINGOO FANMEETING IN SEOUL]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53315&amp;groupno=53315&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53315&amp;groupno=53315&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-10-31T00:37:19.578Z</updated>
+        <content type="html"><![CDATA[24.11.08(금)&nbsp;18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[POW 2024 FAN CONCERT ［POW HOUSE : SWITCH UP］ in SEOUL]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53314&amp;groupno=53314&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -123,12 +130,5 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53298&amp;groupno=53298&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-10-29T08:11:40.362Z</updated>
         <content type="html"><![CDATA[24.11.04(월)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈시지프스〉]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53297&amp;groupno=53297&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53297&amp;groupno=53297&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-10-29T07:08:25.228Z</updated>
-        <content type="html"><![CDATA[24.11.04(월)&nbsp;14:00]]></content>
     </entry>
 </feed>
