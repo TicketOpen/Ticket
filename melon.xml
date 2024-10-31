@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-10-31T08:12:19.521Z</updated>
+    <updated>2024-10-31T09:10:26.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9458"/>
         <updated>2024-10-31T05:08:59.316Z</updated>
         <content type="html"><![CDATA[2024.10.22(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위수의 연말 단독공연 〈2025 다짐 해!〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9538</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9538"/>
+        <updated>2024-10-31T09:09:12.365Z</updated>
+        <content type="html"><![CDATA[2024.11.08(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BLASÉ 1st concert 〈AnotherVerse〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9537</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9537"/>
+        <updated>2024-10-31T09:09:12.372Z</updated>
+        <content type="html"><![CDATA[2024.11.07(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[맥거핀 단독 콘서트 : Mr. Education 2 티켓 오픈 안내]]></title>
@@ -67,19 +81,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9527"/>
         <updated>2024-10-31T05:08:59.336Z</updated>
         <content type="html"><![CDATA[2024.11.04(월) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로우행잉프루츠 단독 콘서트 : PASSION OF VARIOUS TYPES 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9526</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9526"/>
-        <updated>2024-10-31T05:08:59.336Z</updated>
-        <content type="html"><![CDATA[2024.11.01(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FRANKLY...2024 : 11시 57분 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9525</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9525"/>
-        <updated>2024-10-31T05:08:59.340Z</updated>
-        <content type="html"><![CDATA[2024.10.31(목) 20:00]]></content>
     </entry>
 </feed>

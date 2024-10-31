@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-10-31T08:12:19.522Z</updated>
+    <updated>2024-10-31T09:10:26.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2024 뮤지컬 빨래 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15129&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15129&amp;order=1"/>
+        <updated>2024-10-31T09:09:53.298Z</updated>
+        <content type="html"><![CDATA[2024-11-06(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[거제] 2024-25 김창옥 토크콘서트 시즌4 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15128&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15128&amp;order=1"/>
+        <updated>2024-10-31T09:09:53.300Z</updated>
+        <content type="html"><![CDATA[2024-11-05(화) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BLASE 1st concert 〈AnotherVerse〉 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15127&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15127&amp;order=1"/>
+        <updated>2024-10-31T09:09:53.303Z</updated>
+        <content type="html"><![CDATA[2024-11-07(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2025 라이브 가족뮤지컬 [아기돼지삼형제] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15126&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15120&amp;order=1"/>
         <updated>2024-10-31T05:09:43.238Z</updated>
         <content type="html"><![CDATA[2024-11-07(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [ 쿠로이 저택엔 누가 살고 있을까? ] 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15119&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15119&amp;order=1"/>
-        <updated>2024-10-31T02:13:59.081Z</updated>
-        <content type="html"><![CDATA[2024-11-07(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쏜애플 콘서트 ‘도시전설’ 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15118&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15118&amp;order=1"/>
-        <updated>2024-10-29T09:09:48.220Z</updated>
-        <content type="html"><![CDATA[2024-11-05(화) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 코리아 그랜드 뮤직 어워즈（KGMA）티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15117&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15117&amp;order=1"/>
-        <updated>2024-10-30T05:10:01.833Z</updated>
-        <content type="html"><![CDATA[2024-10-31(목) 19:00]]></content>
     </entry>
 </feed>
