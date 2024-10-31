@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Oct 2024 17:08:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Oct 2024 18:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -265,15 +265,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015766_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 [손 없는 색시] (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53320</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53320</guid>
-            <pubDate>Thu, 31 Oct 2024 15:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.01
-                                    <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015857_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2024 류경희드림댄스 정기공연 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53154</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53154</guid>
@@ -283,13 +274,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015603_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[사일런트 스카이 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53232</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53232</guid>
-            <pubDate>Thu, 31 Oct 2024 16:10:29 GMT</pubDate>
+            <title><![CDATA[연극 [손 없는 색시] (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53320</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53320</guid>
+            <pubDate>Thu, 31 Oct 2024 15:08:34 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015947_p.gif" length="0" type="image/gif"/>
+                                    <span>13:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015857_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬〈앨리스〉 (인터파크 티켓 모바일)]]></title>
@@ -299,6 +290,15 @@
             <content:encoded><![CDATA[2024.11.01
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015753_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[꿈의숲 밴드 콘서트 〈Dream Xmas 프롬올투휴먼/오월오일〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53312</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53312</guid>
+            <pubDate>Thu, 31 Oct 2024 18:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.01
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0004074_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[대전] 2024 뮤지컬 빨래 티켓오픈 안내 (예스24 티켓)]]></title>
