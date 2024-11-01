@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 06:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 07:10:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,15 +61,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015680_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 류경희드림댄스 정기공연]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53154</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53154</guid>
-            <pubDate>Thu, 31 Oct 2024 15:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.01
-                                    <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015603_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[연극 [손 없는 색시]]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53320</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53320</guid>
@@ -77,6 +68,15 @@
             <content:encoded><![CDATA[2024.11.01
                                     <span>13:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015857_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 류경희드림댄스 정기공연]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53154</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53154</guid>
+            <pubDate>Thu, 31 Oct 2024 15:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.01
+                                    <span>13:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015603_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[사일런트 스카이]]></title>
