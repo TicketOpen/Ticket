@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 07:10:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 08:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,20 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9531</guid>
             <pubDate>Fri, 01 Nov 2024 07:08:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.04(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[［2025 Theatre 이문세］ - 창원 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53350&amp;groupno=53350&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53350&amp;groupno=53350&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 01 Nov 2024 08:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[24.11.05(화)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈시라노〉 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53353&amp;groupno=53353&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53353&amp;groupno=53353&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 01 Nov 2024 08:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[24.11.08(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈달 샤베트〉 - 대전 (인터파크 티켓)]]></title>
@@ -190,20 +204,6 @@
             <content:encoded><![CDATA[24.11.06(수)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈여신님이 보고 계셔〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53333&amp;groupno=53333&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53333&amp;groupno=53333&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 31 Oct 2024 06:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[24.11.12(화)&nbsp;16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 하현상 콘서트 〈Elegy〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53332&amp;groupno=53332&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53332&amp;groupno=53332&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 31 Oct 2024 05:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[24.11.05(화)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 서울 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53334&amp;groupno=53334&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53334&amp;groupno=53334&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -282,15 +282,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015603_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[사일런트 스카이 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53232</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53232</guid>
-            <pubDate>Fri, 01 Nov 2024 06:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015947_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬〈앨리스〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53308</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53308</guid>
@@ -298,6 +289,15 @@
             <content:encoded><![CDATA[2024.11.01
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015753_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[꿈의숲 밴드 콘서트 〈Dream Xmas 프롬올투휴먼/오월오일〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53312</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53312</guid>
+            <pubDate>Fri, 01 Nov 2024 08:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.01
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0004074_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬〈시라노〉2차 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -590,6 +590,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <시라노>​ 2차 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60692</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60692</guid>
+            <pubDate>Fri, 01 Nov 2024 08:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.08(금) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매]  Holygwang’s JAZZ concert The GIFT-광주 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60691</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60691</guid>
@@ -597,7 +604,7 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.11.04(월) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​두번째달 콘서트 [내 인생의 BGM]​ 티켓오픈 안내 (티켓링크)]]></title>
+            <title><![CDATA[두번째달 단독 콘서트 [내 인생의 BGM]​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60690</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60690</guid>
             <pubDate>Fri, 01 Nov 2024 05:10:06 GMT</pubDate>
@@ -688,11 +695,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.11.05(화) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  2025 가족뮤지컬 <설민석의 한국사 대모험 - 영웅의 시간> - 제주 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60677</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60677</guid>
-            <pubDate>Thu, 31 Oct 2024 02:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.01(금) 00:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <시라노>​ 2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60692</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60692</guid>
+            <pubDate>Fri, 01 Nov 2024 08:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.08(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]  Holygwang’s JAZZ concert The GIFT-광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -702,7 +709,7 @@
             <content:encoded><![CDATA[2024.11.04(월) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​두번째달 콘서트 [내 인생의 BGM]​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <title><![CDATA[두번째달 단독 콘서트 [내 인생의 BGM]​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/60690</link>
             <guid>http://m.ticketlink.co.kr/help/notice/60690</guid>
             <pubDate>Fri, 01 Nov 2024 05:10:14 GMT</pubDate>
@@ -791,13 +798,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60678</guid>
             <pubDate>Thu, 31 Oct 2024 02:14:21 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.05(화) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  2025 가족뮤지컬 <설민석의 한국사 대모험 - 영웅의 시간> - 제주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60677</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60677</guid>
-            <pubDate>Thu, 31 Oct 2024 02:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.01(금) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
