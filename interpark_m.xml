@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 08:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 09:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,15 +43,6 @@
                                     <span>11:00</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박창근 장르 with 오케스트라 전국투어 콘서트 - 청주]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53184</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53184</guid>
-            <pubDate>Thu, 31 Oct 2024 15:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.01
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015766_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[김아름 겨울 단독 콘서트 〈WINTER CITY〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53258</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53258</guid>
@@ -59,6 +50,15 @@
             <content:encoded><![CDATA[2024.11.01
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015680_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[박창근 장르 with 오케스트라 전국투어 콘서트 - 청주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53184</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53184</guid>
+            <pubDate>Thu, 31 Oct 2024 15:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.01
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015766_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 [손 없는 색시]]]></title>
@@ -79,6 +79,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015603_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[사일런트 스카이]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53232</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53232</guid>
+            <pubDate>Fri, 01 Nov 2024 09:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.01
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015947_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬〈앨리스〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53308</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53308</guid>
@@ -86,15 +95,6 @@
             <content:encoded><![CDATA[2024.11.01
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015753_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈의숲 밴드 콘서트 〈Dream Xmas 프롬올투휴먼/오월오일〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53312</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53312</guid>
-            <pubDate>Fri, 01 Nov 2024 08:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0004074_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
