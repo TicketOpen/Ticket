@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Nov 2024 06:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Nov 2024 07:04:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,15 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024102418141867.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[박지현의 〈생쇼행쇼〉 19:95 - 12:12 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53289</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53289</guid>
+            <pubDate>Fri, 01 Nov 2024 15:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.04
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024102911553593.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈광화문연가〉 - 부산 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53295</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53295</guid>
@@ -254,15 +263,6 @@
             <content:encoded><![CDATA[2024.11.04
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014878_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[박지현의 〈생쇼행쇼〉 19:95 - 12:12 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53289</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53289</guid>
-            <pubDate>Fri, 01 Nov 2024 15:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.04
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024102911553593.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈달 샤베트〉 - 대전 (인터파크 티켓 모바일)]]></title>
