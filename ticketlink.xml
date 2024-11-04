@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-11-04T06:13:55.405Z</updated>
+    <updated>2024-11-04T07:10:09.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  GAC기획공연 11시 음악산책 '이병우_기타, 영화를 만나다' 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60702</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60702"/>
+        <updated>2024-11-04T07:09:54.413Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.06(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아람 로열 클래식 4 - 사라 장 바이올린 리사이틀 추가 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60701</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60688"/>
         <updated>2024-11-01T02:21:09.397Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.06(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 마시따 밴드 LIVE CONCERT​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60687</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60687"/>
-        <updated>2024-11-01T00:41:05.848Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.05(화) 00:00]]></content>
     </entry>
 </feed>
