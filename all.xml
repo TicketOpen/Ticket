@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Nov 2024 03:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 04:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9541</guid>
             <pubDate>Tue, 05 Nov 2024 02:09:13 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.08(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll ＆ Hyde) - 20주년 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=53291&amp;groupno=53291&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=53291&amp;groupno=53291&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 05 Nov 2024 04:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[24.11.05(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[페인터즈 - 서대문전용관 (인터파크 티켓)]]></title>
