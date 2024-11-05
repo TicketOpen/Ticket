@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-11-05T02:10:29.126Z</updated>
+    <updated>2024-11-05T03:13:30.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9458"/>
         <updated>2024-11-05T02:09:13.335Z</updated>
         <content type="html"><![CDATA[2024.10.22(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 다양성 연말 단독 공연 〈SNOWBALL〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9554</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9554"/>
+        <updated>2024-11-05T03:12:17.028Z</updated>
+        <content type="html"><![CDATA[2024.11.11(월) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마리슈 10주년 콘서트 ‘10’ 티켓 오픈 안내]]></title>
@@ -74,12 +81,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9541"/>
         <updated>2024-11-05T02:09:13.347Z</updated>
         <content type="html"><![CDATA[2024.11.08(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[땡큐 얼리버드] 미피 70주년 생일 기념전: 미피와 마법 우체통 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9540</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9540"/>
-        <updated>2024-11-05T02:09:13.349Z</updated>
-        <content type="html"><![CDATA[2024.11.04(월) 09:00]]></content>
     </entry>
 </feed>
