@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Nov 2024 06:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 07:09:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,6 +308,20 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/L0/L0000104_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15141</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15141</guid>
+            <pubDate>Tue, 05 Nov 2024 07:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.12(화) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 부활 서울 연말 콘서트 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15140</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15140</guid>
+            <pubDate>Tue, 05 Nov 2024 07:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.08(금) 14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 [블러디 러브] 2차 티켓오픈 안내 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15139</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15139</guid>
@@ -434,18 +448,18 @@
             <content:encoded><![CDATA[2024.11.01(금) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <알라딘> 2025 새해 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15120</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15120</guid>
-            <pubDate>Thu, 31 Oct 2024 05:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.07(목) 14:00]]></content:encoded>
+            <title><![CDATA[[부산] YEONGDO INDIE CONCERT [로맨틱 영도] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15141&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15141&amp;order=1</guid>
+            <pubDate>Tue, 05 Nov 2024 07:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024-11-12(화) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 [ 쿠로이 저택엔 누가 살고 있을까? ] 3차 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15119</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15119</guid>
-            <pubDate>Thu, 31 Oct 2024 02:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.07(목) 11:00]]></content:encoded>
+            <title><![CDATA[2024 부활 서울 연말 콘서트 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15140&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15140&amp;order=1</guid>
+            <pubDate>Tue, 05 Nov 2024 07:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024-11-08(금) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [블러디 러브] 2차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -502,20 +516,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15131&amp;order=1</guid>
             <pubDate>Fri, 01 Nov 2024 06:12:32 GMT</pubDate>
             <content:encoded><![CDATA[2024-11-11(월) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <카포네 밀크> 1차 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15130&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15130&amp;order=1</guid>
-            <pubDate>Fri, 01 Nov 2024 02:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[2024-11-06(수) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[대전] 2024 뮤지컬 빨래 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15129&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15129&amp;order=1</guid>
-            <pubDate>Thu, 31 Oct 2024 09:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024-11-06(수) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[CHERRY WORLD [노란 머리 체리] 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -596,6 +596,13 @@
             <pubDate>Thu, 04 Jul 2024 08:11:46 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.09(화) 14:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<거기,푸른 담쟁이 동산> - 서울​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60710</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60710</guid>
+            <pubDate>Tue, 05 Nov 2024 07:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.06(수) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]  [광주시립교향악단] GSO 오티움 콘서트 Ⅴ 'Modern' 티켓오픈 안내 (티켓링크)]]></title>
@@ -696,11 +703,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.11.04(월) 07:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[주니삼촌의 매직콘서트 - 거제 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60695</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60695</guid>
-            <pubDate>Fri, 01 Nov 2024 11:03:08 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.06(수) 00:00]]></content:encoded>
+            <title><![CDATA[<거기,푸른 담쟁이 동산> - 서울​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60710</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60710</guid>
+            <pubDate>Tue, 05 Nov 2024 07:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.06(수) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]  [광주시립교향악단] GSO 오티움 콘서트 Ⅴ 'Modern' 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -799,13 +806,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60696</guid>
             <pubDate>Fri, 01 Nov 2024 11:03:16 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.04(월) 07:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[주니삼촌의 매직콘서트 - 거제 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60695</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60695</guid>
-            <pubDate>Fri, 01 Nov 2024 11:03:16 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.06(수) 00:00]]></content:encoded>
         </item>
     </channel>
 </rss>

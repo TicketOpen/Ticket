@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-05T06:13:25.556Z</updated>
+    <updated>2024-11-05T07:09:44.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] YEONGDO INDIE CONCERT [로맨틱 영도] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15141&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15141&amp;order=1"/>
+        <updated>2024-11-05T07:09:05.556Z</updated>
+        <content type="html"><![CDATA[2024-11-12(화) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 부활 서울 연말 콘서트 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15140&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15140&amp;order=1"/>
+        <updated>2024-11-05T07:09:05.557Z</updated>
+        <content type="html"><![CDATA[2024-11-08(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [블러디 러브] 2차 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15139&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15131&amp;order=1"/>
         <updated>2024-11-01T06:12:32.544Z</updated>
         <content type="html"><![CDATA[2024-11-11(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <카포네 밀크> 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15130&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15130&amp;order=1"/>
-        <updated>2024-11-01T02:20:48.867Z</updated>
-        <content type="html"><![CDATA[2024-11-06(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2024 뮤지컬 빨래 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15129&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15129&amp;order=1"/>
-        <updated>2024-10-31T09:09:53.298Z</updated>
-        <content type="html"><![CDATA[2024-11-06(수) 11:00]]></content>
     </entry>
 </feed>
