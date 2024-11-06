@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-11-05T23:09:03.760Z</updated>
+    <updated>2024-11-06T00:36:52.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[4D공포연극 〈스위치〉]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53380&amp;groupno=53380&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53380&amp;groupno=53380&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-11-06T00:35:47.559Z</updated>
+        <content type="html"><![CDATA[24.11.15(금)&nbsp;09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청소년 1위 코미디 연극 〈드립소년단〉]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53379&amp;groupno=53379&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53379&amp;groupno=53379&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-11-06T00:35:47.559Z</updated>
+        <content type="html"><![CDATA[24.11.07(목)&nbsp;09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅 리사이틀 [RE:CITAL]]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53378&amp;groupno=53378&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -109,20 +123,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53364&amp;groupno=53364&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-11-04T09:09:50.685Z</updated>
         <content type="html"><![CDATA[24.11.08(금)&nbsp;09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 DAVICHI CONCERT 〈A Stitch in Time〉]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53362&amp;groupno=53362&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53362&amp;groupno=53362&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-11-04T08:12:13.843Z</updated>
-        <content type="html"><![CDATA[24.11.15(금)&nbsp;20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 권진아 연말 콘서트 〈This Winter〉 - 추가좌석]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53361&amp;groupno=53361&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53361&amp;groupno=53361&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-11-04T07:09:01.892Z</updated>
-        <content type="html"><![CDATA[24.11.06(수)&nbsp;18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025 라이브 가족뮤지컬〈오즈의마법사〉-대구]]></title>
