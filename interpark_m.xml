@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 05:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 06:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,15 +80,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015652_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024-25 린 전국투어 콘서트 “Queen of Serenade” - 부산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53267</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53267</guid>
-            <pubDate>Wed, 06 Nov 2024 05:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.06
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016008_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈긴긴밤〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53306</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53306</guid>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2024.11.06
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012963_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈뜨거운 여름〉 : 공연배달서비스 간다 20주년 퍼레이드]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53310</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53310</guid>
+            <pubDate>Wed, 06 Nov 2024 06:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.06
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016054_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
