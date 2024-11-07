@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 09:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 10:09:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012498_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[페인터즈 - 서대문전용관]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53371</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53371</guid>
-            <pubDate>Wed, 06 Nov 2024 15:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.07
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007854_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[페인터즈 - 광화문전용관]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53369</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53369</guid>
@@ -78,6 +69,15 @@
             <content:encoded><![CDATA[2024.11.07
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22014959_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[페인터즈 - 서대문전용관]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53371</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53371</guid>
+            <pubDate>Wed, 06 Nov 2024 15:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.07
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007854_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[러브레터 & 냉정과 열정사이 시네마 콘서트]]></title>
