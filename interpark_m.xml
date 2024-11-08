@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Nov 2024 12:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 13:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,15 +53,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014865_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극〈늘근도둑이야기〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53386</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53386</guid>
-            <pubDate>Thu, 07 Nov 2024 15:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001159_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2024 부활 서울 연말 콘서트]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53370</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53370</guid>
@@ -71,22 +62,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016221_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈시라노〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53353</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53353</guid>
+            <title><![CDATA[연극〈늘근도둑이야기〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53386</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53386</guid>
             <pubDate>Thu, 07 Nov 2024 15:08:18 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.08
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014885_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001159_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈클로버〉 스페셜 스테이지]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53357</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53357</guid>
-            <pubDate>Fri, 08 Nov 2024 12:14:07 GMT</pubDate>
+            <title><![CDATA[바람으로의 여행]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53275</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53275</guid>
+            <pubDate>Fri, 08 Nov 2024 13:15:33 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.08
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016019_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012661_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[화양극장 빛을 걷으면 빛 낭독극 & 북토크]]></title>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2024.11.08
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015849_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈시라노〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53353</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53353</guid>
+            <pubDate>Thu, 07 Nov 2024 15:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014885_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
