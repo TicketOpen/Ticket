@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-11-08T06:12:18.355Z</updated>
+    <updated>2024-11-08T07:09:36.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 경산시립예술단 연합공연 가족음악극<크리스마스 캐럴>​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60746</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60746"/>
+        <updated>2024-11-08T07:09:21.815Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.09(월) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <해적> : THE LAST VOYAGE 3차​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60745</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60745"/>
+        <updated>2024-11-08T07:09:21.815Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.14(목) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  8TURN FAN CONCERT [TURN TABLE] TURNING POINT 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60744</id>
@@ -18,6 +32,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60743"/>
         <updated>2024-11-08T04:10:50.157Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.14(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​국립발레단 <연수단원 갈라콘서트>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60742</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60742"/>
+        <updated>2024-11-08T07:09:21.826Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.12(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  뮤지컬 <아이소포스의 네 번째 열쇠> - 울산 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60732"/>
         <updated>2024-11-07T07:08:59.364Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.12(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[책먹는여우 - 성남 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60731</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60731"/>
-        <updated>2024-11-07T07:08:59.367Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.11(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 신해철 트리뷰트 콘서트 “해에게서 그대에게” 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60730</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60730"/>
-        <updated>2024-11-07T07:08:59.382Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.11(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박종민 연말 단독 콘서트 [White Love]​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60729</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60729"/>
-        <updated>2024-11-07T05:09:16.315Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.13(수) 06:00]]></content>
     </entry>
 </feed>
