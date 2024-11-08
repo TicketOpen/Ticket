@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-08T00:36:34.945Z</updated>
+    <updated>2024-11-08T03:13:51.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 GOLDEN CHILD FAN-CON [CHAPTER] in Seoul 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15155&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15155&amp;order=1"/>
+        <updated>2024-11-08T03:13:17.777Z</updated>
+        <content type="html"><![CDATA[2024-11-12(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 SONNET FAN CONCERT “THE GIFT SET”]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15153&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15153&amp;order=1"/>
+        <updated>2024-11-08T03:13:17.777Z</updated>
+        <content type="html"><![CDATA[2024-11-15(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈지저스 크라이스트 수퍼스타〉3차 티켓오픈안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15152&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15152&amp;order=1"/>
+        <updated>2024-11-08T03:13:17.784Z</updated>
+        <content type="html"><![CDATA[2024-11-15(금) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제1258회 서초금요음악회 [서초국악축제] 티켓오픈안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15150&amp;order=1</id>
@@ -53,26 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15143&amp;order=1"/>
         <updated>2024-11-06T05:09:11.806Z</updated>
         <content type="html"><![CDATA[2024-11-12(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Hope Club Christmas in Seoul 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15142&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15142&amp;order=1"/>
-        <updated>2024-11-06T05:09:11.806Z</updated>
-        <content type="html"><![CDATA[2024-11-08(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] YEONGDO INDIE CONCERT [로맨틱 영도] 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15141&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15141&amp;order=1"/>
-        <updated>2024-11-05T07:09:05.556Z</updated>
-        <content type="html"><![CDATA[2024-11-12(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 부활 서울 연말 콘서트 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15140&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15140&amp;order=1"/>
-        <updated>2024-11-05T07:09:05.557Z</updated>
-        <content type="html"><![CDATA[2024-11-08(금) 14:00]]></content>
     </entry>
 </feed>
