@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Nov 2024 03:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 04:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -267,15 +267,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016221_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈클로버〉 스페셜 스테이지 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53357</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53357</guid>
-            <pubDate>Thu, 07 Nov 2024 17:02:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016019_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[화양극장 빛을 걷으면 빛 낭독극 & 북토크 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53351</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53351</guid>
@@ -292,6 +283,15 @@
             <content:encoded><![CDATA[2024.11.08
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014885_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈클로버〉 스페셜 스테이지 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53357</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53357</guid>
+            <pubDate>Thu, 07 Nov 2024 17:02:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016019_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
@@ -583,6 +583,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2024 김정민 전국투어 콘서트 : LIVE STAR - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60743</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60743</guid>
+            <pubDate>Fri, 08 Nov 2024 04:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.14(목) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매]  뮤지컬 <아이소포스의 네 번째 열쇠> - 울산 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60741</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60741</guid>
@@ -681,11 +688,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.11.11(월) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​잠골버스 The Live Vol.3 [겨울나기]​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60727</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60727</guid>
-            <pubDate>Thu, 07 Nov 2024 05:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.13(수) 05:00]]></content:encoded>
+            <title><![CDATA[2024 김정민 전국투어 콘서트 : LIVE STAR - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60743</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60743</guid>
+            <pubDate>Fri, 08 Nov 2024 04:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.14(목) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]  뮤지컬 <아이소포스의 네 번째 열쇠> - 울산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -784,13 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60728</guid>
             <pubDate>Thu, 07 Nov 2024 05:09:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.11(월) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​잠골버스 The Live Vol.3 [겨울나기]​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60727</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60727</guid>
-            <pubDate>Thu, 07 Nov 2024 05:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.13(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
