@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Nov 2024 00:35:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Nov 2024 02:06:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,15 +188,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016402_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[세윤, 청라역에서 만나자 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53406</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53406</guid>
-            <pubDate>Fri, 08 Nov 2024 15:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.11
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016373_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2024 디셈버 DK 크리스마스 콘서트 [Winter DK-LAND] (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53347</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53347</guid>
@@ -213,6 +204,15 @@
             <content:encoded><![CDATA[2024.11.11
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015567_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[세윤, 청라역에서 만나자 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53406</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53406</guid>
+            <pubDate>Fri, 08 Nov 2024 15:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.11
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016373_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 심수봉 전국투어 콘서트：꽃길 - 인천 (인터파크 티켓 모바일)]]></title>
@@ -513,6 +513,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <알사탕> - 고양​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60747</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60747</guid>
+            <pubDate>Sat, 09 Nov 2024 02:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.13(수) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 2024 경산시립예술단 연합공연 가족음악극<크리스마스 캐럴>​​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60746</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60746</guid>
@@ -611,11 +618,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.11.12(화) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 심수봉 전국투어 콘서트 : 꽃길 - 인천 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60732</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60732</guid>
-            <pubDate>Thu, 07 Nov 2024 07:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.12(화) 02:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <알사탕> - 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60747</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60747</guid>
+            <pubDate>Sat, 09 Nov 2024 02:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.13(수) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 2024 경산시립예술단 연합공연 가족음악극<크리스마스 캐럴>​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -712,13 +719,6 @@
             <title><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 인천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/60733</link>
             <guid>http://m.ticketlink.co.kr/help/notice/60733</guid>
-            <pubDate>Thu, 07 Nov 2024 07:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.12(화) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 심수봉 전국투어 콘서트 : 꽃길 - 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60732</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60732</guid>
             <pubDate>Thu, 07 Nov 2024 07:09:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.12(화) 02:00]]></content:encoded>
         </item>
