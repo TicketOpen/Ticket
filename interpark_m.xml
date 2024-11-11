@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Nov 2024 09:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 10:09:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016402_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[세윤, 청라역에서 만나자]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53406</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53406</guid>
-            <pubDate>Fri, 08 Nov 2024 15:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.11
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016373_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2024 디셈버 DK 크리스마스 콘서트 [Winter DK-LAND]]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53347</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53347</guid>
@@ -87,6 +78,15 @@
             <content:encoded><![CDATA[2024.11.11
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015567_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[세윤, 청라역에서 만나자]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53406</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53406</guid>
+            <pubDate>Fri, 08 Nov 2024 15:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.11
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016373_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2024 심수봉 전국투어 콘서트：꽃길 - 인천]]></title>
