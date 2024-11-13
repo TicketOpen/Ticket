@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Nov 2024 02:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 03:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 청춘의 밤 [Ellui(엘루이) 단독 콘서트] 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9602</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9602</guid>
+            <pubDate>Wed, 13 Nov 2024 03:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.20(수) 20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[스킵잭 단독 콘서트 : Daydream 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9600</link>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9592</guid>
             <pubDate>Wed, 13 Nov 2024 00:36:39 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.14(목) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TONE STUDIO LIVE 〈OurR〉 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9591</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9591</guid>
-            <pubDate>Wed, 13 Nov 2024 00:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.18(월) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[임영웅 리사이틀 [RE:CITAL] (인터파크 티켓)]]></title>
@@ -591,6 +591,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연극 <그 곳> - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60775</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60775</guid>
+            <pubDate>Wed, 13 Nov 2024 03:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.15(금) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2025 가족뮤지컬 <엄마까투리는 슈퍼맘> - 창원​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60774</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60774</guid>
@@ -689,11 +696,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.11.14(목) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 검은사막 모바일 2024 칼페온 연회 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60760</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60760</guid>
-            <pubDate>Mon, 11 Nov 2024 10:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.12(화) 11:00]]></content:encoded>
+            <title><![CDATA[연극 <그 곳> - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60775</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60775</guid>
+            <pubDate>Wed, 13 Nov 2024 03:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.15(금) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 가족뮤지컬 <엄마까투리는 슈퍼맘> - 창원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -792,13 +799,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60761</guid>
             <pubDate>Mon, 11 Nov 2024 10:09:50 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.14(목) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 검은사막 모바일 2024 칼페온 연회 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60760</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60760</guid>
-            <pubDate>Mon, 11 Nov 2024 10:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.12(화) 11:00]]></content:encoded>
         </item>
     </channel>
 </rss>
