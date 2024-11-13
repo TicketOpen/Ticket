@@ -4,18 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Nov 2024 12:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 13:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[바라는 것과 바라지 않는 것]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53465</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53465</guid>
-            <pubDate>Wed, 13 Nov 2024 09:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.13
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016487_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[연극 너의 목소리가 들려]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53409</link>
@@ -42,6 +33,15 @@
             <content:encoded><![CDATA[2024.11.13
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23004562_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[바라는 것과 바라지 않는 것]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53465</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53465</guid>
+            <pubDate>Wed, 13 Nov 2024 09:08:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.13
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016487_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[앤서니브라운 가족뮤지컬 〈우리가족〉  - 목동]]></title>
