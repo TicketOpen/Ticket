@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Nov 2024 03:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 04:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,20 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=53378&amp;groupno=53378&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 11 Nov 2024 02:10:47 GMT</pubDate>
             <content:encoded><![CDATA[24.11.20(수)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[HR콜렉션라이브 2024 메리 앤드 해피 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53472&amp;groupno=53472&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53472&amp;groupno=53472&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 13 Nov 2024 04:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[24.11.18(월)&nbsp;13:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈킹키부츠〉 - 대구 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53471&amp;groupno=53471&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53471&amp;groupno=53471&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 13 Nov 2024 04:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[24.11.22(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 창원 (인터파크 티켓)]]></title>
@@ -181,20 +195,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53455&amp;groupno=53455&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 12 Nov 2024 05:09:15 GMT</pubDate>
             <content:encoded><![CDATA[추후공지]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 송민준 단독 콘서트 〈챕터3〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53454&amp;groupno=53454&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53454&amp;groupno=53454&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 12 Nov 2024 05:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[24.11.18(월)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2025 김창옥 토크콘서트 시즌4 - 양산 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53453&amp;groupno=53453&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53453&amp;groupno=53453&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 12 Nov 2024 05:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[24.11.15(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[넌버벌 코미디 〈옹알스〉 (인터파크 티켓)]]></title>
@@ -299,6 +299,13 @@
             <content:encoded><![CDATA[2024.11.13
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014618_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[고양] 2025 라이브가족뮤지컬 [신데렐라] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15174</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15174</guid>
+            <pubDate>Wed, 13 Nov 2024 04:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.14(목) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
@@ -434,11 +441,11 @@
             <content:encoded><![CDATA[2024.11.15(금) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬〈지저스 크라이스트 수퍼스타〉3차 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15152</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15152</guid>
-            <pubDate>Fri, 08 Nov 2024 03:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.15(금) 14:00]]></content:encoded>
+            <title><![CDATA[[고양] 2025 라이브가족뮤지컬 [신데렐라] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15174&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15174&amp;order=1</guid>
+            <pubDate>Wed, 13 Nov 2024 04:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024-11-14(목) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 DAY6 Special Concert  ‘The Present’ 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -502,13 +509,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15163&amp;order=1</guid>
             <pubDate>Mon, 11 Nov 2024 10:09:20 GMT</pubDate>
             <content:encoded><![CDATA[2024-11-11(월) 18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 [조선 이야기꾼 전기수：나잇-츠] 추가 좌석 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15162&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15162&amp;order=1</guid>
-            <pubDate>Mon, 11 Nov 2024 07:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[2024-11-12(화) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[CHERRY WORLD [노란 머리 체리] 티켓오픈 안내 (위메프 공연티켓)]]></title>
