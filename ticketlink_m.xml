@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-13T08:12:29.102Z</updated>
+    <updated>2024-11-13T09:09:31.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2024 뮤지컬스타 갈라쇼 ​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60782</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60782"/>
+        <updated>2024-11-13T09:09:25.207Z</updated>
+        <content type="html"><![CDATA[2024.11.14(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[꾸러기음악회 <신나는 겨울> - 울산​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60781</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60768"/>
         <updated>2024-11-12T05:10:18.560Z</updated>
         <content type="html"><![CDATA[2024.11.15(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공룡애니멀쇼 - 창원 진해​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60767</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60767"/>
-        <updated>2024-11-12T00:36:41.963Z</updated>
-        <content type="html"><![CDATA[2024.11.15(금) 00:00]]></content>
     </entry>
 </feed>
