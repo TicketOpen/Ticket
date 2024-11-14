@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Nov 2024 00:37:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 02:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,13 +44,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016430_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[베베핀 뮤지컬 〈우당탕탕 패밀리〉-성남]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53441</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53441</guid>
+            <title><![CDATA[베베핀 뮤지컬 〈우당탕탕 패밀리〉-부산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53446</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53446</guid>
             <pubDate>Wed, 13 Nov 2024 15:09:03 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.14
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016599_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016542_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[베베핀 뮤지컬 〈우당탕탕 패밀리〉-전주]]></title>
@@ -71,15 +71,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016478_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[베베핀 뮤지컬 〈우당탕탕 패밀리〉-부산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53446</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53446</guid>
-            <pubDate>Wed, 13 Nov 2024 15:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.14
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016542_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 대구]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53415</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53415</guid>
@@ -89,13 +80,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016527_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[제이슨 리 Winter Concert : The Christmas Song]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53395</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53395</guid>
-            <pubDate>Wed, 13 Nov 2024 16:10:08 GMT</pubDate>
+            <title><![CDATA[베베핀 뮤지컬 〈우당탕탕 패밀리〉-성남]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53441</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53441</guid>
+            <pubDate>Wed, 13 Nov 2024 15:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.14
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016599_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 김복유 연말콘서트 IN 광주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53462</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53462</guid>
+            <pubDate>Thu, 14 Nov 2024 02:11:02 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.14
                                     <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016544_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016535_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
