@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Nov 2024 09:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 10:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4D공포연극 〈스위치〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53380</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53380</guid>
+            <pubDate>Thu, 14 Nov 2024 15:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.15
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001006_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[사랑에 빠지기까지 디마이너스백]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53423</link>
@@ -42,15 +51,6 @@
             <content:encoded><![CDATA[2024.11.15
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016554_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[4D공포연극 〈스위치〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53380</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53380</guid>
-            <pubDate>Thu, 14 Nov 2024 15:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.15
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001006_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[베베핀 뮤지컬 〈우당탕탕 패밀리〉-의정부]]></title>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016676_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 뮤지컬 〈지저스 크라이스트 수퍼스타〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53414</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53414</guid>
-            <pubDate>Fri, 15 Nov 2024 07:09:28 GMT</pubDate>
+            <title><![CDATA[뮤지컬 〈이솝이야기〉 가을 카페 스토리 콘서트]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53456</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53456</guid>
+            <pubDate>Fri, 15 Nov 2024 10:09:56 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.15
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012950_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016632_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
