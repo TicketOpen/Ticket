@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Nov 2024 03:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 04:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=53378&amp;groupno=53378&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 11 Nov 2024 02:10:47 GMT</pubDate>
             <content:encoded><![CDATA[24.11.20(수)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[메리 카리나 네뷸라 (Merry Carina Nebula) (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53498&amp;groupno=53498&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53498&amp;groupno=53498&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 15 Nov 2024 04:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[24.11.19(화)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 변진섭 전국투어 콘서트 : 변천사 - 광주 (인터파크 티켓)]]></title>
@@ -204,13 +211,6 @@
             <content:encoded><![CDATA[24.11.19(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2025 장윤정 라이브 콘서트 - 부산 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53476&amp;groupno=53476&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53476&amp;groupno=53476&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 13 Nov 2024 05:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[24.11.19(화)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[4D공포연극 〈스위치〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53380</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53380</guid>
@@ -292,13 +292,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016676_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈킹키부츠〉 - 세종시 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53431</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53431</guid>
-            <pubDate>Fri, 15 Nov 2024 03:22:21 GMT</pubDate>
+            <title><![CDATA[뮤지컬 〈이솝이야기〉 가을 카페 스토리 콘서트 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53456</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53456</guid>
+            <pubDate>Fri, 15 Nov 2024 04:11:03 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.15
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015927_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016632_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[백양문화예술회관 크리스마스 기획공연 [호두까기 인형] 티켓오픈안내 (예스24 티켓)]]></title>
