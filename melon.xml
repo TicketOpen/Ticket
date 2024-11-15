@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-11-15T08:12:39.181Z</updated>
+    <updated>2024-11-15T09:09:59.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[팔레트 힙합 페스티벌 #000000 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9621</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9621"/>
+        <updated>2024-11-15T09:08:45.049Z</updated>
+        <content type="html"><![CDATA[2024.11.18(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이글루베이 단독 콘서트 : Not Neverland 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9619</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9608"/>
         <updated>2024-11-15T02:16:51.483Z</updated>
         <content type="html"><![CDATA[2024.11.21(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[strangers club vol.1 - Cwondo & 시라카미우즈 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9607</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9607"/>
-        <updated>2024-11-15T02:16:51.483Z</updated>
-        <content type="html"><![CDATA[2024.11.15(금) 20:00]]></content>
     </entry>
 </feed>
