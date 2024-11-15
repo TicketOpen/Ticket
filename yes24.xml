@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-15T02:18:07.360Z</updated>
+    <updated>2024-11-15T03:23:08.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
-        <title type="html"><![CDATA[Anime X Game Fesitval 2024 패스트 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[백양문화예술회관 크리스마스 기획공연 [호두까기 인형] 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15192</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15192"/>
+        <updated>2024-11-15T03:22:30.065Z</updated>
+        <content type="html"><![CDATA[2024.11.22(금) 13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15191</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15191"/>
         <updated>2024-11-15T02:17:23.906Z</updated>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15166"/>
         <updated>2024-11-12T05:09:40.627Z</updated>
         <content type="html"><![CDATA[2024.11.15(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15165</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15165"/>
-        <updated>2024-11-12T05:09:40.641Z</updated>
-        <content type="html"><![CDATA[2024.11.15(금) 19:00]]></content>
     </entry>
 </feed>
