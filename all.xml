@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Nov 2024 07:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2024 08:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -159,33 +159,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016707_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 창원 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53468</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53468</guid>
-            <pubDate>Fri, 15 Nov 2024 16:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.18
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016625_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 창원 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53469</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53469</guid>
-            <pubDate>Fri, 15 Nov 2024 16:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.18
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016731_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈종의 기원〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53440</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53440</guid>
-            <pubDate>Fri, 15 Nov 2024 16:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.18
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016611_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈드라이 플라워〉 추가오픈 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53481</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53481</guid>
@@ -211,6 +184,33 @@
             <content:encoded><![CDATA[2024.11.18
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016687_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈종의 기원〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53440</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53440</guid>
+            <pubDate>Fri, 15 Nov 2024 16:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.18
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016611_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 창원 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53468</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53468</guid>
+            <pubDate>Fri, 15 Nov 2024 16:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.18
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016625_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 창원 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53469</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53469</guid>
+            <pubDate>Fri, 15 Nov 2024 16:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.18
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016731_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[하이어 라이플 콜렉션 라이브 2024 메리 앤드 해피 (인터파크 티켓 모바일)]]></title>
@@ -521,6 +521,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어린이뮤지컬 캣 - 안산 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60808</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60808</guid>
+            <pubDate>Mon, 18 Nov 2024 08:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.21(목) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[호두까기인형 - 수원 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60807</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60807</guid>
+            <pubDate>Mon, 18 Nov 2024 08:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.21(목) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[책 먹는 여우 - 울산북구 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60806</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60806</guid>
@@ -612,18 +626,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.11.15(금) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​루돌프와 산타할아버지 - 화성​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60793</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60793</guid>
-            <pubDate>Thu, 14 Nov 2024 11:05:45 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.19(화) 00:00]]></content:encoded>
+            <title><![CDATA[어린이뮤지컬 캣 - 안산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60808</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60808</guid>
+            <pubDate>Mon, 18 Nov 2024 08:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.21(목) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 최백호 단독콘서트 <낭만에 대하여> - 진주​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60792</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60792</guid>
-            <pubDate>Thu, 14 Nov 2024 08:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.19(화) 06:00]]></content:encoded>
+            <title><![CDATA[호두까기인형 - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60807</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60807</guid>
+            <pubDate>Mon, 18 Nov 2024 08:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.21(목) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[책 먹는 여우 - 울산북구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -715,20 +729,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60794</guid>
             <pubDate>Thu, 14 Nov 2024 11:05:54 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.15(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​루돌프와 산타할아버지 - 화성​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60793</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60793</guid>
-            <pubDate>Thu, 14 Nov 2024 11:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.19(화) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 최백호 단독콘서트 <낭만에 대하여> - 진주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60792</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60792</guid>
-            <pubDate>Thu, 14 Nov 2024 08:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.19(화) 06:00]]></content:encoded>
         </item>
     </channel>
 </rss>
