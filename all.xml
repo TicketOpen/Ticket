@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 00:39:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 02:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=53378&amp;groupno=53378&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 11 Nov 2024 02:10:47 GMT</pubDate>
             <content:encoded><![CDATA[24.11.20(수)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈스윙 데이즈_암호명 A〉 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53546&amp;groupno=53546&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53546&amp;groupno=53546&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 19 Nov 2024 02:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[24.11.26(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[THE SOLUTIONS(솔루션스) 기획 파티 ‘FUTURE PUNK UNION III’ (인터파크 티켓)]]></title>
@@ -118,13 +125,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53527&amp;groupno=53527&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 18 Nov 2024 04:11:22 GMT</pubDate>
             <content:encoded><![CDATA[24.11.22(금)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024-25 허각 전국투어 콘서트 〈공연각〉 in 부산 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53526&amp;groupno=53526&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53526&amp;groupno=53526&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 18 Nov 2024 04:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[24.11.22(금)&nbsp;19:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쇼팽으로 만나는 겨울왕국 - 대전 (인터파크 티켓)]]></title>
@@ -577,11 +577,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.11.28(목) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <치매식당> 티켓오픈 안내 (티켓링크)]]></title>
+            <title><![CDATA[[단독판매] 뮤지컬 <치매식당> 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60801</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60801</guid>
             <pubDate>Mon, 18 Nov 2024 02:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.20(수) 02:00]]></content:encoded>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.20(수) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 연극 <이기동 체육관> - 울진​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -682,11 +682,11 @@
             <content:encoded><![CDATA[2024.11.28(목) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <치매식당> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <title><![CDATA[[단독판매] 뮤지컬 <치매식당> 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/60801</link>
             <guid>http://m.ticketlink.co.kr/help/notice/60801</guid>
             <pubDate>Mon, 18 Nov 2024 02:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.20(수) 02:00]]></content:encoded>
+            <content:encoded><![CDATA[2024.11.20(수) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 연극 <이기동 체육관> - 울진​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
