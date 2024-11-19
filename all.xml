@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 06:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 07:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016797_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈시카고〉 - 성남 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53506</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53506</guid>
+            <pubDate>Mon, 18 Nov 2024 15:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016777_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[재패니메이션 OST 콘서트 2025_서울 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53466</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53466</guid>
@@ -211,15 +220,6 @@
             <content:encoded><![CDATA[2024.11.19
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016603_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈시카고〉 - 성남 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53506</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53506</guid>
-            <pubDate>Mon, 18 Nov 2024 15:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.19
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016777_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈붉은 낙엽〉 (인터파크 티켓 모바일)]]></title>
@@ -521,6 +521,41 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/31/202407/04/zthmgryj4o6l.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[(어린이율동놀이뮤지컬) 호비쇼 - 부천​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60824</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60824</guid>
+            <pubDate>Tue, 19 Nov 2024 07:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.21(목) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(어린이율동놀이뮤지컬) 호비쇼 - 대전​​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60823</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60823</guid>
+            <pubDate>Tue, 19 Nov 2024 07:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.21(목) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(어린이율동놀이뮤지컬) 호비쇼 - 부산​​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60822</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60822</guid>
+            <pubDate>Tue, 19 Nov 2024 07:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.21(목) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(어린이율동놀이뮤지컬) 호비쇼 - 서울​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60821</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60821</guid>
+            <pubDate>Tue, 19 Nov 2024 07:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.21(목) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] [광주시립교향악단] 390회 정기연주회 '2024 송년음악회' ​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60820</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60820</guid>
+            <pubDate>Tue, 19 Nov 2024 07:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.20(수) 08:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[연극 <보이즈 인 더 밴드> 4차​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60818</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60818</guid>
@@ -591,39 +626,39 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.11.21(목) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  2024 송년기획 Winter Story 뮤지컬 갈라콘서트 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60804</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60804</guid>
-            <pubDate>Mon, 18 Nov 2024 06:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.25(월) 02:00]]></content:encoded>
+            <title><![CDATA[(어린이율동놀이뮤지컬) 호비쇼 - 부천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60824</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60824</guid>
+            <pubDate>Tue, 19 Nov 2024 07:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.21(목) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] GAC 기획공연 포커스 대니 구&조윤성 트리오 'Home' 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60803</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60803</guid>
-            <pubDate>Mon, 18 Nov 2024 04:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.20(수) 02:00]]></content:encoded>
+            <title><![CDATA[(어린이율동놀이뮤지컬) 호비쇼 - 대전​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60823</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60823</guid>
+            <pubDate>Tue, 19 Nov 2024 07:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.21(목) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 2024 포레스텔라 Encore 콘서트 < THE ILLUSIONIST >​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60802</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60802</guid>
-            <pubDate>Mon, 18 Nov 2024 05:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.28(목) 11:00]]></content:encoded>
+            <title><![CDATA[(어린이율동놀이뮤지컬) 호비쇼 - 부산​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60822</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60822</guid>
+            <pubDate>Tue, 19 Nov 2024 07:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.21(목) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 뮤지컬 <치매식당> 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60801</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60801</guid>
-            <pubDate>Mon, 18 Nov 2024 02:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.20(수) 09:00]]></content:encoded>
+            <title><![CDATA[(어린이율동놀이뮤지컬) 호비쇼 - 서울​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60821</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60821</guid>
+            <pubDate>Tue, 19 Nov 2024 07:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.21(목) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 연극 <이기동 체육관> - 울진​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60800</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60800</guid>
-            <pubDate>Fri, 15 Nov 2024 07:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.27(수) 01:00]]></content:encoded>
+            <title><![CDATA[[단독판매] [광주시립교향악단] 390회 정기연주회 '2024 송년음악회' ​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60820</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60820</guid>
+            <pubDate>Tue, 19 Nov 2024 07:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.20(수) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <보이즈 인 더 밴드> 4차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -694,41 +729,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60805</guid>
             <pubDate>Mon, 18 Nov 2024 07:10:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.21(목) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  2024 송년기획 Winter Story 뮤지컬 갈라콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60804</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60804</guid>
-            <pubDate>Mon, 18 Nov 2024 06:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.25(월) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] GAC 기획공연 포커스 대니 구&조윤성 트리오 'Home' 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60803</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60803</guid>
-            <pubDate>Mon, 18 Nov 2024 04:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.20(수) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 2024 포레스텔라 Encore 콘서트 < THE ILLUSIONIST >​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60802</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60802</guid>
-            <pubDate>Mon, 18 Nov 2024 05:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.28(목) 11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 뮤지컬 <치매식당> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60801</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60801</guid>
-            <pubDate>Mon, 18 Nov 2024 02:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.20(수) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 연극 <이기동 체육관> - 울진​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60800</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60800</guid>
-            <pubDate>Fri, 15 Nov 2024 07:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.27(수) 01:00]]></content:encoded>
         </item>
     </channel>
 </rss>
