@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Nov 2024 05:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Nov 2024 06:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=53378&amp;groupno=53378&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 11 Nov 2024 02:10:47 GMT</pubDate>
             <content:encoded><![CDATA[24.11.20(수)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이승환 35주년 콘서트 〈HEAVEN〉 - 진주 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53564&amp;groupno=53564&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53564&amp;groupno=53564&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 20 Nov 2024 06:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[24.11.25(월)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 ＇타인의 삶＇ (인터파크 티켓)]]></title>
@@ -204,13 +211,6 @@
             <content:encoded><![CDATA[24.11.25(월)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈스윙 데이즈_암호명 A〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53546&amp;groupno=53546&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53546&amp;groupno=53546&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 19 Nov 2024 02:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[24.11.26(화)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[3rd 뉴트로뮤직 원스어게인 콘서트 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53461</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53461</guid>
@@ -256,15 +256,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016796_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[미라클라스 콘서트 2024 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53520</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53520</guid>
-            <pubDate>Tue, 19 Nov 2024 15:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.20
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016613_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈고스트 베이커리〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53531</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53531</guid>
@@ -272,6 +263,15 @@
             <content:encoded><![CDATA[2024.11.20
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016412_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[미라클라스 콘서트 2024 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53520</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53520</guid>
+            <pubDate>Tue, 19 Nov 2024 15:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.20
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016613_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[Jazz Meets Christmas 송영주 퀄텟 (인터파크 티켓 모바일)]]></title>
