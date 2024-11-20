@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-11-20T08:12:58.126Z</updated>
+    <updated>2024-11-20T09:10:04.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[meiyo Live in Seoul 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9650</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9650"/>
+        <updated>2024-11-20T09:08:51.486Z</updated>
+        <content type="html"><![CDATA[2024.11.25(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 박소은 연말 단독 공연 〈일기 : 이런 게 나의 매일이기를〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9649</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9641"/>
         <updated>2024-11-20T05:08:56.274Z</updated>
         <content type="html"><![CDATA[2024.11.20(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영남 인더스트리얼 레이브 파티 (Yeungnam Industrial Rave Party) in 구미 산단 (구미보세장치장) 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9640</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9640"/>
-        <updated>2024-11-20T05:08:56.277Z</updated>
-        <content type="html"><![CDATA[2024.11.19(화) 18:00]]></content>
     </entry>
 </feed>
