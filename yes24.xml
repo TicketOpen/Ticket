@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-21T08:12:35.242Z</updated>
+    <updated>2024-11-21T09:10:05.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[용인] 2025 라이브 가족뮤지컬 [미녀와야수] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15217</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15217"/>
+        <updated>2024-11-21T09:09:21.719Z</updated>
+        <content type="html"><![CDATA[2024.11.22(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15216</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15216"/>
+        <updated>2024-11-21T09:09:21.732Z</updated>
+        <content type="html"><![CDATA[2024.11.28(목) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 Someday Christmas in 부산 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15215</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15215"/>
+        <updated>2024-11-21T09:09:21.732Z</updated>
+        <content type="html"><![CDATA[2024.11.22(금) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15214</id>
@@ -123,26 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15197"/>
         <updated>2024-11-18T05:10:00.004Z</updated>
         <content type="html"><![CDATA[2024.11.21(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈로미오 앤 줄리〉 - 1차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15196</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15196"/>
-        <updated>2024-11-18T04:11:44.907Z</updated>
-        <content type="html"><![CDATA[2024.11.22(금) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양홍원 단독 콘서트 〈VOL.2〉 티켓 오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15195</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15195"/>
-        <updated>2024-11-18T03:24:58.165Z</updated>
-        <content type="html"><![CDATA[2024.11.19(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15194</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15194"/>
-        <updated>2024-11-15T08:11:54.660Z</updated>
-        <content type="html"><![CDATA[2024.11.18(월) 18:00]]></content>
     </entry>
 </feed>
