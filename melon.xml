@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-11-21T02:17:01.488Z</updated>
+    <updated>2024-11-21T04:11:51.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌7 [Robiq 연말 파티] 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9656</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9656"/>
+        <updated>2024-11-21T04:10:35.476Z</updated>
+        <content type="html"><![CDATA[2024.11.28(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전기뱀장어 단독 콘서트 [엣큥, 지각이다... 콘서트] 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9655</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9655"/>
+        <updated>2024-11-21T04:10:35.476Z</updated>
+        <content type="html"><![CDATA[2024.11.28(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 까치산 연말 단독 공연 〈까치까치 연말은〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9654</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9654"/>
+        <updated>2024-11-21T04:10:35.478Z</updated>
+        <content type="html"><![CDATA[2024.11.25(월) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈마타하리〉 3차 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9653</id>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9646"/>
         <updated>2024-11-21T02:15:55.394Z</updated>
         <content type="html"><![CDATA[2024.11.27(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김유진 〈dudndudndudn〉 Live Concert & Talk Session 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9645</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9645"/>
-        <updated>2024-11-21T02:15:55.397Z</updated>
-        <content type="html"><![CDATA[2024.11.22(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈웃는 남자〉 1차 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9644</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9644"/>
-        <updated>2024-11-21T02:15:55.398Z</updated>
-        <content type="html"><![CDATA[2024.11.26(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이영훈 단독 공연 ‘연하장’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9643</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9643"/>
-        <updated>2024-11-21T02:15:55.400Z</updated>
-        <content type="html"><![CDATA[2024.11.21(목) 13:00]]></content>
     </entry>
 </feed>
