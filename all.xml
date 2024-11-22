@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 03:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 04:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9656</guid>
             <pubDate>Fri, 22 Nov 2024 03:21:50 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.28(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[앵콜] 더매직스타 전국투어 콘서트 - 성남 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53598&amp;groupno=53598&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53598&amp;groupno=53598&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 22 Nov 2024 04:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[24.11.25(월)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오아시스 내한공연 (OASIS Live ’25 SOUTH KOREA) (인터파크 티켓)]]></title>
@@ -197,11 +204,13 @@
             <content:encoded><![CDATA[24.11.28(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈카포네 밀크〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53580&amp;groupno=53580&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53580&amp;groupno=53580&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 21 Nov 2024 05:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[24.11.27(수)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[［ 울산 ] 쥬세뻬 비탈레 〈〈LEGAMI in Ulsan〉〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1023</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1023</guid>
+            <pubDate>Thu, 21 Nov 2024 16:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.22
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016614_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 라이브 가족뮤지컬〈미녀와야수〉-용인 (인터파크 티켓 모바일)]]></title>
@@ -213,13 +222,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017015_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[［ 울산 ] 쥬세뻬 비탈레 〈〈LEGAMI in Ulsan〉〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1023</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1023</guid>
+            <title><![CDATA[제드 내한공연 (ZEDD TELOS TOUR IN KOREA) (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53522</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53522</guid>
             <pubDate>Thu, 21 Nov 2024 16:11:01 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.22
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016614_p.gif" length="0" type="image/gif"/>
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016782_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[Ado WORLD TOUR 2025 “Hibana” Powered by Crunchyroll in Seoul (인터파크 티켓 모바일)]]></title>
@@ -229,15 +238,6 @@
             <content:encoded><![CDATA[2024.11.22
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015655_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[제드 내한공연 (ZEDD TELOS TOUR IN KOREA) (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53522</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53522</guid>
-            <pubDate>Thu, 21 Nov 2024 16:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.22
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016782_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[크리스마스 재즈 매직 콘서트 - 과천 (인터파크 티켓 모바일)]]></title>
@@ -258,24 +258,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011577_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈킹키부츠〉 - 대구 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53471</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53471</guid>
-            <pubDate>Fri, 22 Nov 2024 02:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.22
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016393_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[lIlBOI 'THE CAMP' (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53509</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53509</guid>
-            <pubDate>Fri, 22 Nov 2024 02:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.22
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016872_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[쇼팽으로 만나는 겨울왕국 - 대전 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53542</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53542</guid>
@@ -292,6 +274,24 @@
             <content:encoded><![CDATA[2024.11.22
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006928_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 신승태 콘서트 [新나는 송년 콘서트] (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53550</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53550</guid>
+            <pubDate>Fri, 22 Nov 2024 04:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.22
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016862_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[가족매직쇼 〈구구쌤의 매직쑈라구〉 - 울산 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53552</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53552</guid>
+            <pubDate>Fri, 22 Nov 2024 04:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.22
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016994_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[앰비규어스댄스컴퍼니 〈바디콘서트〉  티켓오픈 안내 (예스24 티켓)]]></title>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[앵콜] 더매직스타 전국투어 콘서트 - 성남​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60851</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60851</guid>
+            <pubDate>Fri, 22 Nov 2024 04:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.25(월) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 꾸러기음악회 <행진 앞으로> - 대구 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60849</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60849</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.11.22(금) 08:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2025 심수봉 전국투어 콘서트 : 꽃길 - 익산​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60834</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60834</guid>
-            <pubDate>Thu, 21 Nov 2024 04:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.25(월) 23:00]]></content:encoded>
+            <title><![CDATA[[앵콜] 더매직스타 전국투어 콘서트 - 성남​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60851</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60851</guid>
+            <pubDate>Fri, 22 Nov 2024 04:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.25(월) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 꾸러기음악회 <행진 앞으로> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60835</guid>
             <pubDate>Thu, 21 Nov 2024 04:11:45 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.22(금) 08:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2025 심수봉 전국투어 콘서트 : 꽃길 - 익산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60834</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60834</guid>
-            <pubDate>Thu, 21 Nov 2024 04:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.25(월) 23:00]]></content:encoded>
         </item>
     </channel>
 </rss>
