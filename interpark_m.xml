@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Nov 2024 13:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 14:09:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,24 +44,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017081_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈보이즈 인 더 밴드〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53554</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53554</guid>
-            <pubDate>Fri, 22 Nov 2024 15:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012547_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이승환 35주년 콘서트 〈HEAVEN〉 - 진주]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53564</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53564</guid>
-            <pubDate>Fri, 22 Nov 2024 15:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017147_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2024 LEEAM ROCK FESTIAVL]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53596</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53596</guid>
@@ -71,6 +53,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017158_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[연극 〈보이즈 인 더 밴드〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53554</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53554</guid>
+            <pubDate>Fri, 22 Nov 2024 15:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012547_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[가족뮤지컬 〈어른들은 몰라요〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53585</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53585</guid>
@@ -78,6 +69,15 @@
             <content:encoded><![CDATA[2024.11.25
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016973_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[이승환 35주년 콘서트 〈HEAVEN〉 - 진주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53564</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53564</guid>
+            <pubDate>Fri, 22 Nov 2024 15:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017147_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈더 픽션〉]]></title>
