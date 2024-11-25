@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-11-25T10:11:07.429Z</updated>
+    <updated>2024-11-25T11:08:34.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 손진욱 음감회 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9681</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9681"/>
+        <updated>2024-11-25T11:07:21.071Z</updated>
+        <content type="html"><![CDATA[2024.11.29(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 현서 (HYUN SEO) SOLO CONCERT 〈END OF MY DARK CLOUD〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9680</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9671"/>
         <updated>2024-11-25T09:10:00.531Z</updated>
         <content type="html"><![CDATA[2024.11.27(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9001 단독 콘서트 〈2024 굴이쓰마쓰〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9670</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9670"/>
-        <updated>2024-11-25T09:10:00.532Z</updated>
-        <content type="html"><![CDATA[2024.11.27(수) 20:00]]></content>
     </entry>
 </feed>

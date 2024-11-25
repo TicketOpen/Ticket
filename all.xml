@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Nov 2024 10:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 11:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 손진욱 음감회 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9681</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9681</guid>
+            <pubDate>Mon, 25 Nov 2024 11:07:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.29(금) 20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2024 현서 (HYUN SEO) SOLO CONCERT 〈END OF MY DARK CLOUD〉 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9680</link>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9671</guid>
             <pubDate>Mon, 25 Nov 2024 09:10:01 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.27(수) 18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[9001 단독 콘서트 〈2024 굴이쓰마쓰〉 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9670</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9670</guid>
-            <pubDate>Mon, 25 Nov 2024 09:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.27(수) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[〈Tuesday Beach Club EP 발매 기념 단독 콘서트：Color〉 - 부산 (인터파크 티켓)]]></title>
@@ -240,24 +240,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017081_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈보이즈 인 더 밴드〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53554</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53554</guid>
-            <pubDate>Fri, 22 Nov 2024 15:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012547_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이승환 35주년 콘서트 〈HEAVEN〉 - 진주 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53564</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53564</guid>
-            <pubDate>Fri, 22 Nov 2024 15:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017147_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2024 LEEAM ROCK FESTIAVL (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53596</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53596</guid>
@@ -267,6 +249,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017158_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[연극 〈보이즈 인 더 밴드〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53554</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53554</guid>
+            <pubDate>Fri, 22 Nov 2024 15:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012547_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[가족뮤지컬 〈어른들은 몰라요〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53585</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53585</guid>
@@ -274,6 +265,15 @@
             <content:encoded><![CDATA[2024.11.25
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016973_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[이승환 35주년 콘서트 〈HEAVEN〉 - 진주 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53564</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53564</guid>
+            <pubDate>Fri, 22 Nov 2024 15:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017147_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈더 픽션〉 (인터파크 티켓 모바일)]]></title>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] Christmas Tea-Time​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60871</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60871</guid>
+            <pubDate>Mon, 25 Nov 2024 11:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.28(목) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[연극<스타크로스드>​ 2차 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60870</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60870</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.11.26(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <시라노>​ 3차 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60856</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60856</guid>
-            <pubDate>Fri, 22 Nov 2024 05:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.11.29(금) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매] Christmas Tea-Time​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60871</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60871</guid>
+            <pubDate>Mon, 25 Nov 2024 11:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.28(목) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극<스타크로스드>​ 2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60857</guid>
             <pubDate>Fri, 22 Nov 2024 07:10:00 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.26(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <시라노>​ 3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60856</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60856</guid>
-            <pubDate>Fri, 22 Nov 2024 05:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.29(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
