@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Nov 2024 03:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 04:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9661</guid>
             <pubDate>Mon, 25 Nov 2024 03:24:34 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.22(금) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2025 이준호 FAN-CON 〈Midnight Sun〉 in INCHEON (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53614&amp;groupno=53614&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53614&amp;groupno=53614&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 25 Nov 2024 04:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[24.12.06(금)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Tuesday Beach Club EP 발매 기념 단독 콘서트：Color (인터파크 티켓)]]></title>
@@ -197,13 +204,6 @@
             <content:encoded><![CDATA[24.11.29(금)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2024 LEEAM ROCK FESTIAVL (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53596&amp;groupno=53596&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53596&amp;groupno=53596&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 22 Nov 2024 02:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[24.11.25(월)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 〈빵빵 이야기 속으로〉 - 부천 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53575</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53575</guid>
@@ -240,6 +240,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017081_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[2024 LEEAM ROCK FESTIAVL (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53596</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53596</guid>
+            <pubDate>Fri, 22 Nov 2024 15:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017158_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[연극 〈보이즈 인 더 밴드〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53554</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53554</guid>
@@ -249,24 +258,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012547_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[이승환 35주년 콘서트 〈HEAVEN〉 - 진주 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53564</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53564</guid>
-            <pubDate>Fri, 22 Nov 2024 15:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017147_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 LEEAM ROCK FESTIAVL (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53596</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53596</guid>
-            <pubDate>Fri, 22 Nov 2024 15:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024112122223035.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[가족뮤지컬 〈어른들은 몰라요〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53585</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53585</guid>
@@ -274,6 +265,15 @@
             <content:encoded><![CDATA[2024.11.25
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016973_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[이승환 35주년 콘서트 〈HEAVEN〉 - 진주 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53564</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53564</guid>
+            <pubDate>Fri, 22 Nov 2024 15:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017147_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈더 픽션〉 (인터파크 티켓 모바일)]]></title>
