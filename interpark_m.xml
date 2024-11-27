@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Nov 2024 19:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 20:10:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,13 +53,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017292_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈긴긴밤〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53604</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53604</guid>
+            <title><![CDATA[레전드 영화음악 슈퍼콘서트]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53642</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53642</guid>
             <pubDate>Wed, 27 Nov 2024 15:08:57 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.28
                                     <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012963_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017222_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[대학로 연극 〈 급식왕 - 급식이사라졌다 〉]]></title>
@@ -71,13 +71,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/no_image_family.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[레전드 영화음악 슈퍼콘서트]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53642</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53642</guid>
+            <title><![CDATA[뮤지컬 〈긴긴밤〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53604</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53604</guid>
             <pubDate>Wed, 27 Nov 2024 15:08:57 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.28
                                     <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017222_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012963_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[보고싶어서영은]]></title>
