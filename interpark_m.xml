@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Nov 2024 23:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 00:39:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,8 +13,8 @@
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53587</guid>
             <pubDate>Tue, 26 Nov 2024 15:09:20 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.27
-                                    <span>00:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024112101241083.jpg" length="0" type="image/jpg"/>
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017334_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 김정민 전국투어 콘서트 : LIVE STAR - 인천]]></title>
@@ -23,7 +23,7 @@
             <pubDate>Tue, 26 Nov 2024 15:09:20 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.27
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024112116390108.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017175_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[［대구］뮤지컬 번개맨 시즌2 〈번개맨!VS번개맨?〉]]></title>
@@ -32,7 +32,7 @@
             <pubDate>Tue, 26 Nov 2024 15:09:20 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.27
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024112114050108.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017170_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[이승환 35주년 콘서트 〈HEAVEN〉 - 청주]]></title>
@@ -41,7 +41,7 @@
             <pubDate>Tue, 26 Nov 2024 15:09:20 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.27
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024112111023536.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017135_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈베르테르〉 25주년 공연]]></title>
@@ -77,7 +77,7 @@
             <pubDate>Tue, 26 Nov 2024 15:09:20 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.27
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024112214535548.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017263_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[손민수 Curated 23 정민호]]></title>
@@ -86,7 +86,7 @@
             <pubDate>Tue, 26 Nov 2024 15:09:20 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.27
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/no_image_classic.png" length="0" type="image/png"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017101_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[인스파이어 아레나 백스테이지 투어 V2]]></title>
@@ -95,7 +95,7 @@
             <pubDate>Tue, 26 Nov 2024 15:09:20 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.27
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024112610050671.JPG" length="0" type="image/JPG"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017212_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
