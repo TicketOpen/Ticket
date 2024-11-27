@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-11-27T03:26:56.053Z</updated>
+    <updated>2024-11-27T04:12:12.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9689"/>
         <updated>2024-11-27T03:25:46.320Z</updated>
         <content type="html"><![CDATA[2024.11.29(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예스 콘서트 2024 (YES concert 2024) - 고양 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9688</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9688"/>
+        <updated>2024-11-27T04:10:56.927Z</updated>
+        <content type="html"><![CDATA[2024.11.27(수) 18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[먼데이프로젝트 시즌7 Our Universe [루아멜(LUAMEL) 단독 콘서트] 티켓 오픈 안내]]></title>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9680"/>
         <updated>2024-11-27T03:25:46.347Z</updated>
         <content type="html"><![CDATA[2024.11.29(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김동현 & 이병찬 겨울 콘서트 ‘Will be a Happy Christmas’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9679</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9679"/>
-        <updated>2024-11-27T03:25:46.349Z</updated>
-        <content type="html"><![CDATA[2024.11.27(수) 20:00]]></content>
     </entry>
 </feed>
