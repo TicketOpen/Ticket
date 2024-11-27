@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-27T02:21:11.975Z</updated>
+    <updated>2024-11-27T03:26:56.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버페이 인프라 변경 작업에 따른 서비스 중단 안내(12/9)]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15238</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15238"/>
+        <updated>2024-11-27T03:26:16.184Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[비지정석] 뮤지컬 [바람으로의 여행] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15237</id>
@@ -137,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15217"/>
         <updated>2024-11-21T09:09:21.719Z</updated>
         <content type="html"><![CDATA[2024.11.22(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15216</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15216"/>
-        <updated>2024-11-21T09:09:21.732Z</updated>
-        <content type="html"><![CDATA[2024.11.28(목) 18:00]]></content>
     </entry>
 </feed>
