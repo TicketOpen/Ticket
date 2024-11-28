@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-11-28T02:20:36.164Z</updated>
+    <updated>2024-11-28T03:26:59.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[EARTH WIND & SHEPHERD 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9698</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9698"/>
+        <updated>2024-11-28T03:25:33.875Z</updated>
+        <content type="html"><![CDATA[2024.11.29(금) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 Someday Christmas in 여수 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9697</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9697"/>
         <updated>2024-11-28T02:19:22.951Z</updated>
         <content type="html"><![CDATA[2024.11.28(목) 18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로맨틱펀치 단독공연 106번째 로맨틱파티 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9696</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9696"/>
+        <updated>2024-11-28T03:25:33.875Z</updated>
+        <content type="html"><![CDATA[2024.12.02(월) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뷰렛 단독 콘서트 ‘Biuret is my favorite song’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9695</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9695"/>
+        <updated>2024-11-28T03:25:33.876Z</updated>
+        <content type="html"><![CDATA[2024.12.05(목) 20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JAEMIN X BAO Concert 티켓 오픈 안내]]></title>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9688"/>
         <updated>2024-11-27T20:09:29.436Z</updated>
         <content type="html"><![CDATA[2024.11.27(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌7 Our Universe [루아멜(LUAMEL) 단독 콘서트] 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9687</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9687"/>
-        <updated>2024-11-27T20:09:29.440Z</updated>
-        <content type="html"><![CDATA[2024.12.04(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAAY 2024 LIVE CONCERT FINALE IN SEOUL [S:PERIENCE] 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9686</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9686"/>
-        <updated>2024-11-27T20:09:29.442Z</updated>
-        <content type="html"><![CDATA[2024.11.29(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리온의 신비한 과자상점－어린이 마술극－（12월）티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9685</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9685"/>
-        <updated>2024-11-27T20:09:29.444Z</updated>
-        <content type="html"><![CDATA[2024.11.27(수) 09:00]]></content>
     </entry>
 </feed>
