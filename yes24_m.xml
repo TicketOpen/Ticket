@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-11-29T02:20:13.229Z</updated>
+    <updated>2024-11-29T03:26:08.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이승열의 음악감상회 [어느 희망 중독자의 고백] 티켓 오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15249&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15249&amp;order=1"/>
+        <updated>2024-11-29T03:25:31.944Z</updated>
+        <content type="html"><![CDATA[2024-12-03(화) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [ 쿠로이 저택엔 누가 살고 있을까? ] 마지막 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15248&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15248&amp;order=1"/>
         <updated>2024-11-29T02:19:44.541Z</updated>
         <content type="html"><![CDATA[2024-12-06(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2025 가족매직쇼 [스노우버블쇼] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15246&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15246&amp;order=1"/>
+        <updated>2024-11-29T03:25:31.955Z</updated>
+        <content type="html"><![CDATA[2024-12-02(월) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2025 라이브가족뮤지컬 [프린세스공주] 티켓오픈 안내]]></title>
@@ -59,20 +73,6 @@
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15239&amp;order=1</id>
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15239&amp;order=1"/>
         <updated>2024-11-27T09:09:57.993Z</updated>
-        <content type="html"><![CDATA[2024-12-05(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[비지정석] 뮤지컬 [바람으로의 여행] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15237&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15237&amp;order=1"/>
-        <updated>2024-11-27T02:20:44.978Z</updated>
-        <content type="html"><![CDATA[2024-11-29(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <알라딘> 2월 로맨틱 시즌 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15236&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15236&amp;order=1"/>
-        <updated>2024-11-27T02:20:44.978Z</updated>
         <content type="html"><![CDATA[2024-12-05(목) 14:00]]></content>
     </entry>
 </feed>
