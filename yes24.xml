@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-11-29T00:40:02.341Z</updated>
+    <updated>2024-11-29T02:20:13.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [ 쿠로이 저택엔 누가 살고 있을까? ] 마지막 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15248</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15248"/>
+        <updated>2024-11-29T02:19:36.273Z</updated>
+        <content type="html"><![CDATA[2024.12.06(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2025 라이브가족뮤지컬 [프린세스공주] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15245</id>
@@ -136,12 +143,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15225"/>
         <updated>2024-11-25T07:10:01.739Z</updated>
         <content type="html"><![CDATA[2024.11.29(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [시지프스] 3차 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15224</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15224"/>
-        <updated>2024-11-25T02:19:28.379Z</updated>
-        <content type="html"><![CDATA[2024.12.02(월) 14:00]]></content>
     </entry>
 </feed>
