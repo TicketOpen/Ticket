@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-11-28T23:09:44.702Z</updated>
+    <updated>2024-11-29T00:40:02.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[2025 어린이 특별공연] 연극 아빠와 난 초등1학년 - 포항 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9701</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9701"/>
+        <updated>2024-11-29T00:38:50.364Z</updated>
+        <content type="html"><![CDATA[2024.12.02(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 춘베리아 특급열차 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9700</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9692"/>
         <updated>2024-11-28T23:08:22.111Z</updated>
         <content type="html"><![CDATA[2024.12.04(수) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9와 숫자들 2024 연말 콘서트 “목적도 없고 주제도 없어요” 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9691</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9691"/>
-        <updated>2024-11-28T23:08:22.113Z</updated>
-        <content type="html"><![CDATA[2024.11.28(목) 12:00]]></content>
     </entry>
 </feed>
