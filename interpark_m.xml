@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Dec 2024 13:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Dec 2024 14:04:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,15 +53,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014659_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈해피 오! 해피〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53624</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53624</guid>
-            <pubDate>Fri, 29 Nov 2024 15:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.02
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015623_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[이승환 35주년 콘서트 〈HEAVEN〉 - 성남]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53647</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53647</guid>
@@ -69,6 +60,15 @@
             <content:encoded><![CDATA[2024.12.02
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017442_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈해피 오! 해피〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53624</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53624</guid>
+            <pubDate>Fri, 29 Nov 2024 15:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.02
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015623_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈시지프스〉]]></title>
