@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-12-02T10:11:39.393Z</updated>
+    <updated>2024-12-02T12:17:02.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차우주 & GYU HYUK : BLOOM 2024 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9717</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9717"/>
+        <updated>2024-12-02T12:15:40.475Z</updated>
+        <content type="html"><![CDATA[2024.12.05(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[담담 1st EP Showcase 〈24Frame〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9716</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9716"/>
+        <updated>2024-12-02T12:15:40.479Z</updated>
+        <content type="html"><![CDATA[2024.12.04(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MGA LIVE in SEOUL, KOREA 2025 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9715</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9708"/>
         <updated>2024-12-02T10:10:20.522Z</updated>
         <content type="html"><![CDATA[2024.12.05(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2025 어린이 특별공연] 연극 아빠와 난 초등1학년 - 목포 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9707</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9707"/>
-        <updated>2024-12-02T10:10:20.522Z</updated>
-        <content type="html"><![CDATA[2024.12.04(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0(Zero) : CONFINED WHITE CONCERT 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9705</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9705"/>
-        <updated>2024-12-02T10:10:20.537Z</updated>
-        <content type="html"><![CDATA[2024.12.02(월) 18:00]]></content>
     </entry>
 </feed>
