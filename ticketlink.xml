@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-12-01T23:09:00.583Z</updated>
+    <updated>2024-12-02T00:42:11.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60908"/>
         <updated>2024-12-01T05:09:41.508Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.02(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 창작산실 선정작 뮤지컬 <오셀로의 재심> 1차​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60906</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60906"/>
+        <updated>2024-12-02T00:41:57.881Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.09(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <시라노>​ OP석​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60893"/>
         <updated>2024-11-28T05:09:57.532Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.04(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 마술극 <리온의 신비한 과자상점> - 부산  티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60892</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60892"/>
-        <updated>2024-11-28T02:20:21.543Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.28(목) 00:00]]></content>
     </entry>
 </feed>
