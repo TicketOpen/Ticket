@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-12-03T00:41:40.743Z</updated>
+    <updated>2024-12-03T02:22:40.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] GFRIEND 10th Anniversary < Season of Memories >​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60917</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60917"/>
+        <updated>2024-12-03T02:22:23.202Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.09(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 강릉 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60916</id>
@@ -13,11 +20,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.05(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​추교준 피아노 독주회 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60914</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60914"/>
-        <updated>2024-12-02T08:13:33.076Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.03(화) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <퍼스트 맨: 카뮈가 남긴 마지막 이야기> 프리뷰​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60915</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60915"/>
+        <updated>2024-12-03T02:22:23.202Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.05(목) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​어린이 뮤지컬 <바다탐험대 옥토넛 시즌3> 광명​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60902"/>
         <updated>2024-11-29T05:09:57.034Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.04(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <미아 파밀리아> 2차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60901</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60901"/>
-        <updated>2024-11-29T05:09:57.036Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.05(목) 02:00]]></content>
     </entry>
 </feed>
