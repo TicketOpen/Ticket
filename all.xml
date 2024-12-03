@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 07:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 08:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,7 +71,7 @@
             <content:encoded><![CDATA[2024.12.11(수) 21:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ASCNT(어센트) ‘Expecting Tomorrow’ FAN-CON FINAL in Seoul 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <title><![CDATA[어센트(ASC2NT) ‘Expecting Tomorrow’ FAN-CON FINAL in Seoul 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9714</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9714</guid>
             <pubDate>Tue, 03 Dec 2024 02:21:23 GMT</pubDate>
@@ -222,15 +222,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014179_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53646</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53646</guid>
-            <pubDate>Mon, 02 Dec 2024 15:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.03
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007404_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[오페레타 뮤지컬 〈판타지아〉 시즌3 월드 오케스트라 챔피언십 우승을 차지하라! (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53656</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53656</guid>
@@ -238,6 +229,15 @@
             <content:encoded><![CDATA[2024.12.03
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017494_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53646</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53646</guid>
+            <pubDate>Mon, 02 Dec 2024 15:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.03
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007404_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[최현우 19+I - 청주 (인터파크 티켓 모바일)]]></title>
@@ -792,6 +792,42 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60905</guid>
             <pubDate>Fri, 29 Nov 2024 09:10:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.04(수) 06:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <루드윅:베토벤 더 피아노> (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
+            <pubDate>Tue, 03 Dec 2024 08:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[12월 09일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20241115_209/muPpX_17316513840333YF2f_JPEG/1731651384013.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <루드윅:베토벤 더 피아노> (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
+            <pubDate>Tue, 03 Dec 2024 08:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[12월 16일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20241115_131/3BZ2o_1731651573992BAsVB_JPEG/1731651573976.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <루드윅:베토벤 더 피아노> (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
+            <pubDate>Tue, 03 Dec 2024 08:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[12월 23일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20241115_131/V6x65_1731651819282TfG2L_JPEG/1731651819261.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후원
+											뮤지컬 <루드윅:베토벤 더 피아노> (네이버 공연)]]></title>
+            <link>https://patron.naver.com/ntv/c/intro/orchard</link>
+            <guid>https://patron.naver.com/ntv/c/intro/orchard</guid>
+            <pubDate>Tue, 03 Dec 2024 08:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[12월 30일(월) 20:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20241115_162/RmwxM_1731655020560gXt2S_JPEG/1731655020545.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후원
