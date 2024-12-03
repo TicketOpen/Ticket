@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 18:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 19:04:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,15 +240,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011626_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[국민연극 〈라이어1탄〉 - 상명아트홀 1관 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53591</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53591</guid>
-            <pubDate>Tue, 03 Dec 2024 15:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.04
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017527_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[연극 〈뜨거운 여름〉 : 공연배달서비스 간다 20주년 퍼레이드 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53648</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53648</guid>
@@ -274,6 +265,15 @@
             <content:encoded><![CDATA[2024.12.04
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013928_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[국민연극 〈라이어1탄〉 - 상명아트홀 1관 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53591</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53591</guid>
+            <pubDate>Tue, 03 Dec 2024 15:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017527_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈시라노〉 (인터파크 티켓 모바일)]]></title>
