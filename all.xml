@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Dec 2024 06:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 07:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,20 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=53674&amp;groupno=53674&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 04 Dec 2024 04:11:09 GMT</pubDate>
             <content:encoded><![CDATA[24.12.04(수)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[페인터즈 - 서대문전용관 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53719&amp;groupno=53719&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53719&amp;groupno=53719&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 04 Dec 2024 07:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[24.12.10(화)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[페인터즈 - 광화문전용관 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53718&amp;groupno=53718&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53718&amp;groupno=53718&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 04 Dec 2024 07:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[24.12.10(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[낭만주의 거장 〈대니 구 & 일리야 라쉬코프스키〉 (인터파크 티켓)]]></title>
@@ -190,20 +204,6 @@
             <content:encoded><![CDATA[24.12.10(화)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈틱틱붐〉 (tick, tick… BOOM!) (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53701&amp;groupno=53701&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53701&amp;groupno=53701&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 03 Dec 2024 05:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[24.12.10(화)&nbsp;15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈붉은 낙엽〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53700&amp;groupno=53700&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53700&amp;groupno=53700&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 03 Dec 2024 05:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[24.12.10(화)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈여신님이 보고 계셔〉 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53704&amp;groupno=53704&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53704&amp;groupno=53704&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -256,15 +256,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011626_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈뜨거운 여름〉 : 공연배달서비스 간다 20주년 퍼레이드 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53648</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53648</guid>
-            <pubDate>Tue, 03 Dec 2024 15:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.04
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016054_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[국민연극 〈라이어1탄〉 - 상명아트홀 1관 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53591</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53591</guid>
@@ -272,6 +263,15 @@
             <content:encoded><![CDATA[2024.12.04
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017527_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈뜨거운 여름〉 : 공연배달서비스 간다 20주년 퍼레이드 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53648</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53648</guid>
+            <pubDate>Tue, 03 Dec 2024 15:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016054_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[우리 벙개할까요? 〈왁스 1st 팬미팅 & 미니 콘서트〉 (인터파크 티켓 모바일)]]></title>
