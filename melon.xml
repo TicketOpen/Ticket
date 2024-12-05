@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-12-04T23:10:00.855Z</updated>
+    <updated>2024-12-05T00:41:00.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈웃는 남자〉 2차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9729</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9729"/>
+        <updated>2024-12-05T00:39:51.404Z</updated>
+        <content type="html"><![CDATA[2024.12.12(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈공중그늘 단독 콘서트 ‘파수꾼’ : 롤링 30주년 기념 공연〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9728</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9720"/>
         <updated>2024-12-04T21:07:59.990Z</updated>
         <content type="html"><![CDATA[2024.12.04(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈손을모아 단독 콘서트 ‘Pray For Me’ : 롤링 30주년 기념 공연〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9719</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9719"/>
-        <updated>2024-12-04T21:07:59.992Z</updated>
-        <content type="html"><![CDATA[2024.12.09(월) 20:00]]></content>
     </entry>
 </feed>
