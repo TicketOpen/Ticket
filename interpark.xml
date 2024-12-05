@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-12-05T06:13:58.671Z</updated>
+    <updated>2024-12-05T07:10:02.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=53645&amp;groupno=53645&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-12-05T05:09:18.127Z</updated>
         <content type="html"><![CDATA[24.12.05(목)&nbsp;14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 - 해양구조대〉 - 서울]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53730&amp;groupno=53730&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53730&amp;groupno=53730&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-12-05T07:09:03.171Z</updated>
+        <content type="html"><![CDATA[24.12.10(화)&nbsp;10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오!컬쳐프로젝트 5회 〈술자리입문학2 - 흑백위스키감정사〉]]></title>
@@ -123,13 +130,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53710&amp;groupno=53710&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-12-05T06:12:47.738Z</updated>
         <content type="html"><![CDATA[24.12.03(화)&nbsp;10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 썸데이 (춘천)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53709&amp;groupno=53709&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53709&amp;groupno=53709&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-12-05T06:12:47.740Z</updated>
-        <content type="html"><![CDATA[24.12.04(수)&nbsp;09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[테너 조윤진 독창회]]></title>
