@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Dec 2024 11:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 12:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017665_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[Tuesday Beach Club EP 발매 기념 단독 콘서트：Color - 부산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53621</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53621</guid>
-            <pubDate>Thu, 05 Dec 2024 15:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.06
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017779_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[［Play＆Stay］2025 BABYMONSTER 1st WORLD TOUR 〈HELLO MONSTERS〉 IN SEOUL + Hotel]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53673</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53673</guid>
@@ -87,6 +78,15 @@
             <content:encoded><![CDATA[2024.12.06
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017335_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Tuesday Beach Club EP 발매 기념 단독 콘서트：Color - 부산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53621</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53621</guid>
+            <pubDate>Thu, 05 Dec 2024 15:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.06
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017779_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 이준호 FAN-CON 〈Midnight Sun〉 in INCHEON]]></title>
