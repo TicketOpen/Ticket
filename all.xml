@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Dec 2024 07:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 08:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9730</guid>
             <pubDate>Fri, 06 Dec 2024 07:09:12 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.11(수) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 양천문화재단 연말 콘서트 〈양천 소유〉 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53748&amp;groupno=53748&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53748&amp;groupno=53748&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 06 Dec 2024 08:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[24.12.10(화)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 앤서니브라운 가족뮤지컬 〈난 책이좋아요〉 - 목동 (인터파크 티켓)]]></title>
@@ -197,13 +204,6 @@
             <content:encoded><![CDATA[24.12.09(월)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 〈고고다이노 - 해양구조대〉 - 서울 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53730&amp;groupno=53730&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53730&amp;groupno=53730&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 05 Dec 2024 07:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[24.12.10(화)&nbsp;10:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2025 라이브 가족뮤지컬〈피터팬〉-청주 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53667</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53667</guid>
@@ -292,6 +292,13 @@
             <content:encoded><![CDATA[2024.12.06
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017510_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[고양] 2025 가족어린이공연 [공룡애니멀쇼] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15284</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15284</guid>
+            <pubDate>Fri, 06 Dec 2024 08:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.09(월) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [ 쿠로이 저택엔 누가 살고 있을까? ] 싱어롱데이 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -425,11 +432,11 @@
             <content:encoded><![CDATA[2024.12.05(목) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2025 신년음악회: 집시 카니발 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15261</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15261</guid>
-            <pubDate>Mon, 02 Dec 2024 12:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.04(수) 16:00]]></content:encoded>
+            <title><![CDATA[[고양] 2025 가족어린이공연 [공룡애니멀쇼] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15284&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15284&amp;order=1</guid>
+            <pubDate>Fri, 06 Dec 2024 08:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024-12-09(월) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [ 쿠로이 저택엔 누가 살고 있을까? ] 싱어롱데이 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -493,13 +500,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15272&amp;order=1</guid>
             <pubDate>Wed, 04 Dec 2024 02:22:01 GMT</pubDate>
             <content:encoded><![CDATA[2024-12-06(금) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[YOUNG POSSE WINTER FAN CONCERT ‘HOMECOMING POSSE’ 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15269&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15269&amp;order=1</guid>
-            <pubDate>Tue, 03 Dec 2024 07:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[2024-12-04(수) 18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 World DJ Festival 티켓오픈 안내 (위메프 공연티켓)]]></title>
