@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 22:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 23:09:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -258,6 +258,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016611_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[연극 〈붉은 낙엽〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53700</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53700</guid>
+            <pubDate>Mon, 09 Dec 2024 23:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.10
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016741_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[WE필하모닉 오케스트라 제3회 정기연주회 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53712</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53712</guid>
@@ -283,15 +292,6 @@
             <content:encoded><![CDATA[2024.12.10
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22014959_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[페인터즈 - 서대문전용관 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53719</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53719</guid>
-            <pubDate>Mon, 09 Dec 2024 16:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.10
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007854_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [블러디 러브] 3차 티켓오픈 안내 (예스24 티켓)]]></title>
