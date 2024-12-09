@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 02:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 04:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,15 +188,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017618_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[THE SOLUTIONS(솔루션스) 콘서트 'Maximizer' (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53694</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53694</guid>
-            <pubDate>Fri, 06 Dec 2024 15:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.09
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017648_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2025 김우빈 팬미팅 〈Woobin's Diary〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53595</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53595</guid>
@@ -215,6 +206,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017414_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[THE SOLUTIONS(솔루션스) 콘서트 'Maximizer' (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53694</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53694</guid>
+            <pubDate>Fri, 06 Dec 2024 15:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.09
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017648_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[한우석 콘서트 Happy together and new year (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53755</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53755</guid>
@@ -229,6 +229,13 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15289</guid>
             <pubDate>Mon, 09 Dec 2024 02:25:07 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.11(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15287</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15287</guid>
+            <pubDate>Mon, 09 Dec 2024 04:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.27(금) 12:00<a class="noti-btn-pop" presaletit1="팬클럽 선예매" presaletit2="" presaletime1="2024.12.26(목) 12:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대구] 2025 가족매직쇼 [매직사이언스콘서트] 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -355,18 +362,18 @@
             <content:encoded><![CDATA[2024.12.09(월) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[광명] 2025 라이브가족뮤지컬 [신데렐라] 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15266</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15266</guid>
-            <pubDate>Sat, 07 Dec 2024 21:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.05(목) 09:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[부산] 뮤지컬 [지저스 크라이스트 수퍼스타] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15289&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15289&amp;order=1</guid>
             <pubDate>Mon, 09 Dec 2024 02:25:16 GMT</pubDate>
             <content:encoded><![CDATA[2024-12-11(수) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[WAKER 1ST GLOBAL FANCLUB FAN MEETING〈WAKER HOUSE〉티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15287&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15287&amp;order=1</guid>
+            <pubDate>Mon, 09 Dec 2024 04:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[2024-12-27(금) 12:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대구] 2025 가족매직쇼 [매직사이언스콘서트] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -423,13 +430,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15279&amp;order=1</guid>
             <pubDate>Sat, 07 Dec 2024 21:03:58 GMT</pubDate>
             <content:encoded><![CDATA[2024-12-09(월) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<이터니티 콘서트> 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15277&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15277&amp;order=1</guid>
-            <pubDate>Sat, 07 Dec 2024 21:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[2024-12-09(월) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 World DJ Festival 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -510,6 +510,13 @@
             <pubDate>Thu, 21 Nov 2024 04:11:26 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.17(월) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어린이 가족뮤지컬 <겨울왕국> - 경기 광주 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60950</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60950</guid>
+            <pubDate>Mon, 09 Dec 2024 04:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.12.10(화) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <드라랄라 치과> - 대구 티켓오픈 안내 (티켓링크)]]></title>
@@ -610,11 +617,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.12.09(월) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  ​[서울] 뮤지컬 <플랫폼> - 각인, 두번째 이야기​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60934</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60934</guid>
-            <pubDate>Thu, 05 Dec 2024 06:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.12.06(금) 01:00]]></content:encoded>
+            <title><![CDATA[어린이 가족뮤지컬 <겨울왕국> - 경기 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60950</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60950</guid>
+            <pubDate>Mon, 09 Dec 2024 04:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.10(화) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <드라랄라 치과> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -713,13 +720,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60935</guid>
             <pubDate>Thu, 05 Dec 2024 07:09:56 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.09(월) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  ​[서울] 뮤지컬 <플랫폼> - 각인, 두번째 이야기​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60934</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60934</guid>
-            <pubDate>Thu, 05 Dec 2024 06:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.06(금) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
