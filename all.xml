@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 06:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 07:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -249,6 +249,14 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017678_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[Feat. 진현준 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53725</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53725</guid>
+            <pubDate>Mon, 09 Dec 2024 07:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.09
+                                    <span>12:00</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[볼빨간사춘기 단독 콘서트 ‘Bloom’ After Party (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53685</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53685</guid>
@@ -256,6 +264,15 @@
             <content:encoded><![CDATA[2024.12.09
                                     <span>19:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017618_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[THE SOLUTIONS(솔루션스) 콘서트 'Maximizer' (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53694</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53694</guid>
+            <pubDate>Fri, 06 Dec 2024 15:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.09
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017648_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 김우빈 팬미팅 〈Woobin's Diary〉 (인터파크 티켓 모바일)]]></title>
@@ -274,24 +291,6 @@
             <content:encoded><![CDATA[2024.12.09
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017414_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[THE SOLUTIONS(솔루션스) 콘서트 'Maximizer' (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53694</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53694</guid>
-            <pubDate>Fri, 06 Dec 2024 15:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.09
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017648_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[한우석 콘서트 Happy together and new year (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53755</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53755</guid>
-            <pubDate>Mon, 09 Dec 2024 02:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.10
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017851_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 [블러디 러브] 3차 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -582,6 +581,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[​제야 블록버스터 뮤지컬 오페라 투란도트​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/60952</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/60952</guid>
+            <pubDate>Mon, 09 Dec 2024 07:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.12.10(화) 08:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 뮤지컬<아나키스트> 1차 ​티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/60951</link>
             <guid>http://www.ticketlink.co.kr/help/notice/60951</guid>
@@ -680,11 +686,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.12.10(화) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[<설민석의 한국사 대모험 : 영웅의 시간> - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/60937</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/60937</guid>
-            <pubDate>Thu, 05 Dec 2024 07:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.12.09(월) 01:00]]></content:encoded>
+            <title><![CDATA[​제야 블록버스터 뮤지컬 오페라 투란도트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/60952</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/60952</guid>
+            <pubDate>Mon, 09 Dec 2024 07:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.10(화) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 뮤지컬<아나키스트> 1차 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -783,13 +789,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/60938</guid>
             <pubDate>Thu, 05 Dec 2024 07:09:56 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.10(화) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<설민석의 한국사 대모험 : 영웅의 시간> - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/60937</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/60937</guid>
-            <pubDate>Thu, 05 Dec 2024 07:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.09(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원

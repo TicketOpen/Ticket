@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 06:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 07:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,6 +53,14 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017678_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[Feat. 진현준]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53725</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53725</guid>
+            <pubDate>Mon, 09 Dec 2024 07:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.09
+                                    <span>12:00</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[볼빨간사춘기 단독 콘서트 ‘Bloom’ After Party]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53685</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53685</guid>
@@ -60,6 +68,15 @@
             <content:encoded><![CDATA[2024.12.09
                                     <span>19:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017618_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[THE SOLUTIONS(솔루션스) 콘서트 'Maximizer']]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53694</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53694</guid>
+            <pubDate>Fri, 06 Dec 2024 15:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.09
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017648_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 김우빈 팬미팅 〈Woobin's Diary〉]]></title>
@@ -78,24 +95,6 @@
             <content:encoded><![CDATA[2024.12.09
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017414_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[THE SOLUTIONS(솔루션스) 콘서트 'Maximizer']]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53694</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53694</guid>
-            <pubDate>Fri, 06 Dec 2024 15:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.09
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017648_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[한우석 콘서트 Happy together and new year]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53755</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53755</guid>
-            <pubDate>Mon, 09 Dec 2024 02:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.10
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017851_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
