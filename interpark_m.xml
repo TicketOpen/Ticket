@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 07:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 08:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,6 +61,15 @@
                                     <span>12:00</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 NO.1콘서트 ［뮤지컬 넘버원 콘서트］- 춘천]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53762</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53762</guid>
+            <pubDate>Mon, 09 Dec 2024 08:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.09
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017832_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[볼빨간사춘기 단독 콘서트 ‘Bloom’ After Party]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53685</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53685</guid>
@@ -77,15 +86,6 @@
             <content:encoded><![CDATA[2024.12.09
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017648_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 김우빈 팬미팅 〈Woobin's Diary〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53595</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53595</guid>
-            <pubDate>Fri, 06 Dec 2024 15:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.09
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017316_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 KEN SOLO CONCERT : WONDER LAND]]></title>
