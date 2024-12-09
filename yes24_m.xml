@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2024-12-09T00:42:54.055Z</updated>
+    <updated>2024-12-09T02:25:49.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산] 뮤지컬 [지저스 크라이스트 수퍼스타] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15289&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15289&amp;order=1"/>
+        <updated>2024-12-09T02:25:16.893Z</updated>
+        <content type="html"><![CDATA[2024-12-11(수) 14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 2025 가족매직쇼 [매직사이언스콘서트] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15286&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15277&amp;order=1"/>
         <updated>2024-12-07T21:03:58.066Z</updated>
         <content type="html"><![CDATA[2024-12-09(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 어린이 뮤지컬 바다탐험대 옥토넛3 [바다넘어육지까지] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15276&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15276&amp;order=1"/>
-        <updated>2024-12-07T21:03:58.070Z</updated>
-        <content type="html"><![CDATA[2024-12-10(화) 10:00]]></content>
     </entry>
 </feed>
