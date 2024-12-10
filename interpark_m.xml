@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Dec 2024 00:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 03:31:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016611_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[연극 〈붉은 낙엽〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53700</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53700</guid>
+            <pubDate>Tue, 10 Dec 2024 03:30:17 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.10
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016741_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[WE필하모닉 오케스트라 제3회 정기연주회]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53712</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53712</guid>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2024.12.10
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22014959_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[페인터즈 - 서대문전용관]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53719</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53719</guid>
-            <pubDate>Tue, 10 Dec 2024 00:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.10
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007854_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

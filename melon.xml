@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-12-10T00:42:05.808Z</updated>
+    <updated>2024-12-10T03:31:13.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[극동아시아타이거즈 단독 콘서트 ‘몽유호원’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9749</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9749"/>
+        <updated>2024-12-10T03:29:53.999Z</updated>
+        <content type="html"><![CDATA[2024.12.17(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌7 [김제형 단독 콘서트 〈김제형의 ‘사다리꼴’ 음감회〉] 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9748</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9748"/>
+        <updated>2024-12-10T03:29:54.001Z</updated>
+        <content type="html"><![CDATA[2024.12.13(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이글루베이 단독 콘서트 : Met Neverland 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9746</id>
@@ -59,20 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9737</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9737"/>
         <updated>2024-12-09T22:08:24.696Z</updated>
-        <content type="html"><![CDATA[2024.12.06(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SKYE‘S 이븐한 CHRISTMAS PARTY 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9736</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9736"/>
-        <updated>2024-12-09T22:08:24.697Z</updated>
-        <content type="html"><![CDATA[2024.12.10(화) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 악퉁 연말 인센티브 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9735</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9735"/>
-        <updated>2024-12-09T22:08:24.700Z</updated>
         <content type="html"><![CDATA[2024.12.06(금) 20:00]]></content>
     </entry>
 </feed>
