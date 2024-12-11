@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-12-11T00:41:12.340Z</updated>
+    <updated>2024-12-11T02:22:15.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NAAKYEUM’s Live Concert 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9750</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9750"/>
+        <updated>2024-12-11T02:21:04.904Z</updated>
+        <content type="html"><![CDATA[2024.12.11(수) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[극동아시아타이거즈 단독 콘서트 ‘몽유호원’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9749</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9738"/>
         <updated>2024-12-11T00:39:59.994Z</updated>
         <content type="html"><![CDATA[2024.12.12(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOO(성현우) FAN-CON [ EVE : WOOnder Countdown ] 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9737</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9737"/>
-        <updated>2024-12-11T00:40:00.000Z</updated>
-        <content type="html"><![CDATA[2024.12.06(금) 20:00]]></content>
     </entry>
 </feed>
