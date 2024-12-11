@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-12-11T09:10:16.036Z</updated>
+    <updated>2024-12-11T10:10:42.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 CREZL CONCERT ‘BACKSTAGE : Logline’ 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9756</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9756"/>
+        <updated>2024-12-11T10:09:18.125Z</updated>
+        <content type="html"><![CDATA[2024.12.13(금) 19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRAVITY 공식 팬클럽 ‘LUVITY’ 5기 모집 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9754</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9745"/>
         <updated>2024-12-11T09:08:54.484Z</updated>
         <content type="html"><![CDATA[2024.12.16(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Year End Party with Bump2Soul 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9743</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9743"/>
-        <updated>2024-12-11T09:08:54.486Z</updated>
-        <content type="html"><![CDATA[2024.12.09(월) 20:00]]></content>
     </entry>
 </feed>
