@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-11T07:11:15.991Z</updated>
+    <updated>2024-12-11T08:13:15.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[성남] 2025 라이브 가족뮤지컬 [오즈의마법사] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15300</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15300"/>
+        <updated>2024-12-11T08:12:37.007Z</updated>
+        <content type="html"><![CDATA[2024.12.12(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 OVER NIGHT With A.C.E 공연 취소 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15299</id>
@@ -129,13 +136,6 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15282"/>
         <updated>2024-12-07T21:03:48.460Z</updated>
         <content type="html"><![CDATA[2024.12.11(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15281</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15281"/>
-        <updated>2024-12-07T21:03:48.460Z</updated>
-        <content type="html"><![CDATA[2024.12.12(목) 19:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
