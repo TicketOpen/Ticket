@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Dec 2024 16:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 17:08:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,6 +53,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015841_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[[ 2024-25 Theatre 이문세 ] - 울산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53747</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53747</guid>
+            <pubDate>Thu, 12 Dec 2024 15:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.13
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024120513493991.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[해피버스데이 피아졸라 - 쿠아트로시엔토스(대전)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53763</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53763</guid>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2024.12.13
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012950_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[ 2024-25 Theatre 이문세 ] - 울산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53747</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53747</guid>
-            <pubDate>Thu, 12 Dec 2024 15:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.13
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024120513493991.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
