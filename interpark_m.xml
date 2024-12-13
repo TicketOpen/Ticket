@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 10:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 11:08:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,22 +53,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015841_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2024 뮤지컬 〈지저스 크라이스트 수퍼스타〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53723</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53723</guid>
-            <pubDate>Fri, 13 Dec 2024 03:28:57 GMT</pubDate>
+            <title><![CDATA[박진영 30주년 콘서트 〈Still JYP〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53774</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53774</guid>
+            <pubDate>Fri, 13 Dec 2024 11:07:47 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.13
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012950_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[ 2024-25 Theatre 이문세 ] - 울산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53747</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53747</guid>
-            <pubDate>Thu, 12 Dec 2024 15:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.13
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017908_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013506_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[해피버스데이 피아졸라 - 쿠아트로시엔토스(대전)]]></title>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2024.12.13
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017975_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 뮤지컬 〈지저스 크라이스트 수퍼스타〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53723</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53723</guid>
+            <pubDate>Fri, 13 Dec 2024 03:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.13
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012950_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
