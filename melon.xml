@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-12-17T02:21:57.840Z</updated>
+    <updated>2024-12-17T03:27:49.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제17회 서울재즈페스티벌 2025 블라인드 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9774</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9774"/>
+        <updated>2024-12-17T03:26:41.870Z</updated>
+        <content type="html"><![CDATA[2024.12.24(화) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[적란운 단독 콘서트 ‘달의 방향’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9773</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9773"/>
+        <updated>2024-12-17T03:26:41.872Z</updated>
+        <content type="html"><![CDATA[2024.12.23(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데킬라올드패션드&워킹애프터유 〈Good bye 2024〉 문화정원아트홀 9주년 기념 연말 락파티 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9771</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9762"/>
         <updated>2024-12-16T11:08:05.682Z</updated>
         <content type="html"><![CDATA[2024.12.16(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허클베리피 단독 콘서트 ‘Storyteller: Page 18’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9761</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9761"/>
-        <updated>2024-12-16T11:08:05.685Z</updated>
-        <content type="html"><![CDATA[2024.12.19(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시네마천국 이머시브 특별전-TO.TOTO 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9760</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9760"/>
-        <updated>2024-12-16T11:08:05.689Z</updated>
-        <content type="html"><![CDATA[2024.12.13(금) 09:00]]></content>
     </entry>
 </feed>
