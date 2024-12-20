@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-20T00:37:58.661Z</updated>
+    <updated>2024-12-20T02:14:25.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
     <entry>
-        <title type="html"><![CDATA[2025 성동구민과 함께하는 신년음악회 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[2025 변진섭 전국투어 콘서트：변천사 시즌2 - 수원 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15340</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15340"/>
+        <updated>2024-12-20T02:13:50.365Z</updated>
+        <content type="html"><![CDATA[2024.12.26(목) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15339</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15339"/>
         <updated>2024-12-20T00:37:11.257Z</updated>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15320"/>
         <updated>2024-12-17T06:12:51.371Z</updated>
         <content type="html"><![CDATA[2024.12.20(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 베스트셀러 뮤지컬 [사과가쿵] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15319</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15319"/>
-        <updated>2024-12-16T09:10:30.867Z</updated>
-        <content type="html"><![CDATA[2024.12.19(목) 09:00]]></content>
     </entry>
 </feed>
