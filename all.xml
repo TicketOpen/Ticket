@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 09:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 10:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9787</guid>
             <pubDate>Mon, 23 Dec 2024 08:11:44 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈카포네 밀크〉 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53891&amp;groupno=53891&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53891&amp;groupno=53891&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 23 Dec 2024 10:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[24.12.30(월)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[78LIVE - 손을모아 (인터파크 티켓)]]></title>
@@ -195,13 +202,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53876&amp;groupno=53876&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 23 Dec 2024 02:12:17 GMT</pubDate>
             <content:encoded><![CDATA[24.12.27(금)&nbsp;09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 맨 얼라이브 〈초이스〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53872&amp;groupno=53872&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53872&amp;groupno=53872&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 23 Dec 2024 02:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[24.12.23(월)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 라이브가족뮤지컬 〈미녀와야수〉 - 울산 (인터파크 티켓 모바일)]]></title>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독판매] 뮤지컬 <넬리블라이>​ 1차 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61030</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61030</guid>
+            <pubDate>Mon, 23 Dec 2024 10:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2024.12.27(금) 05:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[1 to 10 레전드 콘서트 EP 10 - 김경호 단독콘서트​​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61029</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61029</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.12.20(금) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​2025 롯데콘서트홀 마티네 <대니 구의 플레이리스트> ​티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61014</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61014</guid>
-            <pubDate>Thu, 19 Dec 2024 05:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.12.27(금) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 뮤지컬 <넬리블라이>​ 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61030</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61030</guid>
+            <pubDate>Mon, 23 Dec 2024 10:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.27(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1 to 10 레전드 콘서트 EP 10 - 김경호 단독콘서트​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61015</guid>
             <pubDate>Thu, 19 Dec 2024 06:13:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.20(금) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​2025 롯데콘서트홀 마티네 <대니 구의 플레이리스트> ​티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61014</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61014</guid>
-            <pubDate>Thu, 19 Dec 2024 05:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.27(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
