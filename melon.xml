@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-12-23T08:12:52.508Z</updated>
+    <updated>2024-12-23T09:10:13.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장재훈 1st EP [THE COLORS] 발매 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9800</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9800"/>
+        <updated>2024-12-23T09:08:58.325Z</updated>
+        <content type="html"><![CDATA[2024.12.24(화) 18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT ZONE 1ST ANNIVERSARY 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9798</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9787"/>
         <updated>2024-12-23T08:11:44.443Z</updated>
         <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[행로난 콘서트 ‘심장의 언어’：롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9786</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9786"/>
-        <updated>2024-12-23T08:11:44.444Z</updated>
-        <content type="html"><![CDATA[2024.12.26(목) 20:00]]></content>
     </entry>
 </feed>
