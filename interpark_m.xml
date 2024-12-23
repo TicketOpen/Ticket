@@ -4,18 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 03:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 04:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 〈빵빵 이야기 속으로〉 - 평택]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53870</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53870</guid>
-            <pubDate>Fri, 20 Dec 2024 15:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.23
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018287_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[2025 라이브가족뮤지컬 〈미녀와야수〉 - 울산]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53830</link>
@@ -33,6 +24,15 @@
             <content:encoded><![CDATA[2024.12.23
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018203_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 〈빵빵 이야기 속으로〉 - 평택]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53870</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53870</guid>
+            <pubDate>Fri, 20 Dec 2024 15:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.23
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018287_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[타키포오 - 성남]]></title>
