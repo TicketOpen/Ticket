@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Dec 2024 11:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 12:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,15 +222,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016737_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[피크닉#10] 뮤지컬 〈카포네 밀크〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53841</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53841</guid>
-            <pubDate>Mon, 23 Dec 2024 15:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.24
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018299_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[대학로 1위 연극 〈쉬어매드니스〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53846</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53846</guid>
@@ -238,6 +229,15 @@
             <content:encoded><![CDATA[2024.12.24
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24006928_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[피크닉#10] 뮤지컬 〈카포네 밀크〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53841</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53841</guid>
+            <pubDate>Mon, 23 Dec 2024 15:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.24
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018299_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[78LIVE - UNXL (인터파크 티켓 모바일)]]></title>
@@ -276,15 +276,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0004107_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈뜨거운 여름〉 : 공연배달서비스 간다 20주년 퍼레이드 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53847</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53847</guid>
-            <pubDate>Tue, 24 Dec 2024 10:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.26
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016054_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[[ 2024-25 Theatre 이문세 ] - 천안 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53864</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53864</guid>
@@ -292,6 +283,15 @@
             <content:encoded><![CDATA[2024.12.26
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024121916293832.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 변진섭 전국투어 콘서트 : 변천사 시즌2 - 수원 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53869</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53869</guid>
+            <pubDate>Tue, 24 Dec 2024 12:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.26
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024121914390572.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[〈이터니티 콘서트〉추가 회차 티켓오픈안내 (예스24 티켓)]]></title>
