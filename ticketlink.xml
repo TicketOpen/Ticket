@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-12-26T04:11:19.653Z</updated>
+    <updated>2024-12-26T05:09:55.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족매직쇼 <스노우 버블쇼> - 청주​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61046</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61046"/>
+        <updated>2024-12-26T05:09:41.385Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.27(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 가족뮤지컬 마법여우주비 “신비한 칠교 목걸이의 비밀]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61045</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61045"/>
+        <updated>2024-12-26T05:09:41.385Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.27(금) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[익산] 뮤지컬 <시카고> ​티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61044</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61044"/>
+        <updated>2024-12-26T05:09:41.393Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.31(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <달 샤베트> - 화성 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61043</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61032"/>
         <updated>2024-12-24T05:09:07.255Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.31(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [피처링_트랙 10] 뮤지컬 <오셀로의 재심>​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61031</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61031"/>
-        <updated>2024-12-24T05:09:07.256Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.30(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <넬리블라이>​ 1차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61030</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61030"/>
-        <updated>2024-12-23T10:09:59.752Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.27(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1 to 10 레전드 콘서트 EP 10 - 김경호 단독콘서트​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61029</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61029"/>
-        <updated>2024-12-23T07:09:37.037Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.24(화) 05:00]]></content>
     </entry>
 </feed>
