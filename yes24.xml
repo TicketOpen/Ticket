@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-26T05:09:55.827Z</updated>
+    <updated>2024-12-26T06:12:48.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [카포네 밀크] 추가 좌석 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15358</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15358"/>
+        <updated>2024-12-26T06:12:02.697Z</updated>
+        <content type="html"><![CDATA[2024.12.27(금) 17:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15357</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15339"/>
         <updated>2024-12-20T00:37:11.257Z</updated>
         <content type="html"><![CDATA[2024.12.23(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15338</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15338"/>
-        <updated>2024-12-19T09:09:26.525Z</updated>
-        <content type="html"><![CDATA[2024.12.30(월) 20:00]]></content>
     </entry>
 </feed>
