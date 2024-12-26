@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Dec 2024 19:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 20:09:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,6 +71,24 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012963_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[구리시와 함께하는 오은영 TALK 콘서트 - 구리]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53912</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53912</guid>
+            <pubDate>Thu, 26 Dec 2024 20:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018252_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈사랑의 하츄핑〉 - 고양]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53906</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53906</guid>
+            <pubDate>Thu, 26 Dec 2024 20:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018409_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[2025 김창옥 토크콘서트 시즌4 - 인천]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53901</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53901</guid>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2024.12.27
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018465_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 김창옥 토크콘서트 시즌4 - 당진]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53902</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53902</guid>
-            <pubDate>Thu, 26 Dec 2024 19:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.27
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018382_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈사랑의 하츄핑〉 - 의정부]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53903</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53903</guid>
-            <pubDate>Thu, 26 Dec 2024 19:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.27
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018387_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
