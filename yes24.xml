@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2024-12-27T00:38:24.715Z</updated>
+    <updated>2024-12-27T02:11:28.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[광주] 2025 어린이 베스트셀러 뮤지컬 [누가내머리에똥쌌어？] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15360</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15360"/>
+        <updated>2024-12-27T02:10:39.133Z</updated>
+        <content type="html"><![CDATA[2024.12.27(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 [카포네 밀크] 추가 좌석 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15358</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15340"/>
         <updated>2024-12-20T02:13:50.365Z</updated>
         <content type="html"><![CDATA[2024.12.26(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15339</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15339"/>
-        <updated>2024-12-20T00:37:11.257Z</updated>
-        <content type="html"><![CDATA[2024.12.23(월) 14:00]]></content>
     </entry>
 </feed>
