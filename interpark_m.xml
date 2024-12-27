@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Dec 2024 02:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 03:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018252_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈사랑의 하츄핑〉 - 고양]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53906</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53906</guid>
-            <pubDate>Fri, 27 Dec 2024 00:37:31 GMT</pubDate>
+            <title><![CDATA[가족매직쇼 〈구구쌤의 매직쑈라구〉 - 당진]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53883</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53883</guid>
+            <pubDate>Fri, 27 Dec 2024 03:13:30 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.27
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018409_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018413_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
