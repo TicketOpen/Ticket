@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Dec 2024 06:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 07:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018391_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈긴긴밤〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53907</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53907</guid>
-            <pubDate>Thu, 26 Dec 2024 15:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.27
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012963_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈알사탕〉 - 노원]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53884</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53884</guid>
@@ -80,6 +71,24 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018373_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈긴긴밤〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53907</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53907</guid>
+            <pubDate>Thu, 26 Dec 2024 15:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.27
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012963_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[구리시와 함께하는 오은영 TALK 콘서트 - 구리]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53912</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53912</guid>
+            <pubDate>Fri, 27 Dec 2024 07:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018252_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[가족매직쇼 〈구구쌤의 매직쑈라구〉 - 당진]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53883</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53883</guid>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2024.12.27
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018413_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[2025 기획초청 Pick크닉] 유원]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53878</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53878</guid>
-            <pubDate>Fri, 27 Dec 2024 06:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.27
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018210_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
