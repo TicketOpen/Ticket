@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2024-12-27T09:09:19.277Z</updated>
+    <updated>2024-12-27T11:02:57.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더 글로우 2025 (THE GLOW 2025) - 블라인드 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9809</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9809"/>
+        <updated>2024-12-27T11:01:36.689Z</updated>
+        <content type="html"><![CDATA[2024.12.30(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유오 1st FanMeeting 〈LOVE IS EVERYWHERE〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9807</id>
@@ -66,13 +73,6 @@
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9795</id>
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9795"/>
         <updated>2024-12-27T07:07:50.380Z</updated>
-        <content type="html"><![CDATA[2024.12.30(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겸(GYE0M) ‘우리, 빛으로’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9794</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9794"/>
-        <updated>2024-12-27T07:07:50.382Z</updated>
         <content type="html"><![CDATA[2024.12.30(월) 20:00]]></content>
     </entry>
 </feed>
