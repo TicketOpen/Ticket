@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Dec 2024 06:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Dec 2024 07:03:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,6 +240,24 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024122714272774.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll ＆ Hyde) - 20주년 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53897</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53897</guid>
+            <pubDate>Fri, 27 Dec 2024 15:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.31
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013928_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[히사이시 조 영화음악 콘서트 2025_용인 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53909</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53909</guid>
+            <pubDate>Fri, 27 Dec 2024 15:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.31
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20241226102951.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈블러디 러브〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53927</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53927</guid>
@@ -274,24 +292,6 @@
             <content:encoded><![CDATA[2024.12.31
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20241226021358.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll ＆ Hyde) - 20주년 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53897</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53897</guid>
-            <pubDate>Fri, 27 Dec 2024 15:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.31
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013928_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2025_용인 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53909</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53909</guid>
-            <pubDate>Fri, 27 Dec 2024 15:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.31
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20241226102951.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[광주] 2025 라이브가족뮤지컬 [신데렐라] 티켓오픈 안내 (예스24 티켓)]]></title>
