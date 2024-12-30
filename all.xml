@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Dec 2024 06:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Dec 2024 07:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[공룡애니멀쇼 - 인천 중구​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61059</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61059</guid>
+            <pubDate>Mon, 30 Dec 2024 07:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.06(월) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 뮤지컬 <에필로그: 막이 내린 후> - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61058</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61058</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2024.12.27(금) 04:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​[익산] 뮤지컬 <시카고> ​티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61044</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61044</guid>
-            <pubDate>Thu, 26 Dec 2024 05:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.12.31(화) 05:00]]></content:encoded>
+            <title><![CDATA[공룡애니멀쇼 - 인천 중구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61059</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61059</guid>
+            <pubDate>Mon, 30 Dec 2024 07:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.06(월) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 뮤지컬 <에필로그: 막이 내린 후> - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -785,13 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61045</guid>
             <pubDate>Thu, 26 Dec 2024 05:09:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.27(금) 04:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​[익산] 뮤지컬 <시카고> ​티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61044</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61044</guid>
-            <pubDate>Thu, 26 Dec 2024 05:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.31(화) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
