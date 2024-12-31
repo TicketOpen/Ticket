@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Dec 2024 07:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 08:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,24 +231,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015011_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll ＆ Hyde) - 20주년 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53897</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53897</guid>
-            <pubDate>Fri, 27 Dec 2024 15:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.31
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013928_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2025_용인 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53909</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53909</guid>
-            <pubDate>Mon, 30 Dec 2024 15:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.31
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018527_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈시카고〉 - 익산 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53913</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53913</guid>
@@ -285,6 +267,24 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018464_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll ＆ Hyde) - 20주년 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53897</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53897</guid>
+            <pubDate>Fri, 27 Dec 2024 15:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.31
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013928_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[히사이시 조 영화음악 콘서트 2025_용인 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53909</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53909</guid>
+            <pubDate>Mon, 30 Dec 2024 15:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.31
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018527_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈테일러〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53914</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53914</guid>
@@ -292,6 +292,13 @@
             <content:encoded><![CDATA[2024.12.31
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015073_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 [끝까지 간다!] - 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15371</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15371</guid>
+            <pubDate>Tue, 31 Dec 2024 08:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.02(목) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부산] 2025 라이브가족뮤지컬 [잭과콩나무] 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -389,7 +396,7 @@
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15357</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15357</guid>
             <pubDate>Mon, 30 Dec 2024 12:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.02(목) 14:00]]></content:encoded>
+            <content:encoded><![CDATA[2025.01.06(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[익산] 뮤지컬 [시카고] 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -427,11 +434,11 @@
             <content:encoded><![CDATA[2024.12.27(금) 16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[용인] 뮤지컬 [광화문연가] 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15351</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15351</guid>
-            <pubDate>Mon, 30 Dec 2024 12:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.27(금) 15:00]]></content:encoded>
+            <title><![CDATA[연극 [끝까지 간다!] - 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15371&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15371&amp;order=1</guid>
+            <pubDate>Tue, 31 Dec 2024 08:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[2025-01-02(목) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부산] 2025 라이브가족뮤지컬 [잭과콩나무] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -495,13 +502,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15362&amp;order=1</guid>
             <pubDate>Mon, 30 Dec 2024 12:14:51 GMT</pubDate>
             <content:encoded><![CDATA[2025-01-06(월) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[대구] 2025 라이브가족뮤지컬 [신데렐라] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15361&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15361&amp;order=1</guid>
-            <pubDate>Mon, 30 Dec 2024 12:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[2024-12-27(금) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 World DJ Festival 티켓오픈 안내 (위메프 공연티켓)]]></title>
