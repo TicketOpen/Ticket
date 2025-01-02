@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jan 2025 06:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 07:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,28 +224,35 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018581_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[창원] 2025 키즈 클래식 4월〈클래식 싱!싱!싱!〉티켓오픈안내 (예스24 티켓)]]></title>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15383</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15383</guid>
+            <pubDate>Thu, 02 Jan 2025 07:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.09(목) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15382</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15382</guid>
             <pubDate>Thu, 02 Jan 2025 06:11:57 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.09(목) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[창원] 2025 키즈 클래식 6월〈클래식 댄스!댄스!〉티켓오픈안내 (예스24 티켓)]]></title>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15381</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15381</guid>
             <pubDate>Thu, 02 Jan 2025 06:11:57 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.09(목) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[창원] 2025 키즈 클래식 8월〈타악 음악 놀이〉티켓오픈안내 (예스24 티켓)]]></title>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15380</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15380</guid>
             <pubDate>Thu, 02 Jan 2025 06:11:57 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.09(목) 11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[창원] 2025 키즈 클래식 10월〈스페이스 클래식〉티켓오픈안내 (예스24 티켓)]]></title>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
             <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15379</link>
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15379</guid>
             <pubDate>Thu, 02 Jan 2025 06:11:57 GMT</pubDate>
@@ -357,11 +364,11 @@
             <content:encoded><![CDATA[2025.01.06(월) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[대전] 그리스 로마 신화 [신들의 왕 제우스] 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15362</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15362</guid>
-            <pubDate>Mon, 30 Dec 2024 12:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.06(월) 10:00]]></content:encoded>
+            <title><![CDATA[[창원] 2025 키즈 클래식 2월〈키즈 시네마 클래식〉티켓오픈안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15383&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15383&amp;order=1</guid>
+            <pubDate>Thu, 02 Jan 2025 07:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[2025-01-09(목) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[창원] 2025 키즈 클래식 4월〈클래식 싱!싱!싱!〉티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -425,13 +432,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15373&amp;order=1</guid>
             <pubDate>Tue, 31 Dec 2024 10:08:56 GMT</pubDate>
             <content:encoded><![CDATA[2025-01-10(금) 19:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 [북극곰 예술여행] - 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15372&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15372&amp;order=1</guid>
-            <pubDate>Tue, 31 Dec 2024 09:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[2025-01-02(목) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 World DJ Festival 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -512,6 +512,13 @@
             <pubDate>Thu, 21 Nov 2024 04:11:26 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.17(월) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 제 17회 오페라대상 수상자 음악회​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61074</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61074</guid>
+            <pubDate>Thu, 02 Jan 2025 07:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.03(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​공룡애니멀쇼 - 경기 광주​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -612,11 +619,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.01.06(월) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 뮤지컬 <에필로그: 막이 내린 후> - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61058</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61058</guid>
-            <pubDate>Mon, 30 Dec 2024 03:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.12.31(화) 01:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 제 17회 오페라대상 수상자 음악회​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61074</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61074</guid>
+            <pubDate>Thu, 02 Jan 2025 07:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.03(금) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​공룡애니멀쇼 - 경기 광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -715,13 +722,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61059</guid>
             <pubDate>Mon, 30 Dec 2024 07:10:02 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.06(월) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 뮤지컬 <에필로그: 막이 내린 후> - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61058</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61058</guid>
-            <pubDate>Mon, 30 Dec 2024 03:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.31(화) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
