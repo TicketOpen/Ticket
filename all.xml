@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jan 2025 02:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 03:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -149,7 +149,7 @@
             <pubDate>Tue, 31 Dec 2024 15:07:56 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.02
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024122414060723.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018571_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 헬로카봇 시즌8 〈미래연구소를 지켜라!〉 - 부천 (인터파크 티켓 모바일)]]></title>
@@ -203,7 +203,7 @@
             <pubDate>Tue, 31 Dec 2024 15:07:56 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.03
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024122715491827.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018553_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈베르테르〉 25주년 공연 (인터파크 티켓 모바일)]]></title>
@@ -221,7 +221,28 @@
             <pubDate>Tue, 31 Dec 2024 15:07:56 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.03
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2024122412262686.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018581_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15378</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15378</guid>
+            <pubDate>Thu, 02 Jan 2025 03:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.10(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15377</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15377</guid>
+            <pubDate>Thu, 02 Jan 2025 03:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.10(금) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15376</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15376</guid>
+            <pubDate>Thu, 02 Jan 2025 03:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.10(금) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[안양] 2025 빅3＂행복한만남＂[강진,김용임,진성] 티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -343,25 +364,25 @@
             <content:encoded><![CDATA[2024.12.27(금) 17:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15357</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15357</guid>
-            <pubDate>Mon, 30 Dec 2024 12:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.06(월) 14:00]]></content:encoded>
+            <title><![CDATA[[창원] 2025 화요모닝콘서트 - 4월 [Pops in Jazz with 안드레황] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15378&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15378&amp;order=1</guid>
+            <pubDate>Thu, 02 Jan 2025 03:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[2025-01-10(금) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[익산] 뮤지컬 [시카고] 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15356</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15356</guid>
-            <pubDate>Mon, 30 Dec 2024 12:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.31(화) 14:00]]></content:encoded>
+            <title><![CDATA[[창원] 2025 화요모닝콘서트 - 3월 [서형민의 세레나데]  티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15377&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15377&amp;order=1</guid>
+            <pubDate>Thu, 02 Jan 2025 03:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[2025-01-10(금) 14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[〈이터니티 콘서트〉추가 회차 티켓오픈안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15355</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15355</guid>
-            <pubDate>Mon, 30 Dec 2024 12:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.26(목) 14:00]]></content:encoded>
+            <title><![CDATA[[창원] 2025 화요모닝콘서트 - 2월 [박남정 SHOW] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15376&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15376&amp;order=1</guid>
+            <pubDate>Thu, 02 Jan 2025 03:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[2025-01-10(금) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[안양] 2025 빅3＂행복한만남＂[강진,김용임,진성] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -411,27 +432,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15368&amp;order=1</guid>
             <pubDate>Mon, 30 Dec 2024 12:14:51 GMT</pubDate>
             <content:encoded><![CDATA[2024-12-27(금) 09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[DAY6 3RD WORLD TOUR 〈FOREVER YOUNG〉 in BUSAN 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15367&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15367&amp;order=1</guid>
-            <pubDate>Mon, 30 Dec 2024 12:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[2025-01-09(목) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[구미] 뮤지컬 타키포오 [몬스터 전쟁의 서막 ; 더 좀비] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15366&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15366&amp;order=1</guid>
-            <pubDate>Mon, 30 Dec 2024 12:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[2025-01-06(월) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[광주] 뮤지컬 타키포오 [몬스터 전쟁의 서막 ; 더 좀비] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15365&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15365&amp;order=1</guid>
-            <pubDate>Mon, 30 Dec 2024 12:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[2025-01-06(월) 10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 World DJ Festival 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -512,6 +512,27 @@
             <pubDate>Thu, 21 Nov 2024 04:11:26 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.17(월) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 마법여우주비 <신비한 칠교 목걸이의 비밀> - 인천 청라 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61072</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61072</guid>
+            <pubDate>Thu, 02 Jan 2025 03:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.03(금) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[<포크 빅3 콘서트>제주 - The Regend​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61071</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61071</guid>
+            <pubDate>Thu, 02 Jan 2025 03:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.03(금) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공룡애니멀쇼 - 화성 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61069</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61069</guid>
+            <pubDate>Thu, 02 Jan 2025 03:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.07(화) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​임태경 20주년 기념 전국 투어 콘서트 < 임태경.COM:Color of Music > in 성남​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -598,25 +619,25 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.01.03(금) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극<스타크로스드>​ 3차 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61055</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61055</guid>
-            <pubDate>Fri, 27 Dec 2024 04:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2024.12.27(금) 04:00]]></content:encoded>
+            <title><![CDATA[가족뮤지컬 마법여우주비 <신비한 칠교 목걸이의 비밀> - 인천 청라 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61072</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61072</guid>
+            <pubDate>Thu, 02 Jan 2025 03:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.03(금) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​백설공주 - 화성​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61054</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61054</guid>
-            <pubDate>Thu, 02 Jan 2025 00:37:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.02(목) 00:00]]></content:encoded>
+            <title><![CDATA[<포크 빅3 콘서트>제주 - The Regend​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61071</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61071</guid>
+            <pubDate>Thu, 02 Jan 2025 03:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.03(금) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[​뮤지컬 헬로카봇 시즌8 <미래연구소를 지켜라!> - 부천​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61053</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61053</guid>
-            <pubDate>Fri, 27 Dec 2024 02:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.02(목) 05:00]]></content:encoded>
+            <title><![CDATA[공룡애니멀쇼 - 화성 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61069</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61069</guid>
+            <pubDate>Thu, 02 Jan 2025 03:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.07(화) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​임태경 20주년 기념 전국 투어 콘서트 < 임태경.COM:Color of Music > in 성남​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -701,27 +722,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61056</guid>
             <pubDate>Fri, 27 Dec 2024 05:09:39 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.03(금) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극<스타크로스드>​ 3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61055</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61055</guid>
-            <pubDate>Fri, 27 Dec 2024 04:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.27(금) 04:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​백설공주 - 화성​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61054</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61054</guid>
-            <pubDate>Thu, 02 Jan 2025 00:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.02(목) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[​뮤지컬 헬로카봇 시즌8 <미래연구소를 지켜라!> - 부천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61053</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61053</guid>
-            <pubDate>Fri, 27 Dec 2024 02:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.02(목) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[후원
