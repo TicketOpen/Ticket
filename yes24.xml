@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-02T05:10:05.656Z</updated>
+    <updated>2025-01-02T06:12:42.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[창원] 2025 키즈 클래식 4월〈클래식 싱!싱!싱!〉티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15382</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15382"/>
+        <updated>2025-01-02T06:11:57.086Z</updated>
+        <content type="html"><![CDATA[2025.01.09(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[창원] 2025 키즈 클래식 6월〈클래식 댄스!댄스!〉티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15381</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15381"/>
+        <updated>2025-01-02T06:11:57.087Z</updated>
+        <content type="html"><![CDATA[2025.01.09(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[창원] 2025 키즈 클래식 8월〈타악 음악 놀이〉티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15380</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15380"/>
+        <updated>2025-01-02T06:11:57.094Z</updated>
+        <content type="html"><![CDATA[2025.01.09(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[창원] 2025 키즈 클래식 10월〈스페이스 클래식〉티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15379</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15379"/>
+        <updated>2025-01-02T06:11:57.100Z</updated>
+        <content type="html"><![CDATA[2025.01.09(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15378</id>
@@ -116,33 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15362"/>
         <updated>2024-12-30T12:14:42.198Z</updated>
         <content type="html"><![CDATA[2025.01.06(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 라이브가족뮤지컬 [신데렐라] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15361</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15361"/>
-        <updated>2024-12-30T12:14:42.202Z</updated>
-        <content type="html"><![CDATA[2024.12.27(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주] 2025 어린이 베스트셀러 뮤지컬 [누가내머리에똥쌌어？] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15360</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15360"/>
-        <updated>2024-12-30T12:14:42.207Z</updated>
-        <content type="html"><![CDATA[2024.12.27(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [블러디 러브] 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15359</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15359"/>
-        <updated>2024-12-30T12:14:42.212Z</updated>
-        <content type="html"><![CDATA[2024.12.31(화) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [카포네 밀크] 추가 좌석 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15358</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15358"/>
-        <updated>2024-12-30T12:14:42.227Z</updated>
-        <content type="html"><![CDATA[2024.12.27(금) 17:00]]></content>
     </entry>
 </feed>
