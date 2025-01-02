@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-02T00:37:30.636Z</updated>
+    <updated>2025-01-02T02:10:21.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안양] 2025 빅3＂행복한만남＂[강진,김용임,진성] 티켓 오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15374</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15374"/>
+        <updated>2025-01-02T02:09:43.566Z</updated>
+        <content type="html"><![CDATA[2025.01.22(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15373</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15355"/>
         <updated>2024-12-30T12:14:42.244Z</updated>
         <content type="html"><![CDATA[2024.12.26(목) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 라이브가족뮤지컬 [신데렐라] - 평택 티켓오픈안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15354</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15354"/>
-        <updated>2024-12-30T12:14:42.248Z</updated>
-        <content type="html"><![CDATA[2024.12.27(금) 09:00]]></content>
     </entry>
 </feed>
