@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-03T06:12:35.932Z</updated>
+    <updated>2025-01-03T07:09:20.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2025 가족마술콘서트 [리틀베가스] 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15393</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15393"/>
+        <updated>2025-01-03T07:08:41.031Z</updated>
+        <content type="html"><![CDATA[2025.01.06(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15392</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15392"/>
+        <updated>2025-01-03T07:08:41.031Z</updated>
+        <content type="html"><![CDATA[2025.01.07(화) 10:00<a class="noti-btn-pop" presaletit1="서초구민 선예매" presaletit2="" presaletime1="2025.01.06(월) 09:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[화성] 팡팡 벌룬서커스 대작전 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15391</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15391"/>
+        <updated>2025-01-03T07:08:41.031Z</updated>
+        <content type="html"><![CDATA[2025.01.08(수) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 팡팡 벌룬서커스 대작전 티켓오픈 안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15390</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15390"/>
+        <updated>2025-01-03T07:08:41.031Z</updated>
+        <content type="html"><![CDATA[2025.01.08(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 2025 뮤지컬 [광화문연가] 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15389</id>
@@ -116,33 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15373"/>
         <updated>2024-12-31T10:08:46.955Z</updated>
         <content type="html"><![CDATA[2025.01.10(금) 19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [북극곰 예술여행] - 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15372</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15372"/>
-        <updated>2024-12-31T09:08:37.530Z</updated>
-        <content type="html"><![CDATA[2025.01.02(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [끝까지 간다!] - 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15371</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15371"/>
-        <updated>2024-12-31T08:11:26.036Z</updated>
-        <content type="html"><![CDATA[2025.01.02(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 2025 라이브가족뮤지컬 [잭과콩나무] 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15370</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15370"/>
-        <updated>2024-12-31T07:08:52.826Z</updated>
-        <content type="html"><![CDATA[2024.12.31(화) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전주] 뮤지컬 〈사랑의 하츄핑〉- 전주 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15369</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15369"/>
-        <updated>2024-12-31T06:11:44.730Z</updated>
-        <content type="html"><![CDATA[2025.01.03(금) 14:00]]></content>
     </entry>
 </feed>
