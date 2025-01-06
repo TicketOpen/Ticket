@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-01-06T03:20:01.164Z</updated>
+    <updated>2025-01-06T04:11:36.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[벤치위레오(BWL) 단독 콘서트 ‘난류(亂流)’：롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9818</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9818"/>
+        <updated>2025-01-06T04:10:18.620Z</updated>
+        <content type="html"><![CDATA[2025.01.10(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WONHO OFFICIAL FANCLUB 3rd ‘위니 WENEE’ 모집 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9817</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9804"/>
         <updated>2025-01-06T02:15:02.453Z</updated>
         <content type="html"><![CDATA[2025.01.02(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재즈 더 하드보일드: 마일스 데이비스 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9803</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9803"/>
-        <updated>2025-01-06T02:15:02.458Z</updated>
-        <content type="html"><![CDATA[2024.12.27(금) 09:00]]></content>
     </entry>
 </feed>
