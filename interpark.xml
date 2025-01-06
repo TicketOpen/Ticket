@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2025-01-06T06:13:49.064Z</updated>
+    <updated>2025-01-06T07:10:27.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈그해 여름〉]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54007&amp;groupno=54007&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54007&amp;groupno=54007&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2025-01-06T07:09:28.693Z</updated>
+        <content type="html"><![CDATA[25.01.10(금)&nbsp;15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 장민호 전국투어 콘서트 ‘호시절(好時節) : 시간여행’ - 용인..]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54006&amp;groupno=54006&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[25.01.13(월)&nbsp;20:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ASKA Concert Tour 2025 “WHO is ASKA!？” in Seoul]]></title>
+        <title type="html"><![CDATA[ASKA CONCERT TOUR 2025 “WHO is ASKA!？” in Seoul]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54000&amp;groupno=54000&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54000&amp;groupno=54000&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2025-01-06T05:09:11.622Z</updated>
@@ -109,13 +116,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53990&amp;groupno=53990&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2025-01-06T02:15:11.728Z</updated>
         <content type="html"><![CDATA[25.01.10(금)&nbsp;09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 베스트셀러 뮤지컬〈누가 내 머리에 똥쌌어？〉-수원]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53989&amp;groupno=53989&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=53989&amp;groupno=53989&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2025-01-06T02:15:11.728Z</updated>
-        <content type="html"><![CDATA[25.01.14(화)&nbsp;09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 헬로카봇 시즌8  〈미래연구소를 지켜라!〉 - 광주]]></title>
