@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-01-07T02:12:39.632Z</updated>
+    <updated>2025-01-07T03:17:19.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈돈 주앙〉프렌치 오리지널 내한공연 티켓오픈안내]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15400</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15400"/>
+        <updated>2025-01-07T03:16:39.789Z</updated>
+        <content type="html"><![CDATA[2025.01.10(금) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단독판매]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15398</id>
@@ -136,13 +143,6 @@
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15380</id>
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15380"/>
         <updated>2025-01-02T06:11:57.094Z</updated>
-        <content type="html"><![CDATA[2025.01.09(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독판매]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15379</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15379"/>
-        <updated>2025-01-02T06:11:57.100Z</updated>
         <content type="html"><![CDATA[2025.01.09(목) 11:00]]></content>
     </entry>
 </feed>
