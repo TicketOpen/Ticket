@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-08T08:11:54.070Z</updated>
+    <updated>2025-01-08T09:09:53.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 [베르테르] 25주년 공연 - YES24DAY 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15425&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15425&amp;order=1"/>
+        <updated>2025-01-08T09:09:17.691Z</updated>
+        <content type="html"><![CDATA[2025-01-10(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 2025 라이브가족뮤지컬 [아기돼지삼형제] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15424&amp;order=1</id>
@@ -67,12 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15416&amp;order=1"/>
         <updated>2025-01-08T02:11:29.841Z</updated>
         <content type="html"><![CDATA[2025-01-13(월) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 팡팡 벌룬서커스 대작전 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15415&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15415&amp;order=1"/>
-        <updated>2025-01-08T02:11:29.842Z</updated>
-        <content type="html"><![CDATA[2025-01-14(화) 10:00]]></content>
     </entry>
 </feed>
