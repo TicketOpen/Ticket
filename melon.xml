@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-01-08T02:12:01.976Z</updated>
+    <updated>2025-01-08T03:14:48.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈웃는 남자〉 3차 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9835</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9835"/>
+        <updated>2025-01-08T03:13:34.238Z</updated>
+        <content type="html"><![CDATA[2025.01.14(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더블 이펙트 - 김승주 x 심아일랜드 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9834</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9834"/>
+        <updated>2025-01-08T03:13:34.240Z</updated>
+        <content type="html"><![CDATA[2025.01.12(일) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안병웅 콘서트 ‘MPBOY in Rollinghall’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9833</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9833"/>
+        <updated>2025-01-08T03:13:34.249Z</updated>
+        <content type="html"><![CDATA[2025.01.14(화) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌8 [품바21 단독 콘서트 ‘변화’] 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9832</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9832"/>
+        <updated>2025-01-08T03:13:34.250Z</updated>
+        <content type="html"><![CDATA[2025.01.15(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TAEYEON CONCERT - The TENSE 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9829</id>
@@ -46,33 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9822"/>
         <updated>2025-01-08T02:10:48.815Z</updated>
         <content type="html"><![CDATA[2025.01.06(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2025’예비초등 필수관람 공연] 연극 아빠와 난 초등1학년_광주 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9820</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9820"/>
-        <updated>2025-01-08T02:10:48.816Z</updated>
-        <content type="html"><![CDATA[2025.01.08(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기프트 단독 공연 : 데이지 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9819</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9819"/>
-        <updated>2025-01-08T02:10:48.817Z</updated>
-        <content type="html"><![CDATA[2025.01.10(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벤치위레오(BWL) 단독 콘서트 ‘난류(亂流)’：롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9818</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9818"/>
-        <updated>2025-01-08T02:10:48.818Z</updated>
-        <content type="html"><![CDATA[2025.01.10(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WONHO OFFICIAL FANCLUB 3rd ‘위니 WENEE’ 모집 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9817</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9817"/>
-        <updated>2025-01-08T02:10:48.823Z</updated>
-        <content type="html"><![CDATA[2025.01.08(수) 14:00]]></content>
     </entry>
 </feed>
