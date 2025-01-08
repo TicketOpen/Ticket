@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jan 2025 15:09:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 16:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000168_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2025 김정민 전국투어 콘서트 : LIVE STAR - 김해]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53974</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53974</guid>
-            <pubDate>Wed, 08 Jan 2025 15:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.09
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000222_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2025 변진섭 전국투어 콘서트 : 변천사 - 화성]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54004</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54004</guid>
@@ -51,6 +42,15 @@
             <content:encoded><![CDATA[2025.01.09
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000219_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 김정민 전국투어 콘서트 : LIVE STAR - 김해]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53974</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53974</guid>
+            <pubDate>Wed, 08 Jan 2025 15:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.09
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000222_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 JUNIEL CONCERT, Bonding Through Seasons]]></title>
