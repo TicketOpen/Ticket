@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-01-09T00:38:09.800Z</updated>
+    <updated>2025-01-09T02:43:50.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024-25 aespa LIVE TOUR－SYNK：PARALLEL LINE－ENCORE 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9841</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9841"/>
+        <updated>2025-01-09T02:41:56.781Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈항해〉 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9840</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9832"/>
         <updated>2025-01-08T20:08:42.323Z</updated>
         <content type="html"><![CDATA[2025.01.15(수) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TAEYEON CONCERT - The TENSE 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9829</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9829"/>
-        <updated>2025-01-08T20:08:42.325Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
     </entry>
 </feed>
