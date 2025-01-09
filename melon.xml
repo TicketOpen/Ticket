@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-01-09T02:43:50.850Z</updated>
+    <updated>2025-01-09T03:32:05.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[찬민 단독콘서트 ‘잃어버린 시간을 찾아서’：롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9843</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9843"/>
+        <updated>2025-01-09T03:30:46.754Z</updated>
+        <content type="html"><![CDATA[2025.01.15(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024-25 aespa LIVE TOUR－SYNK：PARALLEL LINE－ENCORE 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9841</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9833"/>
         <updated>2025-01-08T20:08:42.322Z</updated>
         <content type="html"><![CDATA[2025.01.14(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌8 [품바21 단독 콘서트 ‘변화’] 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9832</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9832"/>
-        <updated>2025-01-08T20:08:42.323Z</updated>
-        <content type="html"><![CDATA[2025.01.15(수) 20:00]]></content>
     </entry>
 </feed>
