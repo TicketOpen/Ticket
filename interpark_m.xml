@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jan 2025 04:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 05:10:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,13 +53,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000288_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 브레드이발소 〈빵스타 대격돌〉 - 청주]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54013</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54013</guid>
+            <title><![CDATA[연극 사랑해 엄마]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54034</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54034</guid>
             <pubDate>Thu, 09 Jan 2025 15:08:45 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.10
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000275_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015841_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[ASKA CONCERT TOUR 2025 “WHO is ASKA!？” in Seoul]]></title>
@@ -71,13 +71,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000043_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 사랑해 엄마]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54034</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54034</guid>
+            <title><![CDATA[뮤지컬 브레드이발소 〈빵스타 대격돌〉 - 청주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54013</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54013</guid>
             <pubDate>Thu, 09 Jan 2025 15:08:45 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.10
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015841_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000275_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[지브리 OST 콘서트 : 디 오케스트라  - 부산]]></title>
