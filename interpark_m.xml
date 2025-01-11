@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jan 2025 07:06:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jan 2025 08:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,15 +17,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000172_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2025 라이브가족뮤지컬 〈빨간모자〉 - 대구]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53991</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53991</guid>
-            <pubDate>Fri, 10 Jan 2025 15:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.13
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000427_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2025 라이브 가족뮤지컬〈커다란방귀〉 - 용인]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53988</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53988</guid>
@@ -33,6 +24,15 @@
             <content:encoded><![CDATA[2025.01.13
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000187_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 라이브가족뮤지컬 〈빨간모자〉 - 대구]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53991</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53991</guid>
+            <pubDate>Fri, 10 Jan 2025 15:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.13
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000427_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[더하모닉스(박종성X브랜든최) 앨범발매 기념공연 '바운드리스']]></title>
