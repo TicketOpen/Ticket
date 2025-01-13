@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jan 2025 06:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 07:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조은세 단독 콘서트 - Garden is You 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9855</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9855</guid>
+            <pubDate>Mon, 13 Jan 2025 07:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.15(수) 20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2025 윤준협 두번째 팬미팅 〈One Special Day〉 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9854</link>
@@ -69,13 +76,6 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9843</guid>
             <pubDate>Mon, 13 Jan 2025 04:10:33 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.15(수) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024-25 aespa LIVE TOUR－SYNK：PARALLEL LINE－ENCORE 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9841</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9841</guid>
-            <pubDate>Mon, 13 Jan 2025 04:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈세일즈맨의 죽음〉 -전주 (인터파크 티켓)]]></title>
@@ -213,15 +213,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000172_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2025 라이브 가족뮤지컬〈커다란방귀〉 - 용인 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53988</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53988</guid>
-            <pubDate>Fri, 10 Jan 2025 15:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.13
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000187_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2025 라이브가족뮤지컬 〈빨간모자〉 - 대구 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53991</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53991</guid>
@@ -229,6 +220,15 @@
             <content:encoded><![CDATA[2025.01.13
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000427_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 라이브 가족뮤지컬〈커다란방귀〉 - 용인 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53988</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53988</guid>
+            <pubDate>Fri, 10 Jan 2025 15:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.13
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000187_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[더하모닉스(박종성X브랜든최) 앨범발매 기념공연 '바운드리스' (인터파크 티켓 모바일)]]></title>
@@ -249,15 +249,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016045_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈사랑의 하츄핑〉 - 대전 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54044</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54044</guid>
-            <pubDate>Fri, 10 Jan 2025 15:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.13
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000340_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈시지프스〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54033</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54033</guid>
@@ -265,6 +256,15 @@
             <content:encoded><![CDATA[2025.01.13
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014878_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈사랑의 하츄핑〉 - 대전 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54044</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54044</guid>
+            <pubDate>Fri, 10 Jan 2025 15:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.13
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000340_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈더 픽션〉 (인터파크 티켓 모바일)]]></title>
@@ -584,6 +584,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[​어린이마술쇼 - 안양​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61159</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61159</guid>
+            <pubDate>Mon, 13 Jan 2025 07:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.16(목) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2025 라움 마티네 콘서트 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61157</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61157</guid>
@@ -682,11 +689,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.01.14(화) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] (2025 롯데백화점 대구) 프린세스 공주​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61142</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61142</guid>
-            <pubDate>Fri, 10 Jan 2025 07:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.14(화) 01:00]]></content:encoded>
+            <title><![CDATA[​어린이마술쇼 - 안양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61159</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61159</guid>
+            <pubDate>Mon, 13 Jan 2025 07:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.16(목) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 라움 마티네 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -783,13 +790,6 @@
             <title><![CDATA[[단독판매] 꾸러기음악회 <행진 앞으로> - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/61143</link>
             <guid>http://m.ticketlink.co.kr/help/notice/61143</guid>
-            <pubDate>Fri, 10 Jan 2025 07:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.14(화) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] (2025 롯데백화점 대구) 프린세스 공주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61142</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61142</guid>
             <pubDate>Fri, 10 Jan 2025 07:09:24 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.14(화) 01:00]]></content:encoded>
         </item>
