@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2025-01-13T23:09:00.882Z</updated>
+    <updated>2025-01-14T00:36:35.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 TREASURE FAN CONCERT [SPECIAL MOMENT] IN SEOUL]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54093&amp;groupno=54093&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54093&amp;groupno=54093&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2025-01-14T00:35:26.578Z</updated>
+        <content type="html"><![CDATA[25.01.23(목)&nbsp;20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바리톤 크리스티안 게르하허 리사이틀]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54095&amp;groupno=54095&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54095&amp;groupno=54095&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2025-01-14T00:35:26.578Z</updated>
+        <content type="html"><![CDATA[25.01.20(월)&nbsp;14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈세일즈맨의 죽음〉 -전주]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54092&amp;groupno=54092&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -102,20 +116,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54078&amp;groupno=54078&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2025-01-10T07:08:24.862Z</updated>
         <content type="html"><![CDATA[25.01.14(화)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE BOYZ FAN-CON 〈THE B LAND〉]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54076&amp;groupno=54076&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54076&amp;groupno=54076&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2025-01-10T05:09:44.531Z</updated>
-        <content type="html"><![CDATA[25.01.17(금)&nbsp;20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멘델스존, 바흐를 만나다]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54075&amp;groupno=54075&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54075&amp;groupno=54075&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2025-01-10T05:09:44.554Z</updated>
-        <content type="html"><![CDATA[25.01.16(목)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025 라이브가족뮤지컬 〈흥부와놀부〉-대구]]></title>
