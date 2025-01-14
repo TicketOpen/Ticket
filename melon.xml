@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-01-14T04:11:01.276Z</updated>
+    <updated>2025-01-14T05:09:23.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이지혜 팬서트 두번졔 〈우리, 차 한 잔 할까〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9861</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9861"/>
+        <updated>2025-01-14T05:08:10.548Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LITE Live in Seoul 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9860</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9850"/>
         <updated>2025-01-13T21:03:22.546Z</updated>
         <content type="html"><![CDATA[2025.01.13(월) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이프로젝트 시즌8 : 전기뱀장어 단독 콘서트 [나의 섬을 찾아서] 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9848</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9848"/>
-        <updated>2025-01-13T21:03:22.548Z</updated>
-        <content type="html"><![CDATA[2025.01.16(목) 20:00]]></content>
     </entry>
 </feed>
