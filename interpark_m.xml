@@ -4,18 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 07:09:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 08:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2025 가족뮤지컬 〈슈퍼 히어로의 똥 닦는 법〉 - 과천]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54008</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54008</guid>
-            <pubDate>Tue, 14 Jan 2025 15:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.15
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000543_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[2025〈더 : 매직서커스〉-서울]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54019</link>
@@ -24,6 +15,15 @@
             <content:encoded><![CDATA[2025.01.15
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000456_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 가족뮤지컬 〈슈퍼 히어로의 똥 닦는 법〉 - 과천]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54008</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54008</guid>
+            <pubDate>Tue, 14 Jan 2025 15:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.15
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000543_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[대학로 연극 〈 급식왕 - 급식이사라졌다 〉]]></title>
@@ -62,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018534_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[대전] 가족뮤지컬 〈읽으면서 바로 써먹는 어린이 감정표현〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54048</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54048</guid>
-            <pubDate>Wed, 15 Jan 2025 07:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.15
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000338_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[[광주] 가족뮤지컬 〈읽으면서 바로 써먹는 어린이 감정표현〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54065</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54065</guid>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2025.01.15
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000513_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[포항] 가족뮤지컬 〈읽으면서 바로 써먹는 어린이 감정표현〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54068</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54068</guid>
+            <pubDate>Wed, 15 Jan 2025 08:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.15
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000421_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
