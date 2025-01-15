@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 21:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 22:05:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24004338_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[어린이 뮤지컬 〈폴리팝〉 - 안양]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54114</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54114</guid>
-            <pubDate>Wed, 15 Jan 2025 15:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.16
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000605_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈달 샤베트〉 - 서울숲]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54084</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54084</guid>
@@ -87,6 +78,15 @@
             <content:encoded><![CDATA[2025.01.16
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025011015053747.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어린이 뮤지컬 〈폴리팝〉 - 안양]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54114</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54114</guid>
+            <pubDate>Wed, 15 Jan 2025 15:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.16
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000605_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[TAEYANG 2025 TOUR [THE LIGHT YEAR] ENCORE]]></title>
