@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 19:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 20:09:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,15 +134,6 @@
             <content:encoded><![CDATA[25.01.15(수)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[토스카 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54081</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54081</guid>
-            <pubDate>Wed, 15 Jan 2025 15:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.16
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000455_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2025 라이브 가족뮤지컬〈피터래빗〉 - 대구 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54009</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54009</guid>
@@ -168,6 +159,15 @@
             <content:encoded><![CDATA[2025.01.16
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000649_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[토스카 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54081</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54081</guid>
+            <pubDate>Wed, 15 Jan 2025 15:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.16
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000455_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 〈빵빵 이야기 속으로〉 - 군포 (인터파크 티켓 모바일)]]></title>
