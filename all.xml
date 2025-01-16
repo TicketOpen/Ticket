@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jan 2025 07:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 08:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9860</guid>
             <pubDate>Thu, 16 Jan 2025 05:08:07 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.16(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈여신님이 보고 계셔〉 토크 콘서트 - 여신님의 초대장 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54150&amp;groupno=54150&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54150&amp;groupno=54150&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 16 Jan 2025 08:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[25.01.24(금)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[홍이삭 공식 팬클럽 〈토스트〉 1기 모집 (인터파크 티켓)]]></title>
@@ -197,11 +204,31 @@
             <content:encoded><![CDATA[25.01.17(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈베르테르〉 25주년 공연 - 부산 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54133&amp;groupno=54133&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54133&amp;groupno=54133&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 15 Jan 2025 05:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[25.01.22(수)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[토스카 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54081</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54081</guid>
+            <pubDate>Wed, 15 Jan 2025 15:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.16
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000455_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 게릴라 씨어터 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54137</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54137</guid>
+            <pubDate>Thu, 16 Jan 2025 00:36:14 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.16
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000454_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[COLDPLAY - A Film For The Future (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1030</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1030</guid>
+            <pubDate>Thu, 16 Jan 2025 03:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.16
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000527_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 라이브 가족뮤지컬〈피터래빗〉 - 대구 (인터파크 티켓 모바일)]]></title>
@@ -229,33 +256,6 @@
             <content:encoded><![CDATA[2025.01.16
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000649_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[토스카 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54081</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54081</guid>
-            <pubDate>Wed, 15 Jan 2025 15:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.16
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000455_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 게릴라 씨어터 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54137</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54137</guid>
-            <pubDate>Thu, 16 Jan 2025 00:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.16
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000454_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[COLDPLAY - A Film For The Future (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1030</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1030</guid>
-            <pubDate>Thu, 16 Jan 2025 03:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.16
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000527_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 〈빵빵 이야기 속으로〉 - 군포 (인터파크 티켓 모바일)]]></title>
@@ -292,6 +292,13 @@
             <content:encoded><![CDATA[2025.01.16
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000608_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15468&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15468&amp;order=1</guid>
+            <pubDate>Thu, 16 Jan 2025 08:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[2025-01-20(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 앤서니브라운 가족뮤지컬 [우리가족] - 화성 티켓오픈안내 (예스24 티켓 모바일)]]></title>
@@ -355,13 +362,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15458&amp;order=1</guid>
             <pubDate>Wed, 15 Jan 2025 03:10:38 GMT</pubDate>
             <content:encoded><![CDATA[2025-01-20(월) 12:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[청주] 2025 라이브가족뮤지컬 [커다란방귀] (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15457&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15457&amp;order=1</guid>
-            <pubDate>Wed, 15 Jan 2025 08:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[2025-01-17(금) 09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 World DJ Festival 티켓오픈 안내 (위메프 공연티켓)]]></title>

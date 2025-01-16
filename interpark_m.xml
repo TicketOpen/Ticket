@@ -4,36 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jan 2025 07:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 08:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2025 라이브 가족뮤지컬〈피터래빗〉 - 대구]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54009</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54009</guid>
-            <pubDate>Wed, 15 Jan 2025 15:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.16
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000367_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 앤서니브라운 가족뮤지컬 〈우리가족〉 - 구리]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54012</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54012</guid>
-            <pubDate>Wed, 15 Jan 2025 15:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.16
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000411_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 라이브 가족뮤지컬〈커다란방귀〉 - 대구]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54020</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54020</guid>
-            <pubDate>Wed, 15 Jan 2025 15:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.16
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000649_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[토스카]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54081</link>
@@ -60,6 +33,33 @@
             <content:encoded><![CDATA[2025.01.16
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000527_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 라이브 가족뮤지컬〈피터래빗〉 - 대구]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54009</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54009</guid>
+            <pubDate>Wed, 15 Jan 2025 15:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.16
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000367_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 앤서니브라운 가족뮤지컬 〈우리가족〉 - 구리]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54012</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54012</guid>
+            <pubDate>Wed, 15 Jan 2025 15:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.16
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000411_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 라이브 가족뮤지컬〈커다란방귀〉 - 대구]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54020</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54020</guid>
+            <pubDate>Wed, 15 Jan 2025 15:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.16
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000649_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 〈빵빵 이야기 속으로〉 - 군포]]></title>
