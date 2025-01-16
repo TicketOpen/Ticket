@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jan 2025 09:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 10:09:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -161,6 +161,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000649_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[COLDPLAY - A Film For The Future (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1030</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1030</guid>
+            <pubDate>Thu, 16 Jan 2025 03:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.16
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000527_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[토스카 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54081</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54081</guid>
@@ -177,15 +186,6 @@
             <content:encoded><![CDATA[2025.01.16
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000454_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[COLDPLAY - A Film For The Future (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1030</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1030</guid>
-            <pubDate>Thu, 16 Jan 2025 03:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.16
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000527_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 〈빵빵 이야기 속으로〉 - 군포 (인터파크 티켓 모바일)]]></title>
@@ -206,15 +206,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24004338_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[어린이 뮤지컬 〈폴리팝〉 - 안양 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54114</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54114</guid>
-            <pubDate>Thu, 16 Jan 2025 09:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.16
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000605_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈달 샤베트〉 - 서울숲 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54084</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54084</guid>
@@ -222,6 +213,15 @@
             <content:encoded><![CDATA[2025.01.16
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012901_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 변진섭 전국투어 콘서트 : 변천사 - 강릉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54090</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54090</guid>
+            <pubDate>Thu, 16 Jan 2025 10:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.16
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000608_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -374,6 +374,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <100층짜리 집> - 의정부​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61195</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61195</guid>
+            <pubDate>Thu, 16 Jan 2025 10:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.21(화) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <100층짜리 집> - 청주​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61194</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61194</guid>
+            <pubDate>Thu, 16 Jan 2025 10:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.21(화) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll & Hyde) - 20주년 5차​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61193</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61193</guid>
@@ -465,18 +479,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.01.22(수) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[< THE이재훈_31년 > 단독 콘서트 부산공연​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61178</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61178</guid>
-            <pubDate>Wed, 15 Jan 2025 05:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.21(화) 05:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <100층짜리 집> - 의정부​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61195</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61195</guid>
+            <pubDate>Thu, 16 Jan 2025 10:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.21(화) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[< THE이재훈_31년 > 단독 콘서트 대구공연​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61177</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61177</guid>
-            <pubDate>Wed, 15 Jan 2025 05:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.20(월) 05:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <100층짜리 집> - 청주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61194</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61194</guid>
+            <pubDate>Thu, 16 Jan 2025 10:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.21(화) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll & Hyde) - 20주년 5차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -568,20 +582,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61179</guid>
             <pubDate>Wed, 15 Jan 2025 05:09:57 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.22(수) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[< THE이재훈_31년 > 단독 콘서트 부산공연​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61178</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61178</guid>
-            <pubDate>Wed, 15 Jan 2025 05:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.21(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[< THE이재훈_31년 > 단독 콘서트 대구공연​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61177</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61177</guid>
-            <pubDate>Wed, 15 Jan 2025 05:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.20(월) 05:00]]></content:encoded>
         </item>
     </channel>
 </rss>
