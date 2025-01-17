@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 06:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 07:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9865</guid>
             <pubDate>Fri, 17 Jan 2025 06:10:56 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.16(목) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 애나엑스 (ANNA X) Special Day (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54168&amp;groupno=54168&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54168&amp;groupno=54168&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 17 Jan 2025 07:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[25.01.21(화)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈지킬 앤 하이드〉 (인터파크 티켓)]]></title>
@@ -202,13 +209,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54152&amp;groupno=54152&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 16 Jan 2025 09:08:44 GMT</pubDate>
             <content:encoded><![CDATA[25.01.20(월)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈여신님이 보고 계셔〉 토크 콘서트 - 여신님의 초대장 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54150&amp;groupno=54150&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54150&amp;groupno=54150&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 16 Jan 2025 08:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[25.01.24(금)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4D공포연극 〈스위치〉 (인터파크 티켓 모바일)]]></title>
