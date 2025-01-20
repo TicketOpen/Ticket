@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 03:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 04:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9868</guid>
             <pubDate>Mon, 20 Jan 2025 03:11:31 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.16(목) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈베르테르〉 25주년 공연 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54195&amp;groupno=54195&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54195&amp;groupno=54195&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 20 Jan 2025 04:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[25.01.24(금)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈어서 오세요, 휴남동 서점입니다〉 - 서울 공연 (인터파크 티켓)]]></title>
@@ -193,13 +200,6 @@
             <title><![CDATA[팡팡 벌룬서커스 대작전 - 양산 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54178&amp;groupno=54178&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54178&amp;groupno=54178&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 17 Jan 2025 09:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[25.01.24(금)&nbsp;10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팡팡 벌룬서커스 대작전 - 부산 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54177&amp;groupno=54177&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54177&amp;groupno=54177&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 17 Jan 2025 09:08:31 GMT</pubDate>
             <content:encoded><![CDATA[25.01.24(금)&nbsp;10:00]]></content:encoded>
         </item>
@@ -450,6 +450,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <베르테르> 25주년 공연 마지막 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61209</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61209</guid>
+            <pubDate>Mon, 20 Jan 2025 04:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.24(금) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2025 가족뮤지컬 <백설공주> - 전주 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61208</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61208</guid>
@@ -548,11 +555,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.01.21(화) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll & Hyde) - 20주년 5차​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61193</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61193</guid>
-            <pubDate>Thu, 16 Jan 2025 05:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.23(목) 05:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <베르테르> 25주년 공연 마지막 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61209</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61209</guid>
+            <pubDate>Mon, 20 Jan 2025 04:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.24(금) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 가족뮤지컬 <백설공주> - 전주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -651,13 +658,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61194</guid>
             <pubDate>Thu, 16 Jan 2025 10:09:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.21(화) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll & Hyde) - 20주년 5차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61193</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61193</guid>
-            <pubDate>Thu, 16 Jan 2025 05:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.23(목) 05:00]]></content:encoded>
         </item>
     </channel>
 </rss>
