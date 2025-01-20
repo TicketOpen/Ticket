@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 04:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 05:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,13 @@
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9862</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9862</guid>
             <pubDate>Mon, 20 Jan 2025 03:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2025 JOHNNY B-day PARTY [Johnny’s Celebration Center] 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9881</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9881</guid>
+            <pubDate>Mon, 20 Jan 2025 05:10:37 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
         </item>
         <item>
@@ -78,11 +85,11 @@
             <content:encoded><![CDATA[2025.01.17(금) 20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[루치아노 파바로티 CONCERT 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9868</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9868</guid>
-            <pubDate>Mon, 20 Jan 2025 03:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.16(목) 10:00]]></content:encoded>
+            <title><![CDATA[최현우 19+I - 대구 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54196&amp;groupno=54196&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54196&amp;groupno=54196&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 20 Jan 2025 05:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[25.02.04(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈베르테르〉 25주년 공연 (인터파크 티켓)]]></title>
@@ -197,13 +204,6 @@
             <content:encoded><![CDATA[25.01.24(금)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[팡팡 벌룬서커스 대작전 - 양산 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54178&amp;groupno=54178&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54178&amp;groupno=54178&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 17 Jan 2025 09:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[25.01.24(금)&nbsp;10:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[그리스 로마 신화 〈신들의 왕 제우스〉 - 인천 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54186&amp;groupno=54186&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54186&amp;groupno=54186&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -280,6 +280,7 @@
             <pubDate>Fri, 17 Jan 2025 15:08:27 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.20
                                     <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000704_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉 (인터파크 티켓 모바일)]]></title>
@@ -298,6 +299,13 @@
             <content:encoded><![CDATA[2025.01.20
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000779_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[대구] 김희재 콘서트 ‘HEERE WE GO’ 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15492&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15492&amp;order=1</guid>
+            <pubDate>Mon, 20 Jan 2025 05:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[2025-01-24(금) 20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[김해] 뮤지컬 헬로카봇 시즌8 [미래연구소를 지켜라!] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -359,13 +367,6 @@
             <title><![CDATA[[인천] 팡팡 벌룬서커스 대작전 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15482&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15482&amp;order=1</guid>
-            <pubDate>Sat, 18 Jan 2025 22:03:52 GMT</pubDate>
-            <content:encoded><![CDATA[2025-01-24(금) 10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[양산] 팡팡 벌룬서커스 대작전 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15481&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15481&amp;order=1</guid>
             <pubDate>Sat, 18 Jan 2025 22:03:52 GMT</pubDate>
             <content:encoded><![CDATA[2025-01-24(금) 10:00]]></content:encoded>
         </item>
@@ -448,6 +449,13 @@
             <pubDate>Thu, 21 Nov 2024 04:11:26 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.17(월) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  DSAC 문화공감 프로그램 연극 <회란기> - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61210</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61210</guid>
+            <pubDate>Mon, 20 Jan 2025 05:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.22(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <베르테르> 25주년 공연 마지막 티켓오픈 안내 (티켓링크)]]></title>
@@ -548,11 +556,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.01.21(화) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <100층짜리 집> - 청주​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61194</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61194</guid>
-            <pubDate>Thu, 16 Jan 2025 10:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.21(화) 00:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  DSAC 문화공감 프로그램 연극 <회란기> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61210</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61210</guid>
+            <pubDate>Mon, 20 Jan 2025 05:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.22(수) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <베르테르> 25주년 공연 마지막 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -649,13 +657,6 @@
             <title><![CDATA[뮤지컬 <100층짜리 집> - 의정부​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/61195</link>
             <guid>http://m.ticketlink.co.kr/help/notice/61195</guid>
-            <pubDate>Thu, 16 Jan 2025 10:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.21(화) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <100층짜리 집> - 청주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61194</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61194</guid>
             <pubDate>Thu, 16 Jan 2025 10:09:36 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.21(화) 00:00]]></content:encoded>
         </item>
