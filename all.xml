@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jan 2025 23:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 00:38:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -289,7 +289,6 @@
             <pubDate>Fri, 17 Jan 2025 15:08:27 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.20
                                     <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/no_image_family.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉 (인터파크 티켓 모바일)]]></title>
@@ -451,6 +450,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈100층짜리 집〉 - 창원 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61203</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61203</guid>
+            <pubDate>Mon, 20 Jan 2025 00:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.22(수) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈100층짜리 집〉 - 성남 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61202</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61202</guid>
+            <pubDate>Mon, 20 Jan 2025 00:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.22(수) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] DSAC 시그니처 <양인모 바이올린 리사이틀>​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61201</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61201</guid>
@@ -542,18 +555,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.01.22(수) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 광화문 연가-군산​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61186</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61186</guid>
-            <pubDate>Wed, 15 Jan 2025 10:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.16(목) 05:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈100층짜리 집〉 - 창원 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61203</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61203</guid>
+            <pubDate>Mon, 20 Jan 2025 00:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.22(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <베르테르> 25주년 공연 - 부산 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61184</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61184</guid>
-            <pubDate>Wed, 15 Jan 2025 06:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.22(수) 05:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈100층짜리 집〉 - 성남 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61202</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61202</guid>
+            <pubDate>Mon, 20 Jan 2025 00:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.22(수) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] DSAC 시그니처 <양인모 바이올린 리사이틀>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -645,20 +658,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61187</guid>
             <pubDate>Thu, 16 Jan 2025 06:12:11 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.22(수) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 광화문 연가-군산​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61186</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61186</guid>
-            <pubDate>Wed, 15 Jan 2025 10:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.16(목) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <베르테르> 25주년 공연 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61184</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61184</guid>
-            <pubDate>Wed, 15 Jan 2025 06:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.22(수) 05:00]]></content:encoded>
         </item>
     </channel>
 </rss>

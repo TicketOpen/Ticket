@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jan 2025 23:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 00:38:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,7 +86,6 @@
             <pubDate>Fri, 17 Jan 2025 15:08:27 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.20
                                     <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/no_image_family.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[연극 〈바스커빌 : 셜록홈즈 미스터리〉]]></title>
