@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jan 2025 02:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jan 2025 03:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Layone, OLNL "OTL" Concert (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54207&amp;groupno=54207&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54207&amp;groupno=54207&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 21 Jan 2025 03:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[25.01.24(금)&nbsp;20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[LG아트센터 서울 2025년 기획공연 시즌 CoMPAS 25 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54205&amp;groupno=54205&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -113,13 +120,6 @@
             <content:encoded><![CDATA[25.01.23(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 헬로카봇 시즌8 〈미래연구소를 지켜라!〉 - 용인 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54189&amp;groupno=54189&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54189&amp;groupno=54189&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 20 Jan 2025 02:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[25.01.23(목)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[가족뮤지컬 〈뽀로로와 친구들의 드림콘서트 - 잃어버린 꿈을 찾아서.. (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54192&amp;groupno=54192&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54192&amp;groupno=54192&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -197,13 +197,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000499_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[ 2024-25 Theatre 이문세 ] - 부산 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54172</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54172</guid>
-            <pubDate>Tue, 21 Jan 2025 02:07:23 GMT</pubDate>
+            <title><![CDATA[연극 〈붉은 낙엽〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54105</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54105</guid>
+            <pubDate>Mon, 20 Jan 2025 15:08:45 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.21
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000651_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016741_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[〈THE이재훈_31년〉 단독 콘서트 부산공연 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54128</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54128</guid>
+            <pubDate>Tue, 21 Jan 2025 03:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000644_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈인간탐구생활〉 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2025.01.21
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000716_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈붉은 낙엽〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54105</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54105</guid>
-            <pubDate>Mon, 20 Jan 2025 15:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016741_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[LG아트센터 서울 2025년 기획공연 시즌 CoMPAS 25 티켓 오픈 (예스24 티켓 모바일)]]></title>
@@ -388,6 +388,13 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.01.22(수) 00:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Layone, OLNL “​OTL”​ Concert​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61214</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61214</guid>
+            <pubDate>Tue, 21 Jan 2025 03:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.24(금) 11:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[​최현우 19+I - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61213</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61213</guid>
@@ -458,25 +465,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.01.22(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈100층짜리 집〉 - 창원 티켓오픈 안내 (티켓링크)]]></title>
+            <title><![CDATA[뮤지컬 <100층짜리 집> - 창원 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61203</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61203</guid>
             <pubDate>Mon, 20 Jan 2025 00:38:03 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2025.01.22(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈100층짜리 집〉 - 성남 티켓오픈 안내 (티켓링크)]]></title>
+            <title><![CDATA[뮤지컬 <100층짜리 집> - 성남 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61202</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61202</guid>
             <pubDate>Mon, 20 Jan 2025 00:38:03 GMT</pubDate>
             <content:encoded><![CDATA[<em>오픈</em>: 2025.01.22(수) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] DSAC 시그니처 <양인모 바이올린 리사이틀>​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61201</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61201</guid>
-            <pubDate>Sat, 18 Jan 2025 05:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.23(목) 05:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매]  [광주시립교향악단] 체임버 시리즈 Ⅰ; Cello Moments 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -491,6 +491,13 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61215</guid>
             <pubDate>Tue, 21 Jan 2025 02:08:12 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.22(수) 00:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Layone, OLNL “​OTL”​ Concert​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61214</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61214</guid>
+            <pubDate>Tue, 21 Jan 2025 03:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.24(금) 11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​최현우 19+I - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -563,25 +570,18 @@
             <content:encoded><![CDATA[2025.01.22(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈100층짜리 집〉 - 창원 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <title><![CDATA[뮤지컬 <100층짜리 집> - 창원 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/61203</link>
             <guid>http://m.ticketlink.co.kr/help/notice/61203</guid>
             <pubDate>Mon, 20 Jan 2025 00:38:11 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.22(수) 00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈100층짜리 집〉 - 성남 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <title><![CDATA[뮤지컬 <100층짜리 집> - 성남 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/61202</link>
             <guid>http://m.ticketlink.co.kr/help/notice/61202</guid>
             <pubDate>Mon, 20 Jan 2025 00:38:11 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.22(수) 00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] DSAC 시그니처 <양인모 바이올린 리사이틀>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61201</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61201</guid>
-            <pubDate>Sat, 18 Jan 2025 05:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.23(목) 05:00]]></content:encoded>
         </item>
     </channel>
 </rss>
