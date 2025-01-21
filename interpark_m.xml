@@ -4,18 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 22:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jan 2025 00:36:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[시간을 파는 상점]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54154</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54154</guid>
-            <pubDate>Mon, 20 Jan 2025 15:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.21
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002778_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[2025 가족매직쇼〈매직키즈마술쇼〉-부산]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54061</link>
@@ -35,13 +26,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000447_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[시간을 파는 상점]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54154</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54154</guid>
+            <pubDate>Mon, 20 Jan 2025 15:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.21
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24002778_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[2025 심수봉 전국투어콘서트 : 꽃길 - 이천]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54143</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54143</guid>
             <pubDate>Mon, 20 Jan 2025 15:08:45 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.21
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025011319301506.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000723_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 변진섭 전국투어 콘서트 : 변천사 - 부산]]></title>
@@ -50,7 +50,7 @@
             <pubDate>Mon, 20 Jan 2025 15:08:45 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.21
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025011513445268.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000726_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[SM CLASSICS LIVE 2025 with 서울시립교향악단]]></title>
@@ -59,7 +59,7 @@
             <pubDate>Mon, 20 Jan 2025 15:08:45 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.21
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025011514130619.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000538_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[정명훈 × KBS교향악단 × 선우예권 - 용인]]></title>
@@ -68,7 +68,7 @@
             <pubDate>Mon, 20 Jan 2025 15:08:45 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.21
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025011410412912.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000499_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈붉은 낙엽〉]]></title>
