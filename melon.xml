@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-01-21T11:02:53.064Z</updated>
+    <updated>2025-01-21T12:15:18.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[컬러풀 스테이지 #9 레드씨 & 품바21 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9891</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9891"/>
+        <updated>2025-01-21T12:14:03.452Z</updated>
+        <content type="html"><![CDATA[2025.01.23(목) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Happy Luven Day ! : YUN JUNG HWAN FanMeeting 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9890</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9882"/>
         <updated>2025-01-21T10:08:27.368Z</updated>
         <content type="html"><![CDATA[2025.01.24(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 JOHNNY B-day PARTY [Johnny’s Celebration Center] 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9881</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9881"/>
-        <updated>2025-01-21T10:08:27.379Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
     </entry>
 </feed>
