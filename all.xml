@@ -4,16 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jan 2025 05:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jan 2025 06:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2025 GOT7 CONCERT 〈NESTFEST〉 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9862</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9862</guid>
-            <pubDate>Tue, 21 Jan 2025 04:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[2025 NINE.i FANMEETING IN SEOUL ‘NINE.i STORY’ 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9888</link>
@@ -127,6 +120,13 @@
             <content:encoded><![CDATA[25.01.24(금)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2025 〈더 : 매직서커스〉 - 울산 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54215&amp;groupno=54215&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54215&amp;groupno=54215&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 21 Jan 2025 06:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[25.02.03(월)&nbsp;09:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Layone, OLNL "OTL" Concert (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54207&amp;groupno=54207&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54207&amp;groupno=54207&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -202,13 +202,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54198&amp;groupno=54198&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 20 Jan 2025 09:10:19 GMT</pubDate>
             <content:encoded><![CDATA[25.01.24(금)&nbsp;00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[낭만주의 거장 〈라흐마니노프〉 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54197&amp;groupno=54197&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54197&amp;groupno=54197&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 20 Jan 2025 08:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[25.01.23(목)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 가족매직쇼〈매직키즈마술쇼〉-부산 (인터파크 티켓 모바일)]]></title>
@@ -301,6 +294,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000716_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[낭만주의 거장 〈라흐마니노프〉 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15501&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15501&amp;order=1</guid>
+            <pubDate>Tue, 21 Jan 2025 06:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[2025-01-23(목) 15:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2025 KANGTA LIVE WORKSHOP - Studio Camp with KANGTA 오픈 안내 (예스24 티켓 모바일)]]></title>
             <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15500&amp;order=1</link>
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15500&amp;order=1</guid>
@@ -362,13 +362,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15492&amp;order=1</guid>
             <pubDate>Mon, 20 Jan 2025 05:11:16 GMT</pubDate>
             <content:encoded><![CDATA[2025-01-24(금) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[김해] 뮤지컬 헬로카봇 시즌8 [미래연구소를 지켜라!] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15491&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15491&amp;order=1</guid>
-            <pubDate>Mon, 20 Jan 2025 02:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[2025-01-23(목) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 World DJ Festival 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -449,6 +442,27 @@
             <pubDate>Thu, 21 Nov 2024 04:11:26 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.17(월) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 삼남매 트롯콘서트 - 부산 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61222</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61222</guid>
+            <pubDate>Tue, 21 Jan 2025 06:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.24(금) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2025 삼남매 트롯콘서트 - 서울​​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61221</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61221</guid>
+            <pubDate>Tue, 21 Jan 2025 06:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.24(금) 02:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어린이 뮤지컬 <백설공주> - 원주​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61220</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61220</guid>
+            <pubDate>Tue, 21 Jan 2025 06:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.24(금) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 이승철 콘서트 <오케스트락2> 대구공연​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -535,25 +549,25 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.01.23(목) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> - 광주 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61206</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61206</guid>
-            <pubDate>Mon, 20 Jan 2025 02:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.22(수) 01:00]]></content:encoded>
+            <title><![CDATA[2025 삼남매 트롯콘서트 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61222</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61222</guid>
+            <pubDate>Tue, 21 Jan 2025 06:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.24(금) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 브레드이발소 〈빵스타 대격돌〉 - 대전 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61205</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61205</guid>
-            <pubDate>Mon, 20 Jan 2025 02:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.22(수) 01:00]]></content:encoded>
+            <title><![CDATA[2025 삼남매 트롯콘서트 - 서울​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61221</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61221</guid>
+            <pubDate>Tue, 21 Jan 2025 06:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.24(금) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> - 부천 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61204</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61204</guid>
-            <pubDate>Mon, 20 Jan 2025 02:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.22(수) 00:00]]></content:encoded>
+            <title><![CDATA[어린이 뮤지컬 <백설공주> - 원주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61220</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61220</guid>
+            <pubDate>Tue, 21 Jan 2025 06:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.24(금) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 이승철 콘서트 <오케스트락2> 대구공연​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -638,27 +652,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61207</guid>
             <pubDate>Mon, 20 Jan 2025 03:12:45 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.23(목) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61206</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61206</guid>
-            <pubDate>Mon, 20 Jan 2025 02:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.22(수) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 브레드이발소 〈빵스타 대격돌〉 - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61205</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61205</guid>
-            <pubDate>Mon, 20 Jan 2025 02:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.22(수) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> - 부천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61204</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61204</guid>
-            <pubDate>Mon, 20 Jan 2025 02:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.22(수) 00:00]]></content:encoded>
         </item>
     </channel>
 </rss>
