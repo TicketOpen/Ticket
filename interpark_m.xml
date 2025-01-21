@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jan 2025 03:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jan 2025 04:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,22 +71,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000499_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈붉은 낙엽〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54105</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54105</guid>
-            <pubDate>Mon, 20 Jan 2025 15:08:45 GMT</pubDate>
+            <title><![CDATA[[ 2024-25 Theatre 이문세 ] - 부산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54172</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54172</guid>
+            <pubDate>Tue, 21 Jan 2025 04:10:58 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.21
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016741_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[〈THE이재훈_31년〉 단독 콘서트 부산공연]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54128</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54128</guid>
-            <pubDate>Tue, 21 Jan 2025 03:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000644_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000651_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈인간탐구생활〉]]></title>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2025.01.21
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000716_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈붉은 낙엽〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54105</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54105</guid>
+            <pubDate>Mon, 20 Jan 2025 15:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016741_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
