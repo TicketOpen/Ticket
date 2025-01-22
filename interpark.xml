@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2025-01-22T00:37:30.614Z</updated>
+    <updated>2025-01-22T02:10:29.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헐리우드 레전더리 콘서트 - 시리즈 Ⅰ：히어로즈 ＆ 판타지 in 대구]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54226&amp;groupno=54226&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54226&amp;groupno=54226&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2025-01-22T02:09:22.782Z</updated>
+        <content type="html"><![CDATA[25.01.24(금)&nbsp;09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헐리우드 레전더리 콘서트 - 시리즈 Ⅰ：히어로즈 ＆ 판타지 in 고양..]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54225&amp;groupno=54225&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -109,13 +116,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54209&amp;groupno=54209&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2025-01-21T05:08:17.599Z</updated>
         <content type="html"><![CDATA[25.01.24(금)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데뷔 60주년 기념공연] 2025 남진 전국투어 - 광명]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54208&amp;groupno=54208&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54208&amp;groupno=54208&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2025-01-21T05:08:17.601Z</updated>
-        <content type="html"><![CDATA[25.01.24(금)&nbsp;16:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025 〈더 : 매직서커스〉 - 울산]]></title>
