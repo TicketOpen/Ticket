@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jan 2025 10:06:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jan 2025 11:04:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000813_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈카포네 밀크〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54158</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54158</guid>
-            <pubDate>Wed, 22 Jan 2025 08:11:27 GMT</pubDate>
+            <title><![CDATA[[ 2024-25 Theatre 이문세 ] - 광주]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54173</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54173</guid>
+            <pubDate>Wed, 22 Jan 2025 11:04:02 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.22
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24015984_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000934_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
