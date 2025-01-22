@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-22T04:11:53.930Z</updated>
+    <updated>2025-01-22T05:09:58.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[수원] 뮤지컬 [사랑의 하츄핑] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15507&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15507&amp;order=1"/>
+        <updated>2025-01-22T05:09:28.410Z</updated>
+        <content type="html"><![CDATA[2025-01-24(금) 14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이천] 2025 앤서니브라운 가족뮤지컬 [우리가족] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15506&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15506&amp;order=1"/>
+        <updated>2025-01-22T05:09:28.411Z</updated>
+        <content type="html"><![CDATA[2025-02-03(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[울산] 2025 [더：매직서커스] 티켓오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15505&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15498&amp;order=1"/>
         <updated>2025-01-21T12:14:45.630Z</updated>
         <content type="html"><![CDATA[2025-02-04(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [반짝반짝 달님이 - 내동생은 천하무적] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15497&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15497&amp;order=1"/>
-        <updated>2025-01-21T12:14:45.630Z</updated>
-        <content type="html"><![CDATA[2025-01-22(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대전시립미술관 특별전 [불멸의 화가 반 고흐] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15496&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15496&amp;order=1"/>
-        <updated>2025-01-21T12:14:45.630Z</updated>
-        <content type="html"><![CDATA[2025-02-05(수) 09:00]]></content>
     </entry>
 </feed>
