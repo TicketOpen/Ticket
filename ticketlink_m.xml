@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-01-23T00:37:16.076Z</updated>
+    <updated>2025-01-23T02:08:23.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <뚜식이 : 뚜식이라서 다행이야!> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61238</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61238"/>
+        <updated>2025-01-23T02:08:17.101Z</updated>
+        <content type="html"><![CDATA[2025.02.03(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박창근 장르 with 오케스트라 전국투어 콘서트 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61237</id>
@@ -55,7 +62,7 @@
         <content type="html"><![CDATA[2025.01.23(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2025 김장훈 원맨쇼 - 순천​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[2025 김장훈 원맨쇼 - 순천​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61229</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61229"/>
         <updated>2025-01-22T05:09:52.190Z</updated>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/61223</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61223"/>
         <updated>2025-01-21T07:10:27.382Z</updated>
-        <content type="html"><![CDATA[2025.01.24(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 삼남매 트롯콘서트 - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61222</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61222"/>
-        <updated>2025-01-21T06:13:26.152Z</updated>
         <content type="html"><![CDATA[2025.01.24(금) 02:00]]></content>
     </entry>
 </feed>

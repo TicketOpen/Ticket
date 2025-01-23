@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 00:37:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 02:08:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9885</guid>
             <pubDate>Thu, 23 Jan 2025 00:35:57 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.22(수) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈뚜식이 : 뚜식이라서 다행이야!〉 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54243&amp;groupno=54243&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54243&amp;groupno=54243&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 23 Jan 2025 02:07:16 GMT</pubDate>
+            <content:encoded><![CDATA[25.02.03(월)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[박창근 장르 with 오케스트라 전국투어 콘서트 - 대구 (인터파크 티켓)]]></title>
@@ -190,13 +197,6 @@
             <content:encoded><![CDATA[25.01.24(금)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[헐리우드 레전더리 콘서트 - 시리즈 Ⅰ：히어로즈 ＆ 판타지 in 고양.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54225&amp;groupno=54225&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54225&amp;groupno=54225&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 22 Jan 2025 00:36:28 GMT</pubDate>
-            <content:encoded><![CDATA[25.01.24(금)&nbsp;09:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Remember 젊음의 행진 - 서울 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54235&amp;groupno=54235&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54235&amp;groupno=54235&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -240,13 +240,31 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000006_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[〈THE이재훈_31년〉 단독 콘서트 서울공연 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54130</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54130</guid>
+            <title><![CDATA[뮤지컬 헬로카봇 시즌8 〈미래연구소를 지켜라!〉 - 용인 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54189</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54189</guid>
             <pubDate>Wed, 22 Jan 2025 15:08:33 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.23
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000655_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001153_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[피아졸라, 루이 암스트롱을 만나다 - 대전 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54190</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54190</guid>
+            <pubDate>Wed, 22 Jan 2025 15:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.23
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000916_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[피아졸라, 루이 암스트롱을 만나다 - 대구 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54191</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54191</guid>
+            <pubDate>Thu, 23 Jan 2025 02:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.23
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000886_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[ 2024-25 Theatre 이문세 ] - 제주 (인터파크 티켓 모바일)]]></title>
@@ -267,31 +285,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000787_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll ＆ Hyde) - 20주년 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54146</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54146</guid>
-            <pubDate>Thu, 23 Jan 2025 00:36:21 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.23
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24013928_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 헬로카봇 시즌8 〈미래연구소를 지켜라!〉 - 용인 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54189</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54189</guid>
+            <title><![CDATA[〈THE이재훈_31년〉 단독 콘서트 서울공연 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54130</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54130</guid>
             <pubDate>Wed, 22 Jan 2025 15:08:33 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.23
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001153_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[피아졸라, 루이 암스트롱을 만나다 - 대전 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54190</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54190</guid>
-            <pubDate>Wed, 22 Jan 2025 15:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.23
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000916_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000655_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[부산] 2025 라이브 가족뮤지컬 [정글북] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -444,6 +444,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <뚜식이 : 뚜식이라서 다행이야!> 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61238</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61238</guid>
+            <pubDate>Thu, 23 Jan 2025 02:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.03(월) 01:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[박창근 장르 with 오케스트라 전국투어 콘서트 - 대구 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61237</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61237</guid>
@@ -493,7 +500,7 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.01.23(목) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 2025 김장훈 원맨쇼 - 순천​ 티켓오픈 안내 (티켓링크)]]></title>
+            <title><![CDATA[2025 김장훈 원맨쇼 - 순천​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61229</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61229</guid>
             <pubDate>Wed, 22 Jan 2025 05:09:44 GMT</pubDate>
@@ -542,11 +549,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.01.24(금) 02:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2025 삼남매 트롯콘서트 - 부산 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61222</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61222</guid>
-            <pubDate>Tue, 21 Jan 2025 06:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.24(금) 02:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <뚜식이 : 뚜식이라서 다행이야!> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61238</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61238</guid>
+            <pubDate>Thu, 23 Jan 2025 02:08:17 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.03(월) 01:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[박창근 장르 with 오케스트라 전국투어 콘서트 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -598,7 +605,7 @@
             <content:encoded><![CDATA[2025.01.23(목) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 2025 김장훈 원맨쇼 - 순천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <title><![CDATA[2025 김장훈 원맨쇼 - 순천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
             <link>http://m.ticketlink.co.kr/help/notice/61229</link>
             <guid>http://m.ticketlink.co.kr/help/notice/61229</guid>
             <pubDate>Wed, 22 Jan 2025 05:09:52 GMT</pubDate>
@@ -644,13 +651,6 @@
             <link>http://m.ticketlink.co.kr/help/notice/61223</link>
             <guid>http://m.ticketlink.co.kr/help/notice/61223</guid>
             <pubDate>Tue, 21 Jan 2025 07:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.24(금) 02:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2025 삼남매 트롯콘서트 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61222</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61222</guid>
-            <pubDate>Tue, 21 Jan 2025 06:13:26 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.24(금) 02:00]]></content:encoded>
         </item>
     </channel>
