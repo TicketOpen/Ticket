@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 21:04:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 22:08:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025011717343999.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Remember 젊음의 행진 - 대구]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54187</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54187</guid>
-            <pubDate>Thu, 23 Jan 2025 17:03:50 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.24
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025011717425766.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Remember 젊음의 행진 - 대전]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54194</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54194</guid>
@@ -78,6 +69,15 @@
             <content:encoded><![CDATA[2025.01.24
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025011717403563.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Remember 젊음의 행진 - 대구]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54187</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54187</guid>
+            <pubDate>Thu, 23 Jan 2025 17:03:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.24
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025011717425766.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팡팡 벌룬서커스 대작전 - 인천]]></title>
