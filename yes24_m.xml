@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticket.yes24.com/Notice/List.aspx?type=1</id>
     <title>예스24 티켓 모바일</title>
-    <updated>2025-01-23T08:12:35.464Z</updated>
+    <updated>2025-01-23T09:10:02.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/mobile/icon/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2025 베스트셀러 뮤지컬 [누가 내 머리에 똥쌌어？] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15514&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15514&amp;order=1"/>
+        <updated>2025-01-23T09:09:32.100Z</updated>
+        <content type="html"><![CDATA[2025-02-04(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 2025 [더：매직서커스] 티켓오픈 안내]]></title>
+        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15513&amp;order=1</id>
+        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15513&amp;order=1"/>
+        <updated>2025-01-23T09:09:32.103Z</updated>
+        <content type="html"><![CDATA[2025-02-04(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SHIN SOOHYUN SOLO CONCERT [ I AM ] IN SEOUL 티켓 오픈 안내]]></title>
         <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15512&amp;order=1</id>
@@ -60,19 +74,5 @@
         <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15504&amp;order=1"/>
         <updated>2025-01-21T12:14:45.621Z</updated>
         <content type="html"><![CDATA[2025-01-31(금) 14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈baby selects "2hollis" 아시아 투어 서울 공연〉 티켓 오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15503&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15503&amp;order=1"/>
-        <updated>2025-01-21T12:14:45.625Z</updated>
-        <content type="html"><![CDATA[2025-01-31(금) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2025 가족매직쇼 [매직키즈마술쇼] 티켓오픈 안내]]></title>
-        <id>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15502&amp;order=1</id>
-        <link href="http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15502&amp;order=1"/>
-        <updated>2025-01-22T02:09:57.713Z</updated>
-        <content type="html"><![CDATA[2025-01-31(금) 09:00]]></content>
     </entry>
 </feed>

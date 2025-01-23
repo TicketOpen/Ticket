@@ -4,18 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 08:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 09:10:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[그리스 로마 신화 〈신들의 왕 제우스〉 - 인천]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54186</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54186</guid>
-            <pubDate>Wed, 22 Jan 2025 15:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.23
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000857_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 타키포오［몬스터 전쟁의 서막 ; 더 좀비] - 대전]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54170</link>
@@ -35,6 +26,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000861_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[그리스 로마 신화 〈신들의 왕 제우스〉 - 인천]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54186</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54186</guid>
+            <pubDate>Wed, 22 Jan 2025 15:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.23
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000857_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[2025 빅3 ＂행복한만남＂ 〈강진,김용임,진성〉 - 안양]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53976</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=53976</guid>
@@ -42,6 +42,15 @@
             <content:encoded><![CDATA[2025.01.23
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000006_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[〈THE이재훈_31년〉 단독 콘서트 서울공연]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54130</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54130</guid>
+            <pubDate>Wed, 22 Jan 2025 15:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.23
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000655_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[ 2024-25 Theatre 이문세 ] - 제주]]></title>
@@ -60,15 +69,6 @@
             <content:encoded><![CDATA[2025.01.23
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000787_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[〈THE이재훈_31년〉 단독 콘서트 서울공연]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54130</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54130</guid>
-            <pubDate>Wed, 22 Jan 2025 15:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.23
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000655_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll ＆ Hyde) - 20주년]]></title>
