@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-01-24T02:09:07.872Z</updated>
+    <updated>2025-01-24T03:11:43.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[YB : Metalogic : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9903</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9903"/>
+        <updated>2025-01-24T03:10:34.586Z</updated>
+        <content type="html"><![CDATA[2025.01.31(금) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 봄에 내리는 젠틀레인 –Theme Park- 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9902</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9902"/>
+        <updated>2025-01-24T03:10:34.587Z</updated>
+        <content type="html"><![CDATA[2025.01.31(금) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sprouts : 12BH X 김승주 X 프랭클리 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9901</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9901"/>
+        <updated>2025-01-24T03:10:34.596Z</updated>
+        <content type="html"><![CDATA[2025.01.27(월) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈웃는 남자〉 마지막 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9900</id>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9892"/>
         <updated>2025-01-24T00:35:56.192Z</updated>
         <content type="html"><![CDATA[2025.01.31(금) 19:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컬러풀 스테이지 #9 레드씨 & 품바21 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9891</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9891"/>
-        <updated>2025-01-24T00:35:56.194Z</updated>
-        <content type="html"><![CDATA[2025.01.23(목) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Luven Day ! : YUN JUNG HWAN FanMeeting 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9890</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9890"/>
-        <updated>2025-01-24T00:35:56.196Z</updated>
-        <content type="html"><![CDATA[2025.01.22(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김뜻돌 단독공연 〈돌잔치 : Angel Drop〉 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9889</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9889"/>
-        <updated>2025-01-24T00:35:56.198Z</updated>
-        <content type="html"><![CDATA[2025.02.03(월) 20:00]]></content>
     </entry>
 </feed>
