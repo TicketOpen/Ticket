@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jan 2025 04:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 05:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,7 +14,7 @@
             <pubDate>Thu, 23 Jan 2025 16:09:47 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.24
                                     <span>00:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025012012464672.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24018391_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈뽀로로와 친구들의 드림콘서트 - 잃어버린 꿈을 찾아서〉 -성남]]></title>
@@ -23,7 +23,16 @@
             <pubDate>Thu, 23 Jan 2025 16:09:47 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.24
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025011915531865.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000962_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[헐리우드 레전더리 콘서트 - 시리즈 Ⅰ：히어로즈 ＆ 판타지 in 울산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54234</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54234</guid>
+            <pubDate>Thu, 23 Jan 2025 16:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.24
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001146_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[헐리우드 레전더리 콘서트 - 시리즈 Ⅰ：히어로즈 ＆ 판타지 in 고양]]></title>
@@ -44,22 +53,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001109_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[헐리우드 레전더리 콘서트 - 시리즈 Ⅰ：히어로즈 ＆ 판타지 in 울산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54234</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54234</guid>
-            <pubDate>Thu, 23 Jan 2025 16:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.24
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001146_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[팡팡 벌룬서커스 대작전 - 인천]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54176</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54176</guid>
             <pubDate>Thu, 23 Jan 2025 16:09:47 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.24
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025011714362981.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000915_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[팡팡 벌룬서커스 대작전 - 부산]]></title>
@@ -68,7 +68,7 @@
             <pubDate>Thu, 23 Jan 2025 16:09:47 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.24
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025011714422652.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001068_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[팡팡 벌룬서커스 대작전 - 양산]]></title>
@@ -77,7 +77,7 @@
             <pubDate>Fri, 24 Jan 2025 02:08:18 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.24
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025011715061946.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000914_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[팡팡 벌룬서커스 대작전 - 서울]]></title>
@@ -86,16 +86,16 @@
             <pubDate>Fri, 24 Jan 2025 02:08:18 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.24
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025011714503128.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000918_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2025 삼남매 트롯콘서트 - 부산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54209</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54209</guid>
-            <pubDate>Fri, 24 Jan 2025 04:10:15 GMT</pubDate>
+            <title><![CDATA[뮤지컬 〈베르테르〉 25주년 공연]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54195</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54195</guid>
+            <pubDate>Fri, 24 Jan 2025 05:08:42 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.24
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001093_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017198_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

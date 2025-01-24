@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2025-01-24T04:11:14.680Z</updated>
+    <updated>2025-01-24T05:09:40.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈종의 기원〉]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54265&amp;groupno=54265&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54265&amp;groupno=54265&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2025-01-24T05:08:28.316Z</updated>
+        <content type="html"><![CDATA[25.01.31(금)&nbsp;11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정동원棟동 이야기話화 3rd 전국투어 콘서트 - 서울]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54266&amp;groupno=54266&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54266&amp;groupno=54266&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2025-01-24T05:08:28.324Z</updated>
+        <content type="html"><![CDATA[25.01.31(금)&nbsp;14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[즐거운 나의집]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54264&amp;groupno=54264&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -116,19 +130,5 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54248&amp;groupno=54248&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2025-01-23T05:08:46.905Z</updated>
         <content type="html"><![CDATA[25.01.31(금)&nbsp;20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［Play＆Stay］TOMORROW X TOGETHER WORLD TOUR 〈ACT : PROMISE〉 -..]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54247&amp;groupno=54247&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54247&amp;groupno=54247&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2025-01-23T05:08:46.905Z</updated>
-        <content type="html"><![CDATA[25.02.11(화)&nbsp;20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 라이브 가족뮤지컬 〈정글북〉 - 부산]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54246&amp;groupno=54246&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54246&amp;groupno=54246&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2025-01-23T04:10:34.203Z</updated>
-        <content type="html"><![CDATA[25.02.03(월)&nbsp;09:00]]></content>
     </entry>
 </feed>
