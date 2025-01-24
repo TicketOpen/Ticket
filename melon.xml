@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-01-24T00:37:15.071Z</updated>
+    <updated>2025-01-24T02:09:07.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈웃는 남자〉 마지막 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9900</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9900"/>
+        <updated>2025-01-24T02:07:56.711Z</updated>
+        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 GOT7 CONCERT 〈NESTFEST〉 - 추가회차 (1/31) 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9899</id>
@@ -67,12 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9889"/>
         <updated>2025-01-24T00:35:56.198Z</updated>
         <content type="html"><![CDATA[2025.02.03(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 NINE.i FANMEETING IN SEOUL ‘NINE.i STORY’ 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9888</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9888"/>
-        <updated>2025-01-24T00:35:56.202Z</updated>
-        <content type="html"><![CDATA[2025.01.22(수) 12:00]]></content>
     </entry>
 </feed>

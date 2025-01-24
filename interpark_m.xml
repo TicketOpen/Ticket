@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jan 2025 00:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 02:09:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,33 +53,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001146_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[Remember 젊음의 행진 - 서울]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54235</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54235</guid>
-            <pubDate>Thu, 23 Jan 2025 16:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.24
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001161_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[Remember 젊음의 행진 - 대전]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54194</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54194</guid>
-            <pubDate>Thu, 23 Jan 2025 16:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.24
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025011717403563.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Remember 젊음의 행진 - 대구]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54187</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54187</guid>
-            <pubDate>Thu, 23 Jan 2025 17:03:50 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.24
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025011717425766.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[팡팡 벌룬서커스 대작전 - 인천]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54176</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54176</guid>
@@ -96,6 +69,33 @@
             <content:encoded><![CDATA[2025.01.24
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025011714422652.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팡팡 벌룬서커스 대작전 - 양산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54178</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54178</guid>
+            <pubDate>Fri, 24 Jan 2025 02:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.24
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025011715061946.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팡팡 벌룬서커스 대작전 - 서울]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54179</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54179</guid>
+            <pubDate>Fri, 24 Jan 2025 02:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.24
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025011714503128.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈베르테르〉 25주년 공연]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54195</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54195</guid>
+            <pubDate>Fri, 24 Jan 2025 02:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.24
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017198_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
