@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jan 2025 05:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 06:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,15 +26,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000962_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[헐리우드 레전더리 콘서트 - 시리즈 Ⅰ：히어로즈 ＆ 판타지 in 울산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54234</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54234</guid>
-            <pubDate>Thu, 23 Jan 2025 16:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.24
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001146_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[헐리우드 레전더리 콘서트 - 시리즈 Ⅰ：히어로즈 ＆ 판타지 in 고양]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54225</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54225</guid>
@@ -51,6 +42,15 @@
             <content:encoded><![CDATA[2025.01.24
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001109_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[헐리우드 레전더리 콘서트 - 시리즈 Ⅰ：히어로즈 ＆ 판타지 in 울산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54234</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54234</guid>
+            <pubDate>Thu, 23 Jan 2025 16:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.24
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001146_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[팡팡 벌룬서커스 대작전 - 인천]]></title>
