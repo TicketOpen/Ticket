@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jan 2025 10:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 11:02:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000918_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈베르테르〉 25주년 공연]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54195</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54195</guid>
-            <pubDate>Fri, 24 Jan 2025 08:11:37 GMT</pubDate>
+            <title><![CDATA[2025 삼남매 트롯콘서트 - 부산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54209</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54209</guid>
+            <pubDate>Fri, 24 Jan 2025 11:01:54 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.24
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017198_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001093_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
