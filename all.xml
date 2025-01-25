@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jan 2025 00:36:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jan 2025 02:03:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -444,6 +444,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[공룡애니멀쇼 - 부산 동래 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61262</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61262</guid>
+            <pubDate>Sat, 25 Jan 2025 02:03:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.05(수) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 강원특별자치도립무용단 기획공연 시나브런치콘서트 마중 - 춘천​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61261</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61261</guid>
@@ -542,11 +549,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.01.24(금) 04:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  [광주시립교향악단] 392회 정기연주회 'Unison' 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61247</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61247</guid>
-            <pubDate>Thu, 23 Jan 2025 06:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.01.24(금) 08:00]]></content:encoded>
+            <title><![CDATA[공룡애니멀쇼 - 부산 동래 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61262</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61262</guid>
+            <pubDate>Sat, 25 Jan 2025 02:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.05(수) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 강원특별자치도립무용단 기획공연 시나브런치콘서트 마중 - 춘천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -645,13 +652,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61248</guid>
             <pubDate>Thu, 23 Jan 2025 09:09:56 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.24(금) 04:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  [광주시립교향악단] 392회 정기연주회 'Unison' 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61247</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61247</guid>
-            <pubDate>Thu, 23 Jan 2025 06:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.24(금) 08:00]]></content:encoded>
         </item>
     </channel>
 </rss>
