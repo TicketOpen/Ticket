@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jan 2025 11:03:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jan 2025 12:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025012216041241.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[［여수］뮤지컬 번개맨 시즌2 〈번개맨!VS번개맨?〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54269</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54269</guid>
-            <pubDate>Fri, 24 Jan 2025 15:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.31
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025012121414137.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈하트셉수트〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54271</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54271</guid>
@@ -78,6 +69,15 @@
             <content:encoded><![CDATA[2025.01.31
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001185_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[［여수］뮤지컬 번개맨 시즌2 〈번개맨!VS번개맨?〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54269</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54269</guid>
+            <pubDate>Fri, 24 Jan 2025 15:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.31
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025012121414137.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정동원棟동 이야기話화 3rd 전국투어 콘서트 - 서울]]></title>
