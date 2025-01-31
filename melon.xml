@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-01-31T02:08:54.008Z</updated>
+    <updated>2025-01-31T04:11:17.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤딴딴 정규2집 ‘반칠십’ 쇼케이스 콘서트 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9912</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9912"/>
+        <updated>2025-01-31T04:10:05.343Z</updated>
+        <content type="html"><![CDATA[2025.02.05(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌8 [투 데이 올드 스니커즈 단독 콘서트 “Tie Up!”] 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9911</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9911"/>
+        <updated>2025-01-31T04:10:05.343Z</updated>
+        <content type="html"><![CDATA[2025.02.06(목) 19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌8 [서정 EP앨범 발매 기념 단독 콘서트 ‘시린 겨울’] 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9910</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9910"/>
+        <updated>2025-01-31T04:10:05.345Z</updated>
+        <content type="html"><![CDATA[2025.02.05(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아사달 1st EP Showcase 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9909</id>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9902"/>
         <updated>2025-01-30T21:06:33.658Z</updated>
         <content type="html"><![CDATA[2025.01.31(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sprouts : 12BH X 김승주 X 프랭클리 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9901</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9901"/>
-        <updated>2025-01-30T21:06:33.664Z</updated>
-        <content type="html"><![CDATA[2025.01.27(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈웃는 남자〉 마지막 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9900</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9900"/>
-        <updated>2025-01-30T21:06:33.666Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 GOT7 CONCERT 〈NESTFEST〉 - 추가회차 (1/31) 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9899</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9899"/>
-        <updated>2025-01-30T21:06:33.668Z</updated>
-        <content type="html"><![CDATA[오픈일정 보기 &gt;]]></content>
     </entry>
 </feed>
