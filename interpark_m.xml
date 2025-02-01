@@ -4,18 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Feb 2025 12:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Feb 2025 13:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2025 앤서니브라운 가족뮤지컬 〈우리가족〉 - 이천]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54236</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54236</guid>
-            <pubDate>Fri, 31 Jan 2025 15:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.03
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001144_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[2025 〈더 : 매직서커스〉 - 울산]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54215</link>
@@ -24,6 +15,15 @@
             <content:encoded><![CDATA[2025.02.03
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001104_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 앤서니브라운 가족뮤지컬 〈우리가족〉 - 이천]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54236</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54236</guid>
+            <pubDate>Fri, 31 Jan 2025 15:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.03
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001144_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 라이브 가족뮤지컬 〈정글북〉 - 부산]]></title>
