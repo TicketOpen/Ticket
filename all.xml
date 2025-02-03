@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Feb 2025 06:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 07:02:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,15 +211,6 @@
             <content:encoded><![CDATA[25.02.06(목)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2025 앤서니브라운 가족뮤지컬 〈우리가족〉 - 이천 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54236</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54236</guid>
-            <pubDate>Fri, 31 Jan 2025 15:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.03
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001144_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2025 〈더 : 매직서커스〉 - 울산 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54215</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54215</guid>
@@ -227,6 +218,15 @@
             <content:encoded><![CDATA[2025.02.03
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001104_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 앤서니브라운 가족뮤지컬 〈우리가족〉 - 이천 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54236</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54236</guid>
+            <pubDate>Fri, 31 Jan 2025 15:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.03
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001144_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2025 라이브 가족뮤지컬 〈정글북〉 - 부산 (인터파크 티켓 모바일)]]></title>
@@ -590,6 +590,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[공지] 시스템 임시점검(2/7 00:30 ~ 03:00)으로 인한 서비스 일시 중단 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61285</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61285</guid>
+            <pubDate>Mon, 03 Feb 2025 07:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.03]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가족매직쇼 <구구쌤의 매직쑈라구> - 대구 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61284</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61284</guid>
@@ -688,11 +695,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.02.05(수) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[< THE이재훈_31년 > 단독 콘서트 고양공연​​​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61270</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61270</guid>
-            <pubDate>Fri, 31 Jan 2025 05:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.06(목) 05:00]]></content:encoded>
+            <title><![CDATA[[공지] 시스템 임시점검(2/7 00:30 ~ 03:00)으로 인한 서비스 일시 중단 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61285</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61285</guid>
+            <pubDate>Mon, 03 Feb 2025 07:02:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/help/notice/61285" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b> 시스템 임시점검(2/7 00:30 ~ 03:00)으로 인한 서비스 일시 중단 안내</h3></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족매직쇼 <구구쌤의 매직쑈라구> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -791,13 +798,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61271</guid>
             <pubDate>Fri, 31 Jan 2025 05:09:47 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.05(수) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[< THE이재훈_31년 > 단독 콘서트 고양공연​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61270</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61270</guid>
-            <pubDate>Fri, 31 Jan 2025 05:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.06(목) 05:00]]></content:encoded>
         </item>
     </channel>
 </rss>
