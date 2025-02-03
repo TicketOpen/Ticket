@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx</id>
     <title>예스24 티켓</title>
-    <updated>2025-02-03T02:09:24.143Z</updated>
+    <updated>2025-02-03T03:13:59.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tkfile.yes24.com/img/icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[단독판매]]></title>
+        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15545</id>
+        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15545"/>
+        <updated>2025-02-03T03:13:11.643Z</updated>
+        <content type="html"><![CDATA[2025.02.04(화) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무대를 빌려드립니다] 리딩쇼케이스 티켓오픈 안내]]></title>
         <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15544</id>
@@ -137,12 +144,5 @@
         <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15526"/>
         <updated>2025-01-31T12:14:12.322Z</updated>
         <content type="html"><![CDATA[2025.02.03(월) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 [더 픽션] 마지막 티켓오픈 안내]]></title>
-        <id>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15525</id>
-        <link href="http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15525"/>
-        <updated>2025-01-31T12:14:12.323Z</updated>
-        <content type="html"><![CDATA[2025.02.04(화) 15:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2025.02.04(화) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content>
     </entry>
 </feed>

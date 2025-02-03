@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-02-03T02:09:24.150Z</updated>
+    <updated>2025-02-03T03:13:59.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Once in a Lifetime #1 OURTAPES & ToMoreRaw & dinosaurrunningclub 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9917</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9917"/>
+        <updated>2025-02-03T03:12:36.892Z</updated>
+        <content type="html"><![CDATA[2025.02.06(목) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손을 모아 단독공연 〈 New Days 〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9916</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9916"/>
+        <updated>2025-02-03T03:12:36.913Z</updated>
+        <content type="html"><![CDATA[2025.02.07(금) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Biuret is my favorite song 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9915</id>
@@ -60,19 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9908"/>
         <updated>2025-02-02T23:02:02.590Z</updated>
         <content type="html"><![CDATA[2025.01.27(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김건의 음악 다방 SEASON2 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9907</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9907"/>
-        <updated>2025-02-02T23:02:02.593Z</updated>
-        <content type="html"><![CDATA[2025.01.31(금) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이병찬 : Valentine Concert 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9906</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9906"/>
-        <updated>2025-02-02T23:02:02.594Z</updated>
-        <content type="html"><![CDATA[2025.01.31(금) 20:00]]></content>
     </entry>
 </feed>
