@@ -4,27 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 12:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 13:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2025 〈더 : 매직서커스〉 - 대전]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54245</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54245</guid>
-            <pubDate>Mon, 03 Feb 2025 15:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.04
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001365_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 베스트셀러 뮤지컬 〈누가 내 머리에 똥쌌어？〉 - 울산]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54256</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54256</guid>
-            <pubDate>Mon, 03 Feb 2025 15:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.04
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001351_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[오페라 칼레아 부탈소로]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54295</link>
@@ -42,6 +24,24 @@
             <content:encoded><![CDATA[2025.02.04
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001307_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 〈더 : 매직서커스〉 - 대전]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54245</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54245</guid>
+            <pubDate>Mon, 03 Feb 2025 15:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.04
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001365_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 베스트셀러 뮤지컬 〈누가 내 머리에 똥쌌어？〉 - 울산]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54256</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54256</guid>
+            <pubDate>Mon, 03 Feb 2025 15:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.04
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001351_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[’TV 애니메이션 【최애의 아이】展 거짓말과 아이／빛과 그림자’]]></title>
@@ -80,6 +80,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24014659_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[〈THE이재훈_31년〉 단독 콘서트 춘천공연]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54286</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54286</guid>
+            <pubDate>Tue, 04 Feb 2025 13:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.04
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001339_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[최현우 19+I - 대구]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54196</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54196</guid>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2025.02.04
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25000711_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[박창근 장르 with 오케스트라 전국투어 콘서트 - 대구]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54242</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54242</guid>
-            <pubDate>Tue, 04 Feb 2025 11:02:48 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.04
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001400_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
