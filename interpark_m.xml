@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 02:08:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 03:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,15 +44,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001347_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[낭만주의 거장 〈차이코프스키 & 라흐마니노프〉 - 성남]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54299</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54299</guid>
-            <pubDate>Mon, 03 Feb 2025 15:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.04
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001316_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[LG아트센터 서울 2025년 기획공연 시즌 CoMPAS 25]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54205</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54205</guid>
@@ -60,6 +51,15 @@
             <content:encoded><![CDATA[2025.02.04
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2025011610503246.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[낭만주의 거장 〈차이코프스키 & 라흐마니노프〉 - 성남]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54299</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54299</guid>
+            <pubDate>Mon, 03 Feb 2025 15:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.04
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001316_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[쇼뮤지컬 터치 파이브 〈TOUCH FIVE〉]]></title>
