@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 05:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 06:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -33,6 +33,15 @@
             <content:encoded><![CDATA[2025.02.04
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001398_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Fantasy Candle Concert (판타지 캔들 콘서트)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54302</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54302</guid>
+            <pubDate>Tue, 04 Feb 2025 06:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.04
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001307_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[’TV 애니메이션 【최애의 아이】展 거짓말과 아이／빛과 그림자’]]></title>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2025.02.04
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001400_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[류이치사카모토 트리뷰트 콘서트 성남]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54270</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54270</guid>
-            <pubDate>Tue, 04 Feb 2025 05:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.04
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001267_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
