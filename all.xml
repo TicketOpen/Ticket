@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Feb 2025 09:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 10:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -247,15 +247,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001326_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈슈퍼거북 슈퍼토끼〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54280</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54280</guid>
-            <pubDate>Tue, 04 Feb 2025 15:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.05
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011626_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈웃는 남자〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54262</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54262</guid>
@@ -263,6 +254,15 @@
             <content:encoded><![CDATA[2025.02.05
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016737_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈슈퍼거북 슈퍼토끼〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54280</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54280</guid>
+            <pubDate>Tue, 04 Feb 2025 15:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.05
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011626_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[류이치사카모토 트리뷰트 콘서트 서울 (인터파크 티켓 모바일)]]></title>
@@ -299,6 +299,13 @@
             <content:encoded><![CDATA[2025.02.05
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001318_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[음악극 [노베첸토] 프리뷰 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15562</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15562</guid>
+            <pubDate>Wed, 05 Feb 2025 10:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.11(화) 15:00<a class="noti-btn-pop" presaletit1="선예매" presaletit2="" presaletime1="2025.02.11(화) 11:00" presaletime2=""><img src="http://tkfile.yes24.com/imgNew/common/btn-notice1.png" alt=""></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 Soundberry Theater 티켓 오픈 안내 (예스24 티켓)]]></title>
@@ -433,11 +440,11 @@
             <content:encoded><![CDATA[2025.02.05(수) 09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[부산] 뮤지컬 〈베르테르〉 25주년 공연 티켓오픈 안내 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15542</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15542</guid>
-            <pubDate>Fri, 31 Jan 2025 14:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.04(화) 16:00]]></content:encoded>
+            <title><![CDATA[음악극 [노베첸토] 프리뷰 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15562&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15562&amp;order=1</guid>
+            <pubDate>Wed, 05 Feb 2025 10:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-11(화) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 Soundberry Theater 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -501,13 +508,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15553&amp;order=1</guid>
             <pubDate>Tue, 04 Feb 2025 15:09:06 GMT</pubDate>
             <content:encoded><![CDATA[2025-02-10(월) 14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[용인] 2025 연극 〈친정엄마와 2박3일〉티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15552&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15552&amp;order=1</guid>
-            <pubDate>Tue, 04 Feb 2025 15:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[2025-02-06(목) 15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 World DJ Festival 티켓오픈 안내 (위메프 공연티켓)]]></title>
