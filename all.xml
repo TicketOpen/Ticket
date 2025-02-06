@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Feb 2025 12:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 13:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0004124_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[디즈니 100년 특별전 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1035</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1035</guid>
+            <pubDate>Wed, 05 Feb 2025 15:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.06
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011855_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54306</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54306</guid>
@@ -195,15 +204,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001387_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[디즈니 100년 특별전 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1035</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=1035</guid>
-            <pubDate>Wed, 05 Feb 2025 15:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.06
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24011855_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈명성황후〉 30주년 기념 공연 - 천안 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54276</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54276</guid>
@@ -213,22 +213,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001506_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈바닷마을 다이어리〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54281</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54281</guid>
-            <pubDate>Thu, 06 Feb 2025 12:14:22 GMT</pubDate>
+            <title><![CDATA[[데뷔 60주년 기념공연] 2025 남진 전국투어 - 광주 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54222</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54222</guid>
+            <pubDate>Thu, 06 Feb 2025 13:16:17 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.06
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24017992_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001427_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈라흐 헤스트〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54282</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54282</guid>
-            <pubDate>Thu, 06 Feb 2025 12:14:22 GMT</pubDate>
+            <title><![CDATA[페인터즈 - 광화문전용관 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54297</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54297</guid>
+            <pubDate>Thu, 06 Feb 2025 13:16:17 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.06
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001395_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22014959_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
@@ -521,6 +521,13 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[​어린이 뮤지컬 <바다탐험대 옥토넛 시즌3> - 용산 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61324</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61324</guid>
+            <pubDate>Thu, 06 Feb 2025 13:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.07(금) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[​공룡애니멀쇼 - 수원​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61323</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61323</guid>
@@ -619,11 +626,11 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.02.11(화) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족매직쇼 <구구쌤의 매직쑈라구> - 구미​​​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61308</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61308</guid>
-            <pubDate>Wed, 05 Feb 2025 05:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.07(금) 05:00]]></content:encoded>
+            <title><![CDATA[​어린이 뮤지컬 <바다탐험대 옥토넛 시즌3> - 용산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61324</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61324</guid>
+            <pubDate>Thu, 06 Feb 2025 13:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.07(금) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[​공룡애니멀쇼 - 수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -722,13 +729,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61309</guid>
             <pubDate>Wed, 05 Feb 2025 05:10:49 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.11(화) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족매직쇼 <구구쌤의 매직쑈라구> - 구미​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61308</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61308</guid>
-            <pubDate>Wed, 05 Feb 2025 05:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.07(금) 05:00]]></content:encoded>
         </item>
     </channel>
 </rss>
