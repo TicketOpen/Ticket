@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Feb 2025 10:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 11:03:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,24 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001582_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2025 폴포츠 내한공연 : Prime Time - 안성]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54326</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54326</guid>
-            <pubDate>Thu, 06 Feb 2025 15:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.07
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001590_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 폴포츠 내한공연 : Prime Time - 김해]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54327</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54327</guid>
-            <pubDate>Thu, 06 Feb 2025 15:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.07
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001643_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[캬바레성수 - 뮤지컬다이닝 〈Chapter1-Great Hits〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54298</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54298</guid>
@@ -96,6 +78,24 @@
             <content:encoded><![CDATA[2025.02.07
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001547_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 폴포츠 내한공연 : Prime Time - 안성]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54326</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54326</guid>
+            <pubDate>Thu, 06 Feb 2025 15:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.07
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001590_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 폴포츠 내한공연 : Prime Time - 김해]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54327</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54327</guid>
+            <pubDate>Thu, 06 Feb 2025 15:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.07
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001643_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
