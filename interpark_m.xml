@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Feb 2025 12:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 13:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,15 +53,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001654_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2025 변진섭 전국투어 콘서트 : 변천사 시즌2 더가까이 - 서울]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54336</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54336</guid>
-            <pubDate>Thu, 06 Feb 2025 15:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.07
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001582_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2025 폴포츠 내한공연 : Prime Time - 안성]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54326</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54326</guid>
@@ -80,13 +71,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001643_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[캬바레성수 - 뮤지컬다이닝 〈Chapter1-Great Hits〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54298</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54298</guid>
-            <pubDate>Fri, 07 Feb 2025 06:11:59 GMT</pubDate>
+            <title><![CDATA[2025 변진섭 전국투어 콘서트 : 변천사 시즌2 더가까이 - 서울]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54336</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54336</guid>
+            <pubDate>Thu, 06 Feb 2025 15:08:38 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.07
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016827_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001582_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 김장훈 전국투어 콘서트 : 원맨쇼 - 창원]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54251</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54251</guid>
+            <pubDate>Fri, 07 Feb 2025 13:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.07
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001404_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈도리안 그레이〉]]></title>
