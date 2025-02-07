@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Feb 2025 11:03:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 12:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -265,24 +265,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001582_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[캬바레성수 - 뮤지컬다이닝 〈Chapter1-Great Hits〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54298</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54298</guid>
-            <pubDate>Fri, 07 Feb 2025 06:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.07
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016827_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈도리안 그레이〉 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54289</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54289</guid>
-            <pubDate>Thu, 06 Feb 2025 15:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.07
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001547_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2025 폴포츠 내한공연 : Prime Time - 안성 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54326</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54326</guid>
@@ -299,6 +281,24 @@
             <content:encoded><![CDATA[2025.02.07
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001643_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[캬바레성수 - 뮤지컬다이닝 〈Chapter1-Great Hits〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54298</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54298</guid>
+            <pubDate>Fri, 07 Feb 2025 06:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.07
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016827_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈도리안 그레이〉 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54289</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54289</guid>
+            <pubDate>Thu, 06 Feb 2025 15:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.07
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001547_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[단독판매 (예스24 티켓)]]></title>
@@ -439,6 +439,76 @@
             <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15569</guid>
             <pubDate>Fri, 07 Feb 2025 04:10:49 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.10(월) 10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[김해] 6월 저녁의 음악회 [아벨 콰르텟] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15588&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15588&amp;order=1</guid>
+            <pubDate>Fri, 07 Feb 2025 12:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[김해] 조성진 피아노 리사이틀 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15587&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15587&amp;order=1</guid>
+            <pubDate>Fri, 07 Feb 2025 12:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[김해] 박주원 기타 콘서트 [Encanto] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15586&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15586&amp;order=1</guid>
+            <pubDate>Fri, 07 Feb 2025 12:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[김해] 유니버설발레단 [춘향] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15585&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15585&amp;order=1</guid>
+            <pubDate>Fri, 07 Feb 2025 12:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[김해] 5월 저녁의 음악회 [브라스 마켓] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15584&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15584&amp;order=1</guid>
+            <pubDate>Fri, 07 Feb 2025 12:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[김해] 이머시브 씨어터 [카지노] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15583&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15583&amp;order=1</guid>
+            <pubDate>Fri, 07 Feb 2025 12:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[김해] 필하모니코리아 [1882-1901 동유럽의 낭만] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15582&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15582&amp;order=1</guid>
+            <pubDate>Fri, 07 Feb 2025 12:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[김해] 정형일 발레단 ‘더 라인 오브 옵세션-몬드리안 [The Line of Obsession-Mondrian]’ 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15581&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15581&amp;order=1</guid>
+            <pubDate>Fri, 07 Feb 2025 12:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[김해] 연극 [꽃, 별이 지나] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15580&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15580&amp;order=1</guid>
+            <pubDate>Fri, 07 Feb 2025 12:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[김해] 말로 재즈 콘서트 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15579&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15579&amp;order=1</guid>
+            <pubDate>Fri, 07 Feb 2025 12:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-10(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 World DJ Festival 티켓오픈 안내 (위메프 공연티켓)]]></title>
