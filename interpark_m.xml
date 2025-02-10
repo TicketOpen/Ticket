@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 11:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 12:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,15 +26,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016374_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2025 김장훈 전국투어 콘서트 : 원맨쇼 - 안성]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54352</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54352</guid>
-            <pubDate>Fri, 07 Feb 2025 15:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.10
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001767_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2025 푸에르자 부르타 〈아벤〉 - 서울]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54307</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54307</guid>
@@ -42,6 +33,15 @@
             <content:encoded><![CDATA[2025.02.10
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001610_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 김장훈 전국투어 콘서트 : 원맨쇼 - 안성]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54352</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54352</guid>
+            <pubDate>Fri, 07 Feb 2025 15:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.10
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001767_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈명성황후〉 30주년 기념 공연 - 창원]]></title>

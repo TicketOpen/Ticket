@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 11:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 12:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -159,15 +159,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24016374_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2025 김장훈 전국투어 콘서트 : 원맨쇼 - 안성 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54352</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54352</guid>
-            <pubDate>Fri, 07 Feb 2025 15:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.10
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001767_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2025 푸에르자 부르타 〈아벤〉 - 서울 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54307</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54307</guid>
@@ -175,6 +166,15 @@
             <content:encoded><![CDATA[2025.02.10
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001610_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 김장훈 전국투어 콘서트 : 원맨쇼 - 안성 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54352</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54352</guid>
+            <pubDate>Fri, 07 Feb 2025 15:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.10
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001767_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈명성황후〉 30주년 기념 공연 - 창원 (인터파크 티켓 모바일)]]></title>
@@ -229,6 +229,216 @@
             <content:encoded><![CDATA[2025.02.10
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001426_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15596</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15596</guid>
+            <pubDate>Mon, 10 Feb 2025 12:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.18(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2025 LOVESOME - 반 고흐, 영혼의 편지 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15595</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15595</guid>
+            <pubDate>Mon, 10 Feb 2025 12:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.17(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[안산] 2025 빅3 " 행복한 만남 " [강진, 김용임, 진성] 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15594</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15594</guid>
+            <pubDate>Mon, 10 Feb 2025 12:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.20(목) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈로미오 앤 줄리〉 마지막 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15592</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15592</guid>
+            <pubDate>Mon, 10 Feb 2025 12:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.14(금) 13:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[광명] 2025 라이브 가족뮤지컬 [백설공주] 티켓오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15591</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15591</guid>
+            <pubDate>Mon, 10 Feb 2025 12:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.13(목) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15590</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15590</guid>
+            <pubDate>Mon, 10 Feb 2025 12:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.17(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[리버틴즈 내한공연 (The Libertines Live in Seoul) 티켓 오픈 안내 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15589</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15589</guid>
+            <pubDate>Mon, 10 Feb 2025 12:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.18(화) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15588</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15588</guid>
+            <pubDate>Mon, 10 Feb 2025 12:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15587</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15587</guid>
+            <pubDate>Mon, 10 Feb 2025 12:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15586</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15586</guid>
+            <pubDate>Mon, 10 Feb 2025 12:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15585</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15585</guid>
+            <pubDate>Mon, 10 Feb 2025 12:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15584</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15584</guid>
+            <pubDate>Mon, 10 Feb 2025 12:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15583</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15583</guid>
+            <pubDate>Mon, 10 Feb 2025 12:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15582</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15582</guid>
+            <pubDate>Mon, 10 Feb 2025 12:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15581</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15581</guid>
+            <pubDate>Mon, 10 Feb 2025 12:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15580</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15580</guid>
+            <pubDate>Mon, 10 Feb 2025 12:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15579</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15579</guid>
+            <pubDate>Mon, 10 Feb 2025 12:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15578</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15578</guid>
+            <pubDate>Mon, 10 Feb 2025 12:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15577</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15577</guid>
+            <pubDate>Mon, 10 Feb 2025 12:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15576</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15576</guid>
+            <pubDate>Mon, 10 Feb 2025 12:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NANAOAKARI 7th anniversary stage.2 NANA’s ASIA TOUR 2025 in Seoul 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15596&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15596&amp;order=1</guid>
+            <pubDate>Mon, 10 Feb 2025 12:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-18(화) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2025 LOVESOME - 반 고흐, 영혼의 편지 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15595&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15595&amp;order=1</guid>
+            <pubDate>Mon, 10 Feb 2025 12:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-17(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[안산] 2025 빅3 " 행복한 만남 " [강진, 김용임, 진성] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15594&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15594&amp;order=1</guid>
+            <pubDate>Mon, 10 Feb 2025 12:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-20(목) 11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈로미오 앤 줄리〉 마지막 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15592&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15592&amp;order=1</guid>
+            <pubDate>Mon, 10 Feb 2025 12:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-14(금) 13:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[광명] 2025 라이브 가족뮤지컬 [백설공주] 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15591&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15591&amp;order=1</guid>
+            <pubDate>Mon, 10 Feb 2025 12:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-13(목) 09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2025 김영흠 콘서트 〈Komma,〉티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15590&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15590&amp;order=1</guid>
+            <pubDate>Mon, 10 Feb 2025 12:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-17(월) 20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[리버틴즈 내한공연 (The Libertines Live in Seoul) 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15589&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15589&amp;order=1</guid>
+            <pubDate>Mon, 10 Feb 2025 12:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-18(화) 18:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[김해] 6월 저녁의 음악회 [아벨 콰르텟] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15588&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15588&amp;order=1</guid>
+            <pubDate>Mon, 10 Feb 2025 12:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[김해] 조성진 피아노 리사이틀 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15587&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15587&amp;order=1</guid>
+            <pubDate>Mon, 10 Feb 2025 12:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-10(월) 14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[김해] 박주원 기타 콘서트 [Encanto] 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15586&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15586&amp;order=1</guid>
+            <pubDate>Mon, 10 Feb 2025 12:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-10(월) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 World DJ Festival 티켓오픈 안내 (위메프 공연티켓)]]></title>
