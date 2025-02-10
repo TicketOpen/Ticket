@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 05:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 06:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=53980&amp;groupno=53980&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 27 Jan 2025 10:09:26 GMT</pubDate>
             <content:encoded><![CDATA[25.02.10(월)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2025 이승철 콘서트 〈오케스트락2〉 천안공연 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54402&amp;groupno=54402&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54402&amp;groupno=54402&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 10 Feb 2025 06:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[25.02.12(수)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[GS아트센터 개관 페스티벌 (인터파크 티켓)]]></title>
@@ -120,13 +127,6 @@
             <content:encoded><![CDATA[25.02.13(목)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서울 스프링 페스타 WONDER SHOW (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54385&amp;groupno=54385&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54385&amp;groupno=54385&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 10 Feb 2025 02:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[25.02.11(화)&nbsp;12:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[지브리 & 디즈니 OST 콘서트 - 성남 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54394&amp;groupno=54394&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54394&amp;groupno=54394&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -177,6 +177,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001767_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[2025 주현미 콘서트 〈The Original〉 - 안산 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54373</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54373</guid>
+            <pubDate>Fri, 07 Feb 2025 15:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.10
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001760_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈명성황후〉 30주년 기념 공연 - 창원 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54311</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54311</guid>
@@ -202,15 +211,6 @@
             <content:encoded><![CDATA[2025.02.10
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24007854_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 주현미 콘서트 〈The Original〉 - 안산 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54373</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54373</guid>
-            <pubDate>Fri, 07 Feb 2025 15:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.10
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001760_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈플레이위드 햄릿〉 (인터파크 티켓 모바일)]]></title>
@@ -521,6 +521,34 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[​2025 이승철 콘서트 <오케스트락2> 울산공연​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61346</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61346</guid>
+            <pubDate>Mon, 10 Feb 2025 06:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.12(수) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​2025 이승철 콘서트 <오케스트락2> 천안공연​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61345</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61345</guid>
+            <pubDate>Mon, 10 Feb 2025 06:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.12(수) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[​2025 이승철 콘서트 <오케스트락2> 경주공연​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61344</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61344</guid>
+            <pubDate>Mon, 10 Feb 2025 06:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.12(수) 05:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 2025 Ricky [LAVENDER DAWN]​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61343</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61343</guid>
+            <pubDate>Mon, 10 Feb 2025 06:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.13(목) 02:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[최현우 19+I - 안성​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61342</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61342</guid>
@@ -598,32 +626,32 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.02.12(수) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 2025 수성아트피아 명품시리즈 <재닌 얀센 & 데니스 코츠킨>  티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61331</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61331</guid>
-            <pubDate>Mon, 10 Feb 2025 03:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.12(수) 05:00]]></content:encoded>
+            <title><![CDATA[​2025 이승철 콘서트 <오케스트락2> 울산공연​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61346</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61346</guid>
+            <pubDate>Mon, 10 Feb 2025 06:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.12(수) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매] 2025 수성아트피아 명품시리즈 <백건우 & 이 무지치>  티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61330</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61330</guid>
-            <pubDate>Mon, 10 Feb 2025 03:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.12(수) 05:00]]></content:encoded>
+            <title><![CDATA[​2025 이승철 콘서트 <오케스트락2> 천안공연​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61345</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61345</guid>
+            <pubDate>Mon, 10 Feb 2025 06:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.12(수) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[단독판매]  풍금 TOUR - 부산 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61329</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61329</guid>
-            <pubDate>Mon, 10 Feb 2025 03:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.14(금) 03:00]]></content:encoded>
+            <title><![CDATA[​2025 이승철 콘서트 <오케스트락2> 경주공연​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61344</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61344</guid>
+            <pubDate>Mon, 10 Feb 2025 06:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.12(수) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 <꼬마버스 타요 - 소원을 들어주는 요술 지팡이 대소동> - 원주​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61328</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61328</guid>
-            <pubDate>Sat, 08 Feb 2025 03:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.13(목) 01:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 2025 Ricky [LAVENDER DAWN]​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61343</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61343</guid>
+            <pubDate>Mon, 10 Feb 2025 06:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.13(목) 02:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[최현우 19+I - 안성​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -701,34 +729,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61332</guid>
             <pubDate>Mon, 10 Feb 2025 03:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.12(수) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 2025 수성아트피아 명품시리즈 <재닌 얀센 & 데니스 코츠킨>  티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61331</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61331</guid>
-            <pubDate>Mon, 10 Feb 2025 03:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.12(수) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매] 2025 수성아트피아 명품시리즈 <백건우 & 이 무지치>  티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61330</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61330</guid>
-            <pubDate>Mon, 10 Feb 2025 03:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.12(수) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독판매]  풍금 TOUR - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61329</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61329</guid>
-            <pubDate>Mon, 10 Feb 2025 03:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.14(금) 03:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <꼬마버스 타요 - 소원을 들어주는 요술 지팡이 대소동> - 원주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61328</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61328</guid>
-            <pubDate>Sat, 08 Feb 2025 03:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.13(목) 01:00]]></content:encoded>
         </item>
     </channel>
 </rss>
