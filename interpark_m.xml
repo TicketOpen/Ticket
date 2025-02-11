@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Feb 2025 22:09:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 23:09:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,6 +71,24 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001816_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[지브리 & 디즈니 OST 콘서트 - 성남]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54394</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54394</guid>
+            <pubDate>Tue, 11 Feb 2025 23:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001889_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈시간을 파는 상점〉 - 한국 잡월드]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54406</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54406</guid>
+            <pubDate>Tue, 11 Feb 2025 23:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001893_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[［성남］ 뮤지컬 한글용사 아이야 〈사라진 한글을 찾아라!〉]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54396</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54396</guid>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2025.02.12
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001871_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[최현우 19+I - 안성]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54397</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54397</guid>
-            <pubDate>Tue, 11 Feb 2025 21:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001830_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 이승철 콘서트 〈오케스트락2〉 경주공연]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54398</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54398</guid>
-            <pubDate>Tue, 11 Feb 2025 21:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001873_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
