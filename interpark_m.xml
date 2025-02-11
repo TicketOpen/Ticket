@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Feb 2025 13:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 14:09:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,24 +26,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001673_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2025 김장훈 전국투어 콘서트 : 원맨쇼 - 대전]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54353</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54353</guid>
-            <pubDate>Mon, 10 Feb 2025 15:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.11
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001811_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[조항조 전국투어 콘서트 : 생각 - 대전]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54365</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54365</guid>
-            <pubDate>Mon, 10 Feb 2025 15:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.11
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001819_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2025 김장훈 전국투어 콘서트 : 원맨쇼 - 부산]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54249</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54249</guid>
@@ -62,6 +44,24 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001526_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[조항조 전국투어 콘서트 : 생각 - 대전]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54365</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54365</guid>
+            <pubDate>Mon, 10 Feb 2025 15:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.11
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001819_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 김장훈 전국투어 콘서트 : 원맨쇼 - 대전]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54353</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54353</guid>
+            <pubDate>Mon, 10 Feb 2025 15:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.11
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001811_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[서울 스프링 페스타 WONDER SHOW]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54385</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54385</guid>
@@ -69,6 +69,15 @@
             <content:encoded><![CDATA[2025.02.11
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001670_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈비기닝〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54384</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54384</guid>
+            <pubDate>Mon, 10 Feb 2025 15:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.11
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0004200_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[GS아트센터 개관 페스티벌]]></title>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2025.02.11
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001902_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈비기닝〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54384</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54384</guid>
-            <pubDate>Mon, 10 Feb 2025 15:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.11
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0004200_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
