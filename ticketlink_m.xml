@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-11T23:09:09.307Z</updated>
+    <updated>2025-02-12T00:37:38.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌3 <호빵이, 레벨업 대작전> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61363</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61363"/>
+        <updated>2025-02-12T00:37:31.377Z</updated>
+        <content type="html"><![CDATA[2025.02.14(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌3 <호빵이,레벨업 대작전> - 창원​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61362</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61362"/>
+        <updated>2025-02-12T00:37:31.383Z</updated>
+        <content type="html"><![CDATA[2025.02.14(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flight to Denmark Again! - 서울 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61361</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61361"/>
+        <updated>2025-02-12T00:37:31.384Z</updated>
+        <content type="html"><![CDATA[2025.02.14(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <또봇 - 대도시의 영웅들> - 광주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61360</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61360"/>
+        <updated>2025-02-12T00:37:31.386Z</updated>
+        <content type="html"><![CDATA[2025.02.12(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대구동성로연극 유쾌코믹연극 <행복총량의 법칙> - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61359</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61348"/>
         <updated>2025-02-11T02:11:09.015Z</updated>
         <content type="html"><![CDATA[2025.02.20(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​[2차 오픈] 김승호 회장과 함께하는 2025 딥 인사이트 콘퍼런스​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61347</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61347"/>
-        <updated>2025-02-10T09:10:39.888Z</updated>
-        <content type="html"><![CDATA[2025.02.11(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2025 이승철 콘서트 <오케스트락2> 울산공연​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61346</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61346"/>
-        <updated>2025-02-10T06:13:03.966Z</updated>
-        <content type="html"><![CDATA[2025.02.12(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2025 이승철 콘서트 <오케스트락2> 천안공연​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61345</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61345"/>
-        <updated>2025-02-10T06:13:03.969Z</updated>
-        <content type="html"><![CDATA[2025.02.12(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2025 이승철 콘서트 <오케스트락2> 경주공연​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61344</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61344"/>
-        <updated>2025-02-10T06:13:03.969Z</updated>
-        <content type="html"><![CDATA[2025.02.12(수) 05:00]]></content>
     </entry>
 </feed>
