@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 11:03:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 12:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,15 +204,6 @@
             <content:encoded><![CDATA[25.02.14(금)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2025 라이브가족뮤지컬 〈라푼젤〉-대구 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54364</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54364</guid>
-            <pubDate>Tue, 11 Feb 2025 16:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.12
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001921_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[좀비연극 오마이갓 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54430</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54430</guid>
@@ -220,6 +211,15 @@
             <content:encoded><![CDATA[2025.02.12
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23004562_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 라이브가족뮤지컬 〈라푼젤〉-대구 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54364</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54364</guid>
+            <pubDate>Tue, 11 Feb 2025 16:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.12
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001921_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈또봇 : 대도시의 영웅들〉 - 광주 (인터파크 티켓 모바일)]]></title>
@@ -584,6 +584,20 @@
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[즐거운 나의 집​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61375</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61375</guid>
+            <pubDate>Wed, 12 Feb 2025 12:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.17(월) 03:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매] 뮤지컬 배우를 꿈꾸는 허수아비​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61374</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61374</guid>
+            <pubDate>Wed, 12 Feb 2025 12:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.17(월) 00:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[단독판매] 박연우 피아노 독주회 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
             <link>http://www.ticketlink.co.kr/help/notice/61373</link>
             <guid>http://www.ticketlink.co.kr/help/notice/61373</guid>
@@ -675,18 +689,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.02.14(금) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 <또봇 - 대도시의 영웅들> - 광주 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61360</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61360</guid>
-            <pubDate>Wed, 12 Feb 2025 00:37:24 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.12(수) 01:00]]></content:encoded>
+            <title><![CDATA[즐거운 나의 집​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61375</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61375</guid>
+            <pubDate>Wed, 12 Feb 2025 12:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.17(월) 03:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[대구동성로연극 유쾌코믹연극 <행복총량의 법칙> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61359</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61359</guid>
-            <pubDate>Tue, 11 Feb 2025 08:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.12(수) 05:00]]></content:encoded>
+            <title><![CDATA[[단독판매] 뮤지컬 배우를 꿈꾸는 허수아비​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61374</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61374</guid>
+            <pubDate>Wed, 12 Feb 2025 12:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.17(월) 00:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독판매] 박연우 피아노 독주회 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -778,20 +792,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61361</guid>
             <pubDate>Wed, 12 Feb 2025 00:37:31 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.14(금) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <또봇 - 대도시의 영웅들> - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61360</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61360</guid>
-            <pubDate>Wed, 12 Feb 2025 00:37:31 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.12(수) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대구동성로연극 유쾌코믹연극 <행복총량의 법칙> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61359</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61359</guid>
-            <pubDate>Tue, 11 Feb 2025 08:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.12(수) 05:00]]></content:encoded>
         </item>
     </channel>
 </rss>
