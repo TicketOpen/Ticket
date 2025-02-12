@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2025-02-12T00:37:38.100Z</updated>
+    <updated>2025-02-12T02:10:20.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[［부산］뮤지컬 번개맨 시즌2 - 어린이날 특별공연]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54431&amp;groupno=54431&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54431&amp;groupno=54431&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2025-02-12T02:09:10.837Z</updated>
+        <content type="html"><![CDATA[25.02.19(수)&nbsp;11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[좀비연극 오마이갓]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54430&amp;groupno=54430&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[25.02.14(금)&nbsp;09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌3〈호빵이,레벨업 대작전〉 - 대구]]></title>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌3 〈호빵이,레벨업 대작전〉 - 대구]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54423&amp;groupno=54423&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54423&amp;groupno=54423&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2025-02-11T08:11:13.811Z</updated>
@@ -109,13 +116,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54415&amp;groupno=54415&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2025-02-11T05:09:10.538Z</updated>
         <content type="html"><![CDATA[25.02.14(금)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족 공연 〈폭소 매직쇼〉]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54413&amp;groupno=54413&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=54413&amp;groupno=54413&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2025-02-11T02:10:06.423Z</updated>
-        <content type="html"><![CDATA[25.02.12(수)&nbsp;10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대학로 연극 〈 급식왕 - 급식이사라졌다 〉]]></title>
