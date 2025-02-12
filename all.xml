@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 18:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 19:02:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,15 +231,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001996_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈알라딘〉 한국 초연 (ALADDIN The Musical) (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54348</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54348</guid>
-            <pubDate>Wed, 12 Feb 2025 15:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.13
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012498_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[히사이시 조 영화음악 콘서트 2025_대구 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54389</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54389</guid>
@@ -292,6 +283,15 @@
             <content:encoded><![CDATA[2025.02.13
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001937_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈알라딘〉 한국 초연 (ALADDIN The Musical) (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54348</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54348</guid>
+            <pubDate>Wed, 12 Feb 2025 15:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.13
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/24/24012498_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[Flight to Denmark Again! (서울) 티켓 오픈 안내 (예스24 티켓)]]></title>
