@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 06:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 07:09:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,15 +204,6 @@
             <content:encoded><![CDATA[25.02.14(금)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[좀비연극 오마이갓 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54430</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54430</guid>
-            <pubDate>Wed, 12 Feb 2025 00:36:49 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.12
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23004562_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2025 라이브가족뮤지컬 〈라푼젤〉-대구 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54364</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54364</guid>
@@ -220,6 +211,15 @@
             <content:encoded><![CDATA[2025.02.12
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001921_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[좀비연극 오마이갓 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54430</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54430</guid>
+            <pubDate>Wed, 12 Feb 2025 00:36:49 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.12
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23004562_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈또봇 : 대도시의 영웅들〉 - 광주 (인터파크 티켓 모바일)]]></title>
