@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 09:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 11:03:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,15 +26,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/23/23004562_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[가족 공연 〈폭소 매직쇼〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54413</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54413</guid>
-            <pubDate>Tue, 11 Feb 2025 16:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.12
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001955_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[가족뮤지컬 〈또봇 : 대도시의 영웅들〉 - 광주]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54395</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54395</guid>
@@ -42,6 +33,15 @@
             <content:encoded><![CDATA[2025.02.12
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001758_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[가족 공연 〈폭소 매직쇼〉]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54413</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54413</guid>
+            <pubDate>Tue, 11 Feb 2025 16:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.12
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001955_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[[ 부천 ] 뮤지컬 한글용사 아이야 - 가정의 달 특별공연]]></title>
@@ -80,22 +80,22 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001816_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[［성남］ 뮤지컬 한글용사 아이야 〈사라진 한글을 찾아라!〉]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54396</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54396</guid>
-            <pubDate>Wed, 12 Feb 2025 08:11:51 GMT</pubDate>
+            <title><![CDATA[지브리 & 디즈니 OST 콘서트 - 성남]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54394</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54394</guid>
+            <pubDate>Wed, 12 Feb 2025 11:02:32 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.12
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001871_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001889_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[최현우 19+I - 안성]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54397</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54397</guid>
-            <pubDate>Wed, 12 Feb 2025 08:11:51 GMT</pubDate>
+            <title><![CDATA[연극 〈시간을 파는 상점〉 - 한국 잡월드]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54406</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54406</guid>
+            <pubDate>Wed, 12 Feb 2025 11:02:32 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.12
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001830_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001893_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
