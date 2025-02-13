@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Feb 2025 06:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 07:09:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,7 +43,7 @@
             <content:encoded><![CDATA[2025.02.13(목) 13:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[YB – 꿀파티 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <title><![CDATA[YB - 꿀파티 vol.4 in 춘천 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9974</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9974</guid>
             <pubDate>Thu, 13 Feb 2025 06:11:42 GMT</pubDate>
@@ -276,6 +276,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001938_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[지브리 & 디즈니 OST 콘서트 - 원주 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54411</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54411</guid>
+            <pubDate>Wed, 12 Feb 2025 15:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.13
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001950_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[작곡가 시리즈 〈차이콥스키〉 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54416</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54416</guid>
@@ -285,13 +294,11 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001937_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[지브리 & 디즈니 OST 콘서트 - 원주 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54411</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=54411</guid>
-            <pubDate>Wed, 12 Feb 2025 15:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.13
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/25/25001950_p.gif" length="0" type="image/gif"/>
+            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
+            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15616</link>
+            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15616</guid>
+            <pubDate>Thu, 13 Feb 2025 07:09:12 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.14(금) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부산] 뮤지컬 [돈 주앙] 프렌치 오리지널 내한공연 티켓오픈 안내 (예스24 티켓)]]></title>
@@ -426,11 +433,11 @@
             <content:encoded><![CDATA[2025.02.20(목) 10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[단독판매 (예스24 티켓)]]></title>
-            <link>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15596</link>
-            <guid>http://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=15596</guid>
-            <pubDate>Mon, 10 Feb 2025 12:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.18(화) 20:00]]></content:encoded>
+            <title><![CDATA[성동문화재단 소월아트홀 봄바람 콘서트 '너는 나의 봄' 티켓 오픈 안내 (예스24 티켓 모바일)]]></title>
+            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15616&amp;order=1</link>
+            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15616&amp;order=1</guid>
+            <pubDate>Thu, 13 Feb 2025 07:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[2025-02-14(금) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부산] 뮤지컬 [돈 주앙] 프렌치 오리지널 내한공연 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
@@ -494,13 +501,6 @@
             <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15606&amp;order=1</guid>
             <pubDate>Wed, 12 Feb 2025 14:09:27 GMT</pubDate>
             <content:encoded><![CDATA[2025-02-21(금) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[20집 발매 기념 조용필＆위대한탄생 Concert - 대전 티켓오픈 안내 (예스24 티켓 모바일)]]></title>
-            <link>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15605&amp;order=1</link>
-            <guid>http://m.ticket.yes24.com/Notice/Detail.aspx?bid=15605&amp;order=1</guid>
-            <pubDate>Wed, 12 Feb 2025 14:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[2025-02-19(수) 14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 World DJ Festival 티켓오픈 안내 (위메프 공연티켓)]]></title>
@@ -581,6 +581,20 @@
             <pubDate>Thu, 21 Nov 2024 04:11:26 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.17(월) 18:00]]></content:encoded>
             <enclosure url="https://t-img1.wemep.co.kr/wmp-topen/24/202406/14/88qxquawljbz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 <로보카폴리> - 고양​ 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61387</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61387</guid>
+            <pubDate>Thu, 13 Feb 2025 07:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.17(월) 01:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[단독판매]  여성의 날 기념 <메조소프라노 백민아 독창회> - 대구 티켓오픈 안내 (티켓링크)]]></title>
+            <link>http://www.ticketlink.co.kr/help/notice/61386</link>
+            <guid>http://www.ticketlink.co.kr/help/notice/61386</guid>
+            <pubDate>Thu, 13 Feb 2025 07:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.17(월) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 카타르 필하모닉 오케스트라 초청공연​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -674,18 +688,18 @@
             <content:encoded><![CDATA[<em>오픈</em>: 2025.02.14(금) 05:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <드라랄라 치과> - 성남​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61372</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61372</guid>
-            <pubDate>Wed, 12 Feb 2025 05:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.13(목) 01:00]]></content:encoded>
+            <title><![CDATA[가족뮤지컬 <로보카폴리> - 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61387</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61387</guid>
+            <pubDate>Thu, 13 Feb 2025 07:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.17(월) 01:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2025 김창완밴드 콘서트 <회상> - 구미​ 티켓오픈 안내 (티켓링크)]]></title>
-            <link>http://www.ticketlink.co.kr/help/notice/61371</link>
-            <guid>http://www.ticketlink.co.kr/help/notice/61371</guid>
-            <pubDate>Wed, 12 Feb 2025 05:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[<em>오픈</em>: 2025.02.24(월) 01:00]]></content:encoded>
+            <title><![CDATA[[단독판매]  여성의 날 기념 <메조소프라노 백민아 독창회> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+            <link>http://m.ticketlink.co.kr/help/notice/61386</link>
+            <guid>http://m.ticketlink.co.kr/help/notice/61386</guid>
+            <pubDate>Thu, 13 Feb 2025 07:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.17(월) 08:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025 카타르 필하모닉 오케스트라 초청공연​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -777,20 +791,6 @@
             <guid>http://m.ticketlink.co.kr/help/notice/61373</guid>
             <pubDate>Wed, 12 Feb 2025 06:13:23 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.14(금) 05:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <드라랄라 치과> - 성남​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61372</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61372</guid>
-            <pubDate>Wed, 12 Feb 2025 05:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.13(목) 01:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2025 김창완밴드 콘서트 <회상> - 구미​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-            <link>http://m.ticketlink.co.kr/help/notice/61371</link>
-            <guid>http://m.ticketlink.co.kr/help/notice/61371</guid>
-            <pubDate>Wed, 12 Feb 2025 05:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.24(월) 01:00]]></content:encoded>
         </item>
     </channel>
 </rss>
