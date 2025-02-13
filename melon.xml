@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ticket.melon.com/csoon/index.htm</id>
     <title>멜론 티켓</title>
-    <updated>2025-02-13T02:10:55.079Z</updated>
+    <updated>2025-02-13T03:14:16.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 즐거운 나의 집 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9979</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9979"/>
+        <updated>2025-02-13T03:12:51.057Z</updated>
+        <content type="html"><![CDATA[2025.02.18(화) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먼데이프로젝트 시즌8 [김유진 단독 콘서트 ‘Love we haven’t shared’] 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9978</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9978"/>
+        <updated>2025-02-13T03:12:51.058Z</updated>
+        <content type="html"><![CDATA[2025.02.19(수) 20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈전기뱀장어 단독 콘서트 ‘행운을 드려요’ : 롤링 30주년 기념 공연〉 티켓 오픈 안내]]></title>
+        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9977</id>
+        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9977"/>
+        <updated>2025-02-13T03:12:51.063Z</updated>
+        <content type="html"><![CDATA[2025.02.19(수) 20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안녕하세요 깅지원입니다 티켓 오픈 안내]]></title>
         <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9976</id>
@@ -53,26 +74,5 @@
         <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9969"/>
         <updated>2025-02-13T00:36:26.675Z</updated>
         <content type="html"><![CDATA[2025.02.25(화) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Day, JAZZ SHOW! (올데이, 재즈쇼!) 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9968</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9968"/>
-        <updated>2025-02-13T00:36:26.677Z</updated>
-        <content type="html"><![CDATA[2025.02.12(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SKIPJACK 단독 콘서트 ‘펑!’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9967</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9967"/>
-        <updated>2025-02-13T00:36:26.680Z</updated>
-        <content type="html"><![CDATA[2025.02.17(월) 20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기프트 전국 클럽투어 [Get, Set, Ready and Go!] - 서울 티켓 오픈 안내]]></title>
-        <id>https://ticket.melon.com/csoon/detail.htm?csoonId=9966</id>
-        <link href="https://ticket.melon.com/csoon/detail.htm?csoonId=9966"/>
-        <updated>2025-02-13T00:36:26.684Z</updated>
-        <content type="html"><![CDATA[2025.02.12(수) 19:00]]></content>
     </entry>
 </feed>
